@@ -47,6 +47,2313 @@
           "sha256": "0ba2c18334cb288a98869448a40c6e483262ba470f5c1c9885661fe716f813a9"
         }
       ]
+    },
+    {
+      "id": "next-nailongnaiwa",
+      "repositoryURL": "https://github.com/whxoperator/nailongnaiwa",
+      "revision": "30b26f921a4334afeabe01f89a1e9118a2a8bd79",
+      "revisionURL": "https://github.com/whxoperator/nailongnaiwa/commit/30b26f921a4334afeabe01f89a1e9118a2a8bd79",
+      "repositoryOwner": "whxoperator",
+      "repositoryLicense": null,
+      "mediaRights": "unknown",
+      "scopeNote": "README describes an educational two-class dataset; no media license or item-level creator attribution was found. Only the Naiwa source-class originals are included; processed and split copies are excluded.",
+      "notices": [
+        {
+          "sourcePath": "licenses/nailongnaiwa/repository/README.md",
+          "omitted": true,
+          "reason": "Credential-like content or local paths in the upstream notice; consult the pinned source repository."
+        },
+        {
+          "file": "LICENSES/third-party/nailongnaiwa-facba8bb1976200233aa.txt",
+          "sourcePath": "licenses/nailongnaiwa/repository/docs/README.md",
+          "sha256": "facba8bb1976200233aa386f6da4931cc642ff987f33cd0f61f2ca7c0361f917"
+        },
+        {
+          "file": "LICENSES/third-party/nailongnaiwa-10d7d8c1e9afbd676086.txt",
+          "sourcePath": "licenses/nailongnaiwa/repository/tools/README.md",
+          "sha256": "10d7d8c1e9afbd676086534e54514663ae88671004f371285e2fffe272a5e551"
+        }
+      ]
+    },
+    {
+      "id": "next-nailoong",
+      "repositoryURL": "https://github.com/lin-alg/NaiLoong",
+      "revision": "99d139ab57ceb772a34ab2697a661523c952f544",
+      "revisionURL": "https://github.com/lin-alg/NaiLoong/commit/99d139ab57ceb772a34ab2697a661523c952f544",
+      "repositoryOwner": "lin-alg",
+      "repositoryLicense": "MIT",
+      "mediaRights": "unknown",
+      "scopeNote": "README says repository code is MIT and says images are community material; author permission is needed for commercial use. Media rights are unknown at item level.",
+      "notices": [
+        {
+          "file": "LICENSES/third-party/nailoong-21cb2c1ffbde069f30aa.txt",
+          "sourcePath": "licenses/nailoong/repository/LICENSE",
+          "sha256": "21cb2c1ffbde069f30aa15a119c6df42b5f904b2de225ceec92285c828a9f80f"
+        },
+        {
+          "file": "LICENSES/third-party/nailoong-da2b7de95862688390c3.txt",
+          "sourcePath": "licenses/nailoong/repository/README.md",
+          "sha256": "da2b7de95862688390c39156b7f6759b6dbab11c008ecb86ad1b605b2a97aba5"
+        }
+      ]
+    },
+    {
+      "id": "next-naiwa-meme-kit",
+      "repositoryURL": "https://github.com/KeithD66/naiwa-meme-kit",
+      "revision": "6a6e0dcc4289ef8f45e3c14b4f508db7e69ffa08",
+      "revisionURL": "https://github.com/KeithD66/naiwa-meme-kit/commit/6a6e0dcc4289ef8f45e3c14b4f508db7e69ffa08",
+      "repositoryOwner": "KeithD66",
+      "repositoryLicense": "MIT",
+      "mediaRights": "unknown",
+      "scopeNote": "Repository says no third-party binary media is included. No binary assets were found at the pinned commit.",
+      "notices": [
+        {
+          "file": "LICENSES/third-party/naiwa-meme-kit-7863022c675c7b15a721.txt",
+          "sourcePath": "licenses/naiwa-meme-kit/repository/LICENSE",
+          "sha256": "7863022c675c7b15a721366f246593de64dfb52366479f5f542880426a89617f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-kit-7c8f61096d7b7cb156d5.txt",
+          "sourcePath": "licenses/naiwa-meme-kit/repository/README.md",
+          "sha256": "7c8f61096d7b7cb156d594ff3e63fe8c15e79de5c03bf1ff6d8122c2d7834e9b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-kit-6b50d3a160883ba83603.txt",
+          "sourcePath": "licenses/naiwa-meme-kit/repository/SOURCES.md",
+          "sha256": "6b50d3a160883ba836032c66950a3ec317b2f5b8cb9f6711f491b627369417a0"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-kit-db0298f0f23b993136bf.txt",
+          "sourcePath": "licenses/naiwa-meme-kit/repository/assets/README.md",
+          "sha256": "db0298f0f23b993136bf5624694023eb56762574ca13b9ad8589a8582c098a12"
+        }
+      ]
+    },
+    {
+      "id": "next-naiwa-meme-pack",
+      "repositoryURL": "https://github.com/AkihaZhang/naiwa-meme-pack",
+      "revision": "70bc76f4080eed696fcd8ccba30b194afaa3bc81",
+      "revisionURL": "https://github.com/AkihaZhang/naiwa-meme-pack/commit/70bc76f4080eed696fcd8ccba30b194afaa3bc81",
+      "repositoryOwner": "AkihaZhang",
+      "repositoryLicense": "NOASSERTION",
+      "mediaRights": "unknown",
+      "scopeNote": "Repository LICENSE and upstream SOURCES.md say each item keeps its own license; MIT code license is not applied to media. Per-item attribution TXT is preserved; absent an explicit item license, rights are unknown.",
+      "notices": [
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-b2eff4337db8be727d11.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-伸手醒来.gif.txt",
+          "sha256": "b2eff4337db8be727d1166665489d97c7858d013887c73553f07760b03afd660"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-0a4a16405bb08ade0858.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-侧立.png.txt",
+          "sha256": "0a4a16405bb08ade0858c3d11903e6d4550e1b73c8cc04906bef75d8274bd09e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-626a6e162c2b70a5c76f.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-动图-西装捂脸.gif.txt",
+          "sha256": "626a6e162c2b70a5c76f8c6a4e345316eda248905dd8cf767bf122d50d7b73a2"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-4d53e264a9aa52bca2f9.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-双V吐舌.png.txt",
+          "sha256": "4d53e264a9aa52bca2f9e7ec0e6e898c6ce502cb543f2299baa58af26dddc37a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-b9b6ee05494c23abaa32.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-吐舌比心.png.txt",
+          "sha256": "b9b6ee05494c23abaa32dc9a7b84222cd00c44406fde81559cec5dd90e8d32e9"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-0c3f12dd0825c4d174eb.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-向右爬行.gif.txt",
+          "sha256": "0c3f12dd0825c4d174eb48143f0cb255ea117d171ce1957046cd72d62046b98c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-6440d3711edbdfdab8d8.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-向左爬行.gif.txt",
+          "sha256": "6440d3711edbdfdab8d8137820f27360b98a37e9d01219a33b76be77a660eaa5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-07a45fb59ffd7967879a.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-咬手沉思.jpg.txt",
+          "sha256": "07a45fb59ffd7967879ac3f55dc355fcc825c598393ffc50ccc154c098178988"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-1dec562286ef3f7e4456.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-好奇的小奶蛙.jpg.txt",
+          "sha256": "1dec562286ef3f7e44560faf395921afbf72b8f5e9ef5f69a5eec5c20665c957"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-a85be333a1ba95914217.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-委屈低落.png.txt",
+          "sha256": "a85be333a1ba95914217c56ee5c631bc45b77e3636c31114a8967255cb107530"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-0f3d7848428acf6821eb.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-姿态-侧躺.png.txt",
+          "sha256": "0f3d7848428acf6821eb12dcaf9fe2c828ff246c00fe9121fc3710d5f290bbee"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-40e2e644a178fa83e5b3.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-姿态-挥手.png.txt",
+          "sha256": "40e2e644a178fa83e5b33611fb445722f31fb82ae86dc8e21db1794d8ed087c5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-9a58f59016f3582122a5.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-姿态-翻滚.png.txt",
+          "sha256": "9a58f59016f3582122a549ca2e0330de0c6a34ba766f109b4502e6d26a4bcc50"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-a237ed159a7b04e053c5.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-姿态-露肚.png.txt",
+          "sha256": "a237ed159a7b04e053c5723c115264b50493bfaa44d02d1141df4f198f2973cc"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-f6aedd764b7028635937.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-微愠.png.txt",
+          "sha256": "f6aedd764b702863593739e1b45ea99932f9c0cfd04df1b1658efda01184c326"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-10041fb4a04713ec9da0.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-悠闲站立.png.txt",
+          "sha256": "10041fb4a04713ec9da062ff80bb3b731a8c91f6fda93596defa0ac64c97ce33"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-5f48d4b12e55c22cc79e.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-悬停大笑.gif.txt",
+          "sha256": "5f48d4b12e55c22cc79eafbfcd66957bbb3415e81ea99f7b2b8c1ddbce89ea9f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-c59d9bcc4508a066f79a.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-打哈欠.png.txt",
+          "sha256": "c59d9bcc4508a066f79adb7bbb2c1d4b6c0b899a5db80badf54a1b59b1a7c456"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-80b1b5efdc85e0b03961.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-托腮.png.txt",
+          "sha256": "80b1b5efdc85e0b03961cb55be93517c68a461b22f304c90f195f1ff88d1c58b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-d6e22e3a110df917a75e.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-托腮思考像素.gif.txt",
+          "sha256": "d6e22e3a110df917a75e448bfd9adb33b9ccc9f824de54d8d0949222f1d77f38"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-e6e5276daf7f66cec6d0.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-挖鼻孔的小奶蛙.jpg.txt",
+          "sha256": "e6e5276daf7f66cec6d0ad1ca7037b052f14b4f6df81525a352d26b88075c8b3"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-5cb8b8d3c3f7eb7461db.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-捧腹大笑像素.gif.txt",
+          "sha256": "5cb8b8d3c3f7eb7461db0ba9f05daadffae7d966e3abc9e8161a12ebb4b4d9af"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-a8b340de0f90d765e711.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-气鼓鼓.png.txt",
+          "sha256": "a8b340de0f90d765e711981ee299d7a058ccedfed948116ced94474a24eef4d2"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-a7a772dacdf6447bf7d2.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-点鼻.png.txt",
+          "sha256": "a7a772dacdf6447bf7d2d86afc5a28cad19640b445bc1508eb8f3ae16efbba4b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-22217e2509be0392bda4.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-疑惑.png.txt",
+          "sha256": "22217e2509be0392bda4c36140e5af32aa5bf1c570a4bd7dfeeae41aa52dfeba"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-525a516f812f6214eda4.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-眨眼卖萌.png.txt",
+          "sha256": "525a516f812f6214eda4d50962c444a360b849ed4e340864b2ab49cc2b675ea6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-d7aba667d4dc3822865b.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-立正的小奶蛙.jpg.txt",
+          "sha256": "d7aba667d4dc3822865b09a4d3eab95e609c1226fc8ac997db062112e69aaef2"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-73dcac860f63fd912b47.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-红晕托颌.png.txt",
+          "sha256": "73dcac860f63fd912b475858d83cc8b72cb8c5a814e2b8f4e913c8d8eae2e22a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-1cad634315f112891e65.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-胜利欢呼.png.txt",
+          "sha256": "1cad634315f112891e6543f3f3d3b7b4b61589e297b48cb96db8a9194732a3b3"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-17e1440c07fb7e9ab917.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-自信叉腰.png.txt",
+          "sha256": "17e1440c07fb7e9ab917be02ee9c3c6c7753be1d743972e53ca09ef0421aa6bd"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-93aa610506b28929683b.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-01.jpeg.txt",
+          "sha256": "93aa610506b28929683be3199c202aff6e85bc76b26e0c6b9ac387f4dec46ba3"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-bff585310111fe38e3bf.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-02.jpeg.txt",
+          "sha256": "bff585310111fe38e3bf38ea857ef3683a7dcf970495c90cd6b9d013bec588c4"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-c407e04ad1014829efce.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-03.jpeg.txt",
+          "sha256": "c407e04ad1014829efcecc2f5dcc545a1dcd85380c9d788a28f6a7b73bc75f09"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-5413c90a94924eb7874b.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-04.jpeg.txt",
+          "sha256": "5413c90a94924eb7874bf9ae81c0ee2f58c40bfeb8deba8c2c24f12722adb488"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-59c76c1da0476c21d74b.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-05.jpeg.txt",
+          "sha256": "59c76c1da0476c21d74b7984149b7aee8876a12e66c8c9ac63084a0731e3b5a8"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-f65d22b0ec63ad104434.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-06.jpeg.txt",
+          "sha256": "f65d22b0ec63ad104434b3bfef5d89f4bd0abe4be77b12eb4f23f97eca9c112d"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-42d4cb79a8011bbb7475.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-07.jpeg.txt",
+          "sha256": "42d4cb79a8011bbb747535a92c55b02ab3df11b372402b087f9d43695b469a54"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-f6d9e8a987504dccfab0.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-08.gif.txt",
+          "sha256": "f6d9e8a987504dccfab041bf5c1663f6b499b089508dbd4f5bf2135435e7d4ce"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-d1eec8e6f3021e20e630.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-09.jpeg.txt",
+          "sha256": "d1eec8e6f3021e20e630fcc0813edb71c63a580ad3bdddfb828e64f00ebdab2a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-d2b67e4c5cb8cf9089dc.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-10.jpeg.txt",
+          "sha256": "d2b67e4c5cb8cf9089dc578ec68c4f2491399ab1eac92d1f39f2bc9226e7a36a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-161bcd2d0e0da62e520b.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-11.jpeg.txt",
+          "sha256": "161bcd2d0e0da62e520b68bd84a3fb042616cf88fe0c5834a667b9a708c01363"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-51acf751dd6a6d031fa3.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-12.gif.txt",
+          "sha256": "51acf751dd6a6d031fa31b70121dbec0a1a8ea87710833774e84408d7a8e3289"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-e7dc6234025d9dc59fe6.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-13.png.txt",
+          "sha256": "e7dc6234025d9dc59fe6df0a1151bfbf3d9cc5cc7a6f71625f749e99060f5d17"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-b0dfa6f5ed9882f53c3a.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-14.gif.txt",
+          "sha256": "b0dfa6f5ed9882f53c3a0699a2ce90f8439e69ef390917022cee2d5a18e682c1"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-c80f575b8e71e0920f54.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-15.png.txt",
+          "sha256": "c80f575b8e71e0920f549da1344ddd9f01e9a193295b5f5ad7eb9daac3a09c05"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-66471a7e603e4645277a.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-16.gif.txt",
+          "sha256": "66471a7e603e4645277ace3f8b3c2afe4b73475629a3e3478fb4c5cada3810f6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-276943ce69fd84e374d3.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-17.gif.txt",
+          "sha256": "276943ce69fd84e374d39fe2260fca6dc6912698faa78c7a472ca0f990af5f80"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-da0312f57865bd9f2169.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-18.jpg.txt",
+          "sha256": "da0312f57865bd9f2169e8232b947d39da663c4108c9fc3d286978854b12cd6f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-77e18653ecb83688c345.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-19.gif.txt",
+          "sha256": "77e18653ecb83688c3454ef6d4ed18fa4cbc80d6bfefd8edc73dcd4d6aa7a3c5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-58ec4bdfeb36de5d5024.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-20.jpg.txt",
+          "sha256": "58ec4bdfeb36de5d50249dec1170c8e496f4b81e53d047e1ab55031228fcf35a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-c26aee3ee72c9ca54a11.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-21.gif.txt",
+          "sha256": "c26aee3ee72c9ca54a11076759f9d114671b738ab446d4c28ea9babd6b4528d0"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-3a4503c86fc004c9609c.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-22.gif.txt",
+          "sha256": "3a4503c86fc004c9609c38703c3227c017d931e949d3655bdb9679f2c0703882"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-b55ff315f86f88c0dc50.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-23.webp.txt",
+          "sha256": "b55ff315f86f88c0dc503e9d7a0f3f1bc3073a3cf70601fd212c9c6863bedb19"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-04089a1565e2c3aa2d00.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-24.webp.txt",
+          "sha256": "04089a1565e2c3aa2d002f5dd37ab64f1e90f87c93bf19f5dc718c3f236f4b1f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-5c9231558d8e58e48677.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-表情-25.webp.txt",
+          "sha256": "5c9231558d8e58e48677e163e40c36091cc0c92bcb0eb344ed2b53d3cece1c92"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-73ba26fcb7639ed37f60.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/emotes/奶蛙-蹲坐托腮.png.txt",
+          "sha256": "73ba26fcb7639ed37f607f43008c5e375febae38913bfb5ed36cb18e122f2b2c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-95c8339501edd28ca845.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-亮黄站姿.png.txt",
+          "sha256": "95c8339501edd28ca84583bd7faa6ab91031d66cb05329452b857124bf98946c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-e55f94742aa5b3d2cf1d.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-仰头捧腹大笑.jpg.txt",
+          "sha256": "e55f94742aa5b3d2cf1d77c5bc59f980fbd4414dcff8a2fd34568692f198d3bf"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-41186ebf0b167b9c51b9.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-叉腰指点.png.txt",
+          "sha256": "41186ebf0b167b9c51b9c83f70d9ea9ad224d917b8d7a17c87a547de811c1c4e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-c6620f147973b7995ab7.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-双V大笑.png.txt",
+          "sha256": "c6620f147973b7995ab7f9c2dc31aa36d157ea299f5744b00f16b6ddaac6ee42"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-d37386995d89dc1b610d.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-哪吒.png.txt",
+          "sha256": "d37386995d89dc1b610d67600190b0f486761d79e2ee8920c43d30af2aa67432"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-c66577de488cd0762701.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-四肢着地.png.txt",
+          "sha256": "c66577de488cd0762701e91d88a204bcd8fa3f544755f7823d9c575e495f7b7b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-2f16ea3415af899e14a1.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-圣诞老人.png.txt",
+          "sha256": "2f16ea3415af899e14a1a975d8571941ed5da0fbd0c68a2c4879f1eefb2b255b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-3ef8cf457e49d799b58b.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-弯腰大笑.png.txt",
+          "sha256": "3ef8cf457e49d799b58b2f65aed71a5d2c21ff1f9db29e9cc3521fdd92d4298a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-9e13a8492c8ecf66f73e.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-彩虹渐变.png.txt",
+          "sha256": "9e13a8492c8ecf66f73e03d0d44973ab3abc827d38ffe4186458f7a13aeec1fa"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-9ccca0545098d8a3e955.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-抱头大笑.png.txt",
+          "sha256": "9ccca0545098d8a3e9559a36f931ca3a394e9c9b386cb9170f44addd1f28c853"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-3a7eebd7c4cb837ea5a8.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-抱婴大笑.png.txt",
+          "sha256": "3a7eebd7c4cb837ea5a85ebeda862bb5f6ce33a836d1af7281bd430c17a212fd"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-67696854c9799eda3128.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-拍墙大笑.jpg.txt",
+          "sha256": "67696854c9799eda31282c154c5f1135e9be3df369ee0aa7785e0e9e76486e07"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-f95ed08118ede44bb5b3.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-指你大笑.png.txt",
+          "sha256": "f95ed08118ede44bb5b39d066fa3252dcc2e85b92d547548350f982c9e02695c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-c9c5cf82b13d9f8405ab.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-橙肤捧腹.png.txt",
+          "sha256": "c9c5cf82b13d9f8405abe07c30e5eada8d219a848b483bc324cb21a05d7405b1"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-0a6658444fe53d8e99d9.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-狐面和服.png.txt",
+          "sha256": "0a6658444fe53d8e99d99bd890dfdf248ec32312a98a0f04993f309f3ab9a89a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-ee33c2a37f069cefba4a.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-白肤捧腹.png.txt",
+          "sha256": "ee33c2a37f069cefba4a44a64a354abc54208d146a5fd5726d7e69d6870589da"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-af8dd34df969b12b2835.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-眯眼张嘴.png.txt",
+          "sha256": "af8dd34df969b12b2835c81e222c8d1e45442b17c2cb4e22a68d35d5bdf71cce"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-7575d0fed9bced4f326f.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-粉肤捧腹.png.txt",
+          "sha256": "7575d0fed9bced4f326f104780a18d13275d644daae03f094eb572400935d1e4"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-f655bfee2307f291e61b.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-银河隐藏款.png.txt",
+          "sha256": "f655bfee2307f291e61b0caab6b133ae9ead36bc8a0cb67734d789285eab62c0"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-4a6c30f5ceafdddd4ffc.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-雀跃.png.txt",
+          "sha256": "4a6c30f5ceafdddd4ffc52251755b786a2e7c3a3ca5ae042f07b7a5fd6f4b1f2"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-9fb2c873fb7041617273.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/laugh-gallery/奶蛙-静站绿眼.png.txt",
+          "sha256": "9fb2c873fb70416172736e33343694d01d2e0e0aba06577fcfcebeeda941a890"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-044c2705f9f83b8d6416.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/pet/奶蛙-桌宠-倾听.gif.txt",
+          "sha256": "044c2705f9f83b8d6416c5dc3281e02de68bb9853f54ef11e35ab7ae7c7790a5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-4881e4261a8d1570c370.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/pet/奶蛙-桌宠-待机.gif.txt",
+          "sha256": "4881e4261a8d1570c370c48a50d274b7b217e952f16060c3f55c97b4a1910bbf"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-e54710ca5f7a15ceabaf.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/pet/奶蛙-桌宠-捧腹大笑.gif.txt",
+          "sha256": "e54710ca5f7a15ceabafeb0955b021e24c95ffb47420292b02dae4e253ae0cd9"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-b1cfd0efcf5302cb1efc.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/pet/奶蛙-桌宠-躺平.gif.txt",
+          "sha256": "b1cfd0efcf5302cb1efc801afff1030d2dc2a166e1c1c7cdaf819f2913c8bc60"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-f82da35965f70dad0e51.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-举旗.webp.txt",
+          "sha256": "f82da35965f70dad0e518201f8441cc641cccaecf84e18aa316dc830edd52f34"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-cecb6fd5ae6c3420acd3.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-举杯招手.webp.txt",
+          "sha256": "cecb6fd5ae6c3420acd37b49d7496109f28b9c93f006c460e8fe6920bedd2605"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-b993988c2d3c39f7afb0.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-出诊.webp.txt",
+          "sha256": "b993988c2d3c39f7afb03feb2b78e62a83620b3ec2cd219bce56a130d388750a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-83347270e6f4f9047654.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-厨师.webp.txt",
+          "sha256": "83347270e6f4f90476548c99a2228d82957ef3c2d40840b15764ca91632a0f44"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-9c7bcdc30387b33209cf.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-双份薯条.webp.txt",
+          "sha256": "9c7bcdc30387b33209cf18b755e48c84e91cb1c702cb48bffcb83a1afc44fa30"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-3aec4d25947e4ca50073.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-听诊式.webp.txt",
+          "sha256": "3aec4d25947e4ca500735505fe0c5690f900ba9047af00572fc931f7f1bd6d61"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-3b658bfed5fe9e198448.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-啃香肠.webp.txt",
+          "sha256": "3b658bfed5fe9e198448070e7fc906bd9714bd676c94f92438cc943a59d1e057"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-c8c97c4abd4c72c7ce3d.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-喝饮料.webp.txt",
+          "sha256": "c8c97c4abd4c72c7ce3df6f4977438014027d567048675380b98ac0c14d67f00"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-5356ba48989bed8a17ad.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-委屈.webp.txt",
+          "sha256": "5356ba48989bed8a17ad542701b3ce08fdd365610313db20ad4aa7274ba52652"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-5117b8819dcbef4f4cec.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-学生.webp.txt",
+          "sha256": "5117b8819dcbef4f4cec7501fec1cc86613db98f17593c13dbc5863342bbf6d0"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-97b86d35dcc97d7d2325.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-抱兔兔.webp.txt",
+          "sha256": "97b86d35dcc97d7d2325dca0014ab1690e51a6b10d154b26fe6311c2e5a520d5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-397b9c07cac1b68f44e8.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-捧炸鸡.webp.txt",
+          "sha256": "397b9c07cac1b68f44e81c3dff38f4c7051835d00bf46da45f241f46a49932aa"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-0fa7f14cc90b1eb284fc.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-摄影师.webp.txt",
+          "sha256": "0fa7f14cc90b1eb284fc4799c4d7772fef93183089501ca029601cfbc11c5f7f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-72d6906ea3e8b626f252.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-炸鸡加可乐.webp.txt",
+          "sha256": "72d6906ea3e8b626f252cd12f2ee2fa11e79decded20a4d10e6d5aa88f5d65b6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-4c3960ef592e8e133da1.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-爆米花.webp.txt",
+          "sha256": "4c3960ef592e8e133da1d3495de73349aed3cf6f63621f6d149cefca4d426787"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-99bd8adc4feaea217598.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-甜筒.webp.txt",
+          "sha256": "99bd8adc4feaea217598488458ac6e8630581f1bae49dc607658da2372edbfa6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-a585a17144dbc74f67be.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-看杂志.webp.txt",
+          "sha256": "a585a17144dbc74f67befac1f00a9a242bae2fd72799a63d3f3e9e8eb9142c40"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-e27a311c84b57b4c9414.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-绅士.webp.txt",
+          "sha256": "e27a311c84b57b4c9414713253c787a88abf61886701835e23a99b3fd36bf1bf"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-235a183d97b79020fa7c.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/companion/attribution/poses/奶蛙-姿势-薯条.webp.txt",
+          "sha256": "235a183d97b79020fa7ce3a8008965362cb73e95e7bf01c5b53b90c512c21f2d"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-e99f94c6bb9d1f14cbf5.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/repository/LICENSE",
+          "sha256": "e99f94c6bb9d1f14cbf5ba46a7301daa4b84c41793589e6e8ad1b8ef82841180"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-9fd0d8a83bf830645562.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/repository/README.md",
+          "sha256": "9fd0d8a83bf8306455622bedea88df51228e13388e1375d1f0b801819d2b3361"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-5e82c1e8325adc993634.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/repository/upstream/LICENSE",
+          "sha256": "5e82c1e8325adc9936342502b87c9aff4df2e72ff9eedf5e22b8c29012d77c91"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-meme-pack-19ca05562e3ff0c7e601.txt",
+          "sourcePath": "licenses/naiwa-meme-pack/repository/upstream/SOURCES.md",
+          "sha256": "19ca05562e3ff0c7e60110ed85577bca9553c3e2544e5efb5e877ac2cc033306"
+        }
+      ]
+    },
+    {
+      "id": "next-naiwa-universe",
+      "repositoryURL": "https://github.com/WencueCryforme/NaiWa-Universe",
+      "revision": "b717bc9980922b649815f4626c2f2b7949172d70",
+      "revisionURL": "https://github.com/WencueCryforme/NaiWa-Universe/commit/b717bc9980922b649815f4626c2f2b7949172d70",
+      "repositoryOwner": "WencueCryforme",
+      "repositoryLicense": "MIT",
+      "mediaRights": "unknown",
+      "scopeNote": "Repository code is MIT and has a COPYRIGHT statement; no item-level rights are established for media. Audio is archived locally and excluded from the current image/video gallery.",
+      "notices": [
+        {
+          "file": "LICENSES/third-party/naiwa-universe-029f78d396a06dea5a67.txt",
+          "sourcePath": "licenses/naiwa-universe/repository/COPYRIGHT",
+          "sha256": "029f78d396a06dea5a671654c157bdcb14858832ad34afcdde7e71b1caff7725"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-universe-0096364f731103accc4d.txt",
+          "sourcePath": "licenses/naiwa-universe/repository/LICENSE",
+          "sha256": "0096364f731103accc4d69b0a49d6cd85133486d2641a84ec82eed2895f97fad"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-universe-affd36f3a6ad3d8926ad.txt",
+          "sourcePath": "licenses/naiwa-universe/repository/README.md",
+          "sha256": "affd36f3a6ad3d8926ad4649df010c9c35437e75b28e6359d09c7ad8d11581a8"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-universe-2c38a90c7284fdf947e0.txt",
+          "sourcePath": "licenses/naiwa-universe/repository/api/README.md",
+          "sha256": "2c38a90c7284fdf947e0269de9a6f3f62eeb3ef44d1ac80630f5f671fb4aa196"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-universe-adbdce562cd6dd1e2f29.txt",
+          "sourcePath": "licenses/naiwa-universe/repository/scripts/README.md",
+          "sha256": "adbdce562cd6dd1e2f292d209a604906263b221cbc8e9ea00191c7792448d4df"
+        }
+      ]
+    },
+    {
+      "id": "next-naiwa-wallpaper",
+      "repositoryURL": "https://github.com/Nailong-Studio/NaiWa-Wallpaper",
+      "revision": "036afc4f4930c90e78c0a8e26d4a2da6606c95e2",
+      "revisionURL": "https://github.com/Nailong-Studio/NaiWa-Wallpaper/commit/036afc4f4930c90e78c0a8e26d4a2da6606c95e2",
+      "repositoryOwner": "Nailong-Studio",
+      "repositoryLicense": "MIT",
+      "mediaRights": "item_notice_or_unknown",
+      "scopeNote": "Repository license is MIT for code; each media file has its own source TXT where available. Per-item license is extracted only from that TXT. Derived poses-wall entries point to the base pose notice. Creator attribution remains null unless a source notice names one.",
+      "notices": [
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-88eb4ce32738209b9394.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/4k/奶蛙-4K-叉腰指点-03.jpg.txt",
+          "sha256": "88eb4ce32738209b9394590ee5adbda3df4963b4126721ef54c490768c1b8510"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-caf973c323ea6146aa7b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/4k/奶蛙-4K-张臂平衡-05.jpg.txt",
+          "sha256": "caf973c323ea6146aa7b86f58bd275cd8f570570b2896c304e294592266e638d"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-2f3780d139f53fae6c0e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/4k/奶蛙-4K-托腮沉思-04.jpg.txt",
+          "sha256": "2f3780d139f53fae6c0e368cf1b61e01893e840edf4818b08a086f818ef15d3e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b339273d38ff0d6ab956.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/4k/奶蛙-4K-抱头震惊-02.jpg.txt",
+          "sha256": "b339273d38ff0d6ab956982b6d451b2f8c0c942e78572e4362ef81d874b445eb"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a7f744aa6ef36799e487.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/4k/奶蛙-4K-捶头大笑-01.jpg.txt",
+          "sha256": "a7f744aa6ef36799e48788b8958d944e02441fc4aae11853e4ebf0a103a93dae"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-9cab207d2a6c2cd7d18c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-厨师烹饪.jpg.txt",
+          "sha256": "9cab207d2a6c2cd7d18c5ab15ca01e6edded80b16075cca0983975747da1ff1e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c318f6f3563b2b7a8707.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-喝奶茶的小奶蛙.jpg.txt",
+          "sha256": "c318f6f3563b2b7a8707c3dcb1278b85defa07cf4170c3754aa3375c2d5a3ff2"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e496a139714ff6308726.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-场景-静立.jpg.txt",
+          "sha256": "e496a139714ff6308726b3378146e5a13e3e52d3a0b49ca9e99931154d654e32"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-5d2e67c22a98dbac7563.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-忧郁雨夜.jpg.txt",
+          "sha256": "5d2e67c22a98dbac75636c66818935ebe601a8c6d84eb7f5876b5a75a49cf11a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c77463556b8d12895065.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-打盹.png.txt",
+          "sha256": "c77463556b8d12895065aa765b82ddabf1086e8af51407854a5b2582885512de"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-395095397655bebe7c5d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-托腮思索.jpg.txt",
+          "sha256": "395095397655bebe7c5d47be1b41bef821e31949f7be187d20ad8e22d4fdbe3b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a54012a56390f4767538.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-捧杯小憩.png.txt",
+          "sha256": "a54012a56390f4767538178df41fd025898bc0efa2cc08449bfd9336ee457629"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-069d228424c1fc7176a1.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-果冻桌宠立绘.png.txt",
+          "sha256": "069d228424c1fc7176a1cac16c8e680c2a21e962517f422a4226ce953238eaa6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f1909a12149af988493e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-樱花都市.jpg.txt",
+          "sha256": "f1909a12149af988493e468ff177d185dbb77ce6584cf79e016c07a6c94af726"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e9ef644b33369f91711b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-泡泡浴.png.txt",
+          "sha256": "e9ef644b33369f91711bb18dc3d61443fe5443d59ea3da11fcdf95e05cd6ee8b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-ee9b0f35d7e46eee4455.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-看书.png.txt",
+          "sha256": "ee9b0f35d7e46eee4455d7a1168aded657a5f36fb29465c9914323b3e2243e94"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8565fa731cafa437aef3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-背书包上学.jpg.txt",
+          "sha256": "8565fa731cafa437aef3a2090f6a80546f3e425d28afcfc9f9d25a5eb123fd20"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-29ad8a2e451c8edf39fa.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-01.png.txt",
+          "sha256": "29ad8a2e451c8edf39fab2fd4d77e049e4babf426317678e7ba5b2d976973224"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c506bf057b3b7ad01acf.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-02.png.txt",
+          "sha256": "c506bf057b3b7ad01acfd18fd5893684bea01fd3a3d3177b6d73f2f2ca8e463e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d6c5836c19d989e1af9d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-03.png.txt",
+          "sha256": "d6c5836c19d989e1af9dc54aa59fc58db94405cd63310cf48ea573c2622db271"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e5a2fd423501c7f5ac7e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-04.png.txt",
+          "sha256": "e5a2fd423501c7f5ac7e2ad9ff045a8d1869013633ec8c91a0ffda7b0d356f9f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-803d992dc17140374790.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-05.png.txt",
+          "sha256": "803d992dc1714037479042b087762739bd5bf5527efac81bb77a97d493886246"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d7c30b1716dbd70c24d2.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-06.png.txt",
+          "sha256": "d7c30b1716dbd70c24d2c9025356e18a2d4b1a20a96f91a35f56b69976be55b9"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-9cd28452aa3a409a1219.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-07.png.txt",
+          "sha256": "9cd28452aa3a409a12198cf48b34c58babc6e9793e8b6d864f6978aaf7226030"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a829f1990626943167b2.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-08.png.txt",
+          "sha256": "a829f1990626943167b206226275887da548959dfef1cbbf6411d8f4ae5256bb"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d7e788d11525bdd3a5e7.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-09.png.txt",
+          "sha256": "d7e788d11525bdd3a5e716449cb405abb6ecff676d922092142b8a079b9762fa"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b1d7b7f3a93a463d91dd.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-10.png.txt",
+          "sha256": "b1d7b7f3a93a463d91ddfd2b2710db52c040d70ae40cb7c7393f82902ac3b631"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-3810214665eb0158ff53.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-11.png.txt",
+          "sha256": "3810214665eb0158ff536c9801025ecd7e4b13d4ee3c7f4d7f266b661905e340"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-227d721d266b536bc84d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-12.png.txt",
+          "sha256": "227d721d266b536bc84d9e03568934a341fd06211ec5ad5a053f99aae67c493e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-9d87ead4bc096787f828.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-13.png.txt",
+          "sha256": "9d87ead4bc096787f82872cdb4d02bef37acb46fa702673eb04dd5472a9576c5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-7a99c25e2b09390807d3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-14.png.txt",
+          "sha256": "7a99c25e2b09390807d34d46146ee05a01dc4eb0d63de20359f4587a2701e34a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-5da80a48c2f41fd9fc60.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-15.png.txt",
+          "sha256": "5da80a48c2f41fd9fc60a62cf7e7de3981897259b37a195f890557dec8a3ae28"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c24149dace9839ec6c0b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-16.png.txt",
+          "sha256": "c24149dace9839ec6c0bc0e15bce0237dab9115a2ee502769800b00a8955e07d"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-94aeda792152d1770a63.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-17.png.txt",
+          "sha256": "94aeda792152d1770a6374974d0241017c17902be19e71c76e2aa0dff0087d2b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b2a303f4dcf80f366692.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-18.png.txt",
+          "sha256": "b2a303f4dcf80f36669220b232d7dc36aab91ca6944c770139bf411b77b9d364"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-561cf6aa88b397f143c1.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-19.png.txt",
+          "sha256": "561cf6aa88b397f143c1fa4e5b07b3855d07037f491a8b88eb6834e90c4a2c6a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b0e6623ad1b3695a7765.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-20.png.txt",
+          "sha256": "b0e6623ad1b3695a77658d55e73b2a14bc1f4e0b3758ae157ca086240edbf89f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-cac591fb82e09733f348.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-21.jpg.txt",
+          "sha256": "cac591fb82e09733f3486aaceb9b5e6048220bb0ce6a1ce6a3e177cc6edc0205"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f1ba02e34ab622c02917.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-22.png.txt",
+          "sha256": "f1ba02e34ab622c02917a342e8057db34803a67fcf70afdb90a7a11ca8e3462d"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-bea44e51359af0d24d2f.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-23.png.txt",
+          "sha256": "bea44e51359af0d24d2f0591aa50cb45c52a1e590198a62ebddd47dcb07018e5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f951800cd075c4120faf.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-24.png.txt",
+          "sha256": "f951800cd075c4120faf889191c31e59d9e6d5ef98dbb7cb733752b2eb49aa17"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-165bc4cc46ae74d5077d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-25.jpg.txt",
+          "sha256": "165bc4cc46ae74d5077d56b2a1dbaff3231dde37328126280a4bd20bb65805af"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a8e25ec99f5b96dbfb19.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-26.png.txt",
+          "sha256": "a8e25ec99f5b96dbfb19ee68d580414f84eb87b0dc09e6049bcf6c39b8c33a1f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-532788c8853a707c6057.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-27.jpg.txt",
+          "sha256": "532788c8853a707c6057313be5b32d8e87a7251a0ee4954e2532b0b1dd33f79f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-aa4bd8e6bde4064aacb2.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-28.png.txt",
+          "sha256": "aa4bd8e6bde4064aacb2c71c85560f22480d1dc9cdc93731fe4c410b87f333e2"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-6b05fae7c1b488870b73.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-29.jpg.txt",
+          "sha256": "6b05fae7c1b488870b732869af359ba26fecae87f7ff500f4d27551b787d10e2"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-0c1afd92ee67c7c48bbc.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-30.jpg.txt",
+          "sha256": "0c1afd92ee67c7c48bbc6f5a00cad8d08499235eb268c1e97cc5edb5472af240"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-ec7214e47f0304cfabb4.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-31.jpg.txt",
+          "sha256": "ec7214e47f0304cfabb493714d51eeec1a73c88390827172cf0ff965d5cad35b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-447607a812f7f253db4e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-32.jpg.txt",
+          "sha256": "447607a812f7f253db4ec0cd2bd17af179b76ba0e4845e32980e90d04b1b5215"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-7c6e14e40699d7ba6bbe.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-33.jpg.txt",
+          "sha256": "7c6e14e40699d7ba6bbee79c842e50eb8212dd4bfe2ae9ed63a63e5c73f4f35f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c0505f03dabfd716500b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-34.jpg.txt",
+          "sha256": "c0505f03dabfd716500bc47d9181c691099291a860fc4b4bb6b557516f2b7167"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-3e748dd5407978c62963.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-35.png.txt",
+          "sha256": "3e748dd5407978c629630362cc2d1f74f3bb014cbea1337ec257e23212981d24"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-ce5de478f01e47fca030.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-艺术-36.png.txt",
+          "sha256": "ce5de478f01e47fca03068e5495dfbafc83de2872d73ef54fd32e523a39d0d2c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-080bb8b2cfd3ef74c047.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/art/奶蛙-记笔记.png.txt",
+          "sha256": "080bb8b2cfd3ef74c0470a3d44d877ed23586b9c80381e69317688dd68279682"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-6f45a96552b5dce3b779.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/assets/奶蛙-logo.jpg.txt",
+          "sha256": "6f45a96552b5dce3b779dabd95d1a8ee1fa1c4fbf3b0a431964ebc0f950bc333"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d5f268569935712102b8.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/audio/奶蛙-桌宠笑声.wav.txt",
+          "sha256": "d5f268569935712102b8e092927713b394b826f602295498629c3bd83d8155a6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4b15e8c739387214be70.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/audio/奶蛙-爆笑原声.mp3.txt",
+          "sha256": "4b15e8c739387214be709de576387a64ca5fecfac85c2f0e12d549ca92c8cf3c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-0cfd369260654176ce52.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-丘比蛙唤醒普绪蛙-02.jpg.txt",
+          "sha256": "0cfd369260654176ce524c9243b7d711fe61d24df5a3fe139b5b92c8e358d580"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e4a27ed4b5a2ec9e8218.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-之死.jpg.txt",
+          "sha256": "e4a27ed4b5a2ec9e82188238bc41cd985116e2edf991a32573cf9253cc21ee0e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8a7619f326e37c667c90.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-之筏.jpg.txt",
+          "sha256": "8a7619f326e37c667c900917014e50a351e2e82091b672d22119fea3e1827c82"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-927d3d86244ff7912a7e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-以利蛙在迦密山.jpg.txt",
+          "sha256": "927d3d86244ff7912a7e4747faaaa9a20a6be19024bfd2c84cdba5322cba673f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4450b06b8a4b65bc424a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-创造奶蛙-02.jpg.txt",
+          "sha256": "4450b06b8a4b65bc424af55247906d6f64224756f53f9a2f11bde0496443bf74"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8476261166c9c66ee0d8.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-华盛奶在蒙茅斯-02.jpg.txt",
+          "sha256": "8476261166c9c66ee0d81960c29abe59c9f34634c4efad7a403524498817e147"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a82cbc04d252d134cb17.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-变容（纯享版）.jpg.txt",
+          "sha256": "a82cbc04d252d134cb17e5abc44cafa58b69893eadb948bcf9cd87a55cd9f4ec"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-5fa2deea2cb916750d11.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-召唤奶蛙.jpg.txt",
+          "sha256": "5fa2deea2cb916750d11b72a4581afb93fd7c631c25cd9483d3aaed7c697a14b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-1fecf710ee14ff52497c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-圣奶蛙归信.jpg.txt",
+          "sha256": "1fecf710ee14ff52497cb11989b3cde0d82392dd765ad62ef570cc2cb3605884"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-2d4534ff6dface47756b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-圣母怜奶蛙.jpg.txt",
+          "sha256": "2d4534ff6dface47756b2e9cac9c88b7355d4e962ad47a028e61f4fb2313bdac"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-6efe85db2c54e626b5a4.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-在塔楼阶梯上的会面.jpg.txt",
+          "sha256": "6efe85db2c54e626b5a4bb093d3aede44e56ace6a2534f05d2d0072a031e8282"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c8c24b250116cf2e4c75.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-复活.jpg.txt",
+          "sha256": "c8c24b250116cf2e4c75d69fe5c6301e68a91503bce275ab38d7aa9ee9309cd4"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f704a576cf8c63d7dd44.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-夜巡-02.jpg.txt",
+          "sha256": "f704a576cf8c63d7dd44f8a5d4b5e6d934c676a47ae6ecea82948f74b3e60957"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-afd1da4ed3d2a1a9399e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-大天使长的最后审判.jpg.txt",
+          "sha256": "afd1da4ed3d2a1a9399e6f297f12754ddd1b6bf9a8c2b9a755a7ad0749a3191f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-92dedc389921c19c1e5e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-天使向奶蛙显现.jpg.txt",
+          "sha256": "92dedc389921c19c1e5e5fcc527b612481a4a3128412bb0c9e5f9aaa873720d9"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-88310e57f8806ee20cd3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-天启四奶蛙.jpg.txt",
+          "sha256": "88310e57f8806ee20cd3aa31207aee7dc4de2e71945841059269e58ded00a7e2"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-70298fe9bdbc0a9fbe8e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-奶撒之死.jpg.txt",
+          "sha256": "70298fe9bdbc0a9fbe8ea8a98516e12d8fd86735acc7a2aaae5841aff0c7bd3c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-907bea581f5762e58ee5.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-奶破蛙在军校.jpg.txt",
+          "sha256": "907bea581f5762e58ee5dab6a1c784dd535b58b5a278f9cc3c93a94ce2e175c1"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8c113b197f2cec70a4b6.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-奶破蛙在战场.jpg.txt",
+          "sha256": "8c113b197f2cec70a4b673e6b2b78f7bfd5f25e64cc0c013946a787be5633b7e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-32e63185bd061585f0d3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-奶破蛙的加冕典礼.jpg.txt",
+          "sha256": "32e63185bd061585f0d39f8dbaae57fe1016e75e8c91022ae03b1d00a460a6ae"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-5d03433118df13664bf7.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-奶破蛙的诞生.jpg.txt",
+          "sha256": "5d03433118df13664bf702d70ff3614f22cb5490e885255a8630e3ab33a7808b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-94f41a4675ac7d16535f.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-奶破蛙翻越阿尔卑斯山.jpg.txt",
+          "sha256": "94f41a4675ac7d16535f2cadcf8583b096e536b7941e746e66e4806f8683ffdc"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-05b5e38f9608d1cee022.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-奶西分海.jpg.txt",
+          "sha256": "05b5e38f9608d1cee02298c180e83efcab9aa78a33574a0fff049f7f2ea027a3"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e34865eee39488e604b8.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-帝国成立.jpg.txt",
+          "sha256": "e34865eee39488e604b8f091d96f27e1e0c8f1d0cce2cb519fba53a1c4af0f16"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e9163b3b10d8c3a6bc8e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-恋人怀中.jpg.txt",
+          "sha256": "e9163b3b10d8c3a6bc8e99471c74b6836b00e6c3bf4e915443899fbcb2ca1d38"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-00360ff417198f172c97.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-投降.jpg.txt",
+          "sha256": "00360ff417198f172c97c7497383fdc18ec2ffe1c863d2091bd54cc5ee9f7558"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b9843a8a4cbc1f30bcad.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-撑阳伞的奶蛙-02.jpg.txt",
+          "sha256": "b9843a8a4cbc1f30bcad96ce1e1d7382658afa11a8a5c7fa3978920452916491"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b233a52a8f8e056b6c44.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-最唐的晚餐-02.jpg.txt",
+          "sha256": "b233a52a8f8e056b6c443a80878f61daa828620331670bf46bb6f974685d1256"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-0a16068819fa2ae2e2f4.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-朝圣.jpg.txt",
+          "sha256": "0a16068819fa2ae2e2f4ef7e64bf2971accbaa300368a821d8fec16492b874c5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-dbb156cb0202102bad96.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-树荫下的奶蛙.jpg.txt",
+          "sha256": "dbb156cb0202102bad96d7fb3e2953651788f87032aba358747d1634ef4f9eb3"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b4b538d85b12d34bc888.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-渡河.jpg.txt",
+          "sha256": "b4b538d85b12d34bc88895254b09c5f09aef590ead73503d7caa4c098bc594a3"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-0312a57b07edfc6f350a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-游到海水泛白.jpg.txt",
+          "sha256": "0312a57b07edfc6f350a928f1cf1eaabf6a71cfad7aa32e3d02c5892d0d32b44"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-92646023d8f9edcee6fb.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-直到死亡将我们分开-02.jpg.txt",
+          "sha256": "92646023d8f9edcee6fba76f26b88757fdad8d8da6759fdb0598123d9c7427da"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-2371f37ee7ec6d7c6d09.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-自由引导奶蛙.jpg.txt",
+          "sha256": "2371f37ee7ec6d7c6d09d5a09a57173c4f48e37df1bba2e232ad2b05730e33d1"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c370fef7ef387c4af35c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-赞歌就是勇气的赞歌.jpg.txt",
+          "sha256": "c370fef7ef387c4af35c68b74dfc9e36e5fcfa352acbdddabc48bc5cbbad477a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-2597a0e6b8313bf841d4.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-迎着阳光盛大逃亡.jpg.txt",
+          "sha256": "2597a0e6b8313bf841d4253cd1497c436f88604bd4172215bf9ef6596fb06195"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-ac888039c3409ace59e0.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-阿齐姆与泽莉卡.jpg.txt",
+          "sha256": "ac888039c3409ace59e0e31db4b808684d36f3f8e056183935435a10f075586d"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-9c5b68ca71d66366ac15.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/classic/奶蛙-雷帝杀龙.jpg.txt",
+          "sha256": "9c5b68ca71d66366ac159790a8872103f1e52a55a558351684209d3df41bc1bf"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a2ca039848b8982c94c0.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-伸手醒来.gif.txt",
+          "sha256": "a2ca039848b8982c94c096d25d59bd06f98b8612f12cced83a4904d91e6329cd"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b909a944dc03d6d4525c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-侧立.png.txt",
+          "sha256": "b909a944dc03d6d4525c950e57c185acb595a60c6171ca4920e7e4039025354a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-1b41b0c0d5f256875e75.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-动图-含泪.gif.txt",
+          "sha256": "1b41b0c0d5f256875e7501c0363dcb1c916c30bd408449019edbb0c7a1fc25a3"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-2c372ac72fbfcbaef926.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-动图-张口大笑.gif.txt",
+          "sha256": "2c372ac72fbfcbaef926b20b3294b57107f81fa946a32d89003a549abace8b5b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a93f65f891aac49533c2.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-动图-西装捂脸.gif.txt",
+          "sha256": "a93f65f891aac49533c20da7112a90b6f79f70024fc63b50a52cd88c82c3d542"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b7ac4be09bfb8e1ac786.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-双V吐舌.png.txt",
+          "sha256": "b7ac4be09bfb8e1ac786181ffb2a1b68aa8435f3dba2fea10e82f57ca39365b3"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-940ae76d2c1ee5c9fb5e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-吐舌比心.png.txt",
+          "sha256": "940ae76d2c1ee5c9fb5ebe4ef16a96679cd089899ce8c56bdd7f1de97facd1f8"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-7af07677440f52c1734e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-向右爬行.gif.txt",
+          "sha256": "7af07677440f52c1734e152ebfe020d47e73c6065934c4f1e648819365e76fba"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f6be0bc9410605d9649d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-向左爬行.gif.txt",
+          "sha256": "f6be0bc9410605d9649d6b620ca57a2e685f93907635a1d9b189025840be39f4"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-1f8176750ccecff8594b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-咬手沉思.jpg.txt",
+          "sha256": "1f8176750ccecff8594b0dc25e57017c4a476f5a9ca59654f06215e2e028b492"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-37f22946c6335cc668fc.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-好奇的小奶蛙.jpg.txt",
+          "sha256": "37f22946c6335cc668fc198dc4e636ba8dd685e41f34e1729d442260d3a81486"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-9868e57a8f576d8f0289.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-委屈低落.png.txt",
+          "sha256": "9868e57a8f576d8f028924ef85fdc13d7bea0907678c72b8ca5cb6b69482cca2"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b2c9733f508df039339c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-姿态-侧躺.png.txt",
+          "sha256": "b2c9733f508df039339c95098fdb1bb2aaad0ccceb470b44e7355e3b6efec351"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-fd104024f7fb35b37a6b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-姿态-挥手.png.txt",
+          "sha256": "fd104024f7fb35b37a6bd90603c7a66a96962d00b169ff9caa690cc48373e926"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-295d5fe57d69ec8471c3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-姿态-翻滚.png.txt",
+          "sha256": "295d5fe57d69ec8471c30af0aad547359e2ba5e9ddbafbd9e3e195253263d328"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-53b30942cc2a7ab0fe35.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-姿态-露肚.png.txt",
+          "sha256": "53b30942cc2a7ab0fe35fdfe2fb5460c407b999a47019f34d046806eb858a352"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e78f20d9850999dd5eac.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-左右张望.gif.txt",
+          "sha256": "e78f20d9850999dd5eac77522b2927638537541952de3c1e224cbcee197b1d1f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-157170bf5d871a81a3f7.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-开心挥手.png.txt",
+          "sha256": "157170bf5d871a81a3f76aff20455ca8540152f84b4422be9265610eb1ab841c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8d56157e65654acebe27.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-微愠.png.txt",
+          "sha256": "8d56157e65654acebe27bb43380cdec91d3180f78ebe9d12623e4585763b2a46"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-3003b6c30722920d0b4a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-悠闲站立.png.txt",
+          "sha256": "3003b6c30722920d0b4a91a006a9ab57edec484ecf4913e18a1feb8ad9c0d1c0"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-59c89d5dcdf339bb5b9a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-悬停大笑.gif.txt",
+          "sha256": "59c89d5dcdf339bb5b9a7023bf509b993a7cc21c2e71ec5a95ab527a8024f60a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-48b95304f0e4ffb64951.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-打哈欠.png.txt",
+          "sha256": "48b95304f0e4ffb6495169fae794a3684b93f26bd3be55bf5db5c3900c4a1974"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-624f63675c851c2639f2.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-托腮.png.txt",
+          "sha256": "624f63675c851c2639f2f1a15c7128691f2c8a5fab7aa08c6e3268ca8883aa3c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-22f2606bb72a424bc8bd.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-托腮思考像素.gif.txt",
+          "sha256": "22f2606bb72a424bc8bd6dd0c1e271988f80a4c1ccb3074e64b8d97b72d885d5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e0974fb5a76ea76bd662.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-挖鼻孔的小奶蛙.jpg.txt",
+          "sha256": "e0974fb5a76ea76bd662a13c77df957395bd997a996397e1b36e5268a52d45b4"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-9856184c80c262ab9de5.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-捧腹大笑像素.gif.txt",
+          "sha256": "9856184c80c262ab9de59b71c471d30b7dfd67026f6d9bb50adb22bcb78cfb67"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-cc59c650b0a83a23141e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-斜眼吐舌.jpg.txt",
+          "sha256": "cc59c650b0a83a23141ec5ba72032a4ac335f84869958ece1df12aec43a5bbd1"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f4cb0f125cae12106bc7.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-桌边微笑.jpg.txt",
+          "sha256": "f4cb0f125cae12106bc7917dcbdfb39692302963c53016eeb8895408e2f9c2ad"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-bfc37295232bf01e2df2.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-气鼓鼓.png.txt",
+          "sha256": "bfc37295232bf01e2df23f3979193022bd69111808fe6c4f843103002e4e06d6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-2879fdfc62f5125c4e14.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-点鼻.png.txt",
+          "sha256": "2879fdfc62f5125c4e14c214b04e9a268be20bc31ac668b96a72d0106e08382b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4544d22cab44f3ccd659.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-疑惑.png.txt",
+          "sha256": "4544d22cab44f3ccd65953cb12ea7aee1c4f9c43d6bb8c2c3c9b3f7aa7e294a6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-065ef70f88cd96b695ec.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-眨眼卖萌.png.txt",
+          "sha256": "065ef70f88cd96b695ec0fc946d755563188bdf3ad0f99a1afd888ef63f73033"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d16ff88ae67f13780ba0.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-立正的小奶蛙.jpg.txt",
+          "sha256": "d16ff88ae67f13780ba0e223c9c3c3bd2cb2e2a707c2c4c0ae30e4f2305b9071"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-39d48a294acbd80fe747.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-立绘-叉腰.png.txt",
+          "sha256": "39d48a294acbd80fe747c54957b31c90dbe15bdb0b20b49ec6a73aae7c0bac30"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-04b76c3f5b98a9a299b7.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-立绘-奶蛋.png.txt",
+          "sha256": "04b76c3f5b98a9a299b7a552256f86d746e11d5559abf339cd980a3a334cafec"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-228d6185f6694ad7c02c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-立绘-招手.png.txt",
+          "sha256": "228d6185f6694ad7c02c2915b9713c51e1d7a658d6caf7d81ac2959c73d61be9"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-6afcc14334f00fbb6285.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-立绘-站立.png.txt",
+          "sha256": "6afcc14334f00fbb6285841019d344b0147da362c9477985eede8587da91d81f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-73be29529f392e6c5bc6.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-立绘-雀跃.png.txt",
+          "sha256": "73be29529f392e6c5bc68cb6007b74d98863031501d7a866800ed8929bcadb6e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-9f6cbd48896605c49b1c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-红晕托颌.png.txt",
+          "sha256": "9f6cbd48896605c49b1cb727be5c6d2a69f8325b25b4b9696d626af81d161166"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4adc6191050088121e58.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-胜利欢呼.png.txt",
+          "sha256": "4adc6191050088121e585b2515993f1c534833a91d61b634b1b0aa0697fe0996"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4da9783d0b70888e4b9b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-自信叉腰.png.txt",
+          "sha256": "4da9783d0b70888e4b9baccb9f081eed2075441ca0572c46e1d2a607d5f3f478"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a4a3406dd902c698a897.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-01.jpeg.txt",
+          "sha256": "a4a3406dd902c698a89720623abcbd2655bad7cf78310975e5b3443129ff26e8"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8b96a792df7e69475d37.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-02.jpeg.txt",
+          "sha256": "8b96a792df7e69475d3771cb7165138a57fbf590e09400c65a23177c682d3c12"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c4b5f3c31d273b481755.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-03.jpeg.txt",
+          "sha256": "c4b5f3c31d273b481755323f918d6dce294b7e303cc72459c92df118318b8085"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8d3cfb0ae43bdd0fe56d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-04.jpeg.txt",
+          "sha256": "8d3cfb0ae43bdd0fe56d6de470ab8a7a3160d530e21f0d419db546422f37e47c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8ae13d15edc791b08f30.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-05.jpeg.txt",
+          "sha256": "8ae13d15edc791b08f306d809ab96b7fcb9b96992a5276dc2551a37a7e4a3711"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-cc6f9cc31a20401e5420.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-06.jpeg.txt",
+          "sha256": "cc6f9cc31a20401e5420c5c0883f65ad33436d3e15a198797f3e2f3c21f037fd"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-32724bf9003182f7f225.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-07.jpeg.txt",
+          "sha256": "32724bf9003182f7f225fbf3fed7a1432db473dc25523d2ded9f7d1e6e9052aa"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-be22f1b3806dacd488fd.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-08.gif.txt",
+          "sha256": "be22f1b3806dacd488fd86ce1b612feda57b188ec58420657e00d8f3381d773a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c7342297692b22c6021a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-09.jpeg.txt",
+          "sha256": "c7342297692b22c6021ae44dfb85973b37b1f9efb3806855f34f9d77beee326e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e301775bca3ad20d02d5.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-10.jpeg.txt",
+          "sha256": "e301775bca3ad20d02d56e5cb43352a4583c315287665f5d064a1b55b89af0eb"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-558760b872982168939b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-11.jpeg.txt",
+          "sha256": "558760b872982168939bb55b26c255d6067236cacfe0dae5550c105f748a9718"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f72e2a9c1a3659ac0e66.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-12.gif.txt",
+          "sha256": "f72e2a9c1a3659ac0e6649ec6d1b4a58d9f4ed477471a018ddd3877e3b166af4"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-5150d5af4febb7cce0f9.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-13.png.txt",
+          "sha256": "5150d5af4febb7cce0f96f8202bfde6c73dffc2b440067cb5f634cb259e34329"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-140f08ee6a905f197404.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-14.gif.txt",
+          "sha256": "140f08ee6a905f19740430b74369838366856c2bea14ded3e45c4bc54ce007ee"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-0faee8a538441259d942.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-15.png.txt",
+          "sha256": "0faee8a538441259d942555433523ce666d8da8992722e4f4a873c112a663c11"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-557a14b9ce739fce034b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-16.gif.txt",
+          "sha256": "557a14b9ce739fce034b32dfd3b6db6ea03fe98cbff494d1d87b38c77d59b094"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-1066b24b976f8fcfff9c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-17.gif.txt",
+          "sha256": "1066b24b976f8fcfff9c14396061836456ae7c5c07a506dc52dc8f5bc83d885d"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f96847e94ce9ca90dd9e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-18.jpg.txt",
+          "sha256": "f96847e94ce9ca90dd9e9bb1a3827681adcb29fc0e1a5163a63115fb0400c4fc"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-3380a663d78d2d127b16.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-19.gif.txt",
+          "sha256": "3380a663d78d2d127b16fa3b36b3f1bd1343df30bb0aa404960dce2149b6a956"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-339a781d744d1af7f6eb.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-20.jpg.txt",
+          "sha256": "339a781d744d1af7f6ebf1762df5016eba8d370ee514d13b4fdbf224f00aa1af"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-1a723acb7ccaa88192c8.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-21.gif.txt",
+          "sha256": "1a723acb7ccaa88192c84fb449b180504072936cdc7a9b4ed44bd39ed28afda5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-42611e1603b8afac27d3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-22.gif.txt",
+          "sha256": "42611e1603b8afac27d32ec6bac47055e9928ae5078be4548a34e52881cfd453"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4b37b43d418bbf92e56b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-23.webp.txt",
+          "sha256": "4b37b43d418bbf92e56b12d2e66c2bfceaaa14af2825d21b60382fa24a3290ef"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-21777a7dd8b910cd9cc1.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-24.webp.txt",
+          "sha256": "21777a7dd8b910cd9cc11edf0ac2b1913b58512a3aa9c8d42f94c383412a5616"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-da2248a113d5a2621993.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-表情-25.webp.txt",
+          "sha256": "da2248a113d5a26219937d797cfb7feae6d69120735a2d3164a844c99de25c77"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f1bff38ddf3f2b520546.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-蹲坐托腮.png.txt",
+          "sha256": "f1bff38ddf3f2b520546bba71717d6801dc71d6f9dc14b515f75b8208ae21d6a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-090de8dd554b13cbb560.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-露齿大笑.png.txt",
+          "sha256": "090de8dd554b13cbb560aa68cc5024067dcb9cc78b8d87c181c2ed30c86e4455"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b48285bf77a0c590ed4f.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/emotes/奶蛙-鼓腮得意.gif.txt",
+          "sha256": "b48285bf77a0c590ed4fd7cbbe4acd2ef8f1006645c32f43b06cb33267e0bb58"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d6ffe3ffff251e916e3d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/fan-videos/奶蛙-宿舍熄灯后.mp4.txt",
+          "sha256": "d6ffe3ffff251e916e3de7d6504d1e3842b3c6ca57e8a77f3eb5f7dbc1dd1b17"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-342718f6c2d97a362a31.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/fan-videos/奶蛙-西斯廷奶蛙.mp4.txt",
+          "sha256": "342718f6c2d97a362a3147c5576507927f001fc26e00da30a7752f587bbcaf30"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-5bd8065d1e4e3b65ed93.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-01.jpg.txt",
+          "sha256": "5bd8065d1e4e3b65ed93aa23bfe1044babae72c099d63fc276793f66cd0b0b0b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-3b9c1248611f8b2458e8.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-02.jpg.txt",
+          "sha256": "3b9c1248611f8b2458e8f7e30b6c21da625a03e7bc6f22bfaa25f56b397ef583"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-556c9502305ac7dd2358.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-03.jpg.txt",
+          "sha256": "556c9502305ac7dd235835bdf5417a74f4669f81b706e163f6b93c08f828c519"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c396ab045a49691b37aa.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-04.jpg.txt",
+          "sha256": "c396ab045a49691b37aae10bdf020c2925e82664c1909b37ea88f58394d832cb"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-14e591b0ba0162019090.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-05.jpg.txt",
+          "sha256": "14e591b0ba016201909066800adf5c5528a442b7bbbb099adb4dcd8bfabb5af7"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-bd0458fc3521f26d6038.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-06.jpg.txt",
+          "sha256": "bd0458fc3521f26d6038af91235679e166812207cf54d45783d806b4426fc285"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-ec19782a9110d5dbccd8.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-07.jpg.txt",
+          "sha256": "ec19782a9110d5dbccd854cf0cfc3931359b09829c16a04f69f0d51083e8c7b3"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-ccd759e03cd66ec98166.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-08.jpg.txt",
+          "sha256": "ccd759e03cd66ec981667b7086c721f84a95c37b0069bd335fc5bd88a67392c3"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-ba3f84c8c1136134016d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-09.jpg.txt",
+          "sha256": "ba3f84c8c1136134016df433c31b1be1cfd23af78e460f5d96498bc96f595739"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-6e4f5c78ed05e178d922.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-10.jpg.txt",
+          "sha256": "6e4f5c78ed05e178d92275c5173ec32eaae39933dd499542a7ddc0af7f895bd6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-539a39d0dd7072b8e485.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-11.jpg.txt",
+          "sha256": "539a39d0dd7072b8e48568afd31f3cac7f3cea739be784c89f9e9bca1706facb"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-ae699df51dd82ff1318f.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-12.jpg.txt",
+          "sha256": "ae699df51dd82ff1318ff7ba3d4431aaf3d0557924ae9736de947e49f4624bba"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c279c6bae6216b2240cf.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-13.jpg.txt",
+          "sha256": "c279c6bae6216b2240cf5e78561f1e07813b277a8373339ff0a89da97ca556b4"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-36abb8c4e9bf64c0923a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-14.jpg.txt",
+          "sha256": "36abb8c4e9bf64c0923a05d44a36277110b07e123a6b68df01b081a6f3ee087b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-076b67d04db081aa7fe0.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-15.jpg.txt",
+          "sha256": "076b67d04db081aa7fe0cfeb65b89607ea36055870fee82a10bda275993f8414"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-6c57cf0562c5abe96e32.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-16.jpg.txt",
+          "sha256": "6c57cf0562c5abe96e32192ba6d8696d8f2f337f6c62e306d09795c162a167fa"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d7770a220bb55bf64aaf.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-17.jpg.txt",
+          "sha256": "d7770a220bb55bf64aafd3fa3b6797f52ff94aa91bf5985ddc83623da9c8646b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-0efce6d5d3e5ccd667a5.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-18.jpg.txt",
+          "sha256": "0efce6d5d3e5ccd667a594fb4b701530c8d9840d07eb4e02efd5fd2ae2bf0f78"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-dd3a3c3e7cfe57528a9b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-19.jpg.txt",
+          "sha256": "dd3a3c3e7cfe57528a9be0c97f2804cd6f9d412afd0fddd6b8a8e2d7f899aca6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-eb4c215ff8e89d12d490.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-20.jpg.txt",
+          "sha256": "eb4c215ff8e89d12d490d861800a901512f4735ee068ceab62bc0fa238c0c4c0"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-435bd708b4c84b772d73.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-21.jpg.txt",
+          "sha256": "435bd708b4c84b772d73df1c80686fd532ed7b9fb6758f03815d6934acec3e08"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-6db9f30682c2c3772ac9.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/hd/奶蛙-高清-22.jpg.txt",
+          "sha256": "6db9f30682c2c3772ac9f6ae06ae3c3cc40e54a383b05f031ba01af856263079"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d6788744a1317ddd61d9.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-亮黄站姿.png.txt",
+          "sha256": "d6788744a1317ddd61d9740c6c4e1a3bbcde6647222f36653d5f74f8cea83369"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-2934a541a706e3b55a82.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-仰头捧腹大笑.jpg.txt",
+          "sha256": "2934a541a706e3b55a82ca5b6ea2295f5a87de4f2053dc1204b6b48add31afc8"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b1517654585ab57cbcf4.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-叉腰指点.png.txt",
+          "sha256": "b1517654585ab57cbcf49293d5e827d3dd6e4d068a48707f05d2920528bdd460"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-158bf2198d18b71264a8.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-双V大笑.png.txt",
+          "sha256": "158bf2198d18b71264a8c65fa82f2c2dfc5141d9ed48d79227824488d490800c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-384dcaf2d78f4d5c671b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-哪吒.png.txt",
+          "sha256": "384dcaf2d78f4d5c671badd966393fc2a77000937aac17411ea919888c12498c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-22305b158745854fc609.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-四肢着地.png.txt",
+          "sha256": "22305b158745854fc609d50ee18d44a37bb266a515fde36d1a615e304f83d91d"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-74ec315e530cc13f5dcd.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-圣诞老人.png.txt",
+          "sha256": "74ec315e530cc13f5dcd8b6e538d5f03c4ac87df3dfdedbe1cdc8aed67ad7e63"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-67de97ce6d2880b356e9.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-弯腰大笑.png.txt",
+          "sha256": "67de97ce6d2880b356e9c220c35009931044651b2cb075295d07e3ac153a2ba5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-2efd9b5dd33ad84d9472.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-彩虹渐变.png.txt",
+          "sha256": "2efd9b5dd33ad84d9472e81828d95e35f883afb3b0d9ea94bc94721d62a46a8d"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-5379580d0cc10dbc132c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-抱头大笑.png.txt",
+          "sha256": "5379580d0cc10dbc132c514147bcc21f008dbb6e8e0cbd21f9f95440437c6de8"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-0283e4c65ff5e52bdc9d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-抱婴大笑.png.txt",
+          "sha256": "0283e4c65ff5e52bdc9d52552117e056d6675c2e16e2749c4955bc44d489c6ea"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8245d8458d2859cd4f04.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-拍墙大笑.jpg.txt",
+          "sha256": "8245d8458d2859cd4f0470bcf767faacf3a3183029908d07c8d131d233d29353"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-6c9e6a7c8173a425929b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-指你大笑.png.txt",
+          "sha256": "6c9e6a7c8173a425929b8992839909afb03119f0f06e844a225aa23eabb7bfd5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-fba60dcc3ef13c124666.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-橙肤捧腹.png.txt",
+          "sha256": "fba60dcc3ef13c124666b2d814e31cb37dada99b435b84e6607b4d762c384052"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-7bbf26fc4114bee40ba3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-狐面和服.png.txt",
+          "sha256": "7bbf26fc4114bee40ba327a224ccae6efe22b3e7399498003c647eebb17b2e9a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4c8396e5f57a9ef1ea44.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-白肤捧腹.png.txt",
+          "sha256": "4c8396e5f57a9ef1ea4479ddba8c650c8183af2f627a8cb5ac24c51cf9637403"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-0e12ce9da6cd7187e20c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-眯眼张嘴.png.txt",
+          "sha256": "0e12ce9da6cd7187e20cb467548d3e8ae127f35320c097197b74b905258bd05a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-35f5e733af83fb560c81.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-粉肤捧腹.png.txt",
+          "sha256": "35f5e733af83fb560c8174f31e8c2ebf5330e069515128b36350481e43bceca8"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-057ac7282e8fbca8d392.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-红晕大笑特写.jpg.txt",
+          "sha256": "057ac7282e8fbca8d392cf31f7f6497c66e7b062bfe3670b2f7f5f441bf48c24"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-41b65745db6dbc8448db.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-银河隐藏款.png.txt",
+          "sha256": "41b65745db6dbc8448dbf2ce9a35f0e78d6459c10408452def6a71c64c8a36ba"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a8371e8799efb6596245.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-雀跃.png.txt",
+          "sha256": "a8371e8799efb6596245056cdc2a0bb5872116685033445eb6a25f46994a7f01"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4097e45271699bb419e3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/laugh-gallery/奶蛙-静站绿眼.png.txt",
+          "sha256": "4097e45271699bb419e379036cbf8bdb98c34dc9e667663f459ce802326aaf73"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8acfa6f6b07fc362ee12.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/mobile/奶蛙-竖屏-云上眺望.webp.txt",
+          "sha256": "8acfa6f6b07fc362ee12c9658ce99ba97df11053236222c3f508b6c31b4162e2"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a8278595e2b62bd36f8b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/mobile/奶蛙-竖屏-云端长椅.webp.txt",
+          "sha256": "a8278595e2b62bd36f8b994d2efc5fdd5a95d0d03823a112550794e6aa9a4681"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-cedba189404e0d6ca484.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/mobile/奶蛙-竖屏-山巅巨人.webp.txt",
+          "sha256": "cedba189404e0d6ca484f086ebb515adcbcf6e4a5e800b5ef58f1f3a1518ae23"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b159815528ce8c348d47.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/mobile/奶蛙-竖屏-海中浮游.webp.txt",
+          "sha256": "b159815528ce8c348d47c519fe37c4e0a55852261c173c171e92c8992810d761"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-46d8fc490fb7da397a24.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/mobile/奶蛙-竖屏-花田落日.webp.txt",
+          "sha256": "46d8fc490fb7da397a2450db33db522aa345cc97faf4695f32d7c260c539ba9d"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-ff10c704e584a952789b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/mobile/奶蛙-竖屏-草原小憩.webp.txt",
+          "sha256": "ff10c704e584a952789b620998e67884b648b8e37aef28594a737f3476f003d9"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-139a91bda73ac94284d7.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-倾听.gif.txt",
+          "sha256": "139a91bda73ac94284d7a8517a047a76831dc385d89fb48cc7b2ae2f3d773d34"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-dbaf508822be3a732e0d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-倾听大笑帧.png.txt",
+          "sha256": "dbaf508822be3a732e0d8eff07ad35e1bdfbded74cb34aa50178d73aac24439c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e09b5feaa9c63f9242ef.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-倾听帧.png.txt",
+          "sha256": "e09b5feaa9c63f9242ef8ecb5074a5c470e0d87eec6196029329572042b74935"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-eeaf673dcd4c1edff42a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-大笑仰头帧.png.txt",
+          "sha256": "eeaf673dcd4c1edff42af7d4d5af7bd11b01345e523d9f3f52fcec23dec57e9b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c4bd90adf5401306ae17.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-大笑帧.png.txt",
+          "sha256": "c4bd90adf5401306ae17d6db037e36e7bb8b2e576fde5d099c652fff4e7cbd28"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4f1ab10ece11398d1762.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-奔跑-01.png.txt",
+          "sha256": "4f1ab10ece11398d1762392507e67be7ef33accbcc2a527177666b2768a42a5e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-912997da13f2e1a335e7.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-奔跑-02.png.txt",
+          "sha256": "912997da13f2e1a335e766fa548cf3782a791e09b89173316d6cdb9799b29478"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-50f7bbfac316c4926633.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-奔跑-03.png.txt",
+          "sha256": "50f7bbfac316c492663392385599e0959d931ecb077c621c406d918f403cd2c5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-3539460e7ebc0301156b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-奔跑-04.png.txt",
+          "sha256": "3539460e7ebc0301156ba18841651422b5f71da93264bc3af13718a3f34aa83f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f2ed7e49c3a218e33174.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-奔跑-05.png.txt",
+          "sha256": "f2ed7e49c3a218e33174d1e0f0759aeb7566e624b70a7bc6cb33395e0cd55acb"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c98f2369a0fce52e51b7.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-奔跑-06.png.txt",
+          "sha256": "c98f2369a0fce52e51b7e37594496775678574c91a636fbacb2b16642237c176"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-041558bf6d7d339a429b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-奔跑-07.png.txt",
+          "sha256": "041558bf6d7d339a429b43ddf4e3b334bc3a1142d46d57b66556ea126c0b9de4"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8cba1007d70a3d49c64b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-奔跑-08.png.txt",
+          "sha256": "8cba1007d70a3d49c64b85656b58f257bc69e364f34691737577ad5d6ebff9b9"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d5f10adc1297829e83fc.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-张望-01.png.txt",
+          "sha256": "d5f10adc1297829e83fc9c5f2b5a30dcbb249b6b66026f501df0e66a9fa52614"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a42d5e0fa40bb5fef171.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-张望-02.png.txt",
+          "sha256": "a42d5e0fa40bb5fef171ca8de6f563b9f2b55c740b9f66095f702f835ea7de10"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-67d43190e9e64213b0a6.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-张望-03.png.txt",
+          "sha256": "67d43190e9e64213b0a6dd0ac91f0faba4ace81298ae9fe33e40c53025f57f27"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d11b29107a6bc15c33c8.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-张望-04.png.txt",
+          "sha256": "d11b29107a6bc15c33c8c1505b2509dfe23a8d88b6e1e6043070d3c823bafde6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e63ea017ce2d5759fdb3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-张望-05.png.txt",
+          "sha256": "e63ea017ce2d5759fdb3fdac98fbf4a30f1374aecccc02dc3d7ae4d215850bb8"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-2bda36f2362e4ac3a991.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-张望-06.png.txt",
+          "sha256": "2bda36f2362e4ac3a991ccc29d00ec2a14407bde9c524595183be06ba67a60fd"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8ada17e7548724c21870.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-待机-01.png.txt",
+          "sha256": "8ada17e7548724c21870747e445eb386753be4dee5af850ef8e16bb1aae9caca"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-9bb09752a17d58f7ac35.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-待机-02.png.txt",
+          "sha256": "9bb09752a17d58f7ac356c6a89848083a2f118e28b1ca9677b5b5205d86b7e0b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8f944ed9335a3e0729f2.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-待机-03.png.txt",
+          "sha256": "8f944ed9335a3e0729f2a3cae74a0a46c0453852a04839c83368e0a70d7891d3"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4e6b2690694b0610bb80.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-待机-04.png.txt",
+          "sha256": "4e6b2690694b0610bb80f159ca59d0d91c2c4d3b34921a2c67325b794d9d5928"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-12e106b9486d6bcc8e93.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-待机-05.png.txt",
+          "sha256": "12e106b9486d6bcc8e937191e4902094ee368b61faa75398fc2e8a7dfcc587c6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-93dd08bca438aa58970d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-待机-06.png.txt",
+          "sha256": "93dd08bca438aa58970dc017c45a24752f28ea9f70462e2f2c88fd7ad1071107"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-08ce05323bb27f0b1d09.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-待机.gif.txt",
+          "sha256": "08ce05323bb27f0b1d0975c4cb3976186030f2de6b50f84817db9b9eb7394829"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c92c0719a522bec41466.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-待机侧身帧.png.txt",
+          "sha256": "c92c0719a522bec41466b5b98eeb3d679537a751a73181632ad70025fb29bcc6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-02e2f3acabc26652f720.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-待机帧.png.txt",
+          "sha256": "02e2f3acabc26652f720e71156605d5cf09a8fe08294f19fee3aa1d30d92c293"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-3fe753987c73953362e6.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-忙碌帧.png.txt",
+          "sha256": "3fe753987c73953362e6ddc89db575a2795b04d057a84c32ab12c2315ba46922"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-bbafe63696b8b064c1f3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-忙碌挥手帧.png.txt",
+          "sha256": "bbafe63696b8b064c1f34227e0bf27f592496e3942aac1c09c4f1503fc2b54dd"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-51b5e5d912bc2f451221.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-思考-01.png.txt",
+          "sha256": "51b5e5d912bc2f4512217abbbd7ffd43a93c91fbe85a463d758219b90fd1a150"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-897cd41afe02e4d9d385.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-思考-02.png.txt",
+          "sha256": "897cd41afe02e4d9d385d856ca35edfe327561182b8eac1ee6678c62032c8269"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d1ae605dda9ddbdd3b89.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-思考-03.png.txt",
+          "sha256": "d1ae605dda9ddbdd3b893c0e6dbdad19cab7c44ac7ecc9d8ad50aa608432ba8f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a8ca17d9478c2f48526d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-思考-04.png.txt",
+          "sha256": "a8ca17d9478c2f48526d8a14bcdd8acdafe8740cbacefd2a925c69efaabe29a5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8d02ec2052a638ecc67e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-思考-05.png.txt",
+          "sha256": "8d02ec2052a638ecc67e9530ebccfe8ee22a3cc64dd8aeac90d800cdaa139417"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f04638f83b9fda1f293d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-思考-06.png.txt",
+          "sha256": "f04638f83b9fda1f293d34e33404b2631cfd24aa19ae7369f325d0d0161b7e79"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-ce841f846680b3b5475a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-招手-01.png.txt",
+          "sha256": "ce841f846680b3b5475a1e30860d5f4953a5a6a88a75c5b20c6f783d4cb6b9c5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-32da3681f2e7d4304842.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-招手-02.png.txt",
+          "sha256": "32da3681f2e7d4304842bd1846882b8636b5b988126b9a728f28976c9f96716d"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-443ad589a15ec7c153e6.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-招手-03.png.txt",
+          "sha256": "443ad589a15ec7c153e638e9d17f798e2d135cc103412673497b524663e812b6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c428ea1c21e959dbe334.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-招手-04.png.txt",
+          "sha256": "c428ea1c21e959dbe334692a3d712b4c721d5ff80d4194c9bbf59834e29b5312"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d6869bc66c642017988d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-捧腹大笑.gif.txt",
+          "sha256": "d6869bc66c642017988d2d9a05725e4d4093b4a7e0e14f666b808ce2d1b8379e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4adac974a3e16eda6f9a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-沮丧-01.png.txt",
+          "sha256": "4adac974a3e16eda6f9a1b6fc7c1cf8dc7e3153e70f1c760b09538db125e9014"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-6e143abe2d9c2648d1b2.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-沮丧-02.png.txt",
+          "sha256": "6e143abe2d9c2648d1b25f9d159d87f52003c83777950ab50667604edd162389"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-89ea01bce8f744c61f6d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-沮丧-03.png.txt",
+          "sha256": "89ea01bce8f744c61f6d33ce6e25cea679aee07163e1afb1e01191ac7e287183"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-3403225b8aca32c87ee1.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-沮丧-04.png.txt",
+          "sha256": "3403225b8aca32c87ee1db5c2a3d11089fbcdc0f5d875d72d57e6cc3c01df5b9"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-de6403054bdee1e124f7.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-沮丧-05.png.txt",
+          "sha256": "de6403054bdee1e124f78f5e5cadfb00564a6bf3253b93e5e8681dd0c025e08e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-686b51382677e293062a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-沮丧-06.png.txt",
+          "sha256": "686b51382677e293062a7290aab2787731702832c14da7ef3dc934d291928206"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-71fae42bc590f3ed49a3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-沮丧-07.png.txt",
+          "sha256": "71fae42bc590f3ed49a391fb4542c6e640e4069f2298caad168f1b9debd92cfa"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-01e2ad6b233744172e9a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-沮丧-08.png.txt",
+          "sha256": "01e2ad6b233744172e9acee40f7bf2c1f7a90f49e051a52f84b487990b54c56e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-9b114b53b57e9b2c730e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-行走-01.png.txt",
+          "sha256": "9b114b53b57e9b2c730e456db2c529b9b1d0f79d67dc8edca484f9914646e28e"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-044abda556546a83c982.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-行走-02.png.txt",
+          "sha256": "044abda556546a83c982f50021f484aeebf28094c57013460482998e3fa26a00"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-3091b18c885822acf7ad.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-行走-03.png.txt",
+          "sha256": "3091b18c885822acf7ad94750e39a8a3cca11a21b9694d2ac77d0f1438a0ea45"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-bc7243d330fb633ce5c7.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-行走-04.png.txt",
+          "sha256": "bc7243d330fb633ce5c7df44e9728b015447483b67b4914bc6750364ed053c10"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-26fdce03684bb28f40c4.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-行走-05.png.txt",
+          "sha256": "26fdce03684bb28f40c4ba32597776ab8dc6e2659b09db963d39d2602972a61c"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f5851965c8bedaa41723.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-行走-06.png.txt",
+          "sha256": "f5851965c8bedaa41723443d09f3c3a858984a975d735a516121a3e6c50c5f27"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-89e41da515cc0e9d217a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-行走-07.png.txt",
+          "sha256": "89e41da515cc0e9d217a2bc720a437f36b09cba6b03dd103c3ee3352050b5e35"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e02c9e353b8a0bb83bba.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-行走-08.png.txt",
+          "sha256": "e02c9e353b8a0bb83bba9511d1dba70e7d1498c4b6b40e03585c72358c5e9d2a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-6c6bbe7c40626a42dc33.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-蹲伏-01.png.txt",
+          "sha256": "6c6bbe7c40626a42dc3342bc35d544b2b719222936ef77eaed799cd24f854ecc"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-52a112ff7e5c80af7f78.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-蹲伏-02.png.txt",
+          "sha256": "52a112ff7e5c80af7f78c214e937d68dca36d0848f30b90f87be850ee81aa957"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-24b3c361bdf8ba927d91.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-蹲伏-03.png.txt",
+          "sha256": "24b3c361bdf8ba927d9183628e17bf1145b08780d31fb3651d48533fa208af24"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f0f7e6377db14d98129f.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-蹲伏-04.png.txt",
+          "sha256": "f0f7e6377db14d98129f99f0c949d3d514ea9191f2e011add48816ed3b681b90"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-7be11b549056cdf88bc9.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-蹲伏-05.png.txt",
+          "sha256": "7be11b549056cdf88bc9e19890b86b6499effc1d1fce6406522c1b19a2a7fa44"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c7ef8d72b826ee60785a.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-蹲伏-06.png.txt",
+          "sha256": "c7ef8d72b826ee60785a98a9eaa1269d41c456e1b90b0d74eaeb4e468001efae"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-29f4b74add59758ff5d1.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-蹲伏-07.png.txt",
+          "sha256": "29f4b74add59758ff5d1c4f8b69ebfdf473092109b54efeae31bb1d68becd7ce"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-2565ed63e1733bb612ce.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-蹲伏-08.png.txt",
+          "sha256": "2565ed63e1733bb612ce6581edf0c60bc61a16506150b6afb63c985bb9ada49f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-fe6cde4e5bedb8e12fd9.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-躺平.gif.txt",
+          "sha256": "fe6cde4e5bedb8e12fd9913e4538a3f1970d37145fece32ae4c23ec35d81d2c5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-45d9b7af3fecad25b537.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-躺平帧.png.txt",
+          "sha256": "45d9b7af3fecad25b5378cf3559162ef29f5df6006cf46abdb059ec8118b07b2"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-8dc3a2fe405d907a83b1.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-躺平翻身帧.png.txt",
+          "sha256": "8dc3a2fe405d907a83b19c3c9a73075361118744ccb1ef928c4116a574e72125"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-610595bf8748245844c8.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-进食-01.png.txt",
+          "sha256": "610595bf8748245844c83876591971dd842fdf94bb6c3944ca8287e416c09fc1"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-7c53866ead9cc5f2e591.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-进食-02.png.txt",
+          "sha256": "7c53866ead9cc5f2e59178c175b124778d7d9fde4b9b0203e04881e2be0188ba"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-47cd2c418b10a4e8780d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-进食-03.png.txt",
+          "sha256": "47cd2c418b10a4e8780d8c900088febf456ac95ba8b0b993402c69b2b726e252"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-ea6e1b307c0dee9b53e3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-进食-04.png.txt",
+          "sha256": "ea6e1b307c0dee9b53e3479f6452cd6057ac0ae5cc2450e8228f8e90829171ec"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-397bd8ec09ed5ab7e8d8.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-进食-05.png.txt",
+          "sha256": "397bd8ec09ed5ab7e8d8c2ffdafcef1878dac6e48f733e37c3452fe3ee0fd3a7"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-67f1a0fae72504eeea82.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-鼓掌-01.png.txt",
+          "sha256": "67f1a0fae72504eeea82b469fb216cfe832a5b882d938dac8eff1ae27fb27756"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e8d436da129ec91df64b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-鼓掌-02.png.txt",
+          "sha256": "e8d436da129ec91df64b9d3d10a3f33d39e849dfdbedf704925abd62357682c1"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-2969e680e76efe416620.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-鼓掌-03.png.txt",
+          "sha256": "2969e680e76efe4166200398c1bd11e98928fd39b134714f52ef642a271102b5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-95f675860766e3cdebb8.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-鼓掌-04.png.txt",
+          "sha256": "95f675860766e3cdebb8ccd3159857312558eef7742efc9fa054e8b3255e3419"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-787645ba737dd29f5709.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-鼓掌-05.png.txt",
+          "sha256": "787645ba737dd29f5709bf57069f632fd0f7faec3df6a570d9ea6dff451a59de"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-85eeab372b5357cc66fe.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/pet/奶蛙-桌宠-鼓掌-06.png.txt",
+          "sha256": "85eeab372b5357cc66fedc0bf9bc22e7dad7c114bd26cdfee17202c4aa04b482"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-83024fe19beb8a5417e6.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-上班族.webp.txt",
+          "sha256": "83024fe19beb8a5417e633eed52963d071a4070e2ac3083eac4c6ab328c1fdcd"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-f82da35965f70dad0e51.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-举旗.webp.txt",
+          "sha256": "f82da35965f70dad0e518201f8441cc641cccaecf84e18aa316dc830edd52f34"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-cecb6fd5ae6c3420acd3.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-举杯招手.webp.txt",
+          "sha256": "cecb6fd5ae6c3420acd37b49d7496109f28b9c93f006c460e8fe6920bedd2605"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-3dcdaa436498596eeb4b.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-侦探.webp.txt",
+          "sha256": "3dcdaa436498596eeb4b1671e5cf4390d559289953e9e586bb18f2b2d29cab13"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4038b9d6094933b52917.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-修女式.webp.txt",
+          "sha256": "4038b9d6094933b529178997207eb61a656301c5826831bb04ce51ff4914ab4a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-b993988c2d3c39f7afb0.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-出诊.webp.txt",
+          "sha256": "b993988c2d3c39f7afb03feb2b78e62a83620b3ec2cd219bce56a130d388750a"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-83347270e6f4f9047654.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-厨师.webp.txt",
+          "sha256": "83347270e6f4f90476548c99a2228d82957ef3c2d40840b15764ca91632a0f44"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-9c7bcdc30387b33209cf.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-双份薯条.webp.txt",
+          "sha256": "9c7bcdc30387b33209cf18b755e48c84e91cb1c702cb48bffcb83a1afc44fa30"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-3aec4d25947e4ca50073.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-听诊式.webp.txt",
+          "sha256": "3aec4d25947e4ca500735505fe0c5690f900ba9047af00572fc931f7f1bd6d61"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-3b658bfed5fe9e198448.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-啃香肠.webp.txt",
+          "sha256": "3b658bfed5fe9e198448070e7fc906bd9714bd676c94f92438cc943a59d1e057"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c8c97c4abd4c72c7ce3d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-喝饮料.webp.txt",
+          "sha256": "c8c97c4abd4c72c7ce3df6f4977438014027d567048675380b98ac0c14d67f00"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-5356ba48989bed8a17ad.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-委屈.webp.txt",
+          "sha256": "5356ba48989bed8a17ad542701b3ce08fdd365610313db20ad4aa7274ba52652"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-5117b8819dcbef4f4cec.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-学生.webp.txt",
+          "sha256": "5117b8819dcbef4f4cec7501fec1cc86613db98f17593c13dbc5863342bbf6d0"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-97b86d35dcc97d7d2325.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-抱兔兔.webp.txt",
+          "sha256": "97b86d35dcc97d7d2325dca0014ab1690e51a6b10d154b26fe6311c2e5a520d5"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d016119f332d71743422.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-拄杖.webp.txt",
+          "sha256": "d016119f332d7174342255e3a74ebcf3c9f9ed5967a93cc4aa2d8060a875732b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-397b9c07cac1b68f44e8.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-捧炸鸡.webp.txt",
+          "sha256": "397b9c07cac1b68f44e81c3dff38f4c7051835d00bf46da45f241f46a49932aa"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-0fa7f14cc90b1eb284fc.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-摄影师.webp.txt",
+          "sha256": "0fa7f14cc90b1eb284fc4799c4d7772fef93183089501ca029601cfbc11c5f7f"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-d3d44d85feae3a9fd147.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-朋克头.webp.txt",
+          "sha256": "d3d44d85feae3a9fd1472529dae0f58610c38f27f1c1d9b0d7589447fcd172ba"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-72d6906ea3e8b626f252.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-炸鸡加可乐.webp.txt",
+          "sha256": "72d6906ea3e8b626f252cd12f2ee2fa11e79decded20a4d10e6d5aa88f5d65b6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4c3960ef592e8e133da1.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-爆米花.webp.txt",
+          "sha256": "4c3960ef592e8e133da1d3495de73349aed3cf6f63621f6d149cefca4d426787"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-99bd8adc4feaea217598.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-甜筒.webp.txt",
+          "sha256": "99bd8adc4feaea217598488458ac6e8630581f1bae49dc607658da2372edbfa6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-a585a17144dbc74f67be.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-看杂志.webp.txt",
+          "sha256": "a585a17144dbc74f67befac1f00a9a242bae2fd72799a63d3f3e9e8eb9142c40"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e27a311c84b57b4c9414.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-绅士.webp.txt",
+          "sha256": "e27a311c84b57b4c9414713253c787a88abf61886701835e23a99b3fd36bf1bf"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-235a183d97b79020fa7c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/poses/奶蛙-姿势-薯条.webp.txt",
+          "sha256": "235a183d97b79020fa7ce3a8008965362cb73e95e7bf01c5b53b90c512c21f2d"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-2d95e2d2872497d26c17.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/videos/奶蛙-圣殿巡行.mp4.txt",
+          "sha256": "2d95e2d2872497d26c178bedfabfb256de5bd84402bea459acb5007759885619"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-71ee2b497424ce02a22e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/videos/奶蛙-圣殿序曲-封面.jpg.txt",
+          "sha256": "71ee2b497424ce02a22e80ba48d6f37c4c9e0bfccb07f64439b017b121105fc6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-71ee2b497424ce02a22e.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/videos/奶蛙-圣殿序曲.mp4.txt",
+          "sha256": "71ee2b497424ce02a22e80ba48d6f37c4c9e0bfccb07f64439b017b121105fc6"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-856614bbe466df8845dd.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/videos/奶蛙-壁纸隧道.mp4.txt",
+          "sha256": "856614bbe466df8845dde565d644860168f6a56b0abde6600071be038ada5842"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-cfed6ea7836126652482.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/videos/奶蛙-大笑.mp4.txt",
+          "sha256": "cfed6ea78361266524823e89a23a7fc313f5cedb21246a981df21db11815b1d1"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-ddf1e6fa118dac76237c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/companion/videos/奶蛙-大笑藏馆巡展.mp4.txt",
+          "sha256": "ddf1e6fa118dac76237c0498286977dbad3458a3c8ddee4420816fba14a85383"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-4a7b11e17b688a6dc71d.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/repository/LICENSE",
+          "sha256": "4a7b11e17b688a6dc71d00c2d0e57d079d9a0cc8fbf34e21bd5a73e9f2c57741"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-c425739bbaf50389835c.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/repository/README.md",
+          "sha256": "c425739bbaf50389835c6c583d232d295d966a27ff84ca717eebf5ab48698800"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-77fca9fb8b6987520523.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/repository/SOURCES.md",
+          "sha256": "77fca9fb8b69875205238accadd19d86d0f97b2cfd34f646cd4b58730447933b"
+        },
+        {
+          "file": "LICENSES/third-party/naiwa-wallpaper-e6ded9b633eb88620a40.txt",
+          "sourcePath": "licenses/naiwa-wallpaper/repository/emotes/README.md",
+          "sha256": "e6ded9b633eb88620a4097126bb399d39ac132df2aac75232204f7a3ddf11fb5"
+        }
+      ]
     }
   ],
   "otherSources": {
