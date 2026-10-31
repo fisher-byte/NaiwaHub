@@ -1,0 +1,1 @@
+Repository README license section (no LICENSE file): Non-commercial, for learning and entertainment only. The project code may be freely studied and referenced; rights to referenced character imagery, sounds, and image materials belong to their respective rights holders. The README also states this is a non-commercial prototype and makes no claim to rights in the character.

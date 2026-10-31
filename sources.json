@@ -1,0 +1,56 @@
+{
+  "repositories": [
+    {
+      "id": "nailong-memes",
+      "repositoryURL": "https://github.com/GeorgeNaNN/nailong-memes",
+      "revision": "ea5703e70ddbdc666de6be25c8a8f905a2203863",
+      "revisionURL": "https://github.com/GeorgeNaNN/nailong-memes/commit/ea5703e70ddbdc666de6be25c8a8f905a2203863",
+      "repositoryOwner": "GeorgeNaNN",
+      "repositoryLicense": "MIT",
+      "mediaRights": "unknown",
+      "scopeNote": "Repository has MIT LICENSE; it does not establish item-level copyright ownership or explicit media reuse permission.",
+      "notices": [
+        {
+          "file": "LICENSES/third-party/nailong-memes-LICENSE.txt",
+          "sha256": "1c4e6a15449df4c3744277bb63a2269ebb61b6a4c8003bebe538be7696361090"
+        }
+      ]
+    },
+    {
+      "id": "naiwa-desktop-pet",
+      "repositoryURL": "https://github.com/wjc129/naiwa-desktop-pet",
+      "revision": "3c554acd147b9882ef6e4ea3d4f34c8b6fae9210",
+      "revisionURL": "https://github.com/wjc129/naiwa-desktop-pet/commit/3c554acd147b9882ef6e4ea3d4f34c8b6fae9210",
+      "repositoryOwner": "wjc129",
+      "repositoryLicense": "MIT",
+      "mediaRights": "unknown",
+      "scopeNote": "README says code is MIT but users must ensure they have rights to redistribute the bundled GIF.",
+      "notices": [
+        {
+          "file": "LICENSES/third-party/naiwa-desktop-pet-LICENSE.txt",
+          "sha256": "95b60e53b0bf2604b9e92617aa323aba81bb1901634fdea815fa8f66f9eaf571"
+        }
+      ]
+    },
+    {
+      "id": "naiwa-universe",
+      "repositoryURL": "https://github.com/Marshall-Jimmy/naiwa-universe",
+      "revision": "c3e6120b9fd79e83cdf2ab42f95839b4784d47dd",
+      "revisionURL": "https://github.com/Marshall-Jimmy/naiwa-universe/commit/c3e6120b9fd79e83cdf2ab42f95839b4784d47dd",
+      "repositoryOwner": "Marshall-Jimmy",
+      "repositoryLicense": null,
+      "mediaRights": "unknown",
+      "scopeNote": "README states a non-commercial learning/entertainment prototype and says image/character materials belong to their respective rights holders.",
+      "notices": [
+        {
+          "file": "LICENSES/third-party/naiwa-universe-license-note.txt",
+          "sha256": "0ba2c18334cb288a98869448a40c6e483262ba470f5c1c9885661fe716f813a9"
+        }
+      ]
+    }
+  ],
+  "otherSources": {
+    "en": "Additional public URLs and license statements are recorded per item after matching the full file SHA-256. Missing public sources remain empty; private chat/CDN evidence is not exported.",
+    "zh": "其他公开来源与许可声明在完整文件 SHA-256 对应后逐项保留；缺失的公开来源留空，私聊和鉴权 CDN 证据不导出。"
+  }
+}
