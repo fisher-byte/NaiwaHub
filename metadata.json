@@ -9,14 +9,14 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "assets": 1546,
-    "originalFiles": 1545,
+    "assets": 1559,
+    "originalFiles": 1558,
     "convertedPreviews": 1,
-    "uniqueSHA256": 1546,
-    "bytes": 1240902450,
+    "uniqueSHA256": 1559,
+    "bytes": 1247498896,
     "largestFileBytes": 12467365,
     "excludedCommunityOrRetired": 0,
-    "rightsUnknown": 1520,
+    "rightsUnknown": 1533,
     "missingPublicSourceURL": 52,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
@@ -84970,6 +84970,892 @@
       "frames": 1,
       "bytes": 42502,
       "sha256": "bd959170844d69f3fe5b6f0f3037c651bb17d4cc40673ea39b0c8c8488405e51",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-18f0c084fc87",
+      "slug": "gh-index-18f0c084fc87",
+      "file": "originals/nai-wa/gh-index-18f0c084fc87.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa and Rei Ayanami headphone crossover",
+        "zh": "奶蛙绫波丽耳机联动"
+      },
+      "description": {
+        "en": "A blue-haired character appears beside a yellow Naiwa figure in an image bearing an Evangelion mark. The source title describes it as a Rei Ayanami headphone crossover.",
+        "zh": "蓝发角色与黄色奶蛙形象同框，画面带有 Evangelion 字样。来源标题将其标为“奶蛙绫波丽耳机联动”。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Rei Ayanami",
+          "headphone crossover",
+          "anime"
+        ],
+        "zh": [
+          "绫波丽",
+          "耳机联动",
+          "动漫"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/76c07e04a8b217117b39a3b647751618c55bff0c/assets/memes/naiwa_0059.jpg",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/76c07e04a8b217117b39a3b647751618c55bff0c/assets/memes/naiwa_0059.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/76c07e04a8b217117b39a3b647751618c55bff0c/assets/memes/naiwa_0059.jpg"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1216,
+      "height": 1372,
+      "frames": 1,
+      "bytes": 694719,
+      "sha256": "18f0c084fc873c81353be8c33239c0ba6f5ff5d0e32da705a55653913170d547",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-1fd37feebf35",
+      "slug": "gh-index-1fd37feebf35",
+      "file": "originals/nai-wa/gh-index-1fd37feebf35.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa wins the monster fight",
+        "zh": "奶蛙与怪兽战斗胜利"
+      },
+      "description": {
+        "en": "An animated battle scene features a yellow Naiwa figure and an armored monster. The source title describes it as Naiwa’s victory.",
+        "zh": "动图呈现一只黄色奶蛙形象与装甲怪兽同处战斗场景。来源标题称这是奶蛙战斗胜利。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "battle",
+          "victory",
+          "animated"
+        ],
+        "zh": [
+          "战斗",
+          "胜利",
+          "动图"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a5e2172b2a1637b0ead67ecbb96efa11b7d43f58/assets/memes/naiwa_0230.gif",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/a5e2172b2a1637b0ead67ecbb96efa11b7d43f58/assets/memes/naiwa_0230.gif"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a5e2172b2a1637b0ead67ecbb96efa11b7d43f58/assets/memes/naiwa_0230.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 300,
+      "height": 220,
+      "frames": 43,
+      "bytes": 793926,
+      "sha256": "1fd37feebf357325800b9f3dc19ae4176bd20b4527e553542ef4c926b267e45e",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-290ab0c3e004",
+      "slug": "gh-index-290ab0c3e004",
+      "file": "originals/nai-wa/gh-index-290ab0c3e004.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Demon dragon Naiwa laughs at her phone",
+        "zh": "奶蛙恶魔龙女刷手机大笑"
+      },
+      "description": {
+        "en": "A yellow, horned and winged character looks at a phone and laughs. The source title calls the character a demon dragon girl.",
+        "zh": "有龙角与翅膀的黄色角色一边看手机一边大笑；来源标题将角色称作“恶魔龙女”。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "scrolling on a phone",
+          "laughing",
+          "dragon girl"
+        ],
+        "zh": [
+          "刷手机",
+          "大笑",
+          "龙女"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/76c07e04a8b217117b39a3b647751618c55bff0c/assets/memes/naiwa_0051.jpg",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/76c07e04a8b217117b39a3b647751618c55bff0c/assets/memes/naiwa_0051.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/76c07e04a8b217117b39a3b647751618c55bff0c/assets/memes/naiwa_0051.jpg"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 960,
+      "height": 894,
+      "frames": 1,
+      "bytes": 831249,
+      "sha256": "290ab0c3e004f088b1f8c230f586b6caa209128a8951cee1737b0f77ba7ae451",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-36613aa50801",
+      "slug": "gh-index-36613aa50801",
+      "file": "originals/nai-wa/gh-index-36613aa50801.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in a Family Guy parody",
+        "zh": "恶搞之家奶图威"
+      },
+      "description": {
+        "en": "A round-eyed yellow character stands in a red vest and shorts. The source title labels the image as a Family Guy parody.",
+        "zh": "一只圆眼的黄色角色穿红色背心和短裤站立。来源标题将这张造型图标为“恶搞之家奶图威”。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Family Guy parody",
+          "character look",
+          "standing"
+        ],
+        "zh": [
+          "恶搞之家",
+          "造型梗",
+          "站立"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0174.jpg",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0174.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0174.jpg"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 420,
+      "height": 560,
+      "frames": 1,
+      "bytes": 25745,
+      "sha256": "36613aa5080107e8bf0aeab098d606475ee53b6f89d39a3736a9ab5a230161d3",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-3ff42e7c31b5",
+      "slug": "gh-index-3ff42e7c31b5",
+      "file": "originals/nai-wa/gh-index-3ff42e7c31b5.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa resting on the train",
+        "zh": "奶蛙在列车上打盹"
+      },
+      "description": {
+        "en": "A yellow Naiwa figure sits by a train window. The source title describes Naiwa as dozing on the train.",
+        "zh": "一只黄色奶蛙坐在列车窗边的座位上，安静地望向车窗。来源标题描述为在列车上打盹。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "train",
+          "resting",
+          "daily life"
+        ],
+        "zh": [
+          "列车",
+          "休息",
+          "日常"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0191.jpg",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0191.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0191.jpg"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1886,
+      "frames": 1,
+      "bytes": 1249354,
+      "sha256": "3ff42e7c31b507fd89597b2e0dcfb1ac02a75c1101bb52b36107de295c191d40",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-480fbaad9815",
+      "slug": "gh-index-480fbaad9815",
+      "file": "originals/nai-wa/gh-index-480fbaad9815.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa stands confidently with folded arms",
+        "zh": "奶蛙抱胸自信站立"
+      },
+      "description": {
+        "en": "A yellow Naiwa figure stands with arms folded and a calm smile. The source title describes the pose as confident.",
+        "zh": "黄色奶蛙双臂交叉站立，带着平静的微笑。来源标题称其为自信站立。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "arms folded",
+          "standing",
+          "confident"
+        ],
+        "zh": [
+          "抱胸",
+          "站立",
+          "自信"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0138.jpg",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0138.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0138.jpg"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1440,
+      "height": 1364,
+      "frames": 1,
+      "bytes": 271031,
+      "sha256": "480fbaad98154688ce53d0cd5d4879945a7d405bb43396d058da4e1f9b5c29c1",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-575be497646e",
+      "slug": "gh-index-575be497646e",
+      "file": "originals/nai-wa/gh-index-575be497646e.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa as Peter Griffin",
+        "zh": "恶搞之家彼得奶里芬"
+      },
+      "description": {
+        "en": "A yellow Naiwa figure wears a white shirt, green pants and a belt in a Family Guy Peter Griffin parody. The source title uses a Naiwa-themed name for the character.",
+        "zh": "黄色奶蛙形象穿着白衬衫、绿裤和腰带，造型呼应《恶搞之家》彼得·格里芬。来源标题使用“彼得奶里芬”这一称呼。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Family Guy parody",
+          "Peter Griffin",
+          "character parody"
+        ],
+        "zh": [
+          "恶搞之家",
+          "彼得格里芬",
+          "角色恶搞"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0175.jpg",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0175.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0175.jpg"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1272,
+      "height": 1696,
+      "frames": 1,
+      "bytes": 117402,
+      "sha256": "575be497646efc0d58bfa0a12a33d744cace680a22f798cce61acb2c5de61dbe",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-58236e31d955",
+      "slug": "gh-index-58236e31d955",
+      "file": "originals/nai-wa/gh-index-58236e31d955.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Trying not to laugh in class",
+        "zh": "奶蛙上课憋笑"
+      },
+      "description": {
+        "en": "Two Naiwa figures sit at classroom desks, with one appearing to hold back a laugh. The source title describes it as Naiwa trying not to laugh in class.",
+        "zh": "两只奶蛙坐在课桌前，其中一只露出憋笑的表情。来源标题将这张图标为“奶蛙上课憋笑”。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "in class",
+          "holding back laughter",
+          "classmates"
+        ],
+        "zh": [
+          "上课",
+          "憋笑",
+          "同桌"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/ab974a47c2a5e731a22ff9f5a7f23f60e62c3fd9/assets/memes/naiwa_0038.jpg",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/ab974a47c2a5e731a22ff9f5a7f23f60e62c3fd9/assets/memes/naiwa_0038.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/ab974a47c2a5e731a22ff9f5a7f23f60e62c3fd9/assets/memes/naiwa_0038.jpg"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 299,
+      "height": 299,
+      "frames": 1,
+      "bytes": 14127,
+      "sha256": "58236e31d955de7b258f8140ec1011fe2b2bbbf56508e267edacbea5295f7964",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-73d6c23ec83b",
+      "slug": "gh-index-73d6c23ec83b",
+      "file": "originals/nai-wa/gh-index-73d6c23ec83b.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa gives you a sidelong look",
+        "zh": "奶蛙挺着肚子斜眼看你"
+      },
+      "description": {
+        "en": "A yellow Naiwa figure holds its belly and gives a sidelong look. The source title describes the pose as belly out and looking sideways.",
+        "zh": "黄色奶蛙一手扶着肚子，侧眼看向前方。来源标题描述了挺肚和斜眼的姿态。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "sidelong look",
+          "belly",
+          "expression"
+        ],
+        "zh": [
+          "挺肚",
+          "斜眼",
+          "表情"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/7f4b87fbb04b7cb8494b626f51a0808754dcf38e/assets/memes/naiwa_0075.jpg",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/7f4b87fbb04b7cb8494b626f51a0808754dcf38e/assets/memes/naiwa_0075.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/7f4b87fbb04b7cb8494b626f51a0808754dcf38e/assets/memes/naiwa_0075.jpg"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1440,
+      "height": 2405,
+      "frames": 1,
+      "bytes": 76745,
+      "sha256": "73d6c23ec83b64cacdf243259f419b2f936b62d9f3958573748d89fd3df56b25",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-9a1c8fea364f",
+      "slug": "gh-index-9a1c8fea364f",
+      "file": "originals/nai-wa/gh-index-9a1c8fea364f.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Switching to Thanos mode",
+        "zh": "奶蛙切换灭霸模式"
+      },
+      "description": {
+        "en": "A purple Naiwa figure wears a gem-studded gauntlet. The image caption reads “Switching to Thanos mode.”",
+        "zh": "紫色奶蛙戴着镶有宝石的手套，图片字幕写着“切换灭霸模式”。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "angry",
+        "en": "Angry",
+        "zh": "生气"
+      },
+      "tags": {
+        "en": [
+          "Thanos mode",
+          "gauntlet",
+          "transformation"
+        ],
+        "zh": [
+          "灭霸模式",
+          "手套",
+          "变身"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/76c07e04a8b217117b39a3b647751618c55bff0c/assets/memes/naiwa_0053.jpg",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/76c07e04a8b217117b39a3b647751618c55bff0c/assets/memes/naiwa_0053.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/76c07e04a8b217117b39a3b647751618c55bff0c/assets/memes/naiwa_0053.jpg"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1216,
+      "height": 1232,
+      "frames": 1,
+      "bytes": 511449,
+      "sha256": "9a1c8fea364fc141f2e426edd34575e158356764b36b32e14c4590bf6a2b2d49",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-a4b4b379079f",
+      "slug": "gh-index-a4b4b379079f",
+      "file": "originals/nai-wa/gh-index-a4b4b379079f.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Nino Naiwa goes on the attack",
+        "zh": "中野二奶蛙大胆进攻"
+      },
+      "description": {
+        "en": "An anime scene has a yellow Naiwa face composited over a character. The subtitle says “Nailong has to attack boldly,” matching the source title’s bold-attack theme.",
+        "zh": "动漫画面中的角色被换上奶蛙的黄色脸部，字幕写着“奶龙就是要大胆进攻才行”。来源标题将这张图称为“中野二奶蛙大胆进攻”。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "bold attack",
+          "anime crossover",
+          "caption"
+        ],
+        "zh": [
+          "大胆进攻",
+          "动漫联动",
+          "字幕"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/76c07e04a8b217117b39a3b647751618c55bff0c/assets/memes/naiwa_0061.jpg",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/76c07e04a8b217117b39a3b647751618c55bff0c/assets/memes/naiwa_0061.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/76c07e04a8b217117b39a3b647751618c55bff0c/assets/memes/naiwa_0061.jpg"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 2256,
+      "height": 1024,
+      "frames": 1,
+      "bytes": 1046830,
+      "sha256": "a4b4b379079febe5f2c9013ea716e9af83024c4720f066008e8a7155ccc99fb3",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-c7eb329bf49e",
+      "slug": "gh-index-c7eb329bf49e",
+      "file": "originals/nai-wa/gh-index-c7eb329bf49e.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa rides Feidudu on a happy run",
+        "zh": "奶蛙骑着肥嘟嘟快乐奔跑"
+      },
+      "description": {
+        "en": "In this animated image, Naiwa rides on the back of a round yellow character as they move forward. The source title describes a happy run with Feidudu.",
+        "zh": "动图里黄色奶蛙坐在圆滚滚的黄色角色背上，一起向前移动。来源标题描述为骑着肥嘟嘟快乐奔跑。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "riding",
+          "running",
+          "happy",
+          "animated"
+        ],
+        "zh": [
+          "骑乘",
+          "奔跑",
+          "快乐",
+          "动图"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a5e2172b2a1637b0ead67ecbb96efa11b7d43f58/assets/memes/naiwa_0229.gif",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/a5e2172b2a1637b0ead67ecbb96efa11b7d43f58/assets/memes/naiwa_0229.gif"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a5e2172b2a1637b0ead67ecbb96efa11b7d43f58/assets/memes/naiwa_0229.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 240,
+      "height": 240,
+      "frames": 71,
+      "bytes": 940862,
+      "sha256": "c7eb329bf49e24f22b9db9c31942df6d1bde973a693475b57d6784a304727b39",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "gh-index-dc02fc4cc94d",
+      "slug": "gh-index-dc02fc4cc94d",
+      "file": "originals/nai-wa/gh-index-dc02fc4cc94d.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "The Naiwa hero gives you a thumbs-up",
+        "zh": "奶国人给你点赞"
+      },
+      "description": {
+        "en": "A Naiwa figure in a blue superhero suit raises one finger in a thumbs-up gesture. The source title describes the character giving you a like.",
+        "zh": "一只穿着蓝色英雄服的奶蛙举起手指点赞。来源标题称其为“奶国人给你点赞”。"
+      },
+      "type": "image",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "thumbs-up",
+          "superhero outfit",
+          "gesture"
+        ],
+        "zh": [
+          "点赞",
+          "英雄装",
+          "手势"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/e55570fa0311d6437997124347da2b5df9a4329b/assets/memes/naiwa_0099.gif",
+        "https://raw.githubusercontent.com/musemantic/NaiLoong/e55570fa0311d6437997124347da2b5df9a4329b/assets/memes/naiwa_0099.gif"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-index-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/e55570fa0311d6437997124347da2b5df9a4329b/assets/memes/naiwa_0099.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 240,
+      "height": 240,
+      "frames": 1,
+      "bytes": 23007,
+      "sha256": "dc02fc4cc94d83a1ba2d1a6c18125f9f0c1f09e0f8e1b931d927948de1514df5",
       "collectedAt": "2026-11-01"
     },
     {

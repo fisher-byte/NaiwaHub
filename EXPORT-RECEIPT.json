@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "counts": {
-    "assets": 1546,
-    "originalFiles": 1545,
+    "assets": 1559,
+    "originalFiles": 1558,
     "convertedPreviews": 1,
-    "uniqueSHA256": 1546,
-    "bytes": 1240902450,
+    "uniqueSHA256": 1559,
+    "bytes": 1247498896,
     "largestFileBytes": 12467365,
     "excludedCommunityOrRetired": 0,
-    "rightsUnknown": 1520,
+    "rightsUnknown": 1533,
     "missingPublicSourceURL": 52,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
   },
   "inputHashes": {
-    "data/library-en.json": "79fcf765470a870650272ee3558511f6717a3407e0204372976b9530ded0ac43",
-    "data/library-manifest.json": "1219007db6f5d9df892a54ee776f1267e7dc66b75249743f48eb8633894babee",
-    "data/library-taxonomy.json": "6ea298d531e293c07d01a4cb6d6b83c4eb979d51bceeba9bc33e1ef7a2841c78",
+    "data/library-en.json": "9612d934a1daa3e062cd083227b9f790cc4585e38fb390fc74465b3df70b3588",
+    "data/library-manifest.json": "d2ac1880107302b37fb8c75f8a640aeced893f79fa30b3d1c44691a282f88a52",
+    "data/library-taxonomy.json": "5098c2609572644f5410a368db1f40f0a2d5eb98f8137d33926a1bca59285d27",
     "data/series.ts": "875bb33b50f460fcc8a19c9deed15f0a255bf2bb411d9f650c9dbcfd83280fe2",
     "materials/dot-2026-10-31/manifest-part-01.json": "11db9def453cad2a0d42ab88da24475dbe71abbe0772d96898a53ecf25ac3835",
     "materials/dot-2026-10-31/manifest-part-02.json": "269b9d029f4807b92a7c29f06903b7bd07772fcbb0375cc7bda2d411609a9eb6",
@@ -503,11 +503,12 @@
     "materials/github-2026-11-01/licenses/nailong-memes-LICENSE.txt": "1c4e6a15449df4c3744277bb63a2269ebb61b6a4c8003bebe538be7696361090",
     "materials/github-2026-11-01/licenses/naiwa-desktop-pet-LICENSE.txt": "95b60e53b0bf2604b9e92617aa323aba81bb1901634fdea815fa8f66f9eaf571",
     "materials/github-2026-11-01/licenses/naiwa-universe-license-note.txt": "0ba2c18334cb288a98869448a40c6e483262ba470f5c1c9885661fe716f813a9",
-    "materials/github-2026-11-01/repositories.json": "b8e3b6c2fbaade4994ba7717046ba74476a25dc58189273457c9fd12cf36841e"
+    "materials/github-2026-11-01/repositories.json": "b8e3b6c2fbaade4994ba7717046ba74476a25dc58189273457c9fd12cf36841e",
+    "materials/github-index-2026-11-01/imported-assets.json": "cadf17ff10bca0ac5752b4f24a26dcef8b2b7055bb16c9e219a18192774712a7"
   },
-  "payloadInventorySHA256": "5bfabec2da903394cfe3e063101d153755bea7522aaaecb682c017f0bc641acf",
-  "checksumFiles": 1994,
-  "payloadFiles": 2004,
+  "payloadInventorySHA256": "95d6c876477a002fcac5e9d0646225dd64d0daca35286b829bac450604795be7",
+  "checksumFiles": 2007,
+  "payloadFiles": 2017,
   "privacyAudit": {
     "selection": "exact public-manifest media src allowlist plus reviewed license notices and generated public documents",
     "communityExcluded": true,
