@@ -1,8 +1,8 @@
-# NaiwaHub / 奶娃 Hub 素材索引
+# NaiwaHub / 奶蛙 Hub 素材索引
 
 An independent community archive of Naiwa-related memes. This is not an official character collection. Creators and other rights holders retain their rights; inclusion does not establish authorship, permission or commercial-use rights.
 
-这是独立的奶娃相关社区素材整理，不代表官方。作品与角色的权利仍归各权利人；收录不等于已确认作者、再分发授权或商用许可。
+这是独立的奶蛙相关社区素材整理，不代表官方。作品与角色的权利仍归各权利人；收录不等于已确认作者、再分发授权或商用许可。
 
 ## Browse / 浏览
 

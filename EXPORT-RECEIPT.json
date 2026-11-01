@@ -17,7 +17,7 @@
     "data/library-en.json": "520058906df8ac052cf2fcde0e885528e45b4f9c18a21376810ce355d2fd2a06",
     "data/library-manifest.json": "a6ebcd9f92811166667768bfeff40335ddaa9600b06c0aa5f9e206c0c04b02f2",
     "data/library-taxonomy.json": "aaec86876f453cfa1d478deb71cc791c50fbf2a472e999414d18e995a9632eea",
-    "data/series.ts": "c9ab8b3d67aaed71f7d6b649792e3835aca2fdbb0603f4b8cabfd8a99cb7fa22",
+    "data/series.ts": "21cddc9646a7a029e7d97ca7d5b9a3541d7513aab1d3ec19725f5f8c6f0514d0",
     "materials/dot-2026-10-31/manifest-part-01.json": "11db9def453cad2a0d42ab88da24475dbe71abbe0772d96898a53ecf25ac3835",
     "materials/dot-2026-10-31/manifest-part-02.json": "269b9d029f4807b92a7c29f06903b7bd07772fcbb0375cc7bda2d411609a9eb6",
     "materials/dot-2026-10-31/manifest-part-03.json": "df308d5bfb2e06e49db3270d57c4d69d65c7429a568db887ad9888d2b96bbb97",
@@ -507,7 +507,7 @@
     "materials/github-2026-11-01/repositories.json": "b8e3b6c2fbaade4994ba7717046ba74476a25dc58189273457c9fd12cf36841e",
     "materials/github-index-2026-11-01/imported-assets.json": "cadf17ff10bca0ac5752b4f24a26dcef8b2b7055bb16c9e219a18192774712a7"
   },
-  "payloadInventorySHA256": "2c73ae0990b576fdd63e699a90d25e85e046a01270b90957669ad5ceac7870c8",
+  "payloadInventorySHA256": "3b1167b8e8bd84f26a778bc504da95deb78782ac4df245bd47ed63455eca78d7",
   "checksumFiles": 2972,
   "payloadFiles": 2982,
   "privacyAudit": {
