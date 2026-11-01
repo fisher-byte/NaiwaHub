@@ -9,14 +9,14 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "assets": 2523,
-    "originalFiles": 2522,
+    "assets": 2569,
+    "originalFiles": 2568,
     "convertedPreviews": 1,
-    "uniqueSHA256": 2523,
-    "bytes": 1780830905,
+    "uniqueSHA256": 2569,
+    "bytes": 1803095516,
     "largestFileBytes": 12467365,
     "excludedCommunityOrRetired": 0,
-    "rightsUnknown": 2497,
+    "rightsUnknown": 2543,
     "missingPublicSourceURL": 52,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
@@ -161819,6 +161819,4017 @@
       "frames": 1,
       "bytes": 2891782,
       "sha256": "bd5a8071699e1c22a6aaf719accacd1563744a87c78a8960ae37bc66dcbf0fc4",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2170",
+      "slug": "dot-naiwa-2170",
+      "file": "originals/nai-dan/dot-naiwa-2170.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Egg-shaped Naiwa-like figure: wide round open mouth",
+        "zh": "蛋形奶蛙相似变体：大张圆嘴"
+      },
+      "description": {
+        "en": "A limbless rounded yellow figure has a large round open mouth and visible tongue beneath widely open green-ringed eyes. The source-published static illustration retains its block-edged pixel-style outline and white background.",
+        "zh": "无肢黄色圆蛋形角色绿环眼睁大，下方嘴巴大幅张成圆形，露出舌部。原发布静态插画保留方块边缘的像素风轮廓与白色背景。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa-like variant",
+          "egg-shaped",
+          "limbless",
+          "pixel-style",
+          "white background",
+          "round open mouth",
+          "surprised expression"
+        ],
+        "zh": [
+          "奶蛙相似变体",
+          "蛋形",
+          "无肢",
+          "像素风",
+          "白色背景",
+          "圆形张嘴",
+          "惊讶表情"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/infinity0312/NaiDouRen/blob/390b10be2da3715cbbada6be3b11c2833e64ba0d/images/nailong2.png",
+        "https://raw.githubusercontent.com/infinity0312/NaiDouRen/390b10be2da3715cbbada6be3b11c2833e64ba0d/images/nailong2.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/infinity0312/NaiDouRen/blob/390b10be2da3715cbbada6be3b11c2833e64ba0d/images/nailong2.png",
+        "sourceNotes": {
+          "en": "Public game repository; no explicit media license or verified creator/underlying character authorization found. The disclosed AI tool does not establish ownership, redistribution permission or commercial rights.",
+          "zh": "图片来自公开游戏仓库，未找到明确媒体许可或已核实的作者、底层角色授权。披露AI工具不代表取得所有权、再分发或商业权利。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public game repository; no explicit media license or verified creator/underlying character authorization found. The disclosed AI tool does not establish ownership, redistribution permission or commercial rights.",
+        "unknown",
+        "图片来自公开游戏仓库，未找到明确媒体许可或已核实的作者、底层角色授权。披露AI工具不代表取得所有权、再分发或商业权利。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 2048,
+      "height": 2048,
+      "frames": 1,
+      "bytes": 1864628,
+      "sha256": "603736c7c222ef61e82adcfc70c0f3cc8c57249b32fea3e6646fb80574c11333",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2171",
+      "slug": "dot-naiwa-2171",
+      "file": "originals/nai-dan/dot-naiwa-2171.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Egg-shaped Naiwa-like figure: open-eyed toothy smile",
+        "zh": "蛋形奶蛙相似变体：睁眼露齿笑"
+      },
+      "description": {
+        "en": "A limbless rounded yellow figure has open green-ringed eyes and an open smiling mouth showing a white upper tooth band and red tongue. The source-published static illustration retains its block-edged pixel-style outline and white background.",
+        "zh": "无肢黄色圆蛋形角色绿环眼睁开，嘴巴张开微笑，露出白色上牙带和红色舌部。原发布静态插画保留方块边缘的像素风轮廓与白色背景。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa-like variant",
+          "egg-shaped",
+          "limbless",
+          "pixel-style",
+          "white background",
+          "open eyes",
+          "toothy smile"
+        ],
+        "zh": [
+          "奶蛙相似变体",
+          "蛋形",
+          "无肢",
+          "像素风",
+          "白色背景",
+          "睁眼",
+          "露齿微笑"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/infinity0312/NaiDouRen/blob/390b10be2da3715cbbada6be3b11c2833e64ba0d/images/milestone_50.png",
+        "https://raw.githubusercontent.com/infinity0312/NaiDouRen/390b10be2da3715cbbada6be3b11c2833e64ba0d/images/milestone_50.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/infinity0312/NaiDouRen/blob/390b10be2da3715cbbada6be3b11c2833e64ba0d/images/milestone_50.png",
+        "sourceNotes": {
+          "en": "Public game repository; no explicit media license or verified creator/underlying character authorization found. The disclosed AI tool does not establish ownership, redistribution permission or commercial rights.",
+          "zh": "图片来自公开游戏仓库，未找到明确媒体许可或已核实的作者、底层角色授权。披露AI工具不代表取得所有权、再分发或商业权利。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public game repository; no explicit media license or verified creator/underlying character authorization found. The disclosed AI tool does not establish ownership, redistribution permission or commercial rights.",
+        "unknown",
+        "图片来自公开游戏仓库，未找到明确媒体许可或已核实的作者、底层角色授权。披露AI工具不代表取得所有权、再分发或商业权利。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 2048,
+      "height": 2048,
+      "frames": 1,
+      "bytes": 2129739,
+      "sha256": "20bbbe722388fe2b9bce52b080002d96272ad2940b2547739ac4b80281ee4505",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2172",
+      "slug": "dot-naiwa-2172",
+      "file": "originals/nai-wa/dot-naiwa-2172.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa standing and holding up a phone with one hand",
+        "zh": "奶蛙直立单手举起手机"
+      },
+      "description": {
+        "en": "Naiwa stands with one arm lowered while the other hand holds a pale phone upright in front of its upper belly. The back of the phone faces the viewer, showing a dark camera section and narrow red and blue stripes. Its green-ringed eyes, small smile, cream belly and dark hands and feet remain visible. The original transparent background and edge pixels are preserved.",
+        "zh": "奶蛙直立，一臂下垂，另一只手在上腹前方竖着举起浅色手机。手机背面朝向观看者，可见深色镜头区域及红蓝细条。绿环眼、小幅微笑、奶油色腹部与深色手足清晰可见，保留原透明背景和边缘像素。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "standing",
+          "one-handed phone hold",
+          "lowered arm",
+          "phone rear camera",
+          "small smile",
+          "transparent background"
+        ],
+        "zh": [
+          "奶蛙",
+          "直立",
+          "单手举手机",
+          "一臂下垂",
+          "手机背部镜头",
+          "小幅微笑",
+          "透明背景"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/KevinKaslana093/naiwajump/blob/682e908342fbe5bebaa77cd114fa1c662a97a5e7/index.html"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/KevinKaslana093/naiwajump/blob/682e908342fbe5bebaa77cd114fa1c662a97a5e7/index.html",
+        "sourceNotes": {
+          "en": "The complete WebP bytes are embedded in the publicly served game HTML. No explicit media license, original artist attribution, or verified character redistribution/commercial authorization is provided. Public accessibility does not establish rights.",
+          "zh": "完整WebP字节嵌在公开游戏HTML中，未提供明确媒体许可、原画作者署名或已核实的角色再分发及商业授权。公开可访问不代表取得权利。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The complete WebP bytes are embedded in the publicly served game HTML. No explicit media license, original artist attribution, or verified character redistribution/commercial authorization is provided. Public accessibility does not establish rights.",
+        "unknown",
+        "完整WebP字节嵌在公开游戏HTML中，未提供明确媒体许可、原画作者署名或已核实的角色再分发及商业授权。公开可访问不代表取得权利。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 338,
+      "height": 640,
+      "frames": 1,
+      "bytes": 25384,
+      "sha256": "e4b7aafc73c5aae9a4907d02a714e9ecf43dbbd0b9e522de71fca1b679fa051d",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2173",
+      "slug": "dot-naiwa-2173",
+      "file": "originals/nai-gou/dot-naiwa-2173.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Dog-eared Naiwa sitting and laughing with its paws on its belly",
+        "zh": "垂耳奶蛙坐着捧腹大笑"
+      },
+      "description": {
+        "en": "A yellow Naiwa-like figure with floppy brown dog ears, a tail and a pale rounded belly sits on the floor. With its eyes closed and mouth open in a broad toothy laugh, it rocks and turns slightly from side to side while adjusting its dark front paws against its belly; its ears and tail move with the body. The complete original 28-frame GIF is preserved, including any original faint corner markings.",
+        "zh": "黄色奶蛙样角色长着棕色垂狗耳和尾巴，浅色圆腹朝前坐在地面上。它闭眼张嘴露齿大笑，身体左右摇摆并略微转向，深色前爪在腹前调整，耳朵和尾巴随身体活动。保留原发布的完整28帧GIF及原有淡色角落标记。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa-like variant",
+          "dog ears",
+          "tail",
+          "seated",
+          "belly laugh",
+          "closed eyes",
+          "rocking",
+          "paws on belly",
+          "complete GIF"
+        ],
+        "zh": [
+          "奶蛙样变体",
+          "狗耳",
+          "尾巴",
+          "坐姿",
+          "捧腹大笑",
+          "闭眼",
+          "摇摆",
+          "前爪扶腹",
+          "完整动图"
+        ]
+      },
+      "series": {
+        "id": "nai-gou",
+        "label": {
+          "en": "NaiGou",
+          "zh": "奶狗"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/Tromk0/naiwa/blob/7cbdde14e94a02cc1dcc68414b93119be4b4bacf/sucai/6a02442a1f6479fz.gif",
+        "https://raw.githubusercontent.com/Tromk0/naiwa/7cbdde14e94a02cc1dcc68414b93119be4b4bacf/sucai/6a02442a1f6479fz.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/Tromk0/naiwa/blob/7cbdde14e94a02cc1dcc68414b93119be4b4bacf/sucai/6a02442a1f6479fz.gif",
+        "sourceNotes": {
+          "en": "The GIF is an original byte-for-byte copy of a publicly served repository file. The README provides a display-site link and a short character-related phrase, but no media license, verified original artist attribution, or character redistribution/commercial authorization. Public availability is not a rights grant.",
+          "zh": "GIF逐字节复制自公开仓库文件。README只提供展示站链接和简短角色文字，未提供媒体许可、已核实原作者署名或角色再分发及商业授权；公开可访问不等于权利许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "GIF逐字节复制自公开仓库文件。README只提供展示站链接和简短角色文字，未提供媒体许可、已核实原作者署名或角色再分发及商业授权；公开可访问不等于权利许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。",
+        "The GIF is an original byte-for-byte copy of a publicly served repository file. The README provides a display-site link and a short character-related phrase, but no media license, verified original artist attribution, or character redistribution/commercial authorization. Public availability is not a rights grant.",
+        "unknown"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 200,
+      "height": 203,
+      "frames": 28,
+      "bytes": 304344,
+      "sha256": "1c38a0d7f7c62a8676f6f9d09b01730e2e90a3e9ebb7b59dd6a4d2b15c7f13b7",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2174",
+      "slug": "dot-naiwa-2174",
+      "file": "originals/nai-wa/dot-naiwa-2174.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa shrugging, leaning and dropping into a squat",
+        "zh": "奶蛙摊手摇晃并蹲下"
+      },
+      "description": {
+        "en": "Naiwa raises both palms, leans alternately to either side with a foot lifted, then drops into a wide squat with both hands at its belly before reversing through the leaning poses and returning upright. The complete originally published GIF is retained; no frames are extracted as separate assets.",
+        "zh": "奶蛙抬起双掌，轮流向两侧倾身并抬起一脚，随后两手放到腹前宽腿下蹲，再经过倾身动作回到直立。 保留原发布完整GIF，不将任何帧拆出计作单独素材。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "raised palms",
+          "side lean",
+          "lifted foot",
+          "squat",
+          "belly hands",
+          "complete GIF"
+        ],
+        "zh": [
+          "奶蛙",
+          "抬掌",
+          "侧倾",
+          "抬脚",
+          "下蹲",
+          "双手扶腹",
+          "完整动图"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/luoxianshengluo394-max/naiwa/blob/4279c721157c2bc1ab1337b28b8ec31b7e7ae6fe/previews/animations/failed.gif",
+        "https://raw.githubusercontent.com/luoxianshengluo394-max/naiwa/4279c721157c2bc1ab1337b28b8ec31b7e7ae6fe/previews/animations/failed.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/luoxianshengluo394-max/naiwa/blob/4279c721157c2bc1ab1337b28b8ec31b7e7ae6fe/previews/animations/failed.gif",
+        "sourceNotes": {
+          "en": "README explicitly states no open-source license is included and that rights to reference materials and derivative characters must be checked before public release. No verified artist or character/IP authorization is established; public access alone is not permission. No project installer or code was executed.",
+          "zh": "README明确说明尚未附开源许可证，并要求公开发布前确认参考素材及衍生形象的使用与发布权；未核实原作者或角色/IP授权，公开可访问不等于许可。没有执行项目安装器或代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "README explicitly states no open-source license is included and that rights to reference materials and derivative characters must be checked before public release. No verified artist or character/IP authorization is established; public access alone is not permission. No project installer or code was executed.",
+        "README明确说明尚未附开源许可证，并要求公开发布前确认参考素材及衍生形象的使用与发布权；未核实原作者或角色/IP授权，公开可访问不等于许可。没有执行项目安装器或代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。",
+        "unknown"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 8,
+      "bytes": 64354,
+      "sha256": "26c30e7d4c9f0a9ee804e7cbd6602bf538ead34d369d850db24987ca62305a43",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2175",
+      "slug": "dot-naiwa-2175",
+      "file": "originals/nai-wa/dot-naiwa-2175.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa turning with one hand beside its face",
+        "zh": "奶蛙转身并把一手放到脸旁"
+      },
+      "description": {
+        "en": "Naiwa turns slightly from side to side while alternately lifting a dark hand beside its cheek and mouth, then lowers its arms and faces forward. The complete originally published GIF is retained; no frames are extracted as separate assets.",
+        "zh": "奶蛙略微左右转向，轮流把一只深色手抬到脸颊和嘴边，最后放下双臂朝向前方。 保留原发布完整GIF，不将任何帧拆出计作单独素材。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "turning",
+          "hand beside face",
+          "alternating hands",
+          "forward-facing",
+          "complete GIF"
+        ],
+        "zh": [
+          "奶蛙",
+          "转向",
+          "手靠脸旁",
+          "交替抬手",
+          "正面",
+          "完整动图"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/luoxianshengluo394-max/naiwa/blob/4279c721157c2bc1ab1337b28b8ec31b7e7ae6fe/previews/animations/review.gif",
+        "https://raw.githubusercontent.com/luoxianshengluo394-max/naiwa/4279c721157c2bc1ab1337b28b8ec31b7e7ae6fe/previews/animations/review.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/luoxianshengluo394-max/naiwa/blob/4279c721157c2bc1ab1337b28b8ec31b7e7ae6fe/previews/animations/review.gif",
+        "sourceNotes": {
+          "en": "README explicitly states no open-source license is included and that rights to reference materials and derivative characters must be checked before public release. No verified artist or character/IP authorization is established; public access alone is not permission. No project installer or code was executed.",
+          "zh": "README明确说明尚未附开源许可证，并要求公开发布前确认参考素材及衍生形象的使用与发布权；未核实原作者或角色/IP授权，公开可访问不等于许可。没有执行项目安装器或代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "README explicitly states no open-source license is included and that rights to reference materials and derivative characters must be checked before public release. No verified artist or character/IP authorization is established; public access alone is not permission. No project installer or code was executed.",
+        "README明确说明尚未附开源许可证，并要求公开发布前确认参考素材及衍生形象的使用与发布权；未核实原作者或角色/IP授权，公开可访问不等于许可。没有执行项目安装器或代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。",
+        "unknown"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 51746,
+      "sha256": "a85dafbce66ed66008b954c01328313712fea3d83bae5a640d56c84efd0545f2",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2176",
+      "slug": "dot-naiwa-2176",
+      "file": "originals/nai-dan/dot-naiwa-2176.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Egg-shaped Naiwa-like figure in a red hard hat and reflective workwear",
+        "zh": "蛋形奶蛙样角色戴红色安全帽、穿反光工服"
+      },
+      "description": {
+        "en": "An egg-shaped figure with glossy dark skin, green-ringed eyes and a small smile stands facing forward. It wears a red hard hat and a red collared work jacket with chest pockets, silver reflective bands and a circular white chest emblem. Its two arms hang at its sides, and its short dark feet rest on a light floor. The complete original JPEG, including its original background and embedded metadata, is preserved.",
+        "zh": "蛋形角色表面呈深色亮泽，绿环眼和小幅微笑朝向前方。它戴红色安全帽，穿带胸袋、银色反光条和白色圆形胸章的红色翻领工服，双臂自然垂在身侧，深色短脚站在浅色地面上。 保留完整原JPEG、原背景及内嵌元数据。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa-like variant",
+          "egg-shaped",
+          "red hard hat",
+          "reflective workwear",
+          "chest pockets",
+          "glossy dark skin",
+          "standing",
+          "small smile"
+        ],
+        "zh": [
+          "奶蛙样变体",
+          "蛋形",
+          "红色安全帽",
+          "反光工服",
+          "胸袋",
+          "深色亮泽表面",
+          "站立",
+          "小幅微笑"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/DYXDQ/naiyou-welcome/blob/0a7eccd0de05c7995fa4796a0b88a87bf4bca570/art/raw/dan.jpg",
+        "https://raw.githubusercontent.com/DYXDQ/naiyou-welcome/0a7eccd0de05c7995fa4796a0b88a87bf4bca570/art/raw/dan.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/DYXDQ/naiyou-welcome/blob/0a7eccd0de05c7995fa4796a0b88a87bf4bca570/art/raw/dan.jpg",
+        "sourceNotes": {
+          "en": "The public page is an unofficial entertainment project and expressly disclaims affiliation or endorsement by China University of Petroleum (Beijing). The author welcomes non-commercial sharing of their own page/design/text/code, while third-party image and other rights remain with their owners. This does not establish permission for the depicted character, emblems or artwork; no verified original artist attribution is provided.",
+          "zh": "公开页面自述为非官方娱乐项目，明确否认与中国石油大学（北京）的隶属、授权或背书关系。作者欢迎非商业分享其自创页面、设计、文案与代码，但第三方图片等权利仍归原权利人；这不构成对角色、徽记或美术作品的授权，也未提供已核实原画作者署名。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The public page is an unofficial entertainment project and expressly disclaims affiliation or endorsement by China University of Petroleum (Beijing). The author welcomes non-commercial sharing of their own page/design/text/code, while third-party image and other rights remain with their owners. This does not establish permission for the depicted character, emblems or artwork; no verified original artist attribution is provided.",
+        "unknown",
+        "公开页面自述为非官方娱乐项目，明确否认与中国石油大学（北京）的隶属、授权或背书关系。作者欢迎非商业分享其自创页面、设计、文案与代码，但第三方图片等权利仍归原权利人；这不构成对角色、徽记或美术作品的授权，也未提供已核实原画作者署名。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 2300,
+      "height": 2120,
+      "frames": 1,
+      "bytes": 1581298,
+      "sha256": "44900354ecd9401aeb6b2b1c3c46ff016b60793db46732034f6b5d7fd9343890",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2177",
+      "slug": "dot-naiwa-2177",
+      "file": "originals/nai-shu/dot-naiwa-2177.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Large-eared mouse-like Naiwa variant waving in red workwear",
+        "zh": "大耳长尾的奶蛙样鼠形角色穿红色工服挥手"
+      },
+      "description": {
+        "en": "A glossy dark mouse-like figure with very large round ears, round eyes, a short smiling mouth and a long thin tail wears a red hard hat and matching reflective workwear. It lifts one hand with its palm forward while the other arm extends slightly to the side; the tail curves beside its short feet. Chest pockets and a white circular emblem remain visible. The complete original JPEG, including its original background and embedded metadata, is preserved.",
+        "zh": "深色亮泽的鼠形角色长着很大的圆耳、圆眼、短微笑嘴和细长尾巴，戴红色安全帽，穿相配的红色反光工服。它一手举起、掌心向前，另一臂略向侧方伸出，尾巴在短脚旁弯曲；衣服上可见胸袋和白色圆形胸章。 保留完整原JPEG、原背景及内嵌元数据。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa-like variant",
+          "mouse-like variant",
+          "large round ears",
+          "long tail",
+          "wave",
+          "red hard hat",
+          "reflective workwear",
+          "chest emblem"
+        ],
+        "zh": [
+          "奶蛙样变体",
+          "鼠形变体",
+          "大圆耳",
+          "长尾巴",
+          "挥手",
+          "红色安全帽",
+          "反光工服",
+          "胸章"
+        ]
+      },
+      "series": {
+        "id": "nai-shu",
+        "label": {
+          "en": "NaiShu",
+          "zh": "奶鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/DYXDQ/naiyou-welcome/blob/0a7eccd0de05c7995fa4796a0b88a87bf4bca570/art/raw/shu.jpg",
+        "https://raw.githubusercontent.com/DYXDQ/naiyou-welcome/0a7eccd0de05c7995fa4796a0b88a87bf4bca570/art/raw/shu.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/DYXDQ/naiyou-welcome/blob/0a7eccd0de05c7995fa4796a0b88a87bf4bca570/art/raw/shu.jpg",
+        "sourceNotes": {
+          "en": "The public page is an unofficial entertainment project and expressly disclaims affiliation or endorsement by China University of Petroleum (Beijing). The author welcomes non-commercial sharing of their own page/design/text/code, while third-party image and other rights remain with their owners. This does not establish permission for the depicted character, emblems or artwork; no verified original artist attribution is provided.",
+          "zh": "公开页面自述为非官方娱乐项目，明确否认与中国石油大学（北京）的隶属、授权或背书关系。作者欢迎非商业分享其自创页面、设计、文案与代码，但第三方图片等权利仍归原权利人；这不构成对角色、徽记或美术作品的授权，也未提供已核实原画作者署名。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The public page is an unofficial entertainment project and expressly disclaims affiliation or endorsement by China University of Petroleum (Beijing). The author welcomes non-commercial sharing of their own page/design/text/code, while third-party image and other rights remain with their owners. This does not establish permission for the depicted character, emblems or artwork; no verified original artist attribution is provided.",
+        "unknown",
+        "公开页面自述为非官方娱乐项目，明确否认与中国石油大学（北京）的隶属、授权或背书关系。作者欢迎非商业分享其自创页面、设计、文案与代码，但第三方图片等权利仍归原权利人；这不构成对角色、徽记或美术作品的授权，也未提供已核实原画作者署名。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 2048,
+      "height": 2048,
+      "frames": 1,
+      "bytes": 1734167,
+      "sha256": "763475e3ed30cec4748400a6e062ee017938f40dcecbc7dae7b5650502bf70e0",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2178",
+      "slug": "dot-naiwa-2178",
+      "file": "originals/nai-wa/dot-naiwa-2178.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa using a wrench on a gear",
+        "zh": "奶蛙拿扳手操作齿轮"
+      },
+      "description": {
+        "en": "Naiwa wears clear purple-rimmed safety goggles and a purple utility apron. It holds a silver gear in one hand and places a wrench against it with the other, with its mouth wide open in a toothed smile. Tools sit in the apron pockets; its complete body and feet remain visible.",
+        "zh": "奶蛙戴紫框透明护目镜、穿紫色工具围裙，一手拿着银色齿轮，另一手把扳手抵在齿轮旁，张嘴露齿笑。围裙口袋里插有工具，完整身体和双脚均可见。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "safety goggles",
+          "utility apron",
+          "wrench",
+          "gear",
+          "open-mouth smile",
+          "standing"
+        ],
+        "zh": [
+          "奶蛙",
+          "护目镜",
+          "工具围裙",
+          "扳手",
+          "齿轮",
+          "张嘴笑",
+          "站立"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/mechanical.png",
+        "https://raw.githubusercontent.com/JJchess/naiwa/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/mechanical.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/mechanical.png",
+        "sourceNotes": {
+          "en": "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+          "zh": "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+        "unknown",
+        "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1254,
+      "height": 1254,
+      "frames": 1,
+      "bytes": 1173697,
+      "sha256": "adfd0df3dc7683f8b7373b84e26db4c736ede54c388ad56aeca6e39d92fa8fb6",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2179",
+      "slug": "dot-naiwa-2179",
+      "file": "originals/nai-wa/dot-naiwa-2179.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa holding a caliper beside a glass prism",
+        "zh": "奶蛙拿卡尺比向玻璃棱镜"
+      },
+      "description": {
+        "en": "Naiwa leans forward in a white laboratory coat, wearing a headband with a monocular magnifier. It holds a small transparent prism in one hand and a digital caliper beside it in the other. One eye is narrowed, and its open mouth shows teeth; pens protrude from a coat pocket.",
+        "zh": "奶蛙穿白色实验服前倾，头上戴有单眼放大镜的头带。一手拿透明小棱镜，另一手把数显卡尺放到棱镜旁；一只眼睛眯起，张嘴露齿，衣袋中插着笔。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "laboratory coat",
+          "magnifier",
+          "caliper",
+          "glass prism",
+          "leaning forward",
+          "open-mouth smile"
+        ],
+        "zh": [
+          "奶蛙",
+          "实验服",
+          "放大镜",
+          "卡尺",
+          "玻璃棱镜",
+          "前倾",
+          "张嘴笑"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/precision.png",
+        "https://raw.githubusercontent.com/JJchess/naiwa/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/precision.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/precision.png",
+        "sourceNotes": {
+          "en": "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+          "zh": "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+        "unknown",
+        "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1254,
+      "height": 1254,
+      "frames": 1,
+      "bytes": 1080147,
+      "sha256": "2de11216238a70d2b9da33c569e3836329a7738906733babf8cb571d75859e64",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2180",
+      "slug": "dot-naiwa-2180",
+      "file": "originals/nai-wa/dot-naiwa-2180.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa holding a turbine rotor with a wind-turbine prop",
+        "zh": "奶蛙捧涡轮转子、背着小风机道具"
+      },
+      "description": {
+        "en": "Naiwa wears purple overalls and holds a silver-and-gold bladed rotor in front of its pale belly. A pale green three-bladed wind-turbine prop rises behind one shoulder, and a wrench sits in a side pocket. Its green-ringed eyes are open and its mouth forms a wide toothed smile.",
+        "zh": "奶蛙穿紫色背带裤，在浅色腹部前捧着银金色叶片转子。浅绿色三叶风机道具从一侧肩后伸出，侧袋里放着扳手；绿环眼睁开，张嘴露齿笑。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "overalls",
+          "turbine rotor",
+          "wind-turbine prop",
+          "wrench",
+          "open-mouth smile"
+        ],
+        "zh": [
+          "奶蛙",
+          "背带裤",
+          "涡轮转子",
+          "风机道具",
+          "扳手",
+          "张嘴笑"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/energy.png",
+        "https://raw.githubusercontent.com/JJchess/naiwa/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/energy.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/energy.png",
+        "sourceNotes": {
+          "en": "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+          "zh": "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+        "unknown",
+        "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1254,
+      "height": 1254,
+      "frames": 1,
+      "bytes": 1160025,
+      "sha256": "2fbaaf540592dadf0b1a5c856195270bd66d9026b32591fbf5f1e720ff7bdbc5",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2181",
+      "slug": "dot-naiwa-2181",
+      "file": "originals/nai-wa/dot-naiwa-2181.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa leaning beside a small racing car with a helmet",
+        "zh": "奶蛙拿头盔倚在小赛车旁"
+      },
+      "description": {
+        "en": "Naiwa wears a purple racing-style jacket and stands with its legs crossed beside a small purple open-cockpit car. One hand rests on the car, while the other holds a white-and-purple helmet at its side. Its pale belly remains exposed and its mouth is open in a broad toothed smile.",
+        "zh": "奶蛙穿紫色赛车风夹克，双腿交叉站在一辆紫色敞篷小赛车旁。一手搭在车上，另一手在身侧抱着白紫色头盔；浅色腹部露出，张嘴露齿笑。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "racing jacket",
+          "small racing car",
+          "helmet",
+          "crossed legs",
+          "leaning",
+          "open-mouth smile"
+        ],
+        "zh": [
+          "奶蛙",
+          "赛车夹克",
+          "小赛车",
+          "头盔",
+          "交叉双腿",
+          "倚靠",
+          "张嘴笑"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/vehicle.png",
+        "https://raw.githubusercontent.com/JJchess/naiwa/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/vehicle.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/vehicle.png",
+        "sourceNotes": {
+          "en": "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+          "zh": "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+        "unknown",
+        "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1254,
+      "height": 1254,
+      "frames": 1,
+      "bytes": 1292403,
+      "sha256": "0978eb4a37c2c57ea60cbd7d60fbc51ed3ed2bccbe65aedba1d72cd1735492af",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2182",
+      "slug": "dot-naiwa-2182",
+      "file": "originals/nai-wa/dot-naiwa-2182.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa holding a miniature conveyor with three parcels",
+        "zh": "奶蛙捧着载有三个纸箱的小传送带"
+      },
+      "description": {
+        "en": "Naiwa wears a cream hard hat and a purple reflective vest. It holds a miniature conveyor across its belly, carrying three taped parcels in beige, purple and pale green. Both hands grip the conveyor ends, and its green-ringed eyes and wide toothed smile face forward.",
+        "zh": "奶蛙戴米白色安全帽、穿紫色反光背心，在腹前捧着一段小传送带，上面摆着米色、紫色和浅绿色三个贴胶带的纸箱。双手握着传送带两端，绿环眼和张开的露齿笑嘴朝前。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "hard hat",
+          "reflective vest",
+          "miniature conveyor",
+          "three parcels",
+          "holding",
+          "open-mouth smile"
+        ],
+        "zh": [
+          "奶蛙",
+          "安全帽",
+          "反光背心",
+          "小传送带",
+          "三个纸箱",
+          "捧物",
+          "张嘴笑"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/industrial.png",
+        "https://raw.githubusercontent.com/JJchess/naiwa/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/industrial.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/industrial.png",
+        "sourceNotes": {
+          "en": "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+          "zh": "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+        "unknown",
+        "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1254,
+      "height": 1254,
+      "frames": 1,
+      "bytes": 990704,
+      "sha256": "b4975ffa39bb3fdf46ed4aa0a133260b80b157a4f8fefeed15218bb0043ffab2",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2183",
+      "slug": "dot-naiwa-2183",
+      "file": "originals/nai-wa/dot-naiwa-2183.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa raising a wooden mallet while holding a toy rocket",
+        "zh": "奶蛙举木槌并拿着玩具火箭"
+      },
+      "description": {
+        "en": "Naiwa wears a purple tool apron and safety goggles pushed up on its forehead. It raises a wooden mallet in one hand and holds a wooden-looking purple-trimmed toy rocket in the other. A screwdriver, wrench and ruler protrude from its pocket; its mouth is open in a toothed smile.",
+        "zh": "奶蛙穿紫色工具围裙，护目镜推到额头上。一手举起木槌，另一手拿着带紫色装饰的木质外观玩具火箭。口袋里露出螺丝刀、扳手和尺子，嘴巴张开露齿笑。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "wooden mallet",
+          "toy rocket",
+          "tool apron",
+          "raised arm",
+          "safety goggles",
+          "open-mouth smile"
+        ],
+        "zh": [
+          "奶蛙",
+          "木槌",
+          "玩具火箭",
+          "工具围裙",
+          "举手",
+          "护目镜",
+          "张嘴笑"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/icenter.png",
+        "https://raw.githubusercontent.com/JJchess/naiwa/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/icenter.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/naiwa-campus/art-source/icenter.png",
+        "sourceNotes": {
+          "en": "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+          "zh": "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+        "unknown",
+        "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1254,
+      "height": 1254,
+      "frames": 1,
+      "bytes": 1277611,
+      "sha256": "98f3edf6f912391b32659ed52490433b20af18a626b05a1d697faeeb2202887e",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2184",
+      "slug": "dot-naiwa-2184",
+      "file": "originals/nai-wa/dot-naiwa-2184.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa campus open-day webpage concept illustration",
+        "zh": "奶蛙校园开放日网页概念插画"
+      },
+      "description": {
+        "en": "A complete lavender campus concept illustration shows five Naiwa figures: a graduation-capped host, a mechanic beside gears and a robotic arm, a figure with architectural plans and models, a headphone-wearing figure at computer screens, and a painter at an easel. Chinese lettering identifies a fictional vocational college and its campus open day. Interface labels and the original unofficial-fan-creation notice remain intact. This is published concept artwork, not a real college affiliation or working website.",
+        "zh": "完整的浅紫色校园网页概念插画中有五个奶蛙形象：戴学士帽张开双臂的主角、齿轮和机械臂旁戴护目镜的角色、拿图纸与建筑模型的贝雷帽角色、在半透明屏幕前戴耳机的角色，以及画架旁的画画角色。原有“奶蛙校园开放日”、界面标签和“非官方趣味创作”等字样均保留。这是原发布的概念插画，不代表真实院校关系或已经实现的网站功能。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "campus concept art",
+          "webpage mockup",
+          "five figures",
+          "mechanical workshop",
+          "architectural model",
+          "computer screens",
+          "painting",
+          "embedded text",
+          "art reinterpretation",
+          "fictional campus",
+          "complete composition"
+        ],
+        "zh": [
+          "奶蛙",
+          "校园概念插画",
+          "网页概念图",
+          "五个形象",
+          "机械工坊",
+          "建筑模型",
+          "电脑屏幕",
+          "绘画",
+          "原配文字",
+          "艺术二创",
+          "校园概念图",
+          "完整构图"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/delivery/naiwa-campus-concept-v1.png",
+        "https://raw.githubusercontent.com/JJchess/naiwa/8b8f362448485b3d0be79262a8103a84a99b3f32/delivery/naiwa-campus-concept-v1.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/JJchess/naiwa/blob/8b8f362448485b3d0be79262a8103a84a99b3f32/delivery/naiwa-campus-concept-v1.png",
+        "sourceNotes": {
+          "en": "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+          "zh": "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The source describes unofficial fan-created art and provides no verified image/character/IP license. Source disclosure of image_gen production is not a commercial-use grant or authentication of authorship. No real university affiliation or endorsement is asserted. Public availability does not establish permission.",
+        "unknown",
+        "来源说明属于非官方趣味创作，未核实图像、角色或IP的使用授权。来源自述image_gen制作不等于商业许可，也不等于独立核实了作者身份；不声称与真实院校存在隶属或背书关系。公开可访问不代表已获许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1586,
+      "height": 992,
+      "frames": 1,
+      "bytes": 2407981,
+      "sha256": "b07b707bc00712c88d0216da45bf445be76abbb883660fb7cb93489ad2c570c7",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2185",
+      "slug": "dot-naiwa-2185",
+      "file": "originals/nai-wa/dot-naiwa-2185.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa curled on a leaf inside a stone well",
+        "zh": "奶蛙蜷卧在石井里的荷叶上"
+      },
+      "description": {
+        "en": "A small rounded Naiwa lies on its side with eyes closed and limbs tucked around its pale belly on a broad green leaf. Water and mossy stone walls surround it, with a lit lantern on the near rim of the well.",
+        "zh": "小小的圆身奶蛙闭眼侧卧，四肢收拢在浅色腹部旁，躺在宽大的绿叶上。周围是井水与长苔的石壁，近处井沿放着点亮的提灯。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "sad",
+        "en": "Sad",
+        "zh": "难过"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "curled up",
+          "closed eyes",
+          "leaf",
+          "stone well",
+          "lantern",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "蜷卧",
+          "闭眼",
+          "荷叶",
+          "石井",
+          "提灯",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s1.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s1.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s1.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 720,
+      "frames": 1,
+      "bytes": 65380,
+      "sha256": "1094002a453cbb1c4e35156cd418a5864ea0ae67052857c3dc82f1836a7c9423",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2186",
+      "slug": "dot-naiwa-2186",
+      "file": "originals/nai-wa/dot-naiwa-2186.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa holding a sword upright inside a torch ring",
+        "zh": "奶蛙在火把环绕的井中竖握长剑"
+      },
+      "description": {
+        "en": "Naiwa stands in water inside a circular stone enclosure, holding an upright sword with both hands. Torch-bearing figures surround the well; a dark-robed figure raises a cross, and a white-haired figure is seen from behind in the foreground.",
+        "zh": "奶蛙站在圆形石围栏内的水中，双手竖握长剑。井周围站着持火把的人影，一名黑袍人物举着十字架，前景可见一名白发人物的背影。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "sword",
+          "two-handed grip",
+          "well",
+          "torches",
+          "night",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "长剑",
+          "双手握持",
+          "井",
+          "火把",
+          "夜晚",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s10.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s10.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s10.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 480,
+      "frames": 1,
+      "bytes": 46776,
+      "sha256": "1248f8e67583df682c184f977f2b27a116ebb387c968b5636bf454bda409578e",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2187",
+      "slug": "dot-naiwa-2187",
+      "file": "originals/nai-wa/dot-naiwa-2187.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa holding a horizontal sword amid splashing water",
+        "zh": "奶蛙在飞溅的水中横举长剑"
+      },
+      "description": {
+        "en": "A front-facing Naiwa holds a long sword horizontally beside its shoulder while water splashes around its pale belly. Its green-ringed eyes are wide open and its mouth is nearly straight; torch-bearing figures and a dark tower remain in the background.",
+        "zh": "正面奶蛙在肩旁横举长剑，水花在浅色腹部周围飞溅。绿环眼睁开，嘴线近乎平直；背景仍可见持火把的人影与暗色塔楼。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "horizontal sword",
+          "splashing water",
+          "front view",
+          "green-ringed eyes",
+          "torches",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "横举长剑",
+          "水花",
+          "正面",
+          "绿环眼",
+          "火把",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s11.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s11.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s11.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 480,
+      "frames": 1,
+      "bytes": 71509,
+      "sha256": "2bb5bc18d7caaf470edc3ee3abd34b9f1d8aab9c1030ea103d56fb5ad2a6621c",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2188",
+      "slug": "dot-naiwa-2188",
+      "file": "originals/nai-wa/dot-naiwa-2188.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "A white-haired figure wiping a Naiwa-like stone statue",
+        "zh": "白发人物擦拭奶蛙形石像"
+      },
+      "description": {
+        "en": "A large seated stone figure retains Naiwa-like rounded contours, drooping circular eyelids and a short straight mouth. A white-haired person in a pale dress presses a cloth against its chest; a wooden bucket stands below amid rubble and sunset-lit buildings.",
+        "zh": "大坐姿石像保留奶蛙式圆头轮廓、下垂的环形眼睑与短平嘴。穿浅色裙装的白发人物把布按在石像胸前擦拭，下方放着木桶，周围是碎石与夕照中的建筑。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "stone statue",
+          "wiping",
+          "cloth",
+          "bucket",
+          "sunset",
+          "interaction",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "石像",
+          "擦拭",
+          "布",
+          "木桶",
+          "夕阳",
+          "互动",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s14.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s14.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s14.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 900,
+      "frames": 1,
+      "bytes": 84023,
+      "sha256": "43e2767a8468ca46237ee06d882f1e58ee2b9ff9e82e04afd5b3f89d5c49d71b",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2189",
+      "slug": "dot-naiwa-2189",
+      "file": "originals/nai-wa/dot-naiwa-2189.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa tipping over a well opening beside a large sword",
+        "zh": "奶蛙在大剑旁向井口后仰"
+      },
+      "description": {
+        "en": "Naiwa is suspended above the dark opening of a stone well with its arms spread and legs forward. A white-haired figure reaches toward it from behind, while a large ornate sword leans across the foreground beneath a moonlit bell tower.",
+        "zh": "奶蛙双臂张开、双腿向前，身体悬在石井的黑色井口上方。后方白发人物伸手朝向它，前景斜倚一把华丽大剑，月光下的钟楼立在远处。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "well opening",
+          "arms spread",
+          "reaching hand",
+          "ornate sword",
+          "bell tower",
+          "moonlight",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "井口",
+          "张开双臂",
+          "伸手",
+          "华丽长剑",
+          "钟楼",
+          "月光",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s15.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s15.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s15.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 1072,
+      "frames": 1,
+      "bytes": 119656,
+      "sha256": "56c3d80a872efed728997fd0fe2bf58c8c89660f28a6213e2e5889c65a893569",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2190",
+      "slug": "dot-naiwa-2190",
+      "file": "originals/nai-wa/dot-naiwa-2190.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa sitting on a leaf as a figure leaves the well",
+        "zh": "奶蛙坐在井中叶片上、远处人物离开"
+      },
+      "description": {
+        "en": "A small Naiwa sits upright on a floating leaf inside a moss-covered well, looking outward with green-ringed eyes and a straight mouth. A white-haired figure walks away along the upper path, and a cracked lantern containing a moth glows in the foreground.",
+        "zh": "小奶蛙直坐在长苔石井内漂浮的叶片上，睁着绿环眼、嘴线平直地望向外侧。白发人物沿上方小路走远，前景一盏裂开的提灯中可见飞蛾与火光。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "sitting",
+          "floating leaf",
+          "well",
+          "departing figure",
+          "cracked lantern",
+          "moth",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "坐姿",
+          "浮叶",
+          "石井",
+          "离开的人物",
+          "破裂提灯",
+          "飞蛾",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s17.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s17.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s17.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 1064,
+      "frames": 1,
+      "bytes": 109154,
+      "sha256": "12d35ac5291fb4e67279cfe5c9e11beae08bc838566b65c2ff2a205c9ceb386b",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2191",
+      "slug": "dot-naiwa-2191",
+      "file": "originals/nai-wa/dot-naiwa-2191.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa leaping above a well with a sword extended",
+        "zh": "奶蛙伸剑跃过井沿"
+      },
+      "description": {
+        "en": "Naiwa is shown airborne above a stone well, one arm extending a sword and both knees bent. Several figures with raised hands and weapons stand among torches, with a bell tower and crescent-like moon behind them.",
+        "zh": "奶蛙双膝弯曲，跃在石井上方，一臂伸出握着长剑。周围人物举着手或武器，火把之间可见钟楼与弯月状月亮。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "leaping",
+          "extended sword",
+          "bent knees",
+          "stone well",
+          "torches",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "跃起",
+          "伸剑",
+          "屈膝",
+          "石井",
+          "火把",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s18.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s18.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s18.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 535,
+      "frames": 1,
+      "bytes": 53713,
+      "sha256": "cc4481dda06596d029d8881034203d3f0d43a8f97a96cc5d356129da7a678490",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2192",
+      "slug": "dot-naiwa-2192",
+      "file": "originals/nai-wa/dot-naiwa-2192.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "A white-haired figure lifting a small Naiwa above a well",
+        "zh": "白发人物把小奶蛙托到井沿上方"
+      },
+      "description": {
+        "en": "A white-haired person bends over a stone well and holds a small smiling Naiwa around its belly with both hands. Its legs hang above the water, with a bright moon and a lit lantern completing the night scene.",
+        "zh": "白发人物俯身越过石井，双手扶着小奶蛙腹部，把微笑的它托到井沿上方。它的双腿垂在水面上，夜景中还可见明月与点亮的提灯。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "being lifted",
+          "two hands",
+          "small Naiwa",
+          "well",
+          "moon",
+          "lantern",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "被托起",
+          "双手",
+          "小奶蛙",
+          "石井",
+          "月亮",
+          "提灯",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s2.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s2.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s2.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 959,
+      "frames": 1,
+      "bytes": 69261,
+      "sha256": "67d7d2d81bace34a7a220abd6502025d6c6abdc5d1ef26c10ecc65cdacd7c333",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2193",
+      "slug": "dot-naiwa-2193",
+      "file": "originals/nai-wa/dot-naiwa-2193.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa cradled in a bustling fantasy-town street",
+        "zh": "奶蛙被抱在热闹的幻想城镇街头"
+      },
+      "description": {
+        "en": "A smiling Naiwa crosses its arms while a white-haired person cradles it in front of a pale dress. Other figures wave along the sunlit street, with banners, timber-fronted buildings and a castle in the distance.",
+        "zh": "微笑的奶蛙交叉双臂，被白发人物抱在浅色裙装前。阳光下的街道两侧有人挥手，远处可见彩旗、木构门面与城堡。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "cradled",
+          "crossed arms",
+          "smiling",
+          "town street",
+          "waving crowd",
+          "castle",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "被抱着",
+          "抱臂",
+          "微笑",
+          "城镇街道",
+          "挥手人群",
+          "城堡",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s22.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s22.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s22.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 1075,
+      "frames": 1,
+      "bytes": 103723,
+      "sha256": "3c9f304636c233d5287f834478b2d92b835ea3707ea7d4ab23374b36cf67bb96",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2194",
+      "slug": "dot-naiwa-2194",
+      "file": "originals/nai-wa/dot-naiwa-2194.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa sitting in a sunlit doorway with palms raised",
+        "zh": "奶蛙坐在日照门槛上抬起双掌"
+      },
+      "description": {
+        "en": "Naiwa sits on a worn doorway threshold with both palms raised together in front of its chest, looking upward. Sunlight falls into the rustic room past an open wooden window, a bowl and rough plaster walls.",
+        "zh": "奶蛙坐在旧屋门槛上，把双掌一起抬在胸前并向上看。阳光穿过门口照进朴素屋内，周围可见敞开的木窗、碗与粗糙墙面。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "sitting",
+          "raised palms",
+          "doorway",
+          "sunlight",
+          "rustic room",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "坐姿",
+          "抬起双掌",
+          "门口",
+          "阳光",
+          "旧屋",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s3.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s3.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s3.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 900,
+      "frames": 1,
+      "bytes": 71731,
+      "sha256": "097c6926887866a55d9c355d179130da753d26174ca8134efacfaf42e56f06eb",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2195",
+      "slug": "dot-naiwa-2195",
+      "file": "originals/nai-wa/dot-naiwa-2195.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa standing with stones against its belly in an alley",
+        "zh": "奶蛙腹前贴着石块站在巷子里"
+      },
+      "description": {
+        "en": "Naiwa faces forward in a narrow sunset-lit alley, with dirt marks and several stones against its pale belly, shoulder and lower leg. Small human figures stand farther down the passage; no throwing action is directly shown.",
+        "zh": "奶蛙正面站在夕照中的窄巷里，身上有泥痕，浅色腹部、肩部和小腿旁贴着几块石头。巷道远处站着小小的人影，画面并未直接展示投掷动作。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "standing",
+          "stones",
+          "dirt marks",
+          "alley",
+          "sunset",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "站立",
+          "石块",
+          "泥痕",
+          "巷子",
+          "夕阳",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s4.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s4.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s4.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 900,
+      "frames": 1,
+      "bytes": 83012,
+      "sha256": "541c3e5902effc7bebae7d6c41f4c8d2520ea6d4b7ac779ad0d329f31d8dc3d7",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2196",
+      "slug": "dot-naiwa-2196",
+      "file": "originals/nai-wa/dot-naiwa-2196.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa sitting with head bowed at the bottom of a well",
+        "zh": "奶蛙在井底低头抱膝坐着"
+      },
+      "description": {
+        "en": "Naiwa sits on cracked ground at the bottom of a tall stone well, its head lowered over its knees and both arms folded across them. A sword leans nearby, and moonlight enters through the circular opening above.",
+        "zh": "奶蛙坐在高石井底部龟裂的地面上，头垂在屈起的双膝上方，双臂横抱着膝盖。旁边倚着长剑，月光从上方圆形井口照入。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "sad",
+        "en": "Sad",
+        "zh": "难过"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "head bowed",
+          "knees drawn up",
+          "folded arms",
+          "well bottom",
+          "sword",
+          "moonlight",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "低头",
+          "屈膝",
+          "双臂横抱",
+          "井底",
+          "长剑",
+          "月光",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s5.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s5.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s5.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 959,
+      "frames": 1,
+      "bytes": 70869,
+      "sha256": "abec8da0194abf89e68e0b5cae2c041c2c2a4d57d3b047a75719248b864fb634",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2197",
+      "slug": "dot-naiwa-2197",
+      "file": "originals/nai-wa/dot-naiwa-2197.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa raising a long sword beneath an eclipsed moon",
+        "zh": "奶蛙在蚀月下双手举起长剑"
+      },
+      "description": {
+        "en": "Naiwa stands on stone ground with both arms extended overhead around a long jeweled sword. Its head tilts upward beneath a dark moon rimmed with light, with storm clouds, grasses and distant pointed towers behind it.",
+        "zh": "奶蛙站在石地上，双臂伸到头顶，握着镶饰长剑。它抬头朝向边缘发亮的暗月，周围可见风暴云、草丛与远处尖塔。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "overhead sword",
+          "raised arms",
+          "eclipsed moon",
+          "storm clouds",
+          "stone ground",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "头顶长剑",
+          "举起双臂",
+          "蚀月",
+          "风暴云",
+          "石地",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s6.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s6.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s6.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 959,
+      "frames": 1,
+      "bytes": 64359,
+      "sha256": "d0d847e3a7c6fba1f60670f6c9c1207145f4e03ad140566571cec81b035d6399",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2198",
+      "slug": "dot-naiwa-2198",
+      "file": "originals/nai-wa/dot-naiwa-2198.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa holding hands across a table beside a hearth",
+        "zh": "奶蛙在炉火旁隔桌握手"
+      },
+      "description": {
+        "en": "Naiwa sits at a wooden table and reaches one hand toward a white-haired person, who holds it with both hands. A bowl rests between them, with firelight behind Naiwa and a full moon visible through the window.",
+        "zh": "奶蛙坐在木桌旁，把一只手伸向白发人物，对方用双手握住它。两者之间放着碗，奶蛙身后有炉火，窗外可见满月。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "holding hands",
+          "wooden table",
+          "bowl",
+          "hearth",
+          "moonlit window",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "握手",
+          "木桌",
+          "碗",
+          "炉火",
+          "月光窗户",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s7.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s7.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s7.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 576,
+      "frames": 1,
+      "bytes": 39471,
+      "sha256": "2189aee0614980df61d91832ea942917f30320707cb96bb26c1b437035fd6268",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2199",
+      "slug": "dot-naiwa-2199",
+      "file": "originals/nai-wa/dot-naiwa-2199.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa touching foreheads with a white-haired figure",
+        "zh": "奶蛙与白发人物额头相贴"
+      },
+      "description": {
+        "en": "In a close scene by a glowing hearth, a white-haired person cups the sides of Naiwa’s head and touches forehead to forehead with it. Both have their eyes closed; a moonlit window is visible behind them.",
+        "zh": "炉火照亮的近景中，白发人物双手托住奶蛙头部两侧，与它额头相贴。两者都闭着眼，后方可见月光中的窗户。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "forehead touch",
+          "head cupped in hands",
+          "closed eyes",
+          "hearth",
+          "close interaction",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "额头相贴",
+          "双手托头",
+          "闭眼",
+          "炉火",
+          "近距离互动",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s8.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s8.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/lz_s8.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 576,
+      "frames": 1,
+      "bytes": 34512,
+      "sha256": "810cb856eab6ef8e0aeb8b2e05927c4b34f30e9055743b6c852a76c62cc29f69",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2200",
+      "slug": "dot-naiwa-2200",
+      "file": "originals/nai-wa/dot-naiwa-2200.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "A bun-haired Naiwa offering a banknote to a smaller Naiwa",
+        "zh": "丸子头奶蛙递钞票给较小的奶蛙"
+      },
+      "description": {
+        "en": "A taller Naiwa with brown hair in a bun holds out a banknote while a smaller Naiwa reaches toward it. Both stand beside a gray sofa in a furnished living room, with a tea cup on a low table in the foreground.",
+        "zh": "盘着棕色丸子头的较高奶蛙递出一张钞票，较小的奶蛙伸手朝向它。两者站在布置完整的客厅灰沙发旁，前景矮桌上放着茶杯。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "two Naiwas",
+          "hair bun",
+          "banknote",
+          "reaching hand",
+          "living room",
+          "sofa",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "两只奶蛙",
+          "丸子头",
+          "钞票",
+          "伸手",
+          "客厅",
+          "沙发",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store1.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store1.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store1.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 1279,
+      "frames": 1,
+      "bytes": 73397,
+      "sha256": "6600b8fc99db94eebaa9ff95ac9ec8f13daa461c21cad4d2aca13554ced21e71",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2201",
+      "slug": "dot-naiwa-2201",
+      "file": "originals/nai-wa/dot-naiwa-2201.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa reaching for a packaged snack at a shop counter",
+        "zh": "奶蛙在小店柜台前伸手接包装零食"
+      },
+      "description": {
+        "en": "Naiwa extends one hand toward a yellow snack packet held by the shop attendant across the counter. Shelves, hanging snack bags, lollipops, a refrigerator and a register fill the complete shop scene.",
+        "zh": "奶蛙在柜台前伸出一只手，朝向店员递来的黄色零食包装。完整的小店画面中可见货架、悬挂零食袋、棒棒糖、冰柜与收银设备。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "snack packet",
+          "reaching hand",
+          "shop attendant",
+          "counter",
+          "convenience store",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "零食包装",
+          "伸手",
+          "店员",
+          "柜台",
+          "小卖部",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store2.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store2.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store2.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 1279,
+      "frames": 1,
+      "bytes": 118356,
+      "sha256": "0d683317815f73125d3adbeb95b53afde9ac82946e48fb08b7ea732f53f8dabb",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2202",
+      "slug": "dot-naiwa-2202",
+      "file": "originals/nai-wa/dot-naiwa-2202.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Smiling Naiwa looking down with a hand in its side pocket",
+        "zh": "奶蛙微笑低头、一手插进侧袋"
+      },
+      "description": {
+        "en": "Naiwa tilts its head down and smiles while one hand reaches into a small pocket at its side. It stands beside a shop counter stocked with lollipops and packaged snacks, with a refrigerator and hanging goods behind it.",
+        "zh": "奶蛙歪头向下看并微笑，一只手伸进身体侧面的口袋。它站在摆着棒棒糖和包装零食的柜台旁，后面是冰柜与悬挂商品。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "smiling",
+          "looking down",
+          "hand in pocket",
+          "shop counter",
+          "snacks",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "微笑",
+          "低头看",
+          "手插口袋",
+          "商店柜台",
+          "零食",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store3.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store3.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store3.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 1279,
+      "frames": 1,
+      "bytes": 110165,
+      "sha256": "ab647ba43f4f83314bcc3c1e9e219deec6c33590a96b44751a8c866fa914d9fa",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2203",
+      "slug": "dot-naiwa-2203",
+      "file": "originals/nai-wa/dot-naiwa-2203.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Frowning Naiwa with a hand in its side pocket",
+        "zh": "奶蛙皱眉撇嘴、一手插进侧袋"
+      },
+      "description": {
+        "en": "Naiwa holds one hand inside its side pocket, with furrowed brows and a downturned mouth instead of a smile. The full shop scene shows a counter, lollipops, hanging snack bags and a refrigerator.",
+        "zh": "奶蛙一只手放在侧面口袋里，眉头紧皱、嘴角下撇，不再微笑。完整商店场景中可见柜台、棒棒糖、悬挂零食袋与冰柜。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "angry",
+        "en": "Angry",
+        "zh": "生气"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "frowning",
+          "downturned mouth",
+          "hand in pocket",
+          "shop counter",
+          "reaction",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "皱眉",
+          "下撇嘴",
+          "手插口袋",
+          "商店柜台",
+          "反应",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store4.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store4.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store4.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 1279,
+      "frames": 1,
+      "bytes": 112335,
+      "sha256": "d005f5815c26b5dafc218f349241ec96ecc9205ee336d8c82d0910a5d70535c1",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2204",
+      "slug": "dot-naiwa-2204",
+      "file": "originals/nai-wa/dot-naiwa-2204.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa looking up at a shop attendant with a downturned mouth",
+        "zh": "奶蛙撇嘴抬眼看向店员"
+      },
+      "description": {
+        "en": "Naiwa stands with both arms down and lifts its eyes toward the attendant leaning across the counter. Its brows rise at the center and its mouth turns down; snack displays and a register remain visible around them.",
+        "zh": "奶蛙双臂垂在身侧，抬眼看向探身越过柜台的店员。它的眉毛中间抬起、嘴角下撇，周围仍可见零食陈列与收银设备。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "sad",
+        "en": "Sad",
+        "zh": "难过"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "looking up",
+          "downturned mouth",
+          "arms down",
+          "shop attendant",
+          "interaction",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "抬眼",
+          "下撇嘴",
+          "双臂垂下",
+          "店员",
+          "互动",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store5.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store5.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store5.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 1279,
+      "frames": 1,
+      "bytes": 122881,
+      "sha256": "2f04da5038bee7e6783d2b281b2ef207a55764e5a628915bbff4e59c493a4938",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2205",
+      "slug": "dot-naiwa-2205",
+      "file": "originals/nai-wa/dot-naiwa-2205.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa walking away as a shop attendant raises a palm",
+        "zh": "奶蛙低头走开、店员抬起手掌"
+      },
+      "description": {
+        "en": "Naiwa turns away from the shop counter and steps forward with its head lowered and arms hanging. Behind it, the attendant raises an open palm; the shop entrance and stocked counter remain in view.",
+        "zh": "奶蛙转身离开柜台，垂头、双臂下垂地迈步向前。后方店员抬起张开的手掌，商店入口与摆满货品的柜台仍在画面中。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "sad",
+        "en": "Sad",
+        "zh": "难过"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "walking away",
+          "head lowered",
+          "open palm",
+          "shop attendant",
+          "shop entrance",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "走开",
+          "低头",
+          "张开手掌",
+          "店员",
+          "商店入口",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store6.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store6.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store6.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 1279,
+      "frames": 1,
+      "bytes": 116462,
+      "sha256": "54436335886cf203c8f4407a908253d9907bfec0e3eeff35174bf3e923c6a7ff",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2206",
+      "slug": "dot-naiwa-2206",
+      "file": "originals/nai-wa/dot-naiwa-2206.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa walking with a horned companion and snacks",
+        "zh": "奶蛙拿着零食与有角伙伴同行"
+      },
+      "description": {
+        "en": "Naiwa walks along a leafy street holding a small snack piece and turning toward a furry yellow horned companion. The companion has a pink muzzle and carries an open snack bag; it is not identified as an official Naiwa family member.",
+        "zh": "奶蛙沿绿树下的街道走着，手拿一小片零食，转头朝向身旁毛绒黄色有角伙伴。伙伴长着粉色口鼻、拿着打开的零食袋，不将它命名为官方奶蛙家族成员。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "walking together",
+          "snack piece",
+          "horned companion",
+          "snack bag",
+          "tree-lined street",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "同行",
+          "零食片",
+          "有角伙伴",
+          "零食袋",
+          "林荫街道",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store7.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store7.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/store7.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 720,
+      "height": 1279,
+      "frames": 1,
+      "bytes": 111130,
+      "sha256": "ee12b37c32b542ac65562e6e8bb0258f952eb96c372401207bb3cd4002185fe2",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2207",
+      "slug": "dot-naiwa-2207",
+      "file": "originals/nai-wa/dot-naiwa-2207.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa seen from behind walking toward the sunset",
+        "zh": "从背后看奶蛙朝夕阳走去"
+      },
+      "description": {
+        "en": "A rounded yellow Naiwa is shown from behind mid-step on a quiet street, with dark hands hanging at its sides. Trees, fences and overhead wires frame the low sun, and the figure casts a long shadow on the road; its face is not visible.",
+        "zh": "圆身黄色奶蛙背对画面，在安静街道上迈步，深色双手垂在身侧。树木、围栏与架空电线围住低垂夕阳，身影在路面投下长长的影子；本图看不到脸。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "rear view",
+          "walking",
+          "sunset",
+          "long shadow",
+          "quiet street",
+          "visual novel scene",
+          "Naiwa Milk Candy",
+          "art reinterpretation"
+        ],
+        "zh": [
+          "奶蛙",
+          "背面",
+          "行走",
+          "夕阳",
+          "长影",
+          "安静街道",
+          "剧情场景",
+          "奶蛙的牛奶糖",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [
+        "milk-candy"
+      ],
+      "sourceURLs": [
+        "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/test_s3.jpg",
+        "https://raw.githubusercontent.com/aidemengbb/naiwa/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/test_s3.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/aidemengbb/naiwa/blob/541beba1b88fc4d5a74ea79197246e3b2e974570/assets/cg/test_s3.jpg",
+        "sourceNotes": {
+          "en": "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+          "zh": "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository inclusion does not establish permission or authorship. No verified license for these illustrations or third-party character, human depiction, background or product marks was found. Existing public bytes and visible marks are preserved; no official character-family or commercial endorsement is asserted.",
+        "unknown",
+        "公开仓库收录不等于已获授权或核实作者。未查到这些插画、第三方角色、人物描绘、背景或商品标记的可核实使用许可。保留已有公开原字节与可见标记，不声称官方家族设定或商业背书。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 760,
+      "height": 1350,
+      "frames": 1,
+      "bytes": 110536,
+      "sha256": "4473e5623e644cc5e68f2cbc2d23680e772b33c3041be6c2676a14ad24b8f5d5",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2208",
+      "slug": "dot-naiwa-2208",
+      "file": "originals/nai-dan/dot-naiwa-2208.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa-like character holding a birthday cake among animal companions",
+        "zh": "奶蛙样角色与动物伙伴一起捧生日蛋糕"
+      },
+      "description": {
+        "en": "A rounded yellow, green-ringed-eyed character in a party hat holds a strawberry-topped cake with one lit candle. A blue cat with glasses, a blue shark, a long-eared yellow animal and a horned yellow animal gather around it amid wrapped gifts, balloons, string lights and a HAPPY BIRTHDAY banner. The complete published group illustration is retained as one image.",
+        "zh": "戴生日帽的圆身黄色绿环眼角色捧着草莓装饰的蛋糕，上有一根点燃的蜡烛。戴眼镜的蓝猫、蓝鲨、黄色长耳动物和黄色有角动物围在旁边，周围摆着礼物、气球、串灯及“HAPPY BIRTHDAY”横幅。保留整幅公开群像插画，只作为一张完整图。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa-like variant",
+          "birthday",
+          "cake",
+          "candle",
+          "party hat",
+          "animal companions",
+          "gifts",
+          "balloons"
+        ],
+        "zh": [
+          "奶蛙样变体",
+          "生日",
+          "蛋糕",
+          "蜡烛",
+          "生日帽",
+          "动物伙伴",
+          "礼物",
+          "气球"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/66970010-boop/frog-miner/blob/a991483f341df1ce356959e4559d033704eaeee3/assets/birthday-card.jpg",
+        "https://raw.githubusercontent.com/66970010-boop/frog-miner/a991483f341df1ce356959e4559d033704eaeee3/assets/birthday-card.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/66970010-boop/frog-miner/blob/a991483f341df1ce356959e4559d033704eaeee3/assets/birthday-card.jpg",
+        "sourceNotes": {
+          "en": "The repository declares MIT for the project/software and credits its contributors for art and implementation. This does not independently verify ownership or permission for the depicted characters, underlying illustration or other third-party material. Original public bytes and visible lettering are preserved; no official character-family or commercial authorization is asserted.",
+          "zh": "仓库声明项目/软件采用MIT许可，并将美术与实现归功于贡献者；这不能独立核实所描绘角色、底层插画或其他第三方材料的权属和授权。保留公开原字节与可见文字，不声称官方家族设定或商用授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The repository declares MIT for the project/software and credits its contributors for art and implementation. This does not independently verify ownership or permission for the depicted characters, underlying illustration or other third-party material. Original public bytes and visible lettering are preserved; no official character-family or commercial authorization is asserted.",
+        "unknown",
+        "仓库声明项目/软件采用MIT许可，并将美术与实现归功于贡献者；这不能独立核实所描绘角色、底层插画或其他第三方材料的权属和授权。保留公开原字节与可见文字，不声称官方家族设定或商用授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1619,
+      "height": 971,
+      "frames": 1,
+      "bytes": 174930,
+      "sha256": "531111f955326005805dcd042b99eda7903620c3cb3a603cb00cc56054274630",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2209",
+      "slug": "dot-naiwa-2209",
+      "file": "originals/nai-dan/dot-naiwa-2209.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa-like figure in a pink frilled dress and bow bonnet",
+        "zh": "奶蛙样角色穿粉色花边裙戴蝴蝶结软帽"
+      },
+      "description": {
+        "en": "A small rounded yellow figure with green-ringed eyes wears a pink frilled dress with bows, a matching ruffled bonnet and pink shoes. Its head and torso tilt slightly to one side while one hand is raised beside the face. The complete published transparent PNG is retained.",
+        "zh": "小小的圆身黄色绿环眼角色穿着带蝴蝶结的粉色花边裙，戴配套褶边软帽、穿粉鞋。头身略向一侧倾斜，一只手举在脸旁。保留完整公开透明PNG。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa-like variant",
+          "pink dress",
+          "frills",
+          "bow bonnet",
+          "raised hand",
+          "costume"
+        ],
+        "zh": [
+          "奶蛙样变体",
+          "粉色裙",
+          "花边",
+          "蝴蝶结软帽",
+          "举手",
+          "装扮"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/66970010-boop/frog-miner/blob/a991483f341df1ce356959e4559d033704eaeee3/assets/frog-rare-2.png",
+        "https://raw.githubusercontent.com/66970010-boop/frog-miner/a991483f341df1ce356959e4559d033704eaeee3/assets/frog-rare-2.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/66970010-boop/frog-miner/blob/a991483f341df1ce356959e4559d033704eaeee3/assets/frog-rare-2.png",
+        "sourceNotes": {
+          "en": "The repository declares MIT for the project/software and credits its contributors for art and implementation. This does not independently verify ownership or permission for the depicted characters, underlying illustration or other third-party material. Original public bytes and visible lettering are preserved; no official character-family or commercial authorization is asserted.",
+          "zh": "仓库声明项目/软件采用MIT许可，并将美术与实现归功于贡献者；这不能独立核实所描绘角色、底层插画或其他第三方材料的权属和授权。保留公开原字节与可见文字，不声称官方家族设定或商用授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The repository declares MIT for the project/software and credits its contributors for art and implementation. This does not independently verify ownership or permission for the depicted characters, underlying illustration or other third-party material. Original public bytes and visible lettering are preserved; no official character-family or commercial authorization is asserted.",
+        "unknown",
+        "仓库声明项目/软件采用MIT许可，并将美术与实现归功于贡献者；这不能独立核实所描绘角色、底层插画或其他第三方材料的权属和授权。保留公开原字节与可见文字，不声称官方家族设定或商用授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 100,
+      "height": 160,
+      "frames": 1,
+      "bytes": 13871,
+      "sha256": "22e359baceda8da09d86af7f6a7230e977d22d61d4c9982a6f25bc266ef2a9b8",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2210",
+      "slug": "dot-naiwa-2210",
+      "file": "originals/nai-dan/dot-naiwa-2210.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa-like figure in a beret and scarf holding a drawing board",
+        "zh": "奶蛙样角色戴贝雷帽围围巾手持画板"
+      },
+      "description": {
+        "en": "A rounded yellow, green-ringed-eyed figure wears a black beret, round glasses and a brown scarf. It holds a slim drawing implement upright in one hand and a rectangular board bearing a small line drawing in the other. This is a complete published static costume-and-prop image, not a drawing animation.",
+        "zh": "圆身黄色绿环眼角色戴黑色贝雷帽、圆框眼镜，围棕色围巾。一只手竖拿细长绘画工具，另一只手拿着有小幅线条图的长方形画板。这是完整公开的静态装扮与道具图，并非绘画动作动画。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa-like variant",
+          "beret",
+          "round glasses",
+          "scarf",
+          "drawing board",
+          "drawing tool"
+        ],
+        "zh": [
+          "奶蛙样变体",
+          "贝雷帽",
+          "圆框眼镜",
+          "围巾",
+          "画板",
+          "绘画工具"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/66970010-boop/frog-miner/blob/a991483f341df1ce356959e4559d033704eaeee3/assets/frog-rare-3.png",
+        "https://raw.githubusercontent.com/66970010-boop/frog-miner/a991483f341df1ce356959e4559d033704eaeee3/assets/frog-rare-3.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/66970010-boop/frog-miner/blob/a991483f341df1ce356959e4559d033704eaeee3/assets/frog-rare-3.png",
+        "sourceNotes": {
+          "en": "The repository declares MIT for the project/software and credits its contributors for art and implementation. This does not independently verify ownership or permission for the depicted characters, underlying illustration or other third-party material. Original public bytes and visible lettering are preserved; no official character-family or commercial authorization is asserted.",
+          "zh": "仓库声明项目/软件采用MIT许可，并将美术与实现归功于贡献者；这不能独立核实所描绘角色、底层插画或其他第三方材料的权属和授权。保留公开原字节与可见文字，不声称官方家族设定或商用授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The repository declares MIT for the project/software and credits its contributors for art and implementation. This does not independently verify ownership or permission for the depicted characters, underlying illustration or other third-party material. Original public bytes and visible lettering are preserved; no official character-family or commercial authorization is asserted.",
+        "unknown",
+        "仓库声明项目/软件采用MIT许可，并将美术与实现归功于贡献者；这不能独立核实所描绘角色、底层插画或其他第三方材料的权属和授权。保留公开原字节与可见文字，不声称官方家族设定或商用授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 100,
+      "height": 160,
+      "frames": 1,
+      "bytes": 14294,
+      "sha256": "247a37cb95e91625c8d23669e213b8fd4d6ae2df86e31defb87a01ae27e9104f",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2211",
+      "slug": "dot-naiwa-2211",
+      "file": "originals/nai-wa/dot-naiwa-2211.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa reclining with a large rounded belly and its tongue out",
+        "zh": "奶蛙鼓着大圆肚斜躺并吐舌"
+      },
+      "description": {
+        "en": "A yellow, green-ringed-eyed Naiwa-like figure reclines with its head tilted back and its tongue visible. An enlarged rounded belly fills the center, its legs spread toward the viewer, and a visible hand braces against the ground at the side. The complete original static pose is preserved; the production method is not known.",
+        "zh": "黄色绿环眼的奶蛙样角色仰头斜躺，嘴里露出舌头。放大的圆腹占据中央，双腿朝向视角张开，侧边一只可见手撑在地上。保留完整原静态姿势，制作方法未知。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa-like variant",
+          "reclining",
+          "tongue out",
+          "rounded belly",
+          "spread legs",
+          "supporting hand"
+        ],
+        "zh": [
+          "奶蛙样变体",
+          "斜躺",
+          "吐舌",
+          "圆腹",
+          "张腿",
+          "撑地手"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/66970010-boop/frog-miner/blob/a991483f341df1ce356959e4559d033704eaeee3/assets/frog-rare-42.webp",
+        "https://raw.githubusercontent.com/66970010-boop/frog-miner/a991483f341df1ce356959e4559d033704eaeee3/assets/frog-rare-42.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/66970010-boop/frog-miner/blob/a991483f341df1ce356959e4559d033704eaeee3/assets/frog-rare-42.webp",
+        "sourceNotes": {
+          "en": "The repository declares MIT for the project/software and credits its contributors for art and implementation. This does not independently verify ownership or permission for the depicted characters, underlying illustration or other third-party material. Original public bytes and visible lettering are preserved; no official character-family or commercial authorization is asserted.",
+          "zh": "仓库声明项目/软件采用MIT许可，并将美术与实现归功于贡献者；这不能独立核实所描绘角色、底层插画或其他第三方材料的权属和授权。保留公开原字节与可见文字，不声称官方家族设定或商用授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The repository declares MIT for the project/software and credits its contributors for art and implementation. This does not independently verify ownership or permission for the depicted characters, underlying illustration or other third-party material. Original public bytes and visible lettering are preserved; no official character-family or commercial authorization is asserted.",
+        "unknown",
+        "仓库声明项目/软件采用MIT许可，并将美术与实现归功于贡献者；这不能独立核实所描绘角色、底层插画或其他第三方材料的权属和授权。保留公开原字节与可见文字，不声称官方家族设定或商用授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 504,
+      "height": 421,
+      "frames": 1,
+      "bytes": 16598,
+      "sha256": "5b969758e3293016e354bf79ced4946f31923c0225762577921d84d66a93657f",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2212",
+      "slug": "dot-naiwa-2212",
+      "file": "originals/unclassified/dot-naiwa-2212.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa-like figure in pale-blue robes holding an open folding fan",
+        "zh": "奶蛙样角色穿浅蓝长袍手持展开折扇"
+      },
+      "description": {
+        "en": "A rounded yellow figure with large green-ringed eyes and a short nostril-less mouth wears layered pale-blue and white robes, a tied belt and dark hair gathered into a ribboned topknot. One hand holds an open folding fan with bamboo-like ink marks; the other rests beside the robe. No historical person, official family role or maker is identified.",
+        "zh": "圆黄色角色有大绿环眼和无鼻孔的短嘴，穿浅蓝与白色叠层长袍、束腰带，深色头发梳成系带发髻。一只手拿着带竹枝样水墨线条的展开折扇，另一只手放在袍侧。不辨认历史人物、官方家族角色或制作者。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa-like variant",
+          "pale-blue robe",
+          "folding fan",
+          "topknot",
+          "ribbon",
+          "traditional-style costume"
+        ],
+        "zh": [
+          "奶蛙样变体",
+          "浅蓝长袍",
+          "折扇",
+          "发髻",
+          "发带",
+          "古风装扮"
+        ]
+      },
+      "series": {
+        "id": "unclassified",
+        "label": {
+          "en": "Unclassified",
+          "zh": "待分类"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/66970010-boop/frog-miner/blob/a991483f341df1ce356959e4559d033704eaeee3/assets/frog-rare-45.webp",
+        "https://raw.githubusercontent.com/66970010-boop/frog-miner/a991483f341df1ce356959e4559d033704eaeee3/assets/frog-rare-45.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/66970010-boop/frog-miner/blob/a991483f341df1ce356959e4559d033704eaeee3/assets/frog-rare-45.webp",
+        "sourceNotes": {
+          "en": "The repository declares MIT for the project/software and credits its contributors for art and implementation. This does not independently verify ownership or permission for the depicted characters, underlying illustration or other third-party material. Original public bytes and visible lettering are preserved; no official character-family or commercial authorization is asserted.",
+          "zh": "仓库声明项目/软件采用MIT许可，并将美术与实现归功于贡献者；这不能独立核实所描绘角色、底层插画或其他第三方材料的权属和授权。保留公开原字节与可见文字，不声称官方家族设定或商用授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The repository declares MIT for the project/software and credits its contributors for art and implementation. This does not independently verify ownership or permission for the depicted characters, underlying illustration or other third-party material. Original public bytes and visible lettering are preserved; no official character-family or commercial authorization is asserted.",
+        "unknown",
+        "仓库声明项目/软件采用MIT许可，并将美术与实现归功于贡献者；这不能独立核实所描绘角色、底层插画或其他第三方材料的权属和授权。保留公开原字节与可见文字，不声称官方家族设定或商用授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1059,
+      "height": 1679,
+      "frames": 1,
+      "bytes": 59730,
+      "sha256": "232a267b56921aa893cddded7baf545587e5c168b573fa919d8599f046c2c93d",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2213",
+      "slug": "dot-naiwa-2213",
+      "file": "originals/nai-wa/dot-naiwa-2213.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Three-headed Naiwa, kangaroo and cow hybrid",
+        "zh": "奶蛙、袋鼠与牛三头融合体"
+      },
+      "description": {
+        "en": "A small yellow three-headed creature stands on a pale floor. Its central green-eyed Naiwa-like head is flanked by a long-eared kangaroo-like head on the left and a cow-like head with a pink muzzle on the right; the shared body has a pale belly and dark hooves.",
+        "zh": "浅色地面上站着黄色三头小兽：中间是绿眼奶蛙样头部，左侧是长耳袋鼠样头部，右侧是粉色口鼻的牛头；共用躯干带浅色腹部和深色蹄子。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "kangaroo",
+          "cow",
+          "three heads",
+          "hybrid"
+        ],
+        "zh": [
+          "奶蛙",
+          "袋鼠",
+          "牛",
+          "三头",
+          "融合"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://fs.img4399.com/bbs/202609/9/2026002549203/6hb8iRaW0m.1260x1464.jpg",
+        "https://www.4399.com/pcgame/topic/54096268.html"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://www.4399.com/pcgame/topic/54096268.html",
+        "sourceNotes": {
+          "en": "Public article repost; original creator and redistribution permission not established.",
+          "zh": "公开文章转载，未确认原作者或再分发许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public article repost; original creator and redistribution permission not established.",
+        "unknown",
+        "公开文章转载，未确认原作者或再分发许可。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1260,
+      "height": 1464,
+      "frames": 1,
+      "bytes": 80823,
+      "sha256": "5ef127392227f12a5977b5ec9df7da69ae0e43c92f291dccfb42355064dbd252",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2214",
+      "slug": "dot-naiwa-2214",
+      "file": "originals/nai-wa/dot-naiwa-2214.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa, kangaroo and cow tumble through the air and land",
+        "zh": "奶蛙、袋鼠与牛空中翻滚后落地"
+      },
+      "description": {
+        "en": "Three yellow characters tumble together through a waterfront industrial scene, rise into the sky and land in sequence. The closing shot shows a kangaroo-like character at left, a green-eyed Naiwa crouching in the centre and a cow-like character at right. Existing small upper-left video watermark remains intact.",
+        "zh": "三个黄色角色在临水工业场景中一同腾空翻滚、升入天空，随后依次落地。结尾左侧是袋鼠样角色，中央绿眼奶蛙俯身蹲地，右侧是牛样角色。保留原有左上角小型视频水印。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "kangaroo",
+          "cow",
+          "tumble",
+          "landing",
+          "team"
+        ],
+        "zh": [
+          "奶蛙",
+          "袋鼠",
+          "牛",
+          "翻滚",
+          "落地",
+          "三人组"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://fs.img4399.com/bbs/202609/9/2026002549205/p6AH0RULeC.480x270.gif",
+        "https://www.4399.com/pcgame/topic/54096268.html"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://www.4399.com/pcgame/topic/54096268.html",
+        "sourceNotes": {
+          "en": "Public article repost; original animator and redistribution license are not verified. Article is not proof of ownership.",
+          "zh": "公开文章转载；未核实原动画作者或再分发许可。文章发布不代表拥有版权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public article repost; original animator and redistribution license are not verified. Article is not proof of ownership.",
+        "unknown",
+        "公开文章转载；未核实原动画作者或再分发许可。文章发布不代表拥有版权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 480,
+      "height": 270,
+      "frames": 66,
+      "bytes": 2675290,
+      "sha256": "78b5800e2a86dc6c1317326effd1a22244707330d01b2c08696b532169960af9",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2215",
+      "slug": "dot-naiwa-2215",
+      "file": "originals/nai-wa/dot-naiwa-2215.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Illustrated Naiwa trio striking dramatic poses",
+        "zh": "奶蛙三人组夸张站姿插画"
+      },
+      "description": {
+        "en": "A painted trio stands against a pink backdrop: a yellow kangaroo-like character bends one arm upward at left, green-eyed Naiwa poses with crossed legs and a hand at its hip in the centre, and a brown horned cow-like character crosses its arms at right.",
+        "zh": "粉色背景前的绘画三人组：左侧黄色袋鼠样角色举起弯曲手臂，中央绿眼奶蛙交叉双腿、一手搭在胯边，右侧棕色带角牛样角色交叉双臂。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "kangaroo",
+          "cow",
+          "trio"
+        ],
+        "zh": [
+          "奶蛙",
+          "袋鼠",
+          "牛",
+          "三人组"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://fs.img4399.com/bbs/202609/9/2026002549243/5PLA2xX9B3.1080x1092.jpg",
+        "https://www.4399.com/pcgame/topic/54096268.html"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://www.4399.com/pcgame/topic/54096268.html",
+        "sourceNotes": {
+          "en": "Public article repost; original creator and redistribution license not verified. Fan descriptions are not official family canon.",
+          "zh": "公开文章转载；未确认原作者和再分发许可。同人描述并非官方家族设定。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public article repost; original creator and redistribution license not verified. Fan descriptions are not official family canon.",
+        "unknown",
+        "公开文章转载；未确认原作者和再分发许可。同人描述并非官方家族设定。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1092,
+      "frames": 1,
+      "bytes": 128436,
+      "sha256": "4acbe1cd2849f122c4c475ed637171f052906d7d66f90e16c8d003538359be34",
       "collectedAt": "2026-11-01"
     },
     {
