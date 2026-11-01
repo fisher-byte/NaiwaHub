@@ -9,14 +9,14 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "assets": 2569,
-    "originalFiles": 2568,
+    "assets": 2575,
+    "originalFiles": 2574,
     "convertedPreviews": 1,
-    "uniqueSHA256": 2569,
-    "bytes": 1803095516,
+    "uniqueSHA256": 2575,
+    "bytes": 1820024708,
     "largestFileBytes": 12467365,
     "excludedCommunityOrRetired": 0,
-    "rightsUnknown": 2543,
+    "rightsUnknown": 2549,
     "missingPublicSourceURL": 52,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
@@ -165830,6 +165830,512 @@
       "frames": 1,
       "bytes": 128436,
       "sha256": "4acbe1cd2849f122c4c475ed637171f052906d7d66f90e16c8d003538359be34",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2216",
+      "slug": "dot-naiwa-2216",
+      "file": "originals/nai-wa/dot-naiwa-2216.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa blowing bubbles while seated",
+        "zh": "奶蛙坐着吹泡泡"
+      },
+      "description": {
+        "en": "Naiwa sits on a low rectangular block, holds a small bottle of green liquid in one hand, and raises a purple loop wand to its mouth with the other. Several translucent bubbles expand and drift outward before the wand lowers.",
+        "zh": "奶蛙坐在矮长方块上，一手拿着装有绿色液体的小瓶，另一手把紫色圆环泡泡棒举到嘴边。多个半透明泡泡逐渐变大并向外飘，随后泡泡棒放低。"
+      },
+      "type": "gif",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "seated",
+          "bubble wand",
+          "green bottle",
+          "blowing bubbles",
+          "floating bubbles",
+          "complete animated WebP"
+        ],
+        "zh": [
+          "奶蛙",
+          "坐姿",
+          "泡泡棒",
+          "绿液小瓶",
+          "吹泡泡",
+          "漂浮泡泡",
+          "完整动态WebP"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/Noboru2UTokyo/naifrog-on-desk/blob/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/bubble.webp",
+        "https://raw.githubusercontent.com/Noboru2UTokyo/naifrog-on-desk/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/bubble.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/Noboru2UTokyo/naifrog-on-desk/blob/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/bubble.webp",
+        "sourceNotes": {
+          "en": "The community fork credits Noboru2UTokyo for creative direction and adaptation, while explicitly retaining underlying Naiwa character and original-media rights with their respective rights holders. The software AGPL-3.0-only license does not establish a license for this character artwork. Public availability and the project's own release approval are not third-party IP authorization. Original artist/character permissions remain unverified; no installer or project code was executed. The publisher describes its supplemental animations as AI-assisted, using Full MiniMax H3. This file SHA and frame count match the published registry; the model attribution is the publisher claim.",
+          "zh": "社区分支把创意方向与改编工作归于Noboru2UTokyo，同时明确奶蛙角色及原始媒体权利仍属各自权利人。软件AGPL-3.0-only许可证不等于该角色美术授权。公开可访问及项目自己的发布批准均不代表第三方IP授权；原作者与角色使用许可未核实。没有执行安装器或项目代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源说明补充动画使用AI辅助制作，标称Full MiniMax H3；本文件SHA和帧数与来源登记表相符，模型名称属于发布者自述。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The community fork credits Noboru2UTokyo for creative direction and adaptation, while explicitly retaining underlying Naiwa character and original-media rights with their respective rights holders. The software AGPL-3.0-only license does not establish a license for this character artwork. Public availability and the project's own release approval are not third-party IP authorization. Original artist/character permissions remain unverified; no installer or project code was executed. The publisher describes its supplemental animations as AI-assisted, using Full MiniMax H3. This file SHA and frame count match the published registry; the model attribution is the publisher claim.",
+        "unknown",
+        "社区分支把创意方向与改编工作归于Noboru2UTokyo，同时明确奶蛙角色及原始媒体权利仍属各自权利人。软件AGPL-3.0-only许可证不等于该角色美术授权。公开可访问及项目自己的发布批准均不代表第三方IP授权；原作者与角色使用许可未核实。没有执行安装器或项目代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源说明补充动画使用AI辅助制作，标称Full MiniMax H3；本文件SHA和帧数与来源登记表相符，模型名称属于发布者自述。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 640,
+      "height": 640,
+      "frames": 192,
+      "bytes": 4666574,
+      "sha256": "046d3413af9b0bf673674fd82b2a95600f3845cd0de6237eb3e3c3ebeb345f02",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2217",
+      "slug": "dot-naiwa-2217",
+      "file": "originals/nai-wa/dot-naiwa-2217.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa moving a pen over a clipboard",
+        "zh": "奶蛙拿着夹板写写记记"
+      },
+      "description": {
+        "en": "Standing with a clipboard held in front of its belly, Naiwa moves a dark blue pen against the paper in short strokes, briefly lifts the pen, and returns it toward the page. Its eyes blink and its head makes small movements; no legible written text is visible.",
+        "zh": "奶蛙站着把夹板托在腹前，用深蓝色笔在纸面上做短促笔划，短暂抬笔后又把笔移回纸页。期间有眨眼和小幅头部动作，画面没有可辨读的书写内容。"
+      },
+      "type": "gif",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "clipboard",
+          "pen",
+          "writing motion",
+          "short strokes",
+          "standing",
+          "complete animated WebP"
+        ],
+        "zh": [
+          "奶蛙",
+          "夹板",
+          "笔",
+          "书写动作",
+          "短笔划",
+          "站姿",
+          "完整动态WebP"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/Noboru2UTokyo/naifrog-on-desk/blob/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/work-notes.webp",
+        "https://raw.githubusercontent.com/Noboru2UTokyo/naifrog-on-desk/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/work-notes.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/Noboru2UTokyo/naifrog-on-desk/blob/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/work-notes.webp",
+        "sourceNotes": {
+          "en": "The community fork credits Noboru2UTokyo for creative direction and adaptation, while explicitly retaining underlying Naiwa character and original-media rights with their respective rights holders. The software AGPL-3.0-only license does not establish a license for this character artwork. Public availability and the project's own release approval are not third-party IP authorization. Original artist/character permissions remain unverified; no installer or project code was executed. The theme README describes its supplemental animation production as AI-assisted and lists reading and note-taking as auxiliary actions. This file is absent from its ten-item approved-assets registry; the exact model attribution for this file is unverified.",
+          "zh": "社区分支把创意方向与改编工作归于Noboru2UTokyo，同时明确奶蛙角色及原始媒体权利仍属各自权利人。软件AGPL-3.0-only许可证不等于该角色美术授权。公开可访问及项目自己的发布批准均不代表第三方IP授权；原作者与角色使用许可未核实。没有执行安装器或项目代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源主题说明把补充动画列为AI辅助制作，并列出阅读、记笔记辅助动作；该文件不在十项approved-assets登记表中，具体模型归属未核实。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The community fork credits Noboru2UTokyo for creative direction and adaptation, while explicitly retaining underlying Naiwa character and original-media rights with their respective rights holders. The software AGPL-3.0-only license does not establish a license for this character artwork. Public availability and the project's own release approval are not third-party IP authorization. Original artist/character permissions remain unverified; no installer or project code was executed. The theme README describes its supplemental animation production as AI-assisted and lists reading and note-taking as auxiliary actions. This file is absent from its ten-item approved-assets registry; the exact model attribution for this file is unverified.",
+        "unknown",
+        "社区分支把创意方向与改编工作归于Noboru2UTokyo，同时明确奶蛙角色及原始媒体权利仍属各自权利人。软件AGPL-3.0-only许可证不等于该角色美术授权。公开可访问及项目自己的发布批准均不代表第三方IP授权；原作者与角色使用许可未核实。没有执行安装器或项目代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源主题说明把补充动画列为AI辅助制作，并列出阅读、记笔记辅助动作；该文件不在十项approved-assets登记表中，具体模型归属未核实。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 640,
+      "height": 640,
+      "frames": 85,
+      "bytes": 1505094,
+      "sha256": "5dfbf591ee1e30f77b68cdfefd8dc525fbb929e02678782fb565101853e53ff5",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2218",
+      "slug": "dot-naiwa-2218",
+      "file": "originals/nai-wa/dot-naiwa-2218.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa opening its eyes and pushing itself up from lying down",
+        "zh": "奶蛙睁眼后撑地起身"
+      },
+      "description": {
+        "en": "Beginning face down with its head resting near its forearms, Naiwa opens its eyes, raises its head and torso, braces its hands on the ground, brings its legs underneath, and rises to an upright stance with its hands returning to the belly.",
+        "zh": "奶蛙起初俯卧，头靠近前臂；随后睁开眼睛，抬起头和躯干，用双手撑地，把双腿收至身下，最后站直并把双手收回腹前。"
+      },
+      "type": "gif",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "lying down",
+          "eyes opening",
+          "hands on ground",
+          "pushing up",
+          "standing up",
+          "complete animated WebP"
+        ],
+        "zh": [
+          "奶蛙",
+          "俯卧",
+          "睁眼",
+          "双手撑地",
+          "撑起身体",
+          "起身站立",
+          "完整动态WebP"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/Noboru2UTokyo/naifrog-on-desk/blob/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/waking.webp",
+        "https://raw.githubusercontent.com/Noboru2UTokyo/naifrog-on-desk/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/waking.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/Noboru2UTokyo/naifrog-on-desk/blob/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/waking.webp",
+        "sourceNotes": {
+          "en": "The community fork credits Noboru2UTokyo for creative direction and adaptation, while explicitly retaining underlying Naiwa character and original-media rights with their respective rights holders. The software AGPL-3.0-only license does not establish a license for this character artwork. Public availability and the project's own release approval are not third-party IP authorization. Original artist/character permissions remain unverified; no installer or project code was executed. The publisher describes its supplemental animations as AI-assisted, using Full MiniMax H3. This file SHA and frame count match the published registry; the model attribution is the publisher claim.",
+          "zh": "社区分支把创意方向与改编工作归于Noboru2UTokyo，同时明确奶蛙角色及原始媒体权利仍属各自权利人。软件AGPL-3.0-only许可证不等于该角色美术授权。公开可访问及项目自己的发布批准均不代表第三方IP授权；原作者与角色使用许可未核实。没有执行安装器或项目代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源说明补充动画使用AI辅助制作，标称Full MiniMax H3；本文件SHA和帧数与来源登记表相符，模型名称属于发布者自述。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The community fork credits Noboru2UTokyo for creative direction and adaptation, while explicitly retaining underlying Naiwa character and original-media rights with their respective rights holders. The software AGPL-3.0-only license does not establish a license for this character artwork. Public availability and the project's own release approval are not third-party IP authorization. Original artist/character permissions remain unverified; no installer or project code was executed. The publisher describes its supplemental animations as AI-assisted, using Full MiniMax H3. This file SHA and frame count match the published registry; the model attribution is the publisher claim.",
+        "unknown",
+        "社区分支把创意方向与改编工作归于Noboru2UTokyo，同时明确奶蛙角色及原始媒体权利仍属各自权利人。软件AGPL-3.0-only许可证不等于该角色美术授权。公开可访问及项目自己的发布批准均不代表第三方IP授权；原作者与角色使用许可未核实。没有执行安装器或项目代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源说明补充动画使用AI辅助制作，标称Full MiniMax H3；本文件SHA和帧数与来源登记表相符，模型名称属于发布者自述。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 640,
+      "height": 640,
+      "frames": 192,
+      "bytes": 3635244,
+      "sha256": "2f8032c4914790c905ad63b415199b2e62d79778d023b750ffd3468ee9cc81ef",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2219",
+      "slug": "dot-naiwa-2219",
+      "file": "originals/nai-wa/dot-naiwa-2219.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa turning pages in an open blue book",
+        "zh": "奶蛙翻阅蓝色书本"
+      },
+      "description": {
+        "en": "Naiwa holds an open blue book in front of its belly. One hand supports the book while the other lifts a page, passes it across the open book, and settles back near the page edge, repeating the page-turning motion.",
+        "zh": "奶蛙把一本摊开的蓝色书本托在腹前。一只手支撑书本，另一只手抬起书页，翻过摊开的书本后回到页边附近，重复翻页动作。"
+      },
+      "type": "gif",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "blue book",
+          "open book",
+          "page turning",
+          "holding book",
+          "reading pose",
+          "complete animated WebP"
+        ],
+        "zh": [
+          "奶蛙",
+          "蓝色书本",
+          "摊开书本",
+          "翻页",
+          "托书",
+          "阅读姿态",
+          "完整动态WebP"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/Noboru2UTokyo/naifrog-on-desk/blob/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/work-reading.webp",
+        "https://raw.githubusercontent.com/Noboru2UTokyo/naifrog-on-desk/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/work-reading.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/Noboru2UTokyo/naifrog-on-desk/blob/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/work-reading.webp",
+        "sourceNotes": {
+          "en": "The community fork credits Noboru2UTokyo for creative direction and adaptation, while explicitly retaining underlying Naiwa character and original-media rights with their respective rights holders. The software AGPL-3.0-only license does not establish a license for this character artwork. Public availability and the project's own release approval are not third-party IP authorization. Original artist/character permissions remain unverified; no installer or project code was executed. The theme README describes its supplemental animation production as AI-assisted and lists reading and note-taking as auxiliary actions. This file is absent from its ten-item approved-assets registry; the exact model attribution for this file is unverified.",
+          "zh": "社区分支把创意方向与改编工作归于Noboru2UTokyo，同时明确奶蛙角色及原始媒体权利仍属各自权利人。软件AGPL-3.0-only许可证不等于该角色美术授权。公开可访问及项目自己的发布批准均不代表第三方IP授权；原作者与角色使用许可未核实。没有执行安装器或项目代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源主题说明把补充动画列为AI辅助制作，并列出阅读、记笔记辅助动作；该文件不在十项approved-assets登记表中，具体模型归属未核实。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The community fork credits Noboru2UTokyo for creative direction and adaptation, while explicitly retaining underlying Naiwa character and original-media rights with their respective rights holders. The software AGPL-3.0-only license does not establish a license for this character artwork. Public availability and the project's own release approval are not third-party IP authorization. Original artist/character permissions remain unverified; no installer or project code was executed. The theme README describes its supplemental animation production as AI-assisted and lists reading and note-taking as auxiliary actions. This file is absent from its ten-item approved-assets registry; the exact model attribution for this file is unverified.",
+        "unknown",
+        "社区分支把创意方向与改编工作归于Noboru2UTokyo，同时明确奶蛙角色及原始媒体权利仍属各自权利人。软件AGPL-3.0-only许可证不等于该角色美术授权。公开可访问及项目自己的发布批准均不代表第三方IP授权；原作者与角色使用许可未核实。没有执行安装器或项目代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源主题说明把补充动画列为AI辅助制作，并列出阅读、记笔记辅助动作；该文件不在十项approved-assets登记表中，具体模型归属未核实。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 640,
+      "height": 640,
+      "frames": 99,
+      "bytes": 1826110,
+      "sha256": "9faf20ac01527d42527b3d5b616f451bd05e806c085dadf4a1dbc6a1e1a9e0c5",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2220",
+      "slug": "dot-naiwa-2220",
+      "file": "originals/nai-wa/dot-naiwa-2220.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa raising and lowering a wooden mallet at a workbench",
+        "zh": "奶蛙戴安全帽在工作台前挥木槌"
+      },
+      "description": {
+        "en": "Wearing a yellow hard hat, Naiwa stands behind a wooden workbench. One hand rests on the work surface while the other repeatedly lifts a rectangular wooden mallet overhead and brings it down to the bench.",
+        "zh": "奶蛙戴着黄色安全帽，站在木工作台后方。一只手放在台面上，另一只手反复把方头木槌举过头顶，再向台面落下。"
+      },
+      "type": "gif",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "hard hat",
+          "wooden mallet",
+          "workbench",
+          "raising arm",
+          "striking work surface",
+          "complete animated WebP"
+        ],
+        "zh": [
+          "奶蛙",
+          "安全帽",
+          "木槌",
+          "工作台",
+          "举臂",
+          "敲击台面",
+          "完整动态WebP"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/Noboru2UTokyo/naifrog-on-desk/blob/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/work-building.webp",
+        "https://raw.githubusercontent.com/Noboru2UTokyo/naifrog-on-desk/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/work-building.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/Noboru2UTokyo/naifrog-on-desk/blob/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/work-building.webp",
+        "sourceNotes": {
+          "en": "The community fork credits Noboru2UTokyo for creative direction and adaptation, while explicitly retaining underlying Naiwa character and original-media rights with their respective rights holders. The software AGPL-3.0-only license does not establish a license for this character artwork. Public availability and the project's own release approval are not third-party IP authorization. Original artist/character permissions remain unverified; no installer or project code was executed. The publisher describes its supplemental animations as AI-assisted, using Full MiniMax H3. This file SHA and frame count match the published registry; the model attribution is the publisher claim.",
+          "zh": "社区分支把创意方向与改编工作归于Noboru2UTokyo，同时明确奶蛙角色及原始媒体权利仍属各自权利人。软件AGPL-3.0-only许可证不等于该角色美术授权。公开可访问及项目自己的发布批准均不代表第三方IP授权；原作者与角色使用许可未核实。没有执行安装器或项目代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源说明补充动画使用AI辅助制作，标称Full MiniMax H3；本文件SHA和帧数与来源登记表相符，模型名称属于发布者自述。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The community fork credits Noboru2UTokyo for creative direction and adaptation, while explicitly retaining underlying Naiwa character and original-media rights with their respective rights holders. The software AGPL-3.0-only license does not establish a license for this character artwork. Public availability and the project's own release approval are not third-party IP authorization. Original artist/character permissions remain unverified; no installer or project code was executed. The publisher describes its supplemental animations as AI-assisted, using Full MiniMax H3. This file SHA and frame count match the published registry; the model attribution is the publisher claim.",
+        "unknown",
+        "社区分支把创意方向与改编工作归于Noboru2UTokyo，同时明确奶蛙角色及原始媒体权利仍属各自权利人。软件AGPL-3.0-only许可证不等于该角色美术授权。公开可访问及项目自己的发布批准均不代表第三方IP授权；原作者与角色使用许可未核实。没有执行安装器或项目代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源说明补充动画使用AI辅助制作，标称Full MiniMax H3；本文件SHA和帧数与来源登记表相符，模型名称属于发布者自述。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 640,
+      "height": 640,
+      "frames": 73,
+      "bytes": 2225608,
+      "sha256": "9299ea8d5e17533270dcc4f8212b3dc74f0ed9dd25d4e73093b761bf109a3869",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2221",
+      "slug": "dot-naiwa-2221",
+      "file": "originals/nai-wa/dot-naiwa-2221.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa typing on a laptop at a small desk",
+        "zh": "奶蛙坐在小桌前用笔记本电脑打字"
+      },
+      "description": {
+        "en": "Naiwa sits on a green stool at a small desk with an open dark laptop. Both hands move over the keyboard in short alternating typing motions while the body and head shift slightly and the eyes blink.",
+        "zh": "奶蛙坐在绿色矮凳上，面前的小桌摆着一台打开的深色笔记本电脑。双手在键盘上交替做短促打字动作，身体与头部轻微移动，期间有眨眼。"
+      },
+      "type": "gif",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "laptop",
+          "keyboard",
+          "typing",
+          "desk",
+          "green stool",
+          "seated",
+          "complete animated WebP"
+        ],
+        "zh": [
+          "奶蛙",
+          "笔记本电脑",
+          "键盘",
+          "打字",
+          "桌子",
+          "绿色矮凳",
+          "坐姿",
+          "完整动态WebP"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/Noboru2UTokyo/naifrog-on-desk/blob/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/working.webp",
+        "https://raw.githubusercontent.com/Noboru2UTokyo/naifrog-on-desk/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/working.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/Noboru2UTokyo/naifrog-on-desk/blob/fc80bc8dc7b23bb4a98ae0399a745c370fcb2f83/themes/naifrog/assets/working.webp",
+        "sourceNotes": {
+          "en": "The community fork credits Noboru2UTokyo for creative direction and adaptation, while explicitly retaining underlying Naiwa character and original-media rights with their respective rights holders. The software AGPL-3.0-only license does not establish a license for this character artwork. Public availability and the project's own release approval are not third-party IP authorization. Original artist/character permissions remain unverified; no installer or project code was executed. The publisher describes its supplemental animations as AI-assisted, using Full MiniMax H3. This file SHA and frame count match the published registry; the model attribution is the publisher claim.",
+          "zh": "社区分支把创意方向与改编工作归于Noboru2UTokyo，同时明确奶蛙角色及原始媒体权利仍属各自权利人。软件AGPL-3.0-only许可证不等于该角色美术授权。公开可访问及项目自己的发布批准均不代表第三方IP授权；原作者与角色使用许可未核实。没有执行安装器或项目代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源说明补充动画使用AI辅助制作，标称Full MiniMax H3；本文件SHA和帧数与来源登记表相符，模型名称属于发布者自述。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The community fork credits Noboru2UTokyo for creative direction and adaptation, while explicitly retaining underlying Naiwa character and original-media rights with their respective rights holders. The software AGPL-3.0-only license does not establish a license for this character artwork. Public availability and the project's own release approval are not third-party IP authorization. Original artist/character permissions remain unverified; no installer or project code was executed. The publisher describes its supplemental animations as AI-assisted, using Full MiniMax H3. This file SHA and frame count match the published registry; the model attribution is the publisher claim.",
+        "unknown",
+        "社区分支把创意方向与改编工作归于Noboru2UTokyo，同时明确奶蛙角色及原始媒体权利仍属各自权利人。软件AGPL-3.0-only许可证不等于该角色美术授权。公开可访问及项目自己的发布批准均不代表第三方IP授权；原作者与角色使用许可未核实。没有执行安装器或项目代码。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源说明补充动画使用AI辅助制作，标称Full MiniMax H3；本文件SHA和帧数与来源登记表相符，模型名称属于发布者自述。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 640,
+      "height": 640,
+      "frames": 121,
+      "bytes": 3070562,
+      "sha256": "7c393ee6ffbc7c2de34174984a024c0cb5f2a0503dfd0ba4d028075f67af41b3",
       "collectedAt": "2026-11-01"
     },
     {
