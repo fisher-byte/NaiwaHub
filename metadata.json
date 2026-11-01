@@ -9,14 +9,14 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "assets": 2342,
-    "originalFiles": 2341,
+    "assets": 2370,
+    "originalFiles": 2369,
     "convertedPreviews": 1,
-    "uniqueSHA256": 2342,
-    "bytes": 1589139758,
+    "uniqueSHA256": 2370,
+    "bytes": 1592363063,
     "largestFileBytes": 12467365,
     "excludedCommunityOrRetired": 0,
-    "rightsUnknown": 2316,
+    "rightsUnknown": 2344,
     "missingPublicSourceURL": 52,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
@@ -146977,6 +146977,2232 @@
       "frames": 39,
       "bytes": 1655717,
       "sha256": "ff3b606cad88ef6a363787e270c426f12c46592bf46e75b5644c36a181822fbc",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1987",
+      "slug": "dot-naiwa-1987",
+      "file": "originals/nai-wa/dot-naiwa-1987.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa clutches its head, then lowers its hands",
+        "zh": "奶蛙抱头烦恼后垂下双手"
+      },
+      "description": {
+        "en": "Naiwa raises both hands to its head with an open-mouthed distressed expression, then bows forward and lowers its hands.",
+        "zh": "奶蛙先抬起双手抓住头部，张嘴皱脸，随后低头弯身并放下双手。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete animation",
+          "public fan artwork",
+          "hands on head",
+          "distress",
+          "head down",
+          "bending forward"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整动图",
+          "公开同人",
+          "抱头",
+          "烦恼",
+          "低头",
+          "弯身"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/andybi0403/naiwa/blob/main/assets/failed.gif",
+        "https://raw.githubusercontent.com/andybi0403/naiwa/main/assets/failed.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/andybi0403/naiwa/blob/main/assets/failed.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Artwork expressly excluded from MIT; no independent artwork license or commercial rights granted. Underlying character rights remain with respective owners. Publicly downloaded for personal archival review.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 来源声明为既有AI辅助同人图像；软件MIT许可明确不涵盖角色美术，不代表素材的开放再使用或商用授权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 8,
+      "bytes": 62920,
+      "sha256": "fa21e0df8f7d0cb5f885828cf0e691e0128e85cbaf165ead3d3ecfca0c47910e",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1988",
+      "slug": "dot-naiwa-1988",
+      "file": "originals/nai-wa/dot-naiwa-1988.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa blinks with both hands on its belly",
+        "zh": "奶蛙扶着肚子眨眼"
+      },
+      "description": {
+        "en": "Facing forward, Naiwa rests both hands at the sides of its pale belly, subtly bobs and closes then reopens its eyes.",
+        "zh": "正面的奶蛙双手扶在浅色肚皮两侧，身体轻微起伏，闭眼后再次睁眼。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete animation",
+          "public fan artwork",
+          "blinking",
+          "hands on belly",
+          "front view",
+          "idle"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整动图",
+          "公开同人",
+          "眨眼",
+          "扶肚子",
+          "正面",
+          "待机"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/andybi0403/naiwa/blob/main/assets/idle.gif",
+        "https://raw.githubusercontent.com/andybi0403/naiwa/main/assets/idle.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/andybi0403/naiwa/blob/main/assets/idle.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Artwork expressly excluded from MIT; no independent artwork license or commercial rights granted. Underlying character rights remain with respective owners. Publicly downloaded for personal archival review.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 来源声明为既有AI辅助同人图像；软件MIT许可明确不涵盖角色美术，不代表素材的开放再使用或商用授权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 49203,
+      "sha256": "ea67b9569e870aba58d6f8ea03a386636b70cc201c129cede29b192c1ae11edc",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1989",
+      "slug": "dot-naiwa-1989",
+      "file": "originals/nai-wa/dot-naiwa-1989.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa jumps while laughing with closed eyes",
+        "zh": "奶蛙闭眼大笑跳起"
+      },
+      "description": {
+        "en": "With its hands in front of its belly, Naiwa laughs with closed eyes and an open mouth, springs upward from a crouch, then lands.",
+        "zh": "奶蛙双手在肚子前，闭眼张嘴笑，从下蹲姿势跃起后落下。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete animation",
+          "public fan artwork",
+          "jumping",
+          "laughing",
+          "closed eyes",
+          "crouching"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整动图",
+          "公开同人",
+          "跳跃",
+          "大笑",
+          "闭眼",
+          "下蹲"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/andybi0403/naiwa/blob/main/assets/jumping.gif",
+        "https://raw.githubusercontent.com/andybi0403/naiwa/main/assets/jumping.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/andybi0403/naiwa/blob/main/assets/jumping.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Artwork expressly excluded from MIT; no independent artwork license or commercial rights granted. Underlying character rights remain with respective owners. Publicly downloaded for personal archival review.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 来源声明为既有AI辅助同人图像；软件MIT许可明确不涵盖角色美术，不代表素材的开放再使用或商用授权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 5,
+      "bytes": 29968,
+      "sha256": "4dbdaab2776fc4371ffe88756d5dbacef6e6e542bda1bffc7de396f6734777bc",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1990",
+      "slug": "dot-naiwa-1990",
+      "file": "originals/nai-wa/dot-naiwa-1990.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa folds its arms, then touches its chin",
+        "zh": "奶蛙抱臂后托下巴思考"
+      },
+      "description": {
+        "en": "Naiwa stands with folded arms, tilts its head and lifts one hand to its chin while keeping the other arm across its body; its eyelids lower.",
+        "zh": "奶蛙先抱臂站立，略微歪头，再把一只手抬到下巴，另一只手臂留在身前，眼皮逐渐垂下。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete animation",
+          "public fan artwork",
+          "folded arms",
+          "hand on chin",
+          "thinking",
+          "head tilt"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整动图",
+          "公开同人",
+          "抱臂",
+          "托下巴",
+          "思考",
+          "歪头"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/andybi0403/naiwa/blob/main/assets/review.gif",
+        "https://raw.githubusercontent.com/andybi0403/naiwa/main/assets/review.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/andybi0403/naiwa/blob/main/assets/review.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Artwork expressly excluded from MIT; no independent artwork license or commercial rights granted. Underlying character rights remain with respective owners. Publicly downloaded for personal archival review.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 来源声明为既有AI辅助同人图像；软件MIT许可明确不涵盖角色美术，不代表素材的开放再使用或商用授权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 46199,
+      "sha256": "316e909e2c0e0f11a794d5a0355c0267f8fb0f52501eb04798b8e035f0e02730",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1991",
+      "slug": "dot-naiwa-1991",
+      "file": "originals/nai-wa/dot-naiwa-1991.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa runs to the right",
+        "zh": "奶蛙向右跑步"
+      },
+      "description": {
+        "en": "In side view facing right, Naiwa alternates its arms and legs in a running cycle.",
+        "zh": "侧面的奶蛙面向右方，双臂与双腿交替摆动，循环呈现跑步动作。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete animation",
+          "public fan artwork",
+          "running",
+          "side view",
+          "rightward",
+          "arm swing"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整动图",
+          "公开同人",
+          "跑步",
+          "侧面",
+          "向右",
+          "摆臂"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/andybi0403/naiwa/blob/main/assets/running-right.gif",
+        "https://raw.githubusercontent.com/andybi0403/naiwa/main/assets/running-right.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/andybi0403/naiwa/blob/main/assets/running-right.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Artwork expressly excluded from MIT; no independent artwork license or commercial rights granted. Underlying character rights remain with respective owners. Publicly downloaded for personal archival review.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 来源声明为既有AI辅助同人图像；软件MIT许可明确不涵盖角色美术，不代表素材的开放再使用或商用授权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 8,
+      "bytes": 63113,
+      "sha256": "e5bc6dc69be9d8309e2c97ae9912aee3a3917d34caedab8478a56718cd380796",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1992",
+      "slug": "dot-naiwa-1992",
+      "file": "originals/nai-wa/dot-naiwa-1992.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa touches its chin while holding its belly",
+        "zh": "奶蛙一手托下巴一手扶肚子"
+      },
+      "description": {
+        "en": "Naiwa keeps one hand on its pale belly and the other near its chin, shifting from a slightly raised head to a lowered head with drooping eyelids.",
+        "zh": "奶蛙一只手扶着浅色肚皮，另一只手抵在下巴附近；头部从略抬起变为低下，眼皮垂下。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete animation",
+          "public fan artwork",
+          "hand on chin",
+          "hand on belly",
+          "head down",
+          "thinking"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整动图",
+          "公开同人",
+          "托下巴",
+          "扶肚子",
+          "低头",
+          "思考"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/andybi0403/naiwa/blob/main/assets/running.gif",
+        "https://raw.githubusercontent.com/andybi0403/naiwa/main/assets/running.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/andybi0403/naiwa/blob/main/assets/running.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Artwork expressly excluded from MIT; no independent artwork license or commercial rights granted. Underlying character rights remain with respective owners. Publicly downloaded for personal archival review.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 来源声明为既有AI辅助同人图像；软件MIT许可明确不涵盖角色美术，不代表素材的开放再使用或商用授权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 49065,
+      "sha256": "46f53ec880e437881f8652baffee62366c5699ce71f0ed265f856bbfe971f868",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1993",
+      "slug": "dot-naiwa-1993",
+      "file": "originals/nai-wa/dot-naiwa-1993.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa tilts its head and opens both palms",
+        "zh": "奶蛙歪头摊开双手"
+      },
+      "description": {
+        "en": "Naiwa holds its hands in front of its belly and opens both palms, tilting its head from side to side while blinking and smiling.",
+        "zh": "奶蛙在腹部前方抬起双手并将掌心摊开，头部向两侧歪动，期间眨眼微笑。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete animation",
+          "public fan artwork",
+          "open palms",
+          "head tilt",
+          "blinking",
+          "smiling"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整动图",
+          "公开同人",
+          "摊手",
+          "歪头",
+          "眨眼",
+          "微笑"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/andybi0403/naiwa/blob/main/assets/waiting.gif",
+        "https://raw.githubusercontent.com/andybi0403/naiwa/main/assets/waiting.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/andybi0403/naiwa/blob/main/assets/waiting.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Artwork expressly excluded from MIT; no independent artwork license or commercial rights granted. Underlying character rights remain with respective owners. Publicly downloaded for personal archival review.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 来源声明为既有AI辅助同人图像；软件MIT许可明确不涵盖角色美术，不代表素材的开放再使用或商用授权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 48378,
+      "sha256": "14efbd88137e15ddf29bb7691db8601bae8945f561651cea0fe6e73bdab0d654",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1994",
+      "slug": "dot-naiwa-1994",
+      "file": "originals/nai-wa/dot-naiwa-1994.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa raises a hand and smiles in greeting",
+        "zh": "奶蛙笑着举手打招呼"
+      },
+      "description": {
+        "en": "Naiwa lifts one hand from its belly, smiles with an open mouth and closes its eyes, then returns to its initial pose.",
+        "zh": "奶蛙从双手扶肚子的姿势抬起一只手，张嘴笑并闭眼，随后回到起始姿势。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete animation",
+          "public fan artwork",
+          "raised hand",
+          "greeting",
+          "smiling",
+          "closed eyes"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整动图",
+          "公开同人",
+          "举手",
+          "打招呼",
+          "微笑",
+          "闭眼"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/andybi0403/naiwa/blob/main/assets/waving.gif",
+        "https://raw.githubusercontent.com/andybi0403/naiwa/main/assets/waving.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/andybi0403/naiwa/blob/main/assets/waving.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Artwork expressly excluded from MIT; no independent artwork license or commercial rights granted. Underlying character rights remain with respective owners. Publicly downloaded for personal archival review.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 来源声明为既有AI辅助同人图像；软件MIT许可明确不涵盖角色美术，不代表素材的开放再使用或商用授权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 4,
+      "bytes": 33865,
+      "sha256": "4cad6a8a4257b935ad58fc4baa5d00ae7ec6377a9f317fbb9c0ab02ac2cbe0a6",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1995",
+      "slug": "dot-naiwa-1995",
+      "file": "originals/nai-dan/dot-naiwa-1995.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan raises its pillow over its mouth and winks",
+        "zh": "奶蛋举起枕头遮住嘴并眨眼"
+      },
+      "description": {
+        "en": "Wearing a nightcap, NaiDan raises a white pillow over its mouth, glances sideways and winks, then lowers the pillow.",
+        "zh": "戴睡帽的奶蛋双手抬高白色枕头遮住嘴，眼睛向侧方看并眨起一只眼，随后放低枕头。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "complete animation",
+          "public fan artwork",
+          "nightcap",
+          "pillow",
+          "covered mouth",
+          "wink"
+        ],
+        "zh": [
+          "奶蛋",
+          "完整动图",
+          "公开同人",
+          "睡帽",
+          "枕头",
+          "遮嘴",
+          "眨眼"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 8,
+      "bytes": 61348,
+      "sha256": "afa5e508936a7207c4678e347535b8922acf12ef3caf96d12460e361fac34a10",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1996",
+      "slug": "dot-naiwa-1996",
+      "file": "originals/nai-dan/dot-naiwa-1996.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan jumps while hugging a pillow",
+        "zh": "奶蛋抱着枕头跳起"
+      },
+      "description": {
+        "en": "In a yellow nightcap, NaiDan hugs a white pillow, dips down, jumps with both feet off the ground and lands.",
+        "zh": "戴黄色睡帽的奶蛋抱着白色枕头，屈身后双脚离地跳起，再回到地面。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "complete animation",
+          "public fan artwork",
+          "nightcap",
+          "hugging pillow",
+          "jumping",
+          "landing"
+        ],
+        "zh": [
+          "奶蛋",
+          "完整动图",
+          "公开同人",
+          "睡帽",
+          "抱枕",
+          "跳跃",
+          "落地"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 5,
+      "bytes": 34802,
+      "sha256": "aa559affbeac56a328e3de0c71c224fd691ae21251ac4d42a4e1d60270034a09",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1997",
+      "slug": "dot-naiwa-1997",
+      "file": "originals/nai-dan/dot-naiwa-1997.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan looks sideways and down while holding a pillow",
+        "zh": "奶蛋抱枕左右张望后低头"
+      },
+      "description": {
+        "en": "Standing with a pillow in its arms, NaiDan looks sideways, lowers its gaze toward the pillow and returns to face forward.",
+        "zh": "奶蛋站立抱着枕头，向一侧转眼、低头看向枕头，再回到正面。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "complete animation",
+          "public fan artwork",
+          "hugging pillow",
+          "looking around",
+          "head down",
+          "standing"
+        ],
+        "zh": [
+          "奶蛋",
+          "完整动图",
+          "公开同人",
+          "抱枕",
+          "张望",
+          "低头",
+          "站立"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 44059,
+      "sha256": "48005d66c49af7817ef55f0991bbf38d275e47c209610109579a153177bd4e5a",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1998",
+      "slug": "dot-naiwa-1998",
+      "file": "originals/nai-dan/dot-naiwa-1998.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan runs right while carrying a pillow",
+        "zh": "奶蛋抱枕向右跑"
+      },
+      "description": {
+        "en": "Wearing a yellow nightcap and holding a white pillow with both hands, NaiDan faces right and alternates its legs in a run.",
+        "zh": "奶蛋戴着黄色睡帽、双手抱住白色枕头，侧身面向右方交替迈腿跑步。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "complete animation",
+          "public fan artwork",
+          "hugging pillow",
+          "nightcap",
+          "running",
+          "rightward"
+        ],
+        "zh": [
+          "奶蛋",
+          "完整动图",
+          "公开同人",
+          "抱枕",
+          "睡帽",
+          "跑步",
+          "向右"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 8,
+      "bytes": 57797,
+      "sha256": "3a49b02b185c93539d4ffbc98a5098c32d7e8fcababb598e984c3bfaed60a5dd",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-1999",
+      "slug": "dot-naiwa-1999",
+      "file": "originals/nai-dan/dot-naiwa-1999.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan looks up and touches its cheek while holding a pillow",
+        "zh": "奶蛋抱枕抬眼托腮"
+      },
+      "description": {
+        "en": "Standing with a pillow, NaiDan raises one hand beside its cheek and looks upward, then returns the hand to the pillow.",
+        "zh": "奶蛋站立抱枕，把一只手抬到脸旁并向上看，再将手放回枕头。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "complete animation",
+          "public fan artwork",
+          "hugging pillow",
+          "looking upward",
+          "hand by cheek",
+          "thinking"
+        ],
+        "zh": [
+          "奶蛋",
+          "完整动图",
+          "公开同人",
+          "抱枕",
+          "抬眼",
+          "托腮",
+          "思考"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 46373,
+      "sha256": "5209c305c5d2fd3f9f7114acaa45e2b215670fc63e6183f158f662a17975c7e8",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2000",
+      "slug": "dot-naiwa-2000",
+      "file": "originals/nai-dan/dot-naiwa-2000.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan sits with a pillow and opens one palm",
+        "zh": "奶蛋坐着抱枕摊手"
+      },
+      "description": {
+        "en": "Seated with a pillow, NaiDan tilts its head, raises one hand with an open palm and returns to its initial pose.",
+        "zh": "奶蛋坐着抱住枕头，歪头后抬起一只手，将掌心摊开，再恢复坐姿。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "complete animation",
+          "public fan artwork",
+          "sitting",
+          "hugging pillow",
+          "head tilt",
+          "open palm"
+        ],
+        "zh": [
+          "奶蛋",
+          "完整动图",
+          "公开同人",
+          "坐姿",
+          "抱枕",
+          "歪头",
+          "摊手"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 36535,
+      "sha256": "368517f2f669e9bd2019ceed17a5365026dddc29970bdc0a191ed9daaf4c0e64",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2001",
+      "slug": "dot-naiwa-2001",
+      "file": "originals/nai-dan/dot-naiwa-2001.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan greets with a raised hand while holding a pillow",
+        "zh": "奶蛋抱枕举手打招呼"
+      },
+      "description": {
+        "en": "Standing with a pillow, NaiDan raises one hand beside its head in a greeting, then returns it to the pillow.",
+        "zh": "奶蛋站着抱枕，抬起一只手在头旁挥动，然后把手放回枕头。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "complete animation",
+          "public fan artwork",
+          "hugging pillow",
+          "waving",
+          "greeting",
+          "nightcap"
+        ],
+        "zh": [
+          "奶蛋",
+          "完整动图",
+          "公开同人",
+          "抱枕",
+          "挥手",
+          "打招呼",
+          "睡帽"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 4,
+      "bytes": 30328,
+      "sha256": "b998eafb74c33662fad5bfa2ca7f1034ea52dbeada8d42c6bc112d3cec644826",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2002",
+      "slug": "dot-naiwa-2002",
+      "file": "originals/nai-dan/dot-naiwa-2002.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan lowers its pillow, sits down to doze and stands again",
+        "zh": "奶蛋放低枕头坐下打盹再起身"
+      },
+      "description": {
+        "en": "NaiDan starts standing with a pillow, lowers it and sits down, closes its eyes and nods while dozing, then opens its eyes and stands with the pillow.",
+        "zh": "奶蛋先站着抱枕，放低枕头并坐下，闭眼轻点头打盹，随后睁眼并抱着枕头站起。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "complete animation",
+          "public fan artwork",
+          "nightcap",
+          "pillow",
+          "sitting down",
+          "dozing",
+          "standing up"
+        ],
+        "zh": [
+          "奶蛋",
+          "完整动图",
+          "公开同人",
+          "睡帽",
+          "枕头",
+          "坐下",
+          "打盹",
+          "起身"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 16,
+      "bytes": 110443,
+      "sha256": "400e1c5161c6f90e292bd9a6dc0fe061502fc8975c3f8de780069dfc99cd4532",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2003",
+      "slug": "dot-naiwa-2003",
+      "file": "originals/nai-dan/dot-naiwa-2003.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan catches its slipping pillow and blushes",
+        "zh": "奶蛋接住下滑的枕头后脸红"
+      },
+      "description": {
+        "en": "The pillow in NaiDan’s arms slips downward. It forms a small round mouth, pulls the pillow back up, smiles with closed eyes and develops pink cheeks.",
+        "zh": "奶蛋怀里的枕头逐渐滑低，它露出小圆嘴，重新抱紧枕头后闭眼微笑，脸颊出现红晕。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "complete animation",
+          "public fan artwork",
+          "slipping pillow",
+          "hugging tightly",
+          "surprise",
+          "blushing",
+          "smiling"
+        ],
+        "zh": [
+          "奶蛋",
+          "完整动图",
+          "公开同人",
+          "枕头滑落",
+          "抱紧",
+          "惊讶",
+          "脸红",
+          "微笑"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 8,
+      "bytes": 66507,
+      "sha256": "3b0159f0cacbb74a8ee2011e79cef8a7dd6f7ed5d0ae3eff8758780ac308042f",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2004",
+      "slug": "dot-naiwa-2004",
+      "file": "originals/nai-dan/dot-naiwa-2004.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan wakes, rubs an eye and stands up",
+        "zh": "奶蛋从打盹到揉眼起身"
+      },
+      "description": {
+        "en": "Sitting with a pillow, NaiDan dozes with closed eyes, wakes and rubs one eye, then holds the pillow again and stands up.",
+        "zh": "奶蛋坐着抱枕闭眼打盹，睁眼后抬手揉一只眼，重新抱好枕头并站起来。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "complete animation",
+          "public fan artwork",
+          "dozing",
+          "waking",
+          "rubbing eye",
+          "standing up",
+          "hugging pillow"
+        ],
+        "zh": [
+          "奶蛋",
+          "完整动图",
+          "公开同人",
+          "打盹",
+          "睁眼",
+          "揉眼",
+          "起身",
+          "抱枕"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiEgg/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 10,
+      "bytes": 69070,
+      "sha256": "9618ce43d435c912177994b3995c3aff0b9aeecff16eb7ebbf4ddc39d96b65a5",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2005",
+      "slug": "dot-naiwa-2005",
+      "file": "originals/nai-shu/dot-naiwa-2005.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiShu droops its ears with a worried expression",
+        "zh": "奶鼠耳朵垂下露出委屈表情"
+      },
+      "description": {
+        "en": "NaiShu raises its hands as its small round mouth becomes downturned and its ears droop, then raises its ears and returns to a smile.",
+        "zh": "奶鼠抬起双手，嘴巴由小圆形变为下撇，双耳逐渐垂下，随后又竖起耳朵恢复微笑。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "sad",
+        "en": "Sad",
+        "zh": "难过"
+      },
+      "tags": {
+        "en": [
+          "NaiShu",
+          "complete animation",
+          "public fan artwork",
+          "drooping ears",
+          "worried expression",
+          "raised hands",
+          "smiling"
+        ],
+        "zh": [
+          "奶鼠",
+          "完整动图",
+          "公开同人",
+          "垂耳",
+          "委屈",
+          "抬手",
+          "微笑"
+        ]
+      },
+      "series": {
+        "id": "nai-shu",
+        "label": {
+          "en": "NaiShu",
+          "zh": "奶鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 8,
+      "bytes": 52698,
+      "sha256": "cbc3f2e282e996c7af15f43c3e2cddd6170d1e3c46736751bf4650b53f80397a",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2006",
+      "slug": "dot-naiwa-2006",
+      "file": "originals/nai-shu/dot-naiwa-2006.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiShu blinks while standing",
+        "zh": "奶鼠站着眨眼"
+      },
+      "description": {
+        "en": "The yellow NaiShu with large round ears and a thin tail stands with a slight sway, closing and reopening both eyes.",
+        "zh": "大圆耳、细长尾巴的黄色奶鼠站立轻晃，双眼闭合后重新睁开。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiShu",
+          "complete animation",
+          "public fan artwork",
+          "standing",
+          "blinking",
+          "large ears",
+          "tail"
+        ],
+        "zh": [
+          "奶鼠",
+          "完整动图",
+          "公开同人",
+          "站立",
+          "眨眼",
+          "大耳朵",
+          "尾巴"
+        ]
+      },
+      "series": {
+        "id": "nai-shu",
+        "label": {
+          "en": "NaiShu",
+          "zh": "奶鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 39067,
+      "sha256": "d3833cd08028ba77822d4727ef696b8c42b55d29feb5bc2e37a46307f3404beb",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2007",
+      "slug": "dot-naiwa-2007",
+      "file": "originals/nai-shu/dot-naiwa-2007.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiShu makes a small jump with a closed-eye smile",
+        "zh": "奶鼠闭眼笑着小跳"
+      },
+      "description": {
+        "en": "NaiShu dips down, lifts both feet in a small jump and smiles with closed eyes before landing and standing again.",
+        "zh": "奶鼠略蹲后抬起双脚跃起，在空中闭眼微笑，再落地恢复站姿。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiShu",
+          "complete animation",
+          "public fan artwork",
+          "jumping",
+          "closed eyes",
+          "smiling",
+          "crouching"
+        ],
+        "zh": [
+          "奶鼠",
+          "完整动图",
+          "公开同人",
+          "跳跃",
+          "闭眼",
+          "微笑",
+          "下蹲"
+        ]
+      },
+      "series": {
+        "id": "nai-shu",
+        "label": {
+          "en": "NaiShu",
+          "zh": "奶鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 5,
+      "bytes": 27055,
+      "sha256": "708d9fb5dea674a065d264becde584db184bcfd5dbc6d91b3056d708e86eaf6f",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2008",
+      "slug": "dot-naiwa-2008",
+      "file": "originals/nai-shu/dot-naiwa-2008.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiShu squints sideways, then touches its cheek and smiles",
+        "zh": "奶鼠眯眼侧看后托腮微笑"
+      },
+      "description": {
+        "en": "NaiShu lowers its eyelids and looks sideways, lifts a hand beside its cheek, then smiles with closed eyes and reopens them.",
+        "zh": "奶鼠先压低眼皮侧看，抬手到脸旁，随后闭眼微笑再睁眼。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiShu",
+          "complete animation",
+          "public fan artwork",
+          "side glance",
+          "squinting",
+          "hand by cheek",
+          "smiling"
+        ],
+        "zh": [
+          "奶鼠",
+          "完整动图",
+          "公开同人",
+          "侧目",
+          "眯眼",
+          "托腮",
+          "微笑"
+        ]
+      },
+      "series": {
+        "id": "nai-shu",
+        "label": {
+          "en": "NaiShu",
+          "zh": "奶鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 38408,
+      "sha256": "2557a070bf44b1cb10571bb2092d736bd5143f87343df8693406f688a5fec92b",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2009",
+      "slug": "dot-naiwa-2009",
+      "file": "originals/nai-shu/dot-naiwa-2009.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiShu runs to the right",
+        "zh": "奶鼠向右小跑"
+      },
+      "description": {
+        "en": "Facing right in side view, NaiShu alternates its legs and swings its arms as its thin tail trails behind.",
+        "zh": "奶鼠侧身面向右方，双腿交替迈动、双臂前后摆动，细尾巴留在身后。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiShu",
+          "complete animation",
+          "public fan artwork",
+          "running",
+          "rightward",
+          "arm swing",
+          "tail"
+        ],
+        "zh": [
+          "奶鼠",
+          "完整动图",
+          "公开同人",
+          "跑步",
+          "向右",
+          "摆臂",
+          "尾巴"
+        ]
+      },
+      "series": {
+        "id": "nai-shu",
+        "label": {
+          "en": "NaiShu",
+          "zh": "奶鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 8,
+      "bytes": 50491,
+      "sha256": "94498fd084c1b7883cfee37675895e223043aac4ca777e990c8877de1eebde75",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2010",
+      "slug": "dot-naiwa-2010",
+      "file": "originals/nai-shu/dot-naiwa-2010.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiShu touches its cheek, lifts a finger and clasps its hands",
+        "zh": "奶鼠托腮后抬指再合手"
+      },
+      "description": {
+        "en": "NaiShu first holds a hand beside its cheek, then lifts a finger with an open-mouthed smile and brings both hands together in front of its body.",
+        "zh": "奶鼠先将手放在脸旁思考，抬起一根手指张嘴微笑，然后在身前合拢双手。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiShu",
+          "complete animation",
+          "public fan artwork",
+          "hand by cheek",
+          "raised finger",
+          "smiling",
+          "clasped hands"
+        ],
+        "zh": [
+          "奶鼠",
+          "完整动图",
+          "公开同人",
+          "托腮",
+          "抬指",
+          "微笑",
+          "合手"
+        ]
+      },
+      "series": {
+        "id": "nai-shu",
+        "label": {
+          "en": "NaiShu",
+          "zh": "奶鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 38313,
+      "sha256": "5bf88da19f49b5f284d75d78bce9181bc53f6f576053d059cf550de0ff0f591c",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2011",
+      "slug": "dot-naiwa-2011",
+      "file": "originals/nai-shu/dot-naiwa-2011.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiShu clasps its hands, tilts its head and opens a palm",
+        "zh": "奶鼠合手歪头后摊掌"
+      },
+      "description": {
+        "en": "NaiShu clasps its hands at its chest, tilts its head and opens one palm, then smiles with closed eyes and returns to its standing pose.",
+        "zh": "奶鼠双手在胸前合拢，歪头后张开一只手掌，再闭眼微笑并恢复站姿。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiShu",
+          "complete animation",
+          "public fan artwork",
+          "clasped hands",
+          "head tilt",
+          "open palm",
+          "smiling"
+        ],
+        "zh": [
+          "奶鼠",
+          "完整动图",
+          "公开同人",
+          "合手",
+          "歪头",
+          "摊手",
+          "微笑"
+        ]
+      },
+      "series": {
+        "id": "nai-shu",
+        "label": {
+          "en": "NaiShu",
+          "zh": "奶鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 38534,
+      "sha256": "9f1c4531bc0af41aac3203eb7fca1bd9f952bad20b26faa93c51ab80aa061ff0",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2012",
+      "slug": "dot-naiwa-2012",
+      "file": "originals/nai-shu/dot-naiwa-2012.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiShu raises a hand and winks in greeting",
+        "zh": "奶鼠举手眨眼打招呼"
+      },
+      "description": {
+        "en": "NaiShu raises one hand beside its head in greeting and winks, then lowers the hand and returns to a smile.",
+        "zh": "奶鼠抬起一只手在头旁打招呼，眨起一只眼，随后放下手恢复微笑。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiShu",
+          "complete animation",
+          "public fan artwork",
+          "raised hand",
+          "wink",
+          "greeting",
+          "smiling"
+        ],
+        "zh": [
+          "奶鼠",
+          "完整动图",
+          "公开同人",
+          "举手",
+          "眨眼",
+          "打招呼",
+          "微笑"
+        ]
+      },
+      "series": {
+        "id": "nai-shu",
+        "label": {
+          "en": "NaiShu",
+          "zh": "奶鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/NaiFrog-Fan/NaiMouse/blob/main/README.md"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "No artwork redistribution or commercial license established. Public fan-made pet pack; underlying character rights and original character creator not verified. Personal archival review only.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 现成同人动画的来源材料包含AI辅助制作说明或相关记录；未建立美术作品的再分发或商业许可。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 4,
+      "bytes": 24600,
+      "sha256": "89f936f2f58793b9bcb6f3e6c099555870436a19d0571d604cf43f0b1a2082d8",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2013",
+      "slug": "dot-naiwa-2013",
+      "file": "originals/nai-wa/dot-naiwa-2013.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa opens a folding fan and throws it forward",
+        "zh": "奶蛙展开折扇并向前掷出"
+      },
+      "description": {
+        "en": "Standing in side view, Naiwa raises and opens a folding fan, then throws it toward the left side of the image. A burst of fire, smoke and fragments follows at the left, and Naiwa returns its hands to the front of its belly.",
+        "zh": "侧身站立的奶蛙抬起并展开折扇，向画面左侧抛出；左侧随后出现火光、烟雾和碎片，奶蛙回到双手置于腹前的站姿。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete animation",
+          "folding fan",
+          "throwing",
+          "standing",
+          "fire burst",
+          "smoke"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整动图",
+          "折扇",
+          "掷扇",
+          "站立",
+          "火光",
+          "烟雾"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/SbongeBobybl/NaiWaChatPet/blob/main/Source/NaiWaChatPet/skill-assets/naiwa-skills-export/previews/skill_fan_throw_30fps.gif",
+        "https://raw.githubusercontent.com/SbongeBobybl/NaiWaChatPet/main/Source/NaiWaChatPet/skill-assets/naiwa-skills-export/previews/skill_fan_throw_30fps.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/SbongeBobybl/NaiWaChatPet/blob/main/Source/NaiWaChatPet/skill-assets/naiwa-skills-export/previews/skill_fan_throw_30fps.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Repository NOTICE preserves independent character/resource rights and does not transfer them. GPL-3.0 explicitly covers the DeskBox derivative software; artwork authorization and commercial use not established. Public existing animation retained for private review.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 仓库NOTICE保留角色与资源的独立权利；GPL-3.0针对衍生软件，不等于授权这些角色美术。制作方法未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 420,
+      "height": 560,
+      "frames": 33,
+      "bytes": 1210961,
+      "sha256": "53dc2420746ec4de71ab3d8e9bbd0ffbc0d96d1461426ceb9da20bc7bb68e928",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2014",
+      "slug": "dot-naiwa-2014",
+      "file": "originals/nai-wa/dot-naiwa-2014.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa crouches, tucks into a roll and stands up",
+        "zh": "奶蛙下蹲蜷身翻滚后站起"
+      },
+      "description": {
+        "en": "Naiwa crouches from a standing pose, tucks into a rounded shape and rolls forward, then returns to a crouch and stands up.",
+        "zh": "奶蛙从站姿下蹲，抱膝蜷成圆形向前翻滚，随后落回蹲姿并站起来。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete animation",
+          "crouching",
+          "tucking",
+          "rolling",
+          "standing up"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整动图",
+          "下蹲",
+          "蜷身",
+          "翻滚",
+          "起身"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶娃 / 奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/SbongeBobybl/NaiWaChatPet/blob/main/Source/NaiWaChatPet/skill-assets/naiwa-skills-export/previews/skill_roll_30fps.gif",
+        "https://raw.githubusercontent.com/SbongeBobybl/NaiWaChatPet/main/Source/NaiWaChatPet/skill-assets/naiwa-skills-export/previews/skill_roll_30fps.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/SbongeBobybl/NaiWaChatPet/blob/main/Source/NaiWaChatPet/skill-assets/naiwa-skills-export/previews/skill_roll_30fps.gif"
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Repository NOTICE preserves independent character/resource rights and does not transfer them. GPL-3.0 explicitly covers the DeskBox derivative software; artwork authorization and commercial use not established. Public existing animation retained for private review.",
+        "unknown",
+        "来源为公开可访问的第三方文件；原作者、底层角色/IP权利、再分发许可及商业使用授权均未独立核实。 仓库NOTICE保留角色与资源的独立权利；GPL-3.0针对衍生软件，不等于授权这些角色美术。制作方法未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 420,
+      "height": 560,
+      "frames": 31,
+      "bytes": 763205,
+      "sha256": "8aa96f56eabefbf2b03906a258c46ffdb8b520817c45f67381263a9b76e2b667",
       "collectedAt": "2026-11-01"
     },
     {
