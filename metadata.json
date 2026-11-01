@@ -9,14 +9,14 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "assets": 2370,
-    "originalFiles": 2369,
+    "assets": 2368,
+    "originalFiles": 2367,
     "convertedPreviews": 1,
-    "uniqueSHA256": 2370,
-    "bytes": 1592363063,
+    "uniqueSHA256": 2368,
+    "bytes": 1590290239,
     "largestFileBytes": 12467365,
     "excludedCommunityOrRetired": 0,
-    "rightsUnknown": 2344,
+    "rightsUnknown": 2342,
     "missingPublicSourceURL": 52,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
@@ -97706,81 +97706,6 @@
       "collectedAt": "2026-11-01"
     },
     {
-      "stableID": "dot-naiwa-1327",
-      "slug": "dot-naiwa-1327",
-      "file": "originals/nai-wa/dot-naiwa-1327.mp4",
-      "fileRole": "original",
-      "title": {
-        "en": "Naiwa swings through the city",
-        "zh": "奶蛙城市飞跃"
-      },
-      "description": {
-        "en": "Naiwa wearing red gloves and boots dives from the sky and swings on web-like lines between tall buildings.",
-        "zh": "戴红色手套和靴子的奶蛙从空中俯冲，借蛛丝般的线在高楼之间摆荡。"
-      },
-      "type": "video",
-      "format": "mp4",
-      "sourceDeclaredFormat": "mp4",
-      "sourceFormatMismatch": false,
-      "mood": {
-        "id": "silly",
-        "en": "Silly",
-        "zh": "发疯"
-      },
-      "tags": {
-        "en": [
-          "Naiwa",
-          "Live",
-          "MP4",
-          "red gloves",
-          "swinging",
-          "city"
-        ],
-        "zh": [
-          "奶蛙",
-          "红手套",
-          "飞跃",
-          "城市"
-        ]
-      },
-      "series": {
-        "id": "nai-wa",
-        "label": {
-          "en": "Naiwa",
-          "zh": "奶娃 / 奶蛙"
-        }
-      },
-      "storyline": [],
-      "sourceURLs": [
-        "https://www.xiaohongshu.com/explore/6adaee7500000000330217ac"
-      ],
-      "sourceLabels": [
-        "dot"
-      ],
-      "collectionBatch": "dot-2026-11-01",
-      "creator": null,
-      "rights": {
-        "status": "unknown",
-        "license": null,
-        "attributionURL": "https://www.xiaohongshu.com/explore/6adaee7500000000330217ac"
-      },
-      "rightsUnknown": true,
-      "sourceLicenseClaims": [
-        "Publicly accessible source; asset and character/IP reuse rights are unverified.",
-        "unknown",
-        "来源公开可访问；素材及角色/IP 使用授权尚未确认。"
-      ],
-      "missingCompanionNotice": false,
-      "isDerivative": false,
-      "watermarkPolicy": "preserved-byte-for-byte",
-      "width": 640,
-      "height": 640,
-      "frames": 106,
-      "bytes": 735075,
-      "sha256": "61b15a63c082ef5f95cbf6a3598dee1f6783a33ac9d47d0e765dac5a6476e97c",
-      "collectedAt": "2026-11-01"
-    },
-    {
       "stableID": "dot-naiwa-1328",
       "slug": "dot-naiwa-1328",
       "file": "originals/nai-wa/dot-naiwa-1328.mp4",
@@ -110444,79 +110369,6 @@
       "frames": 1,
       "bytes": 29188,
       "sha256": "ffc9f4322600cc1726e5403d49e397bf8d1a2cbd97038ae6a61cf6891a4a2945",
-      "collectedAt": "2026-11-01"
-    },
-    {
-      "stableID": "dot-naiwa-1501",
-      "slug": "dot-naiwa-1501",
-      "file": "originals/nai-wa/dot-naiwa-1501.mp4",
-      "fileRole": "original",
-      "title": {
-        "en": "Naiwa being stroked on the head and shoulder by a wall",
-        "zh": "奶蛙墙边被摸头肩"
-      },
-      "description": {
-        "en": "Naiwa leans against a wall while a human hand strokes its head and shoulder; it turns, closes its eyes, then smiles with its tongue out.",
-        "zh": "奶蛙靠在墙边，一只人手摸过头部和肩部；奶蛙转头、闭眼，再张嘴吐舌微笑。"
-      },
-      "type": "video",
-      "format": "mp4",
-      "sourceDeclaredFormat": "mp4",
-      "sourceFormatMismatch": false,
-      "mood": {
-        "id": "silly",
-        "en": "Silly",
-        "zh": "发疯"
-      },
-      "tags": {
-        "en": [
-          "Naiwa",
-          "leaning on wall",
-          "head stroking",
-          "tongue out"
-        ],
-        "zh": [
-          "奶蛙",
-          "靠墙",
-          "摸头",
-          "吐舌"
-        ]
-      },
-      "series": {
-        "id": "nai-wa",
-        "label": {
-          "en": "Naiwa",
-          "zh": "奶娃 / 奶蛙"
-        }
-      },
-      "storyline": [],
-      "sourceURLs": [
-        "https://www.xiaohongshu.com/explore/6ada1df8000000003301e52e"
-      ],
-      "sourceLabels": [
-        "dot"
-      ],
-      "collectionBatch": "dot-2026-11-01",
-      "creator": null,
-      "rights": {
-        "status": "unknown",
-        "license": null,
-        "attributionURL": "https://www.xiaohongshu.com/explore/6ada1df8000000003301e52e"
-      },
-      "rightsUnknown": true,
-      "sourceLicenseClaims": [
-        "Publicly accessible source; asset and character/IP reuse rights are unverified.",
-        "unknown",
-        "来源公开可访问；素材及角色/IP 使用授权尚未确认。"
-      ],
-      "missingCompanionNotice": false,
-      "isDerivative": false,
-      "watermarkPolicy": "preserved-byte-for-byte",
-      "width": 640,
-      "height": 640,
-      "frames": 156,
-      "bytes": 1337749,
-      "sha256": "f96e88475447c8e95ede43ea25d752ba6826f946f717d300dcea5017b3de6cf4",
       "collectedAt": "2026-11-01"
     },
     {
