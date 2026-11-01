@@ -9,14 +9,14 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "assets": 2575,
-    "originalFiles": 2574,
+    "assets": 2617,
+    "originalFiles": 2616,
     "convertedPreviews": 1,
-    "uniqueSHA256": 2575,
-    "bytes": 1820024708,
+    "uniqueSHA256": 2617,
+    "bytes": 1873378199,
     "largestFileBytes": 12467365,
     "excludedCommunityOrRetired": 0,
-    "rightsUnknown": 2549,
+    "rightsUnknown": 2591,
     "missingPublicSourceURL": 52,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
@@ -166336,6 +166336,3352 @@
       "frames": 121,
       "bytes": 3070562,
       "sha256": "7c393ee6ffbc7c2de34174984a024c0cb5f2a0503dfd0ba4d028075f67af41b3",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2222",
+      "slug": "dot-naiwa-2222",
+      "file": "originals/nai-wa/dot-naiwa-2222.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa crawls in and back out",
+        "zh": "奶蛙四足爬进爬出"
+      },
+      "description": {
+        "en": "Naiwa crawls into a white frame, turns with its mouth open, and crawls out again.",
+        "zh": "奶蛙四足爬入白色画面，转头张嘴后又爬出画面。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "four-legged variant",
+          "crawling",
+          "head turn",
+          "open mouth",
+          "entrance",
+          "exit",
+          "complete short video"
+        ],
+        "zh": [
+          "奶蛙",
+          "四足造型",
+          "爬行",
+          "转头",
+          "张嘴",
+          "入场",
+          "离场",
+          "完整短片"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://xinyewebsite.com/games/milk-frog/video/turtle.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://xinyewebsite.com/games/milk-frog/video/turtle.mp4",
+        "sourceNotes": {
+          "en": "The original video is publicly readable. Original authorship and character/video permissions remain unverified. A third-party desktop-pet software license is not treated as artwork or character permission.",
+          "zh": "原视频可通过公开链接读取；未确认原作者或角色／影像权利许可。第三方桌宠项目的软件许可不视为本视频美术或角色授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The original video is publicly readable. Original authorship and character/video permissions remain unverified. A third-party desktop-pet software license is not treated as artwork or character permission.",
+        "unknown",
+        "原视频可通过公开链接读取；未确认原作者或角色／影像权利许可。第三方桌宠项目的软件许可不视为本视频美术或角色授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 408,
+      "height": 720,
+      "frames": 269,
+      "bytes": 818004,
+      "sha256": "313b0978cff381a3c6dfeefa6d81c16e8ab44906dca120278346e56dab3a83ff",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2223",
+      "slug": "dot-naiwa-2223",
+      "file": "originals/nai-wa/dot-naiwa-2223.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "One Naiwa becomes a laughing crowd",
+        "zh": "奶蛙分身笑倒"
+      },
+      "description": {
+        "en": "A cross-legged Naiwa multiplies into a group. They laugh with hands on their bellies, then fall forward.",
+        "zh": "盘坐的奶蛙变成一群同伴，大家捧腹大笑后一起向前倒下。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "cross-legged sitting",
+          "finger near mouth",
+          "multiplying group",
+          "hands on belly",
+          "open-mouth laughter",
+          "falling backwards",
+          "falling forwards",
+          "complete short video"
+        ],
+        "zh": [
+          "奶蛙",
+          "盘腿坐",
+          "手指靠嘴",
+          "分身群体",
+          "捧腹",
+          "张嘴笑",
+          "向后倒",
+          "向前扑倒",
+          "完整短片"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://xinyewebsite.com/games/milk-frog/video/meditation.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://xinyewebsite.com/games/milk-frog/video/meditation.mp4",
+        "sourceNotes": {
+          "en": "The original video is publicly readable. Original authorship and character/video permissions remain unverified. A third-party desktop-pet software license is not treated as artwork or character permission.",
+          "zh": "原视频可通过公开链接读取；未确认原作者或角色／影像权利许可。第三方桌宠项目的软件许可不视为本视频美术或角色授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The original video is publicly readable. Original authorship and character/video permissions remain unverified. A third-party desktop-pet software license is not treated as artwork or character permission.",
+        "unknown",
+        "原视频可通过公开链接读取；未确认原作者或角色／影像权利许可。第三方桌宠项目的软件许可不视为本视频美术或角色授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 408,
+      "height": 720,
+      "frames": 511,
+      "bytes": 3464279,
+      "sha256": "109c75bc9e8d8bc469d8da93d00c12c6731e9b1b2aa2c9a92f67f4419703fc29",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2224",
+      "slug": "dot-naiwa-2224",
+      "file": "originals/nai-wa/dot-naiwa-2224.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa cries by the glass door",
+        "zh": "奶蛙在玻璃门边哭了"
+      },
+      "description": {
+        "en": "Naiwa stands beside a blue glass door, opens its mouth in tears, and crouches down holding its belly.",
+        "zh": "奶蛙站在蓝色玻璃门边，含泪张嘴，随后抱着肚子蹲坐下来。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "sad",
+        "en": "Sad",
+        "zh": "难过"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "blue glass door",
+          "hands behind back",
+          "tears",
+          "open mouth",
+          "hands in front of belly",
+          "bending",
+          "seated squat",
+          "lowered head",
+          "head tilted upwards",
+          "complete short video"
+        ],
+        "zh": [
+          "奶蛙",
+          "蓝色玻璃门",
+          "双手背后",
+          "泪珠",
+          "含泪张口",
+          "双手腹前",
+          "弯身",
+          "蹲坐",
+          "垂头",
+          "仰头",
+          "完整短片"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://xinyewebsite.com/games/milk-frog/",
+        "https://xinyewebsite.com/games/milk-frog/video/sad.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://xinyewebsite.com/games/milk-frog/",
+        "sourceNotes": {
+          "en": "The complete original video is publicly readable. Original authorship and character/video permissions remain unverified. Public hosting and the site name do not establish permission or official affiliation.",
+          "zh": "原始完整视频可公开读取；原作者、角色及影像许可未核实。公开托管与站点名称不构成授权或官方身份认证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The complete original video is publicly readable. Original authorship and character/video permissions remain unverified. Public hosting and the site name do not establish permission or official affiliation.",
+        "unknown",
+        "原始完整视频可公开读取；原作者、角色及影像许可未核实。公开托管与站点名称不构成授权或官方身份认证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 408,
+      "height": 720,
+      "frames": 612,
+      "bytes": 3880031,
+      "sha256": "84aa4aaaaa349dfd35e5eeac0f3eefa658393b32d862d36e6432bbe126490506",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2225",
+      "slug": "dot-naiwa-2225",
+      "file": "originals/nai-wa/dot-naiwa-2225.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "The whole nest cracks up",
+        "zh": "奶蛙破壳后全场笑倒"
+      },
+      "description": {
+        "en": "A small egg-shaped figure hatches in a straw nest. Naiwa companions gather, laugh, and collapse around it.",
+        "zh": "小小的蛋形角色在草窝里破壳，同伴围拢过来，笑着倒成一片。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "egg-shaped form",
+          "hatching",
+          "straw nest",
+          "gathering companions",
+          "belly laughter",
+          "falling backwards",
+          "tumbling",
+          "complete short video"
+        ],
+        "zh": [
+          "奶蛙",
+          "蛋形造型",
+          "破壳",
+          "草窝",
+          "同伴围拢",
+          "捧腹大笑",
+          "向后倒",
+          "笑倒",
+          "完整短片"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://xinyewebsite.com/games/milk-frog/",
+        "https://xinyewebsite.com/games/milk-frog/video/egg.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://xinyewebsite.com/games/milk-frog/",
+        "sourceNotes": {
+          "en": "The complete original video is publicly readable. Original authorship and character/video permissions remain unverified. Public hosting and the site name do not establish permission or official affiliation.",
+          "zh": "原始完整视频可公开读取；原作者、角色及影像许可未核实。公开托管与站点名称不构成授权或官方身份认证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The complete original video is publicly readable. Original authorship and character/video permissions remain unverified. Public hosting and the site name do not establish permission or official affiliation.",
+        "unknown",
+        "原始完整视频可公开读取；原作者、角色及影像许可未核实。公开托管与站点名称不构成授权或官方身份认证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 408,
+      "height": 720,
+      "frames": 628,
+      "bytes": 6622222,
+      "sha256": "d5c6b272a76f76d4878566681a2bee19c3bdf7f952dc53b7bd612f283b5932ba",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2226",
+      "slug": "dot-naiwa-2226",
+      "file": "originals/nai-wa/dot-naiwa-2226.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Two Naiwa officers laugh off their chairs",
+        "zh": "警服奶蛙从椅子上笑倒"
+      },
+      "description": {
+        "en": "Two uniformed Naiwa laugh at their desks, lean toward one another, and fall from their chairs.",
+        "zh": "两只穿警服的奶蛙在办公桌旁相视大笑，身体越靠越近，最后从椅子上跌落。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "police-uniform costume",
+          "two characters",
+          "exchanging looks",
+          "laughter",
+          "raised hands",
+          "office desk",
+          "tipping chairs",
+          "falling",
+          "complete short video"
+        ],
+        "zh": [
+          "奶蛙",
+          "警服造型",
+          "双角色",
+          "相视",
+          "大笑",
+          "抬手",
+          "办公桌",
+          "椅子后仰",
+          "跌落",
+          "完整短片"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://xinyewebsite.com/games/milk-frog/",
+        "https://xinyewebsite.com/games/milk-frog/video/police.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://xinyewebsite.com/games/milk-frog/",
+        "sourceNotes": {
+          "en": "The complete original video is publicly readable. Original authorship and character/video permissions remain unverified. Public hosting and the site name do not establish permission or official affiliation.",
+          "zh": "原始完整视频可公开读取；原作者、角色及影像许可未核实。公开托管与站点名称不构成授权或官方身份认证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The complete original video is publicly readable. Original authorship and character/video permissions remain unverified. Public hosting and the site name do not establish permission or official affiliation.",
+        "unknown",
+        "原始完整视频可公开读取；原作者、角色及影像许可未核实。公开托管与站点名称不构成授权或官方身份认证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 408,
+      "height": 720,
+      "frames": 382,
+      "bytes": 4613831,
+      "sha256": "fac82a66fc7ed837184f3973a816ee97b8a882f1a4279b0d62ef0fc6f69f65a3",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2227",
+      "slug": "dot-naiwa-2227",
+      "file": "originals/nai-wa/dot-naiwa-2227.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa and the falling apples",
+        "zh": "奶蛙与落下的苹果"
+      },
+      "description": {
+        "en": "An apple falls onto a reclining Naiwa. More face-covered apples fall from the tree and pile up around it.",
+        "zh": "一颗苹果落在树下躺着的奶蛙头上，随后更多带笑脸的苹果掉下来，堆满了画面。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "robe costume",
+          "apple tree",
+          "sitting under a tree",
+          "apple landing on head",
+          "hand to forehead",
+          "open-mouthed laughter",
+          "fruit faces",
+          "fruit heap",
+          "complete short video"
+        ],
+        "zh": [
+          "奶蛙",
+          "长袍造型",
+          "苹果树",
+          "树下坐姿",
+          "苹果落头",
+          "手触额头",
+          "张嘴笑",
+          "笑脸果实",
+          "果堆",
+          "完整短片"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://xinyewebsite.com/games/milk-frog/",
+        "https://xinyewebsite.com/games/milk-frog/video/apple.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://xinyewebsite.com/games/milk-frog/",
+        "sourceNotes": {
+          "en": "The complete original video is publicly readable. Original authorship and character/video permissions remain unverified. Public hosting and the site name do not establish permission or official affiliation.",
+          "zh": "原始完整视频可公开读取；原作者、角色及影像许可未核实。公开托管与站点名称不构成授权或官方身份认证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The complete original video is publicly readable. Original authorship and character/video permissions remain unverified. Public hosting and the site name do not establish permission or official affiliation.",
+        "unknown",
+        "原始完整视频可公开读取；原作者、角色及影像许可未核实。公开托管与站点名称不构成授权或官方身份认证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 408,
+      "height": 720,
+      "frames": 414,
+      "bytes": 5155827,
+      "sha256": "a76a1d3a6e48246558368a3ede657e8a88184abf3f9187bd9aadb2bddd3fbeb0",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2228",
+      "slug": "dot-naiwa-2228",
+      "file": "originals/nai-gou/dot-naiwa-2228.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Nai Dog with floppy ears",
+        "zh": "大垂耳奶狗"
+      },
+      "description": {
+        "en": "A yellow, four-legged Nai Dog stands with large floppy ears, green eyes, a small smile, and a short rounded tail.",
+        "zh": "黄色的四足奶狗垂着大耳朵，睁着绿眼睛，身后翘着一截短短的圆尾巴。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "NaiGou (source label)",
+          "Naiwa-related variant",
+          "four-legged",
+          "large floppy ears",
+          "short tail",
+          "smile",
+          "static"
+        ],
+        "zh": [
+          "奶狗（来源命名）",
+          "奶蛙相关变体",
+          "四足",
+          "大垂耳",
+          "短尾",
+          "微笑",
+          "静态"
+        ]
+      },
+      "series": {
+        "id": "nai-gou",
+        "label": {
+          "en": "NaiGou",
+          "zh": "奶狗"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/bdlfy123/naifamily-classifier/blob/130348cefbc63bbd82067724c1c60cb76ae5ef8c/show/%E5%A5%B6%E7%8B%97.png",
+        "https://raw.githubusercontent.com/bdlfy123/naifamily-classifier/130348cefbc63bbd82067724c1c60cb76ae5ef8c/show/%E5%A5%B6%E7%8B%97.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/bdlfy123/naifamily-classifier/blob/130348cefbc63bbd82067724c1c60cb76ae5ef8c/show/%E5%A5%B6%E7%8B%97.png",
+        "sourceNotes": {
+          "en": "Public repository display does not establish image or character/IP permission. The original artist and per-image license are unverified; model or code licensing is not treated as image permission.",
+          "zh": "公开仓库展示不等于图像或角色/IP授权；本图原作者与逐图许可未核实，不把分类模型或代码许可扩展为图像授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public repository display does not establish image or character/IP permission. The original artist and per-image license are unverified; model or code licensing is not treated as image permission.",
+        "unknown",
+        "公开仓库展示不等于图像或角色/IP授权；本图原作者与逐图许可未核实，不把分类模型或代码许可扩展为图像授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 692,
+      "height": 736,
+      "frames": 1,
+      "bytes": 369183,
+      "sha256": "21a0ff36531b90fb13a63c5df8cd01de6bb864ee85de796307729c848c163bd5",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2230",
+      "slug": "dot-naiwa-2230",
+      "file": "originals/nai-wa/dot-naiwa-2230.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa walks with slumped shoulders",
+        "zh": "奶蛙垂头慢慢走"
+      },
+      "description": {
+        "en": "Naiwa lowers its head and arms and takes slow steps against a dark background.",
+        "zh": "深色背景里，奶蛙低着头、垂着双臂，慢慢迈出脚步。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "sad",
+        "en": "Sad",
+        "zh": "难过"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "lowered head",
+          "hanging arms",
+          "slow walking",
+          "alternating steps",
+          "complete short video"
+        ],
+        "zh": [
+          "奶蛙",
+          "垂头",
+          "垂臂",
+          "缓慢行走",
+          "交替迈步",
+          "完整短片"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/GG-bondbond/desktop-pet-naiwa-/blob/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E8%B5%B0%E8%B7%AF1.mp4",
+        "https://raw.githubusercontent.com/GG-bondbond/desktop-pet-naiwa-/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E8%B5%B0%E8%B7%AF1.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/GG-bondbond/desktop-pet-naiwa-/blob/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E8%B5%B0%E8%B7%AF1.mp4",
+        "sourceNotes": {
+          "en": "The repository README labels the project MIT. Original video authorship and character/video permissions are not independently verified; the project software claim is not treated as permission for third-party artwork. Original framing and any markings are retained.",
+          "zh": "仓库 README 标注项目 MIT；原视频作者及角色／影像许可未获独立确认，不把项目软件声明当作第三方美术授权。保留公开源的原始画幅和任何标记。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The repository README labels the project MIT. Original video authorship and character/video permissions are not independently verified; the project software claim is not treated as permission for third-party artwork. Original framing and any markings are retained.",
+        "unknown",
+        "仓库 README 标注项目 MIT；原视频作者及角色／影像许可未获独立确认，不把项目软件声明当作第三方美术授权。保留公开源的原始画幅和任何标记。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 444,
+      "height": 678,
+      "frames": 79,
+      "bytes": 485249,
+      "sha256": "25509d825be953bd273475aa1b7c35492374f1b1985fec27492a5914a54d0387",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2231",
+      "slug": "dot-naiwa-2231",
+      "file": "originals/unclassified/dot-naiwa-2231.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa variant in a team jersey",
+        "zh": "长发队服奶蛙变体"
+      },
+      "description": {
+        "en": "A long-haired yellow character wears a Team Spirit jersey and holds a finger upright beside its mouth.",
+        "zh": "长发黄色角色穿着 Team Spirit 队服，把一根手指竖在嘴边。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "source-named family design",
+          "Nai-donk",
+          "team jersey",
+          "long hair",
+          "upright finger",
+          "static character design"
+        ],
+        "zh": [
+          "奶蛙",
+          "来源具名家族",
+          "奶donk",
+          "队服",
+          "长发",
+          "竖指",
+          "静态形象"
+        ]
+      },
+      "series": {
+        "id": "unclassified",
+        "label": {
+          "en": "Unclassified",
+          "zh": "待分类"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/GG-bondbond/desktop-pet-naiwa-/blob/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E5%A5%B6donk.png",
+        "https://raw.githubusercontent.com/GG-bondbond/desktop-pet-naiwa-/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E5%A5%B6donk.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/GG-bondbond/desktop-pet-naiwa-/blob/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E5%A5%B6donk.png",
+        "sourceNotes": {
+          "en": "The README labels the project MIT and describes desktop runtime background processing. This neither proves this source image’s production process nor authorizes third-party artwork or character rights. Original authorship and image permission remain unknown; all published bytes and markings are retained.",
+          "zh": "仓库 README 标注项目 MIT，并说明桌宠运行时有背景处理；这不证明本原图的制作过程，也不代替原图作者或第三方角色授权。作者及图像许可未知，保留全部公开源字节和标记。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The README labels the project MIT and describes desktop runtime background processing. This neither proves this source image’s production process nor authorizes third-party artwork or character rights. Original authorship and image permission remain unknown; all published bytes and markings are retained.",
+        "unknown",
+        "仓库 README 标注项目 MIT，并说明桌宠运行时有背景处理；这不证明本原图的制作过程，也不代替原图作者或第三方角色授权。作者及图像许可未知，保留全部公开源字节和标记。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 195,
+      "height": 247,
+      "frames": 1,
+      "bytes": 61083,
+      "sha256": "23f2e392ddaa3a35ab75d7edda9082fb8e0f6293ed7d6cc1c9d44e26efb2643b",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2232",
+      "slug": "dot-naiwa-2232",
+      "file": "originals/unclassified/dot-naiwa-2232.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa variant with an owl-like face",
+        "zh": "猫头鹰脸奶蛙变体"
+      },
+      "description": {
+        "en": "A round yellow character has an owl-like face, large green eyes with red rims, and a smooth, round belly.",
+        "zh": "圆滚滚的黄色角色长着猫头鹰般的脸，红色眼圈包着大绿眼睛，肚子又圆又光滑。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "source-named family design",
+          "Nai-tu",
+          "owl-like",
+          "round belly",
+          "hanging arms",
+          "static character design"
+        ],
+        "zh": [
+          "奶蛙",
+          "来源具名家族",
+          "奶涂",
+          "猫头鹰样",
+          "圆腹",
+          "垂臂",
+          "静态形象"
+        ]
+      },
+      "series": {
+        "id": "unclassified",
+        "label": {
+          "en": "Unclassified",
+          "zh": "待分类"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/GG-bondbond/desktop-pet-naiwa-/blob/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E5%A5%B6%E6%B6%82.png",
+        "https://raw.githubusercontent.com/GG-bondbond/desktop-pet-naiwa-/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E5%A5%B6%E6%B6%82.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/GG-bondbond/desktop-pet-naiwa-/blob/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E5%A5%B6%E6%B6%82.png",
+        "sourceNotes": {
+          "en": "The README labels the project MIT and describes desktop runtime background processing. This neither proves this source image’s production process nor authorizes third-party artwork or character rights. Original authorship and image permission remain unknown; all published bytes and markings are retained.",
+          "zh": "仓库 README 标注项目 MIT，并说明桌宠运行时有背景处理；这不证明本原图的制作过程，也不代替原图作者或第三方角色授权。作者及图像许可未知，保留全部公开源字节和标记。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The README labels the project MIT and describes desktop runtime background processing. This neither proves this source image’s production process nor authorizes third-party artwork or character rights. Original authorship and image permission remain unknown; all published bytes and markings are retained.",
+        "unknown",
+        "仓库 README 标注项目 MIT，并说明桌宠运行时有背景处理；这不证明本原图的制作过程，也不代替原图作者或第三方角色授权。作者及图像许可未知，保留全部公开源字节和标记。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 368,
+      "height": 462,
+      "frames": 1,
+      "bytes": 177334,
+      "sha256": "fdf595961b0794c2d572440da01d1ba29ede1b178cdb25a7cae610ce97f3d545",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2233",
+      "slug": "dot-naiwa-2233",
+      "file": "originals/unclassified/dot-naiwa-2233.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Broad-shouldered Naiwa variant",
+        "zh": "宽肩奶蛙变体"
+      },
+      "description": {
+        "en": "A broad-shouldered yellow character grins with its mouth open and rests both hands on its hips.",
+        "zh": "宽肩膀的黄色角色张嘴大笑，双手叉腰，露出浅色的圆肚子。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "source-named family design",
+          "Nai-xiong",
+          "bear-like",
+          "broad shoulders",
+          "hands on hips",
+          "static character design"
+        ],
+        "zh": [
+          "奶蛙",
+          "来源具名家族",
+          "奶熊",
+          "熊样",
+          "宽肩",
+          "叉腰",
+          "静态形象"
+        ]
+      },
+      "series": {
+        "id": "unclassified",
+        "label": {
+          "en": "Unclassified",
+          "zh": "待分类"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/GG-bondbond/desktop-pet-naiwa-/blob/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E5%A5%B6%E7%86%8A.png",
+        "https://raw.githubusercontent.com/GG-bondbond/desktop-pet-naiwa-/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E5%A5%B6%E7%86%8A.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/GG-bondbond/desktop-pet-naiwa-/blob/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E5%A5%B6%E7%86%8A.png",
+        "sourceNotes": {
+          "en": "The README labels the project MIT and describes desktop runtime background processing. This neither proves this source image’s production process nor authorizes third-party artwork or character rights. Original authorship and image permission remain unknown; all published bytes and markings are retained.",
+          "zh": "仓库 README 标注项目 MIT，并说明桌宠运行时有背景处理；这不证明本原图的制作过程，也不代替原图作者或第三方角色授权。作者及图像许可未知，保留全部公开源字节和标记。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The README labels the project MIT and describes desktop runtime background processing. This neither proves this source image’s production process nor authorizes third-party artwork or character rights. Original authorship and image permission remain unknown; all published bytes and markings are retained.",
+        "unknown",
+        "仓库 README 标注项目 MIT，并说明桌宠运行时有背景处理；这不证明本原图的制作过程，也不代替原图作者或第三方角色授权。作者及图像许可未知，保留全部公开源字节和标记。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 217,
+      "height": 306,
+      "frames": 1,
+      "bytes": 83961,
+      "sha256": "346dcaec31a67541d99ddf09c8a7ef5916d99d16c15ed81ccf472a9ddecf9ed1",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2234",
+      "slug": "dot-naiwa-2234",
+      "file": "originals/unclassified/dot-naiwa-2234.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Curly-tailed Naiwa variant",
+        "zh": "大卷尾奶蛙变体"
+      },
+      "description": {
+        "en": "An upright yellow character stands with hands on its hips and a large curled tail. The AI-generated label remains at the top left.",
+        "zh": "黄色角色双手叉腰，身后竖着粗大的卷尾，左上角保留了原有的 AI 生成标记。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "source-named family design",
+          "Nai-beng",
+          "large curled tail",
+          "hands on hips",
+          "static character design"
+        ],
+        "zh": [
+          "奶蛙",
+          "来源具名家族",
+          "奶蹦",
+          "大卷尾",
+          "叉腰",
+          "静态形象"
+        ]
+      },
+      "series": {
+        "id": "unclassified",
+        "label": {
+          "en": "Unclassified",
+          "zh": "待分类"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/GG-bondbond/desktop-pet-naiwa-/blob/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E5%A5%B6%E8%B9%A6.png",
+        "https://raw.githubusercontent.com/GG-bondbond/desktop-pet-naiwa-/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E5%A5%B6%E8%B9%A6.png"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/GG-bondbond/desktop-pet-naiwa-/blob/29fac1746ea6e566b3cd3390ea32f8c1164dadb1/%E5%A5%B6%E8%B9%A6.png",
+        "sourceNotes": {
+          "en": "The README labels the project MIT and describes desktop runtime background processing. This neither proves this source image’s production process nor authorizes third-party artwork or character rights. Original authorship and image permission remain unknown; all published bytes and markings are retained. AI disclosure: visible_file_label_only_tool_model_unverified.",
+          "zh": "仓库 README 标注项目 MIT，并说明桌宠运行时有背景处理；这不证明本原图的制作过程，也不代替原图作者或第三方角色授权。作者及图像许可未知，保留全部公开源字节和标记。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源记录保留该素材的 AI 披露范围，不据此推定具体工具或模型。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The README labels the project MIT and describes desktop runtime background processing. This neither proves this source image’s production process nor authorizes third-party artwork or character rights. Original authorship and image permission remain unknown; all published bytes and markings are retained. AI disclosure: visible_file_label_only_tool_model_unverified.",
+        "unknown",
+        "仓库 README 标注项目 MIT，并说明桌宠运行时有背景处理；这不证明本原图的制作过程，也不代替原图作者或第三方角色授权。作者及图像许可未知，保留全部公开源字节和标记。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源记录保留该素材的 AI 披露范围，不据此推定具体工具或模型。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 237,
+      "height": 302,
+      "frames": 1,
+      "bytes": 91471,
+      "sha256": "35a0253c403ec41b973b0f26b1156f0ca012c9730051477996c0790dea868e7a",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2235",
+      "slug": "dot-naiwa-2235",
+      "file": "originals/nai-wa/dot-naiwa-2235.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa lands belly first",
+        "zh": "奶蛙前扑趴平"
+      },
+      "description": {
+        "en": "Naiwa loses its balance, tips forward, lands on its belly, and gives a small wiggle on the floor.",
+        "zh": "奶蛙失去平衡向前扑倒，肚子着地后趴平，又轻轻摆动了一下。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "forward fall",
+          "belly-down landing",
+          "prone",
+          "complete short video"
+        ],
+        "zh": [
+          "奶蛙",
+          "前扑",
+          "摔倒",
+          "俯卧",
+          "完整短片"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/ludii12/naiwa1.2/blob/3ebdea6b7e73eafe4cc747db5a3e538ebb6a4a50/index.html",
+        "https://pan.imgbed.link/file/370917"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/ludii12/naiwa1.2/blob/3ebdea6b7e73eafe4cc747db5a3e538ebb6a4a50/index.html",
+        "sourceNotes": {
+          "en": "Public access is not an artwork or character licence. No media-specific author or redistribution permission was established by the source HTML or build instructions; underlying character/IP permissions remain unknown.",
+          "zh": "公开可访问不等于美术或角色授权。来源 HTML 和构建说明未确立该视频的原作者或再分发许可；角色及影像权利保持未知。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public access is not an artwork or character licence. No media-specific author or redistribution permission was established by the source HTML or build instructions; underlying character/IP permissions remain unknown.",
+        "unknown",
+        "公开可访问不等于美术或角色授权。来源 HTML 和构建说明未确立该视频的原作者或再分发许可；角色及影像权利保持未知。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 960,
+      "height": 960,
+      "frames": 28,
+      "bytes": 457461,
+      "sha256": "c85264666335e22eb44abab639f5ec6c64c8266b1a28b11260ca5fcf174693c8",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2236",
+      "slug": "dot-naiwa-2236",
+      "file": "originals/nai-wa/dot-naiwa-2236.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa dances under the moon",
+        "zh": "奶蛙月夜手势舞"
+      },
+      "description": {
+        "en": "Under a full moon beside a lamp post, Naiwa brings its hands together, sways, and lifts both hands toward its head.",
+        "zh": "满月和路灯旁，奶蛙合起双手，左右摇摆，再把手抬到头边。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete short video",
+          "gesture sequence"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整短片",
+          "合手",
+          "摆动",
+          "夜景"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/HackHTU/nai-long-live/blob/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/slow-shake.mp4",
+        "https://raw.githubusercontent.com/HackHTU/nai-long-live/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/slow-shake.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/HackHTU/nai-long-live/blob/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/slow-shake.mp4",
+        "sourceNotes": {
+          "en": "The source README says MIT but LICENSE contains GNU GPL v3, an unresolved project-license conflict. Original creator and character, video and audio rights are unknown; neither software license is treated as third-party artwork permission.",
+          "zh": "来源 README 写 MIT，但 LICENSE 为 GNU GPL v3，项目许可声明存在冲突；原作者及角色、影像和音轨权利未知，不将任一软件许可视为第三方美术授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The source README says MIT but LICENSE contains GNU GPL v3, an unresolved project-license conflict. Original creator and character, video and audio rights are unknown; neither software license is treated as third-party artwork permission.",
+        "unknown",
+        "来源 README 写 MIT，但 LICENSE 为 GNU GPL v3，项目许可声明存在冲突；原作者及角色、影像和音轨权利未知，不将任一软件许可视为第三方美术授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1920,
+      "frames": 304,
+      "bytes": 4278502,
+      "sha256": "6881660fbef64053631e13d2d701b500b2a83c360d573032f3b37ef53d5ce250",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2237",
+      "slug": "dot-naiwa-2237",
+      "file": "originals/nai-wa/dot-naiwa-2237.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa does a knee-lift dance",
+        "zh": "奶蛙抬膝交步舞"
+      },
+      "description": {
+        "en": "Naiwa lifts its knees, turns sideways, and swings its arms through a continuous dance on a pale background.",
+        "zh": "浅色背景里，奶蛙交替抬膝、侧身转动，连贯地摆动双臂。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete short video",
+          "gesture sequence"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整短片",
+          "抬膝",
+          "转身",
+          "摆臂"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/HackHTU/nai-long-live/blob/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/fancy-dance.mp4",
+        "https://raw.githubusercontent.com/HackHTU/nai-long-live/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/fancy-dance.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/HackHTU/nai-long-live/blob/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/fancy-dance.mp4",
+        "sourceNotes": {
+          "en": "The source README says MIT but LICENSE contains GNU GPL v3, an unresolved project-license conflict. Original creator and character, video and audio rights are unknown; neither software license is treated as third-party artwork permission.",
+          "zh": "来源 README 写 MIT，但 LICENSE 为 GNU GPL v3，项目许可声明存在冲突；原作者及角色、影像和音轨权利未知，不将任一软件许可视为第三方美术授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The source README says MIT but LICENSE contains GNU GPL v3, an unresolved project-license conflict. Original creator and character, video and audio rights are unknown; neither software license is treated as third-party artwork permission.",
+        "unknown",
+        "来源 README 写 MIT，但 LICENSE 为 GNU GPL v3，项目许可声明存在冲突；原作者及角色、影像和音轨权利未知，不将任一软件许可视为第三方美术授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1920,
+      "frames": 267,
+      "bytes": 3383676,
+      "sha256": "0707870ad28c31b5123daca78c3b84bd1e025f4ae9a60e3cdda33b9def2f17e4",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2238",
+      "slug": "dot-naiwa-2238",
+      "file": "originals/nai-wa/dot-naiwa-2238.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa dances in a purple bedroom",
+        "zh": "奶蛙卧室摆手舞"
+      },
+      "description": {
+        "en": "Naiwa waves and dances beside a heart-shaped pillow in a purple bedroom with a Sweet Dreams sign.",
+        "zh": "紫色卧室里，奶蛙在爱心枕头旁摆手跳舞，墙上亮着 Sweet Dreams 字样。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete short video",
+          "gesture sequence"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整短片",
+          "抬掌",
+          "摆动",
+          "卧室"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/HackHTU/nai-long-live/blob/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/fork-shake.mp4",
+        "https://raw.githubusercontent.com/HackHTU/nai-long-live/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/fork-shake.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/HackHTU/nai-long-live/blob/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/fork-shake.mp4",
+        "sourceNotes": {
+          "en": "The source README says MIT but LICENSE contains GNU GPL v3, an unresolved project-license conflict. Original creator and character, video and audio rights are unknown; neither software license is treated as third-party artwork permission.",
+          "zh": "来源 README 写 MIT，但 LICENSE 为 GNU GPL v3，项目许可声明存在冲突；原作者及角色、影像和音轨权利未知，不将任一软件许可视为第三方美术授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The source README says MIT but LICENSE contains GNU GPL v3, an unresolved project-license conflict. Original creator and character, video and audio rights are unknown; neither software license is treated as third-party artwork permission.",
+        "unknown",
+        "来源 README 写 MIT，但 LICENSE 为 GNU GPL v3，项目许可声明存在冲突；原作者及角色、影像和音轨权利未知，不将任一软件许可视为第三方美术授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1920,
+      "frames": 453,
+      "bytes": 6920771,
+      "sha256": "8d990d56aafc5b30bbf4bf7644786cfbad35b90c7d6d5b96130502a27c663499",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2239",
+      "slug": "dot-naiwa-2239",
+      "file": "originals/nai-wa/dot-naiwa-2239.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa and a little partner dance",
+        "zh": "奶蛙双人比心舞"
+      },
+      "description": {
+        "en": "Two yellow companions dance in a purple hall, bending their knees and bringing their hands together in front of their chests.",
+        "zh": "紫色大厅里，两只黄色角色一起屈膝摆动，在胸前合起双手。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete short video",
+          "gesture sequence"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整短片",
+          "双体",
+          "抬臂",
+          "屈膝",
+          "合手"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/HackHTU/nai-long-live/blob/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/milktea-shake.mp4",
+        "https://raw.githubusercontent.com/HackHTU/nai-long-live/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/milktea-shake.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/HackHTU/nai-long-live/blob/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/milktea-shake.mp4",
+        "sourceNotes": {
+          "en": "The source README says MIT but LICENSE contains GNU GPL v3, an unresolved project-license conflict. Original creator and character, video and audio rights are unknown; neither software license is treated as third-party artwork permission. AI disclosure: file_level_visible_label_and_source_list_claim_model_unknown.",
+          "zh": "来源 README 写 MIT，但 LICENSE 为 GNU GPL v3，项目许可声明存在冲突；原作者及角色、影像和音轨权利未知，不将任一软件许可视为第三方美术授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源记录保留该素材的 AI 披露范围，不据此推定具体工具或模型。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The source README says MIT but LICENSE contains GNU GPL v3, an unresolved project-license conflict. Original creator and character, video and audio rights are unknown; neither software license is treated as third-party artwork permission. AI disclosure: file_level_visible_label_and_source_list_claim_model_unknown.",
+        "unknown",
+        "来源 README 写 MIT，但 LICENSE 为 GNU GPL v3，项目许可声明存在冲突；原作者及角色、影像和音轨权利未知，不将任一软件许可视为第三方美术授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源记录保留该素材的 AI 披露范围，不据此推定具体工具或模型。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1920,
+      "frames": 453,
+      "bytes": 7729957,
+      "sha256": "6eb31d12d61848677c7b0890b906914498497a92b0abf17dea21702ec0bb581c",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2240",
+      "slug": "dot-naiwa-2240",
+      "file": "originals/nai-wa/dot-naiwa-2240.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa runs closer with a wink",
+        "zh": "奶蛙跑近送飞吻"
+      },
+      "description": {
+        "en": "Naiwa runs across a grassy field toward the camera, sways with hands behind its head, and finishes with a wink and an outward palm.",
+        "zh": "奶蛙从草地远处跑向镜头，抱着头扭动身体，最后眨眼向外送出手掌。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete short video",
+          "gesture sequence"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整短片",
+          "跑近",
+          "抱头",
+          "眨眼",
+          "送掌"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/HackHTU/nai-long-live/blob/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/wechat-card-dance.mp4",
+        "https://raw.githubusercontent.com/HackHTU/nai-long-live/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/wechat-card-dance.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/HackHTU/nai-long-live/blob/92d34fd51e356882a09b5e4ec8acd831372cb353/public/videos/wechat-card-dance.mp4",
+        "sourceNotes": {
+          "en": "The source README says MIT but LICENSE contains GNU GPL v3, an unresolved project-license conflict. Original creator and character, video and audio rights are unknown; neither software license is treated as third-party artwork permission.",
+          "zh": "来源 README 写 MIT，但 LICENSE 为 GNU GPL v3，项目许可声明存在冲突；原作者及角色、影像和音轨权利未知，不将任一软件许可视为第三方美术授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The source README says MIT but LICENSE contains GNU GPL v3, an unresolved project-license conflict. Original creator and character, video and audio rights are unknown; neither software license is treated as third-party artwork permission.",
+        "unknown",
+        "来源 README 写 MIT，但 LICENSE 为 GNU GPL v3，项目许可声明存在冲突；原作者及角色、影像和音轨权利未知，不将任一软件许可视为第三方美术授权。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1920,
+      "frames": 284,
+      "bytes": 3821470,
+      "sha256": "9a87883724b10f49f103d2000fed9a894f70b9a6942a3fb0d0fb77cefd96f859",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2241",
+      "slug": "dot-naiwa-2241",
+      "file": "originals/nai-wa/dot-naiwa-2241.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa holds its cheeks",
+        "zh": "奶蛙委屈捧脸"
+      },
+      "description": {
+        "en": "A small frowning Naiwa lowers its head, lifts one hand and then both hands to its cheeks, and lowers them again.",
+        "zh": "小小的奶蛙皱着嘴低下头，先用一只手、再用双手捧脸，最后放下双手。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "sad",
+        "en": "Sad",
+        "zh": "难过"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "cute variant",
+          "head lowered",
+          "cheek cupping",
+          "sad reaction",
+          "complete GIF"
+        ],
+        "zh": [
+          "奶蛙",
+          "可爱变体",
+          "垂头",
+          "捧脸",
+          "委屈",
+          "完整动图"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/gooder-bot/codex_pets_naiwa-cute/blob/main/previews/rows/row-05-failed.gif",
+        "https://raw.githubusercontent.com/gooder-bot/codex_pets_naiwa-cute/main/previews/rows/row-05-failed.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/gooder-bot/codex_pets_naiwa-cute/blob/main/previews/rows/row-05-failed.gif",
+        "sourceNotes": {
+          "en": "The repository states MIT unless otherwise noted, but third-party character/art rights and the reference owner’s authority are not independently established. Public access and a repository licence are not an IP guarantee. AI disclosure: README project-level statement: owner-provided visual reference, AI-assisted creation, manual selection/assembly/action correction; it does not establish a named tool/model or exact per-file generation workflow..",
+          "zh": "仓库声明未另注明的内容以MIT发布，但第三方角色、美术和参考图提供者的权利未独立核实；公开可访问及仓库许可不构成角色IP保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源记录保留该素材的 AI 披露范围，不据此推定具体工具或模型。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The repository states MIT unless otherwise noted, but third-party character/art rights and the reference owner’s authority are not independently established. Public access and a repository licence are not an IP guarantee. AI disclosure: README project-level statement: owner-provided visual reference, AI-assisted creation, manual selection/assembly/action correction; it does not establish a named tool/model or exact per-file generation workflow..",
+        "unknown",
+        "仓库声明未另注明的内容以MIT发布，但第三方角色、美术和参考图提供者的权利未独立核实；公开可访问及仓库许可不构成角色IP保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源记录保留该素材的 AI 披露范围，不据此推定具体工具或模型。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 8,
+      "bytes": 56615,
+      "sha256": "cfa0e3ee31fefd43759d5a7a69528f390a4c2e605d8ce609b3ff5a42147be755",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2242",
+      "slug": "dot-naiwa-2242",
+      "file": "originals/nai-wa/dot-naiwa-2242.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Angry Naiwa fixes its bow tie",
+        "zh": "奶蛙皱眉整理领结"
+      },
+      "description": {
+        "en": "A frowning Naiwa in a dark suit adjusts its bow tie, turns, and raises its fists on a city street.",
+        "zh": "深色西装奶蛙皱着眉整理领结，转过身后在街边抬起双拳。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "angry",
+        "en": "Angry",
+        "zh": "生气"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "complete reaction",
+          "frown",
+          "bow tie",
+          "turning",
+          "raised fists"
+        ],
+        "zh": [
+          "奶蛙",
+          "完整短片",
+          "皱眉",
+          "领结",
+          "转身",
+          "抬拳"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/10.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 25,
+      "bytes": 151684,
+      "sha256": "e2fecec856ad7569c108666e677f16ac979452b74c3082a7e00f9332b390659d",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2243",
+      "slug": "dot-naiwa-2243",
+      "file": "originals/nai-wa/dot-naiwa-2243.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa with a chiseled jaw",
+        "zh": "硬朗下颌奶蛙"
+      },
+      "description": {
+        "en": "A close-up of yellow Naiwa with a square jaw, thick neck, and half-closed green eyes.",
+        "zh": "黄色奶蛙的脸部特写，方正的下颌、粗壮的颈部，配着半睁的绿眼睛。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static variant design",
+          "square jaw",
+          "half-lidded eyes"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态变体设计",
+          "方下颌",
+          "半闭眼"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/14.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 8933,
+      "sha256": "d63564bab17a38bfcc66cafc045b9e3e1eca334372360074da28a43d0ec3b5c4",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2244",
+      "slug": "dot-naiwa-2244",
+      "file": "originals/nai-wa/dot-naiwa-2244.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "X-ray style laughing Naiwa",
+        "zh": "奶蛙捧腹骨架图"
+      },
+      "description": {
+        "en": "A translucent blue Naiwa leans forward laughing, with a stylized skeleton visible inside its body.",
+        "zh": "半透明的蓝色奶蛙弯腰捧腹大笑，身体里能看到风格化的骨架。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static variant design",
+          "visible skeleton",
+          "belly-laugh pose",
+          "source AI-generated label"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态变体设计",
+          "透视骨架",
+          "捧腹造型",
+          "来源标注AI生成"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/15.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee. AI disclosure: file_level_visible_original_label_claim_only.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源记录保留该素材的 AI 披露范围，不据此推定具体工具或模型。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee. AI disclosure: file_level_visible_original_label_claim_only.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。 来源记录保留该素材的 AI 披露范围，不据此推定具体工具或模型。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 15905,
+      "sha256": "6730fdd00751adf70f54b9e8c2a3a6757f2afa5d2cf260add2cff858e51b8393",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2245",
+      "slug": "dot-naiwa-2245",
+      "file": "originals/nai-wa/dot-naiwa-2245.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "GM Frogs: a morning toast",
+        "zh": "奶蛙早安举杯"
+      },
+      "description": {
+        "en": "Smiling Naiwa raises a green mug beside a rising sun under the words GM FROGS.",
+        "zh": "奶蛙笑着举起绿色杯子，旁边是太阳，上方写着 GM FROGS。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "mug"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "杯子"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/64.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 36102,
+      "sha256": "3227817c38b7f59aeb250092f4d3478a23ac0a593a8ee8b33b1094af2c5b6686",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2246",
+      "slug": "dot-naiwa-2246",
+      "file": "originals/nai-wa/dot-naiwa-2246.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa gets caught in another dip",
+        "zh": "奶蛙又被套了"
+      },
+      "description": {
+        "en": "A tearful Naiwa hugs a board with a falling red line. The caption means Caught in it again.",
+        "zh": "流泪的奶蛙抱着画有红色下跌折线的牌子，配字“又被套了”。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "sad",
+        "en": "Sad",
+        "zh": "难过"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "tears"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "泪流"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/67.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 33042,
+      "sha256": "9c1b28f2a95a427066e6c86b7fc4ac433b9de5a8fd9e254767acb09a299dd386",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2247",
+      "slug": "dot-naiwa-2247",
+      "file": "originals/nai-wa/dot-naiwa-2247.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Hold the money bag",
+        "zh": "奶蛙抱紧钱袋"
+      },
+      "description": {
+        "en": "Naiwa laughs while holding a bag overflowing with gold coins. The caption says Hold the money bag.",
+        "zh": "奶蛙捧着装满金币的钱袋大笑，上方配字“抱紧钱袋”。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "coin sack"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "钱袋"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/68.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 35122,
+      "sha256": "3507e358a788c849b1240d0aadfce1c8523d38492e492f7005de908939434676",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2248",
+      "slug": "dot-naiwa-2248",
+      "file": "originals/nai-wa/dot-naiwa-2248.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "WAGMI: Naiwa on the move",
+        "zh": "奶蛙扛钱袋冲刺"
+      },
+      "description": {
+        "en": "Naiwa runs with a money bag over its shoulder beneath a WAGMI caption.",
+        "zh": "奶蛙把钱袋扛在肩上向前奔跑，上方写着 WAGMI。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "carrying a sack"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "扛袋"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/70.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 33268,
+      "sha256": "636fe5db84e29e2b3bfd2d20312948a06b513c76839daa9004dbf8fe3748e9b7",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2249",
+      "slug": "dot-naiwa-2249",
+      "file": "originals/nai-wa/dot-naiwa-2249.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa prays for a rise",
+        "zh": "奶蛙拜一拜就涨"
+      },
+      "description": {
+        "en": "Kneeling Naiwa reaches toward a glowing coin. The playful caption means Pray and it goes up.",
+        "zh": "奶蛙跪坐着伸手迎向发光的金币，配字“拜一拜就涨”。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "kneeling"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "跪坐"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/71.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 35111,
+      "sha256": "36e3d9bea211e7e94dfbc8fcad73f1ac8d41a18923d3bb2457e8f25710dbd86e",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2250",
+      "slug": "dot-naiwa-2250",
+      "file": "originals/nai-wa/dot-naiwa-2250.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa rides a rocket",
+        "zh": "奶蛙骑火箭上天"
+      },
+      "description": {
+        "en": "Naiwa rides a red-tipped rocket and points upward under the caption TO THE MOON.",
+        "zh": "奶蛙骑着红头火箭指向上方，配字 TO THE MOON。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "rocket"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "火箭"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/72.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 41259,
+      "sha256": "eba5abb62943de484e1350b8bd5cb0adb1541478d27bb82cb06a9989888ffb81",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2251",
+      "slug": "dot-naiwa-2251",
+      "file": "originals/nai-wa/dot-naiwa-2251.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa has diamond hands",
+        "zh": "奶蛙钻石手"
+      },
+      "description": {
+        "en": "Laughing Naiwa holds a large blue diamond beneath the words DIAMOND HANDS.",
+        "zh": "奶蛙笑着托起蓝色大钻石，上方写着 DIAMOND HANDS。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "gemstone"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "宝石"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/73.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 30626,
+      "sha256": "cbc4ae45051a388abbed3154c1090b2554fef3d99ce1b93accbc9fffd64d603d",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2252",
+      "slug": "dot-naiwa-2252",
+      "file": "originals/nai-wa/dot-naiwa-2252.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa hits the all-in button",
+        "zh": "奶蛙梭哈"
+      },
+      "description": {
+        "en": "Naiwa presses a large green button under a caption meaning All in!",
+        "zh": "奶蛙俯身按下绿色大按钮，上方配字“梭哈！”。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "button"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "按钮"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/74.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 27015,
+      "sha256": "301a82c3d9732c25332e48af353b453653ba115a9a782a5b5093a7f62e702b9e",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2253",
+      "slug": "dot-naiwa-2253",
+      "file": "originals/nai-wa/dot-naiwa-2253.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Buying the dip too early",
+        "zh": "奶蛙半山腰抄底"
+      },
+      "description": {
+        "en": "Naiwa lies beneath a large red candlestick, captioned Buying the dip halfway down.",
+        "zh": "奶蛙趴在巨大的红色蜡烛形柱子下，配字“半山腰抄底”。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "sad",
+        "en": "Sad",
+        "zh": "难过"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "lying face down"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "俯卧"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/75.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 24809,
+      "sha256": "756ede9458bfca6f9949f685648bba7735258417250ac8a2f97bb0b746871990",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2254",
+      "slug": "dot-naiwa-2254",
+      "file": "originals/nai-wa/dot-naiwa-2254.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "King of Naiwa",
+        "zh": "奶蛙之王"
+      },
+      "description": {
+        "en": "Crowned Naiwa laughs on a throne of gold coins beneath a King of Naiwa caption.",
+        "zh": "戴王冠的奶蛙坐在金币王座上大笑，上方配字“奶蛙之王”。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "crown"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "王冠"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/76.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 35825,
+      "sha256": "543154e576d2edded6a1a1dec886e2e8a76168c0959ba38ac9aeb93e5b82d6b7",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2255",
+      "slug": "dot-naiwa-2255",
+      "file": "originals/nai-wa/dot-naiwa-2255.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Pop the champagne",
+        "zh": "奶蛙开香槟"
+      },
+      "description": {
+        "en": "Naiwa opens a champagne bottle that sprays pink bubbles beneath a Pop the champagne! caption.",
+        "zh": "奶蛙打开香槟瓶，粉色泡沫向外喷出，上方配字“开香槟！”。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "champagne"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "香槟"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/80.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 28029,
+      "sha256": "afc4ec9bc745e3550cf3d46d462964718dcd6883cd78e843b857b83929e2437d",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2256",
+      "slug": "dot-naiwa-2256",
+      "file": "originals/nai-wa/dot-naiwa-2256.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa is cooking",
+        "zh": "奶蛙开饭了"
+      },
+      "description": {
+        "en": "Chef Naiwa holds a frying pan with a glowing coin-like pancake under the word COOKING.",
+        "zh": "厨师装奶蛙端着平底锅，锅里有发光的金币形煎饼，上方写着 COOKING。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "frying pan"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "平底锅"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/82.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 29070,
+      "sha256": "44633c97ad2a97cc8155c136bc3e21c5465cf8303011dfbd7647dc90e31964a1",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2257",
+      "slug": "dot-naiwa-2257",
+      "file": "originals/nai-wa/dot-naiwa-2257.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "See you on the moon",
+        "zh": "奶蛙月球见"
+      },
+      "description": {
+        "en": "Naiwa wears a clear space helmet and holds a green frog flag on a cratered sphere. The caption says See you on the moon.",
+        "zh": "奶蛙戴着透明太空头盔，在有陨石坑的球体上举起绿色青蛙旗，配字“月球见”。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "flag"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "旗帜"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/83.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 31418,
+      "sha256": "feec4a7978edc58226dab0ba8408e40e36c1e16714c28091b103f78416f86e47",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2258",
+      "slug": "dot-naiwa-2258",
+      "file": "originals/nai-wa/dot-naiwa-2258.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "WAGMI: hands together",
+        "zh": "奶蛙同伴齐心"
+      },
+      "description": {
+        "en": "Three laughing Naiwa stack their hands beneath the word WAGMI.",
+        "zh": "三只笑着的奶蛙围在一起叠起双手，上方写着 WAGMI。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "hands-in"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "叠手"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/85.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 33331,
+      "sha256": "18f906c68f3281f92442f8fec85bfc4a63054c1d4462c1f813925da3fd7f343c",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2259",
+      "slug": "dot-naiwa-2259",
+      "file": "originals/nai-wa/dot-naiwa-2259.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "HODL and chill with Naiwa",
+        "zh": "奶蛙躺平等一等"
+      },
+      "description": {
+        "en": "Sunglasses-wearing Naiwa rests in a green hammock beside rising green bars under HODL & CHILL.",
+        "zh": "戴墨镜的奶蛙躺在绿色吊床上，身旁有向上的绿色柱形图，配字 HODL & CHILL。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "hammock"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "吊床"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/89.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 42399,
+      "sha256": "3756b10a2a2fa5aaf168b3ba4b3918eccc43d0c2b5e1b0d9bc20fef8c1c7afe9",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2260",
+      "slug": "dot-naiwa-2260",
+      "file": "originals/nai-wa/dot-naiwa-2260.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa on the decks",
+        "zh": "奶蛙打碟"
+      },
+      "description": {
+        "en": "Naiwa wears headphones and works a turntable beneath the words VIBES IMMACULATE.",
+        "zh": "奶蛙戴着耳机操作打碟机，上方写着 VIBES IMMACULATE。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "DJ console"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "DJ台"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/90.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 39948,
+      "sha256": "987367487d98d9aa60f506a252f4d0123dd46d8e28024219146417a9af3abbb1",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2261",
+      "slug": "dot-naiwa-2261",
+      "file": "originals/nai-wa/dot-naiwa-2261.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Community strong",
+        "zh": "奶蛙社区齐心"
+      },
+      "description": {
+        "en": "Two laughing Naiwa lift a large green bar together under the words COMMUNITY STRONG.",
+        "zh": "两只大笑的奶蛙一起托起绿色长柱，上方写着 COMMUNITY STRONG。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "lifting together"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "共同举物"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/91.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 37661,
+      "sha256": "b8f65d6d8778b1985be4a67dcc7898e62dd92169ef6ef05f31cf0773b723cd71",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2262",
+      "slug": "dot-naiwa-2262",
+      "file": "originals/nai-wa/dot-naiwa-2262.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Space Frog Naiwa",
+        "zh": "太空奶蛙"
+      },
+      "description": {
+        "en": "Laughing Naiwa wears a spacesuit among floating coins beneath the words SPACE FROG.",
+        "zh": "穿太空服的奶蛙在飘浮的金币间大笑，上方写着 SPACE FROG。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "spacesuit"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "宇航服"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/94.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 50409,
+      "sha256": "74d20acc76acf8e318a6711554deeab3c8a6a53fea4c319154dad0c8b8c882c3",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2263",
+      "slug": "dot-naiwa-2263",
+      "file": "originals/nai-wa/dot-naiwa-2263.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa at a telescope",
+        "zh": "奶蛙仰望更高处"
+      },
+      "description": {
+        "en": "Naiwa looks through a gold telescope toward a rising green chart beneath the words ONLY HIGHER.",
+        "zh": "奶蛙透过金色望远镜看向向上的绿色图表，上方写着 ONLY HIGHER。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "telescope"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "望远镜"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/95.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 38207,
+      "sha256": "77c56ad93255cb1ff38fd2dab2df3a2089e725a51e28466e15c27548ff407286",
+      "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2264",
+      "slug": "dot-naiwa-2264",
+      "file": "originals/nai-wa/dot-naiwa-2264.webm",
+      "fileRole": "original",
+      "title": {
+        "en": "Meme magic with Naiwa",
+        "zh": "奶蛙的梗图魔法"
+      },
+      "description": {
+        "en": "Wizard Naiwa wears a purple robe and hat, raises a star-tipped wand, and laughs beneath MEME MAGIC.",
+        "zh": "奶蛙穿戴紫色法袍和帽子，举起星形魔杖大笑，上方写着 MEME MAGIC。"
+      },
+      "type": "video",
+      "format": "webm",
+      "sourceDeclaredFormat": "webm",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "static reaction design",
+          "wand"
+        ],
+        "zh": [
+          "奶蛙",
+          "静态反应设计",
+          "魔杖"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://milkfrogbnb.fun/",
+        "https://milkfrogbnb.fun/stickers/96.webm"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://milkfrogbnb.fun/",
+        "sourceNotes": {
+          "en": "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+          "zh": "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The inspected public page, script text and manifest do not establish the original creator or character/artwork permission. The manifest label “Naiwa By @gmgmer” is retained only as an unverified uploader attribution, not an official or rights guarantee.",
+        "unknown",
+        "公开首页、脚本文本与清单未证实本原件的创作者或角色、美术授权；清单“奶蛙By @gmgmer”仅作为未经独立确认的发布者署名保留，不代表官方或权利保证。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 30,
+      "bytes": 43391,
+      "sha256": "03e2d5ec2c0bbc2bf612df7d38a1aaa9cc6f1ef82a6c317da90cc4d96fb4a8eb",
       "collectedAt": "2026-11-01"
     },
     {
