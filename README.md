@@ -13,6 +13,7 @@ Open `index.html` locally, or serve this folder with any static server. The inde
 ## Contents / 文件
 
 - `originals/<series>/<stable-id>.<format>`: byte-for-byte copies of the original media already in the verified public library. No frames are counted as separate works; watermarks remain intact.
+- `restored/<series>/...`: verified clean display/download copies, linked to the unchanged source hash. They do not add to the original-work count. The local gallery prefers these copies when available.
 - `previews/<series>/...`: explicitly marked converted previews. These are not represented as the original files.
 - `metadata.json`: bilingual titles, tags and descriptions; stable IDs; type, mood, series and storyline; sanitized source URLs; creator and rights status; SHA-256 and file size.
 - `SHA256SUMS`: hashes for all distributed media and imported license notices.
