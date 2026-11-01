@@ -1,6 +1,20 @@
 {
   "repositories": [
     {
+      "id": "dot-source-naiwa-icons",
+      "repositoryURL": "https://github.com/chromoany/naiwa-icons",
+      "revision": "79d0c16010c97679c62c2daa14b90c86ddac2d72",
+      "repositoryOwner": "chromoany",
+      "repositoryLicense": "CC BY-NC-SA 4.0 (source artwork claim)",
+      "mediaRights": "Underlying character/IP rights remain unverified.",
+      "notices": [
+        {
+          "file": "LICENSES/dot-source-naiwa-icons-LICENSE.txt",
+          "sha256": "1349a4b6148492b44f629e64eed676612e234fe9a839e4f3b277c1482c8849f1"
+        }
+      ]
+    },
+    {
       "id": "nailong-memes",
       "repositoryURL": "https://github.com/GeorgeNaNN/nailong-memes",
       "revision": "ea5703e70ddbdc666de6be25c8a8f905a2203863",
