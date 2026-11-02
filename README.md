@@ -1,5 +1,11 @@
 # NaiwaHub / 奶蛙 Hub 素材索引
 
+[Browse Naiwa Hub](https://naiwahub.com/) · [中文浏览奶蛙 Hub](https://naiwahub.com/zh) · [Meme & GIF search](https://naiwahub.com/memes) · [Classic reactions](https://naiwahub.com/classics)
+
+Search the live collection in English or Chinese, including text inside images. Browse by mood, character or topic, preview complete animations, and download the original files without creating an account.
+
+在线图库支持中英文及图片文字搜索，可以按心情、角色和话题浏览，预览完整动图并下载原件，无需注册。角色背景见 [About Naiwa](https://naiwahub.com/about)，中文介绍见 [认识奶蛙](https://naiwahub.com/zh/about)。
+
 An independent community archive of Naiwa-related memes. This is not an official character collection. Creators and other rights holders retain their rights; inclusion does not establish authorship, permission or commercial-use rights.
 
 这是独立的奶蛙相关社区素材整理，不代表官方。作品与角色的权利仍归各权利人；收录不等于已确认作者、再分发授权或商用许可。
