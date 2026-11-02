@@ -13,7 +13,7 @@
     "reviewedSameWorkGroups": 10,
     "alternateOriginalFiles": 10,
     "independentWorks": 2606,
-    "restoredCopies": 568,
+    "restoredCopies": 579,
     "assets": 2617,
     "convertedPreviews": 1,
     "uniqueSHA256": 2617,
@@ -53019,7 +53019,34 @@
       "frames": 114,
       "bytes": 1070784,
       "sha256": "87678bfe70bfad587b8f2767858dc6a1fd6c86119bf60045ed99f5db83255538",
-      "collectedAt": "2026-11-01"
+      "collectedAt": "2026-11-01",
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0731-b7f66d463b6e9051.gif",
+        "format": "gif",
+        "sha256": "b7f66d463b6e9051f7f8e29e1a6a8669f135d1280fd8f6d800c6f7468813bc6c",
+        "bytes": 1243537,
+        "originalSha256": "87678bfe70bfad587b8f2767858dc6a1fd6c86119bf60045ed99f5db83255538",
+        "method": "complete clean-reference guided glyph patches with local motion registration; original114 frames and timing preserved, no full-clip replacement",
+        "notAnAdditionalOriginal": true,
+        "referenceSources": [
+          {
+            "url": "https://milkfrogbnb.fun/stickers/33.webm",
+            "sha256": "9a2826906fab34ef940dc63b06605426c00c33d8d99164cf37ae9023c6f6a65c",
+            "bytes": 244598,
+            "rights": "unknown",
+            "creator": null,
+            "note": "Clean reference contains87 frames, used only for registered glyph patches. Source114-frame sequence, canvas and timing retained; not an unchanged full-clip replacement or a new work."
+          },
+          {
+            "url": "https://milkfrogbnb.fun/stickers/50.webm",
+            "sha256": "bd5158f12dfa99a91ec1088a280bef5a7d456ae286406f368396c37e0d79c77e",
+            "bytes": 239231,
+            "rights": "unknown",
+            "creator": null,
+            "note": "Clean reference contains87 frames, used only for registered glyph patches. Source114-frame sequence, canvas and timing retained; not an unchanged full-clip replacement or a new work."
+          }
+        ]
+      }
     },
     {
       "stableID": "dot-naiwa-0732",
@@ -57891,7 +57918,16 @@
       "frames": 1,
       "bytes": 14972,
       "sha256": "9235958086d44901980106e5344a52d6b895453f3e56b7ed29af96e92024d0a4",
-      "collectedAt": "2026-11-01"
+      "collectedAt": "2026-11-01",
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0792-7d3476397ce44afe.png",
+        "format": "png",
+        "sha256": "7d3476397ce44afe73844817e9e95a7c547f50c514ccd6fde579f21de0d7bf07",
+        "bytes": 137628,
+        "originalSha256": "9235958086d44901980106e5344a52d6b895453f3e56b7ed29af96e92024d0a4",
+        "method": "lama local neural glyph repair; transparent watermark alpha repaired only within explicit mask",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0793",
@@ -79739,12 +79775,12 @@
       "sha256": "b01b374146e911e02a28cb6947dc029039c5083dd009bfd195f08153191a4b47",
       "collectedAt": "2026-11-01",
       "restoredCopy": {
-        "file": "restored/nai-wa/dot-naiwa-1050-a0465bb225f86d01.gif",
+        "file": "restored/nai-wa/dot-naiwa-1050-2bdf19249527a082.gif",
         "format": "gif",
-        "sha256": "a0465bb225f86d01f87fa2e4d243d9acefa754a368534b07db65eff566fe1d1f",
-        "bytes": 5347423,
+        "sha256": "2bdf19249527a082e27d3b84f9f020f761798921d0b6777541fa8017edc6a39d",
+        "bytes": 5339422,
         "originalSha256": "b01b374146e911e02a28cb6947dc029039c5083dd009bfd195f08153191a4b47",
-        "method": "MI-GAN local CPU, reviewed region masks; lossless pixel composition",
+        "method": "lama local neural glyph repair; transparent watermark alpha repaired only within explicit mask",
         "notAnAdditionalOriginal": true
       }
     },
@@ -84358,7 +84394,16 @@
       "frames": 2,
       "bytes": 7286,
       "sha256": "d23ee3143c9a954861f121401899329db81eb0b52956853ff02c20c8694dbd8e",
-      "collectedAt": "2026-11-01"
+      "collectedAt": "2026-11-01",
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1104-f1e00c2a01ddbe0b.gif",
+        "format": "gif",
+        "sha256": "f1e00c2a01ddbe0b6890695f92900637227d67582495a64faf00481014b18376",
+        "bytes": 14405,
+        "originalSha256": "d23ee3143c9a954861f121401899329db81eb0b52956853ff02c20c8694dbd8e",
+        "method": "lama local neural glyph repair; transparent watermark alpha repaired only within explicit mask",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1105",
@@ -84436,7 +84481,24 @@
       "frames": 2,
       "bytes": 9290,
       "sha256": "447983b779f1665f2383df31b42c164b43d0210350489ac5a4a0a85a63263252",
-      "collectedAt": "2026-11-01"
+      "collectedAt": "2026-11-01",
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1105-7c64143378adc9c9.gif",
+        "format": "gif",
+        "sha256": "7c64143378adc9c97c4d5f03cec5fbcfd00b51c755c22abfcb312377d651587f",
+        "bytes": 18265,
+        "originalSha256": "447983b779f1665f2383df31b42c164b43d0210350489ac5a4a0a85a63263252",
+        "method": "aligned same-work clean PNG reference patches; original static GIF frame sequence and timing retained",
+        "notAnAdditionalOriginal": true,
+        "referenceSource": {
+          "url": "https://milkfrogbnb.fun/stickers/63.png",
+          "sha256": "e73a3488bd983d202e710f8b37a664269caf4e36f9e5e92460e2a44be3b9fb29",
+          "bytes": 166035,
+          "rights": "unknown",
+          "creator": null,
+          "note": "Same static composition, crossed arms and exact red caption; separate reference-derived repair, not a new work or the unchanged GIF original. Existing two-frame timing and loop retained."
+        }
+      }
     },
     {
       "stableID": "dot-naiwa-1106",
@@ -84592,7 +84654,16 @@
       "frames": 2,
       "bytes": 8099,
       "sha256": "86f7554b967008629e974077a734eb5d0dafb1e7b1269e52349a1de7a5bca7d7",
-      "collectedAt": "2026-11-01"
+      "collectedAt": "2026-11-01",
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1107-3d1e93fd54dc297f.gif",
+        "format": "gif",
+        "sha256": "3d1e93fd54dc297f775da5d263845768ea7be3cf38faa66bc9fc65d052b3d92d",
+        "bytes": 16373,
+        "originalSha256": "86f7554b967008629e974077a734eb5d0dafb1e7b1269e52349a1de7a5bca7d7",
+        "method": "lama local neural glyph repair; transparent watermark alpha repaired only within explicit mask",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1108",
@@ -84670,7 +84741,16 @@
       "frames": 2,
       "bytes": 7524,
       "sha256": "01897be12d78c568daece4ef00cb1f273d2b9b9d013132ab15f6792ec186f5a3",
-      "collectedAt": "2026-11-01"
+      "collectedAt": "2026-11-01",
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1108-47a63bb18d002b6c.gif",
+        "format": "gif",
+        "sha256": "47a63bb18d002b6caea88b7a0c98b335acdf093d57b01d4c4ea93249c24857a2",
+        "bytes": 14959,
+        "originalSha256": "01897be12d78c568daece4ef00cb1f273d2b9b9d013132ab15f6792ec186f5a3",
+        "method": "lama local neural glyph repair; transparent watermark alpha repaired only within explicit mask",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1109",
@@ -84835,7 +84915,16 @@
       "frames": 2,
       "bytes": 10624,
       "sha256": "dd0c869230af1c0fe93ca8866f984963a3577388a566908be0476da341865807",
-      "collectedAt": "2026-11-01"
+      "collectedAt": "2026-11-01",
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1110-1bb81fe266180b4b.gif",
+        "format": "gif",
+        "sha256": "1bb81fe266180b4b15728ae93420d1e452cc3a693f96753f89f239425b7cda22",
+        "bytes": 21743,
+        "originalSha256": "dd0c869230af1c0fe93ca8866f984963a3577388a566908be0476da341865807",
+        "method": "lama local neural glyph repair; transparent watermark alpha repaired only within explicit mask",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1111",
@@ -91977,7 +92066,16 @@
       "frames": 1,
       "bytes": 63759,
       "sha256": "3625cf33d7ad219ad0fa7651bcb0b85ebf8f747e0ab4646b168381e2fa7ab657",
-      "collectedAt": "2026-11-01"
+      "collectedAt": "2026-11-01",
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1198-8351ce7de1179bfc.png",
+        "format": "png",
+        "sha256": "8351ce7de1179bfcfe63811292fc33bc37f0e27750376b7d2dbaa3c50f93db11",
+        "bytes": 63975,
+        "originalSha256": "3625cf33d7ad219ad0fa7651bcb0b85ebf8f747e0ab4646b168381e2fa7ab657",
+        "method": "lama local neural glyph repair; transparent watermark alpha repaired only within explicit mask",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1199",
@@ -111644,7 +111742,16 @@
       "frames": 1,
       "bytes": 12500,
       "sha256": "54934d0d06eb2eda60421a2b8a10f4de1e08e7ffcf444d9d13441f6b3f92fbf3",
-      "collectedAt": "2026-11-01"
+      "collectedAt": "2026-11-01",
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1455-8d5a821323be7287.png",
+        "format": "png",
+        "sha256": "8d5a821323be7287618e20195c34f510d73bf3d794dfe48171b986f8ef31917c",
+        "bytes": 143848,
+        "originalSha256": "54934d0d06eb2eda60421a2b8a10f4de1e08e7ffcf444d9d13441f6b3f92fbf3",
+        "method": "lama local neural glyph repair; transparent watermark alpha repaired only within explicit mask",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1456",
@@ -112145,7 +112252,16 @@
       "frames": 60,
       "bytes": 461522,
       "sha256": "66d2f53f7e428fe21b64c0ce2132e4c7f86a746c56fe53ab9f06510374a9bbf7",
-      "collectedAt": "2026-11-01"
+      "collectedAt": "2026-11-01",
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1461-9a8fe7b757e5e3ae.gif",
+        "format": "gif",
+        "sha256": "9a8fe7b757e5e3aeb1cc16086bd23ef4acc1de3a19f2f7211a1d5bd1e1051d39",
+        "bytes": 1160244,
+        "originalSha256": "66d2f53f7e428fe21b64c0ce2132e4c7f86a746c56fe53ab9f06510374a9bbf7",
+        "method": "lama local neural glyph repair; transparent watermark alpha repaired only within explicit mask",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1462",
@@ -120356,7 +120472,16 @@
       "frames": 1,
       "bytes": 4844,
       "sha256": "65fad119b570b11c2d78d0a478f78f851269f7bd06f3c4e707319f88d20ed3e4",
-      "collectedAt": "2026-11-01"
+      "collectedAt": "2026-11-01",
+      "restoredCopy": {
+        "file": "restored/little-naiwa/dot-naiwa-1573-0c4076589d43404c.png",
+        "format": "png",
+        "sha256": "0c4076589d43404c7ee19642af2257702fe367f51f456989dddb21e2d90aedba",
+        "bytes": 69601,
+        "originalSha256": "65fad119b570b11c2d78d0a478f78f851269f7bd06f3c4e707319f88d20ed3e4",
+        "method": "lama local neural glyph repair; transparent watermark alpha repaired only within explicit mask",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1574",
