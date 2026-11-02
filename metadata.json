@@ -13,7 +13,7 @@
     "reviewedSameWorkGroups": 10,
     "alternateOriginalFiles": 10,
     "independentWorks": 2606,
-    "restoredCopies": 347,
+    "restoredCopies": 568,
     "assets": 2617,
     "convertedPreviews": 1,
     "uniqueSHA256": 2617,
@@ -19290,7 +19290,15 @@
       "bytes": 3821325,
       "sha256": "3f2d5c67c25ba83d560f6a614321cb53daf04a1d9bd63abf97d1880a01540dbf",
       "collectedAt": "2026-10-31",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0273-f0ace5c2e4d0a168.gif",
+        "format": "gif",
+        "sha256": "f0ace5c2e4d0a168436ad6f29da49ceed60b8c1325331a94eeb11ea2f794ad58",
+        "bytes": 4620048,
+        "originalSha256": "3f2d5c67c25ba83d560f6a614321cb53daf04a1d9bd63abf97d1880a01540dbf",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0274",
@@ -19795,7 +19803,15 @@
       "bytes": 3966534,
       "sha256": "65a5e5ffb5388f560a419b3d1681343aff11c36c8f41653a9233f534a17f851a",
       "collectedAt": "2026-10-31",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0280-efe5e355a1dc46e1.gif",
+        "format": "gif",
+        "sha256": "efe5e355a1dc46e1054ad8aa894182a27134bacc4c515b62b80fa5b2eccea993",
+        "bytes": 4122659,
+        "originalSha256": "65a5e5ffb5388f560a419b3d1681343aff11c36c8f41653a9233f534a17f851a",
+        "method": "migan local MPS, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0281",
@@ -21268,7 +21284,15 @@
       "bytes": 1464897,
       "sha256": "ccf3f9cb0c3cba5aaea9fb97f640e7f5200a64a247020647d282bab91a09cc0d",
       "collectedAt": "2026-10-31",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0302-1e3852032d3e71e6.gif",
+        "format": "gif",
+        "sha256": "1e3852032d3e71e6a35922167d176273b6e5734f80be8fa37e62bca3ca824599",
+        "bytes": 1429678,
+        "originalSha256": "ccf3f9cb0c3cba5aaea9fb97f640e7f5200a64a247020647d282bab91a09cc0d",
+        "method": "migan local MPS, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0303",
@@ -51861,7 +51885,15 @@
       "bytes": 100943,
       "sha256": "f04c8072bf2012cd62dfb6580d24da747f773caa62bc6bb1e002d6ca8b612423",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0717-9904abb24210225a.png",
+        "format": "png",
+        "sha256": "9904abb24210225a6896628b014c451d8e3bd17b64331175eaa7c38284b7c7b3",
+        "bytes": 908069,
+        "originalSha256": "f04c8072bf2012cd62dfb6580d24da747f773caa62bc6bb1e002d6ca8b612423",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0718",
@@ -52009,7 +52041,15 @@
       "bytes": 418528,
       "sha256": "8a90d3cd518bcf85424007a293fb2e38b762cf69246ed45ea41c0d5f45f898c1",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0719-f84ddfa10266fc7c.gif",
+        "format": "gif",
+        "sha256": "f84ddfa10266fc7c856a971ae1bf535222521611d19d74e6f30322319afcd63d",
+        "bytes": 1101514,
+        "originalSha256": "8a90d3cd518bcf85424007a293fb2e38b762cf69246ed45ea41c0d5f45f898c1",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0720",
@@ -52408,7 +52448,15 @@
       "bytes": 2718132,
       "sha256": "23fadadd3abb7373ba9d614176783d50f854c597b786dcc1563600920bb180ef",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0724-3ea91e66fe2c2af3.gif",
+        "format": "gif",
+        "sha256": "3ea91e66fe2c2af3203b290e4ceaf8f7ae2c16de275da84818a5b06275c927bd",
+        "bytes": 4695767,
+        "originalSha256": "23fadadd3abb7373ba9d614176783d50f854c597b786dcc1563600920bb180ef",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0725",
@@ -52557,7 +52605,15 @@
       "bytes": 1133262,
       "sha256": "dba6fe720804a220fcfe80dcd9dd3ad9125d0e3cc4a03e2c2879313fabecdcfb",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0726-7895431d635d6371.gif",
+        "format": "gif",
+        "sha256": "7895431d635d6371bee0ad61af490ca9daf1d6e8dc5f3b7e17c5ed9afd620c9c",
+        "bytes": 2379077,
+        "originalSha256": "dba6fe720804a220fcfe80dcd9dd3ad9125d0e3cc4a03e2c2879313fabecdcfb",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0727",
@@ -52715,7 +52771,15 @@
       "bytes": 930594,
       "sha256": "fd54a16e5811518e34700b33261c154907f63970260df048578426d980abe6e4",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0728-616be646ce343dc9.gif",
+        "format": "gif",
+        "sha256": "616be646ce343dc9db368c82b2f0070565219d0df26aa0a0b7bad876ba6caa56",
+        "bytes": 1751302,
+        "originalSha256": "fd54a16e5811518e34700b33261c154907f63970260df048578426d980abe6e4",
+        "method": "migan local neural residual-prefix pass over complete clean sequence; lossless union-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0729",
@@ -53445,7 +53509,15 @@
       "bytes": 2021954,
       "sha256": "61f4a15c47c3019599b1c8c21090b8bbe50eba06b7cd8e3ab3fb226e360bbde0",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0737-10f36df639fa9b3a.gif",
+        "format": "gif",
+        "sha256": "10f36df639fa9b3af7302c9fc537b7c04392bcf568f0e328acc7fccc7cac53be",
+        "bytes": 3131341,
+        "originalSha256": "61f4a15c47c3019599b1c8c21090b8bbe50eba06b7cd8e3ab3fb226e360bbde0",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0738",
@@ -53520,7 +53592,15 @@
       "bytes": 945486,
       "sha256": "8e752df779a22c3d58f68a4be95f2a5930363db6f159d78eb1d59f6987f459ee",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0738-55b32f4ffcb2e3b8.gif",
+        "format": "gif",
+        "sha256": "55b32f4ffcb2e3b80810c34c3a748eb901b2089d1fbfc48a46639cd89e51a8d5",
+        "bytes": 1593470,
+        "originalSha256": "8e752df779a22c3d58f68a4be95f2a5930363db6f159d78eb1d59f6987f459ee",
+        "method": "migan local neural residual-prefix pass over complete clean sequence; lossless union-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0739",
@@ -53595,7 +53675,15 @@
       "bytes": 3863330,
       "sha256": "1f4ae6baa0b4491e36f11d0a3caccb98330526773f1142aed7ca9f5302dfa601",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0739-49ee197139672595.gif",
+        "format": "gif",
+        "sha256": "49ee19713967259589967bcc2f264b7b0ecd07ba12dd7016e3b12b2abb857127",
+        "bytes": 5221427,
+        "originalSha256": "1f4ae6baa0b4491e36f11d0a3caccb98330526773f1142aed7ca9f5302dfa601",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0740",
@@ -53670,7 +53758,15 @@
       "bytes": 55667,
       "sha256": "82622206046761cecff5439e02121bec4d93be2848383135db6d20e4214ede3f",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0740-2255ba35ace97296.png",
+        "format": "png",
+        "sha256": "2255ba35ace97296c2d002c4d386cd588ec4f6964d9bdb882a80fff9b25edc98",
+        "bytes": 538045,
+        "originalSha256": "82622206046761cecff5439e02121bec4d93be2848383135db6d20e4214ede3f",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0741",
@@ -53745,7 +53841,15 @@
       "bytes": 49171,
       "sha256": "400462521c801f5a1accedee2c2a960eaaff71321c1b1201a59ee47550900eac",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0741-d75afdd6ef32f34c.png",
+        "format": "png",
+        "sha256": "d75afdd6ef32f34c933ee0ca873c29497616cf6b3b53476f87ce8255490624ad",
+        "bytes": 499808,
+        "originalSha256": "400462521c801f5a1accedee2c2a960eaaff71321c1b1201a59ee47550900eac",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0742",
@@ -54116,7 +54220,15 @@
       "bytes": 55507,
       "sha256": "24028ad17601ff1b1b9f8524cb7e5196a7030ba788f4eef5d7ab38d2235b0b93",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0746-05dfc4c74dba4fcc.png",
+        "format": "png",
+        "sha256": "05dfc4c74dba4fcc485d8f3895035fe62fa932643334cfce70ba3f7561e0f22b",
+        "bytes": 535481,
+        "originalSha256": "24028ad17601ff1b1b9f8524cb7e5196a7030ba788f4eef5d7ab38d2235b0b93",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0747",
@@ -54413,7 +54525,15 @@
       "bytes": 14007,
       "sha256": "ad03ff327f84c50efc51191ae714a37cb65f7563a0ce8425b8489564158e9099",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0750-7828089444b4a14b.png",
+        "format": "png",
+        "sha256": "7828089444b4a14b24cc3dec94b6269f7332a4135e49de87a376229d97004848",
+        "bytes": 135008,
+        "originalSha256": "ad03ff327f84c50efc51191ae714a37cb65f7563a0ce8425b8489564158e9099",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0751",
@@ -54488,7 +54608,15 @@
       "bytes": 12932,
       "sha256": "ac0232379eae877a7c1a7bc479ef5caa2a671cde4a2cae36217affab4653937d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0751-50b1eaf8d08a2688.png",
+        "format": "png",
+        "sha256": "50b1eaf8d08a2688020af7960054cc151f5c850a96aac6609ec65ce37343576a",
+        "bytes": 195639,
+        "originalSha256": "ac0232379eae877a7c1a7bc479ef5caa2a671cde4a2cae36217affab4653937d",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0752",
@@ -54563,7 +54691,15 @@
       "bytes": 8582,
       "sha256": "ad1d6e0236ff275367561201a5f5fa97695146c9cfd924ccafc394be16c759fe",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0752-a549999848319c2c.png",
+        "format": "png",
+        "sha256": "a549999848319c2cdca17fb509a79aec37938ffbfe158b9fb1c8cd68a6706613",
+        "bytes": 154025,
+        "originalSha256": "ad1d6e0236ff275367561201a5f5fa97695146c9cfd924ccafc394be16c759fe",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0753",
@@ -55533,7 +55669,15 @@
       "bytes": 9684,
       "sha256": "520f8b050631847822827a8baf6e141dcb1cae7fcdf388b47bab8a0dd04f2e90",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0764-f1792b60ba13170f.png",
+        "format": "png",
+        "sha256": "f1792b60ba13170faf7ecd927e8efc2180766238650fc0e2c6c5b522438a672f",
+        "bytes": 98575,
+        "originalSha256": "520f8b050631847822827a8baf6e141dcb1cae7fcdf388b47bab8a0dd04f2e90",
+        "method": "migan local MPS, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0765",
@@ -55691,7 +55835,15 @@
       "bytes": 8596,
       "sha256": "01cc0a1f68c3d6fbf0ddad64d472cdf7a10d096dd955836bfa03c17a7c692cce",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0766-e87c2dd533998e8d.png",
+        "format": "png",
+        "sha256": "e87c2dd533998e8d2de11f5eb0c6841f167cffb01a4989f04f1d99032d623a0c",
+        "bytes": 122191,
+        "originalSha256": "01cc0a1f68c3d6fbf0ddad64d472cdf7a10d096dd955836bfa03c17a7c692cce",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0767",
@@ -55849,7 +56001,15 @@
       "bytes": 11452,
       "sha256": "a28878b3ac6fa56d619cfc7cf92e9a0275838841a8dfbf33fb25d81038762c71",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0768-402ca7bd2bfa2ba8.png",
+        "format": "png",
+        "sha256": "402ca7bd2bfa2ba8405ece947c5140ec7d566a4c6e5fd2772d85eb7f7e99099b",
+        "bytes": 150239,
+        "originalSha256": "a28878b3ac6fa56d619cfc7cf92e9a0275838841a8dfbf33fb25d81038762c71",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0769",
@@ -56007,7 +56167,15 @@
       "bytes": 64950,
       "sha256": "c0bd6d2b62c790641ac0a2c6e6d4dfb4999176878e2a528dec59270c1df3846e",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0770-2673fc3bb8354c17.png",
+        "format": "png",
+        "sha256": "2673fc3bb8354c177d23876d0380a55de6367c934312d47785ef9b81d497e720",
+        "bytes": 66885,
+        "originalSha256": "c0bd6d2b62c790641ac0a2c6e6d4dfb4999176878e2a528dec59270c1df3846e",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0771",
@@ -56322,7 +56490,15 @@
       "bytes": 13008,
       "sha256": "c39806826f3a80251113f4f276965ea256105e50b03dca71bf85ec3f2d7c8f94",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0774-bdad74f09e447ef1.png",
+        "format": "png",
+        "sha256": "bdad74f09e447ef151755c048a6d1e04ffad545054b5faeae4bf25088d8721c0",
+        "bytes": 131777,
+        "originalSha256": "c39806826f3a80251113f4f276965ea256105e50b03dca71bf85ec3f2d7c8f94",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0775",
@@ -56563,7 +56739,15 @@
       "bytes": 7218,
       "sha256": "ed8540c71d6e39a5cd25c6eeb3137670682122c612aaf9f13779d87d30c86b14",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0777-ccd3e20894dd4e8b.png",
+        "format": "png",
+        "sha256": "ccd3e20894dd4e8b8c2605a181ed103c9e0dcac7aa61d4ac54298905a76758b8",
+        "bytes": 97361,
+        "originalSha256": "ed8540c71d6e39a5cd25c6eeb3137670682122c612aaf9f13779d87d30c86b14",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0778",
@@ -56878,7 +57062,15 @@
       "bytes": 10416,
       "sha256": "f9f7ae4fcbeb3c00067493a25513456da2d0ddee7924acf732f42f17bf6b8d0f",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0782-37782fc0957c3b8c.png",
+        "format": "png",
+        "sha256": "37782fc0957c3b8c4b68e89a1034e32d1724ee80a4e8498c9c97c707d6eee5d6",
+        "bytes": 155145,
+        "originalSha256": "f9f7ae4fcbeb3c00067493a25513456da2d0ddee7924acf732f42f17bf6b8d0f",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0783",
@@ -57202,7 +57394,15 @@
       "bytes": 4696,
       "sha256": "d1d614b3de6e035d769cd3b5838ee855ef508c77c676f686cf4169bee6f2cf3c",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0786-87708d41cd62b0c5.png",
+        "format": "png",
+        "sha256": "87708d41cd62b0c54928e2b3ed70c6ebba8812a26ec508b090b50a72ed06b368",
+        "bytes": 78261,
+        "originalSha256": "d1d614b3de6e035d769cd3b5838ee855ef508c77c676f686cf4169bee6f2cf3c",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0787",
@@ -57360,7 +57560,15 @@
       "bytes": 14267,
       "sha256": "619d379a0f47d3cef8fc2670db233bc7a55d8ae9d0d0b04e3bcb7d7f99e3bc31",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0788-95dcce9fea653d0e.png",
+        "format": "png",
+        "sha256": "95dcce9fea653d0e7ca28a42d935afb218d1d8a6cf6f3883953aa28021956007",
+        "bytes": 127378,
+        "originalSha256": "619d379a0f47d3cef8fc2670db233bc7a55d8ae9d0d0b04e3bcb7d7f99e3bc31",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0789",
@@ -57758,7 +57966,15 @@
       "bytes": 140219,
       "sha256": "d09f74d534b9aed74b568fc2772ec4f05ea379a04e5b857ea8c76648e0093d63",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0793-27b871d162b3966c.png",
+        "format": "png",
+        "sha256": "27b871d162b3966c754a3bcd74c2d714c6be849b4fdc046ef558ccd98f1012a6",
+        "bytes": 141190,
+        "originalSha256": "d09f74d534b9aed74b568fc2772ec4f05ea379a04e5b857ea8c76648e0093d63",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0794",
@@ -57916,7 +58132,15 @@
       "bytes": 5186,
       "sha256": "e904160862dabacf43f8466753ee8cd1602311c9e5c63158821463307fe76f31",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0795-1a7a940fe21e6a9a.png",
+        "format": "png",
+        "sha256": "1a7a940fe21e6a9a43226a9c84173e034f28387ffbeb31a635ea189f47092b47",
+        "bytes": 101144,
+        "originalSha256": "e904160862dabacf43f8466753ee8cd1602311c9e5c63158821463307fe76f31",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0796",
@@ -58240,7 +58464,15 @@
       "bytes": 8958,
       "sha256": "d4d87d299ad3ab0c9c26fbed15a38770c1fc84ac80801558615b27196f3da554",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0799-3c35a65bd491dbf7.png",
+        "format": "png",
+        "sha256": "3c35a65bd491dbf73859d65ee623f7f76d0ba2aa0ca11f05f5d7ffed6299e0e7",
+        "bytes": 129792,
+        "originalSha256": "d4d87d299ad3ab0c9c26fbed15a38770c1fc84ac80801558615b27196f3da554",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0800",
@@ -58398,7 +58630,15 @@
       "bytes": 6194,
       "sha256": "5c15227c1c08b132fc4af57c9d798498cd617f1af0b8f733177f5f03251e7f50",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0801-d3718c09d3eb1803.png",
+        "format": "png",
+        "sha256": "d3718c09d3eb18034b04e8ac04628bac2d881f5e67410cba207cd9f2d5ff67da",
+        "bytes": 98423,
+        "originalSha256": "5c15227c1c08b132fc4af57c9d798498cd617f1af0b8f733177f5f03251e7f50",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0802",
@@ -58473,7 +58713,15 @@
       "bytes": 6904,
       "sha256": "e047bdec694ae49d5fac740dd471d5045dbfd94b9e1da60b211c854a410e63c5",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0802-5f390f49c04cf633.png",
+        "format": "png",
+        "sha256": "5f390f49c04cf63348e89f00bd6822e4c51917aa36094c2334c45c171e970a6f",
+        "bytes": 93891,
+        "originalSha256": "e047bdec694ae49d5fac740dd471d5045dbfd94b9e1da60b211c854a410e63c5",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0803",
@@ -58548,7 +58796,15 @@
       "bytes": 19776,
       "sha256": "b269ce0872a55f1ea04f96c263103605f0dfe9ab44f31eab71459905c7fff106",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0803-f29460d5aa3d8a44.png",
+        "format": "png",
+        "sha256": "f29460d5aa3d8a44e8fc5dcdc33347e8de1a40fca78789c17985a6e959ed868d",
+        "bytes": 149293,
+        "originalSha256": "b269ce0872a55f1ea04f96c263103605f0dfe9ab44f31eab71459905c7fff106",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0804",
@@ -59038,7 +59294,15 @@
       "bytes": 8378,
       "sha256": "bce7f8eddcc372c1eaae1942c79b31627f4fb73304269f81f4001c3f8f60db10",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0809-4cefe9147a2ae275.png",
+        "format": "png",
+        "sha256": "4cefe9147a2ae275ed66a13dcd635cedaea7881d9d908fb2af54623e9bb59da9",
+        "bytes": 141684,
+        "originalSha256": "bce7f8eddcc372c1eaae1942c79b31627f4fb73304269f81f4001c3f8f60db10",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0810",
@@ -59196,7 +59460,15 @@
       "bytes": 6580,
       "sha256": "40bd883c46c49f3193503c9f68a5cde8b7f3b2559ddf5aa3087d243e2222412a",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0811-e22605689f31e93e.png",
+        "format": "png",
+        "sha256": "e22605689f31e93ea05b5820a83d9af7a47ede7ac2b2a043bf16609f0b60704f",
+        "bytes": 117533,
+        "originalSha256": "40bd883c46c49f3193503c9f68a5cde8b7f3b2559ddf5aa3087d243e2222412a",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0812",
@@ -59271,7 +59543,15 @@
       "bytes": 8288,
       "sha256": "ba2f377c92f92a93dbbca36d25a69f5c0d2d4fec4774941afdcae3b3dfb995f9",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0812-cf5713e326842a23.png",
+        "format": "png",
+        "sha256": "cf5713e326842a23ab6c6e79e308a6b64ea9f5f39ba91b9cbe5a599a346722ec",
+        "bytes": 150271,
+        "originalSha256": "ba2f377c92f92a93dbbca36d25a69f5c0d2d4fec4774941afdcae3b3dfb995f9",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0813",
@@ -59512,7 +59792,15 @@
       "bytes": 29152,
       "sha256": "110a88e686a521c8a16b92665012ee191c878994b4de2eedcea0668a0cf85188",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0816-d5b0f633ffc0356a.png",
+        "format": "png",
+        "sha256": "d5b0f633ffc0356a5231327ebb23c0205ff9275b604489eb63df251ac0410953",
+        "bytes": 207752,
+        "originalSha256": "110a88e686a521c8a16b92665012ee191c878994b4de2eedcea0668a0cf85188",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0817",
@@ -60077,7 +60365,15 @@
       "bytes": 2449250,
       "sha256": "e2c370ab70415ad883b48f5cf4428b6794cfbe4ddc72c3c7ca1a16e505fa2940",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0823-30e6464092dac893.gif",
+        "format": "gif",
+        "sha256": "30e6464092dac893a4c993293d513426335252715fbcd43a58f973ee8a8d7dca",
+        "bytes": 2664918,
+        "originalSha256": "e2c370ab70415ad883b48f5cf4428b6794cfbe4ddc72c3c7ca1a16e505fa2940",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0824",
@@ -60324,7 +60620,15 @@
       "bytes": 757075,
       "sha256": "519c9fa35ba9703f2a82c465a61afff4444e3d2cc6ef9a4a7a718c5611f60f7a",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0826-3d8641454d2074d7.gif",
+        "format": "gif",
+        "sha256": "3d8641454d2074d7281a25fbdfde36b42d3bf5318d7371d81b60cb205de05ddd",
+        "bytes": 1961027,
+        "originalSha256": "519c9fa35ba9703f2a82c465a61afff4444e3d2cc6ef9a4a7a718c5611f60f7a",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0827",
@@ -60562,7 +60866,15 @@
       "bytes": 1249741,
       "sha256": "8b9695a5cb0d68de08e50423a76d366a23daae0bcf6cf49dcd1057ddcbe7762b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0829-2bdfa5ef20cc186c.gif",
+        "format": "gif",
+        "sha256": "2bdfa5ef20cc186c425542d86b460575b1332906e98f942d2eb090cc315d1be4",
+        "bytes": 2609233,
+        "originalSha256": "8b9695a5cb0d68de08e50423a76d366a23daae0bcf6cf49dcd1057ddcbe7762b",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0830",
@@ -60809,7 +61121,15 @@
       "bytes": 3660176,
       "sha256": "befbbb498d77261945ce524664d55325f5a2ad53943499aa55e8b948c4d4203c",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0832-7cc2da194902bdae.gif",
+        "format": "gif",
+        "sha256": "7cc2da194902bdae224aff335e4b4f7af98d390dc38b51b8537a204111432d0e",
+        "bytes": 4364859,
+        "originalSha256": "befbbb498d77261945ce524664d55325f5a2ad53943499aa55e8b948c4d4203c",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0833",
@@ -60886,7 +61206,15 @@
       "bytes": 1514236,
       "sha256": "10b3227bab5a4dbb09a0aa60f2a85fc1544c509d984446eb0b9e1854f4c0ecb3",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0833-1a376f6d66a24ec6.gif",
+        "format": "gif",
+        "sha256": "1a376f6d66a24ec6e8ca5c17a9601e1ea0480a8079140baeb62bc2cb65cd5366",
+        "bytes": 2121020,
+        "originalSha256": "10b3227bab5a4dbb09a0aa60f2a85fc1544c509d984446eb0b9e1854f4c0ecb3",
+        "method": "migan local neural residual-prefix pass over complete clean sequence; lossless union-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0834",
@@ -61303,7 +61631,15 @@
       "bytes": 3748,
       "sha256": "05f0ba0ce98c58c3a65ecedd9a3fad68a424cea77d019491a1f13f07064afe55",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0838-81ae48a964850e07.png",
+        "format": "png",
+        "sha256": "81ae48a964850e075a8c8c0fc72b8cfa4ddd06ce8e700859a9a0fe57f2c4ff18",
+        "bytes": 62556,
+        "originalSha256": "05f0ba0ce98c58c3a65ecedd9a3fad68a424cea77d019491a1f13f07064afe55",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0839",
@@ -61465,7 +61801,15 @@
       "bytes": 10022,
       "sha256": "663c7928928fb6e9bf3a9e61e1d6695b1a5ebafb4b475415c38f2128c7c93d1e",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0840-6ada2125ac940698.png",
+        "format": "png",
+        "sha256": "6ada2125ac94069852ca31a6ae50792735cc30e5c3569109085f3c0eaa73296a",
+        "bytes": 146263,
+        "originalSha256": "663c7928928fb6e9bf3a9e61e1d6695b1a5ebafb4b475415c38f2128c7c93d1e",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0841",
@@ -61627,7 +61971,15 @@
       "bytes": 15808,
       "sha256": "d36f632377f68ac61d565dd150f9241939cb68b413607a8254cd61bd8ed5d1e6",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0842-83699afd7e36f7ce.png",
+        "format": "png",
+        "sha256": "83699afd7e36f7cebdbd33d2fdcf9b49a0a0432ce2da795bc64b9656801c2b96",
+        "bytes": 244876,
+        "originalSha256": "d36f632377f68ac61d565dd150f9241939cb68b413607a8254cd61bd8ed5d1e6",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0843",
@@ -61704,7 +62056,15 @@
       "bytes": 8044,
       "sha256": "2b57d21f8e0ece5a5ec3ed4cf2bf51c33ca019043736d0aed7bc6ecc93f1c447",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0843-4ae2d07615a5954f.png",
+        "format": "png",
+        "sha256": "4ae2d07615a5954fd45803602dc75bab3ad25003325536ff20cabf4ef04ae6f7",
+        "bytes": 137316,
+        "originalSha256": "2b57d21f8e0ece5a5ec3ed4cf2bf51c33ca019043736d0aed7bc6ecc93f1c447",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0844",
@@ -62121,7 +62481,15 @@
       "bytes": 25364,
       "sha256": "fc0e85f42713183550d7cdf75a7c19802b0cb52867a094ce9f1c9a4e57166b66",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0848-84643c32031711ab.png",
+        "format": "png",
+        "sha256": "84643c32031711ab104c9c6783e78138de1b969bb684b3eeaa737646fa4b35c6",
+        "bytes": 321372,
+        "originalSha256": "fc0e85f42713183550d7cdf75a7c19802b0cb52867a094ce9f1c9a4e57166b66",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0849",
@@ -62283,7 +62651,15 @@
       "bytes": 5992,
       "sha256": "f0e6b2f3e2e8d40996c6a36302115605a98dc3d276f37bdfc09b99009e5c11c1",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0850-3ccd6bc22c61d31d.png",
+        "format": "png",
+        "sha256": "3ccd6bc22c61d31de6e17cbec87a001beabeaf207a2949caf55cfb75de4f5479",
+        "bytes": 105208,
+        "originalSha256": "f0e6b2f3e2e8d40996c6a36302115605a98dc3d276f37bdfc09b99009e5c11c1",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0851",
@@ -62360,7 +62736,15 @@
       "bytes": 23150,
       "sha256": "1116918a53c3b635e259524b4c62c249797efb4b30acd8ee49d8f9349c4481e6",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0851-ec3134414849496c.png",
+        "format": "png",
+        "sha256": "ec3134414849496cac9ca9b2589e007675a1ff50e736f16bbd9238c59bd7e7a9",
+        "bytes": 236693,
+        "originalSha256": "1116918a53c3b635e259524b4c62c249797efb4b30acd8ee49d8f9349c4481e6",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0852",
@@ -62607,7 +62991,15 @@
       "bytes": 29114,
       "sha256": "139f0e1e82478b5024f2f6820c8108c113e62602bb3233e11ab7787c726a69f7",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0854-d3acf81463a9a85d.png",
+        "format": "png",
+        "sha256": "d3acf81463a9a85d114e17cf1c181606e187a2a2d578af5e70d1b04c7fa29c5e",
+        "bytes": 287072,
+        "originalSha256": "139f0e1e82478b5024f2f6820c8108c113e62602bb3233e11ab7787c726a69f7",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0855",
@@ -62769,7 +63161,15 @@
       "bytes": 8598,
       "sha256": "26636554868c4f6c8b704fee15a31d14e1b79e69ad125c99cf4ee3da94bd3cf7",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0856-91b48789a5c0b45f.png",
+        "format": "png",
+        "sha256": "91b48789a5c0b45f7f816ed99195bc3b88aaca26f04be63b6c6c3ab7d4272929",
+        "bytes": 149980,
+        "originalSha256": "26636554868c4f6c8b704fee15a31d14e1b79e69ad125c99cf4ee3da94bd3cf7",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0857",
@@ -63186,7 +63586,15 @@
       "bytes": 7436,
       "sha256": "fd44beb88bebf91ed41cab9346aab53de82e8232a59c7ece4d2f8735e46af1e5",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0861-70125a7dc8c2e18f.png",
+        "format": "png",
+        "sha256": "70125a7dc8c2e18f7f65417e25de2cffc7c738d5355cc2e5bd4d69f6ebe45d05",
+        "bytes": 117848,
+        "originalSha256": "fd44beb88bebf91ed41cab9346aab53de82e8232a59c7ece4d2f8735e46af1e5",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0862",
@@ -63585,7 +63993,15 @@
       "bytes": 14046,
       "sha256": "34dec7680c27ebeb2821de4414f6ab780c703e1e656cc3adc7bf055f550a7884",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0866-e52af0e5a1098977.png",
+        "format": "png",
+        "sha256": "e52af0e5a10989770e3be4b34b7035db28da67f93141b78303363bfa9acc56c0",
+        "bytes": 242805,
+        "originalSha256": "34dec7680c27ebeb2821de4414f6ab780c703e1e656cc3adc7bf055f550a7884",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0867",
@@ -63917,7 +64333,15 @@
       "bytes": 7926,
       "sha256": "596df5dda6dd557a5f4008c1e51579ee415df5a3d8dda3db09a466289d02acbd",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0870-6d69e673d32c1ad9.png",
+        "format": "png",
+        "sha256": "6d69e673d32c1ad99af105db1d7c75d906554a72b91030a06cca57569ecb20e4",
+        "bytes": 115540,
+        "originalSha256": "596df5dda6dd557a5f4008c1e51579ee415df5a3d8dda3db09a466289d02acbd",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0871",
@@ -64079,7 +64503,15 @@
       "bytes": 11760,
       "sha256": "45982a931e1886564e55123252a5a0b58646eea70c94ddb429b5e068d2804bb7",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0872-2eacbbe278a32dca.png",
+        "format": "png",
+        "sha256": "2eacbbe278a32dcae639cfe63437e4e9c7e72fd950f6a235a86e0dcfbb32e3d2",
+        "bytes": 156085,
+        "originalSha256": "45982a931e1886564e55123252a5a0b58646eea70c94ddb429b5e068d2804bb7",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0873",
@@ -64156,7 +64588,15 @@
       "bytes": 7334,
       "sha256": "a66765a1295fc651517323d5805bf4c2147200cf5c860b2832afd019e9365aeb",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0873-5ead57b27c545242.png",
+        "format": "png",
+        "sha256": "5ead57b27c5452425479242d28660a1af7390fd95019d356a944d17566968122",
+        "bytes": 111680,
+        "originalSha256": "a66765a1295fc651517323d5805bf4c2147200cf5c860b2832afd019e9365aeb",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0874",
@@ -64394,7 +64834,15 @@
       "bytes": 8328,
       "sha256": "113b50653cfbc496e06341ad33eb60429ad4b1a1ca30e4f38367e18b1ab3dbf8",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0876-68be5075abeadba3.png",
+        "format": "png",
+        "sha256": "68be5075abeadba33a14acb733c190dbe8d4f7918f15a1e07c40316eeb1ed79a",
+        "bytes": 137941,
+        "originalSha256": "113b50653cfbc496e06341ad33eb60429ad4b1a1ca30e4f38367e18b1ab3dbf8",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0877",
@@ -64471,7 +64919,15 @@
       "bytes": 5492,
       "sha256": "d26a47bfc2a623fc3b19f51bb9f9880e10d3ca57b679a1af788a2bbc1d9ae0ee",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0877-ff50f32ffc00ac85.png",
+        "format": "png",
+        "sha256": "ff50f32ffc00ac8559e7940b0c880c141a7c3922497505e43bc8ce6bd53e7e3e",
+        "bytes": 106330,
+        "originalSha256": "d26a47bfc2a623fc3b19f51bb9f9880e10d3ca57b679a1af788a2bbc1d9ae0ee",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0878",
@@ -64624,7 +65080,15 @@
       "bytes": 12948,
       "sha256": "c494077721792ddc37cefab1b3bacd22bcf0eadadd137ed8ae20d2fbeaf14f31",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0879-830ebf2701a5096d.png",
+        "format": "png",
+        "sha256": "830ebf2701a5096d905d5fc5c044a10b5b03627056634f686578a95624858dca",
+        "bytes": 237264,
+        "originalSha256": "c494077721792ddc37cefab1b3bacd22bcf0eadadd137ed8ae20d2fbeaf14f31",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0880",
@@ -65126,7 +65590,15 @@
       "bytes": 7804,
       "sha256": "3ca99484be1ba765a33f5566b427f79669023e76bb2e479ce3746b1deeea8a38",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0885-693b94cba41efe5b.png",
+        "format": "png",
+        "sha256": "693b94cba41efe5b4afec9480063109e8e34657b4191255f415f5f50300d54e3",
+        "bytes": 152754,
+        "originalSha256": "3ca99484be1ba765a33f5566b427f79669023e76bb2e479ce3746b1deeea8a38",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0886",
@@ -65636,7 +66108,15 @@
       "bytes": 59368,
       "sha256": "3316a360cf85c69b36735d85b9cd97e50356baf118efcd7e1c1aa55725dbb2b8",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0891-e12c54c32556a893.png",
+        "format": "png",
+        "sha256": "e12c54c32556a89321aadbd407945560bf51e813800bbf16744096ed7323f6ae",
+        "bytes": 880742,
+        "originalSha256": "3316a360cf85c69b36735d85b9cd97e50356baf118efcd7e1c1aa55725dbb2b8",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0892",
@@ -65715,7 +66195,15 @@
       "bytes": 49336,
       "sha256": "675c0222362b120325e169403dbc6f58141ed62609e112ea9d7e08af3b16b912",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0892-0fd52163cf511b04.png",
+        "format": "png",
+        "sha256": "0fd52163cf511b0481e88d2b45c7b50ff2663d42534450daabc1fbba7bbe2859",
+        "bytes": 512498,
+        "originalSha256": "675c0222362b120325e169403dbc6f58141ed62609e112ea9d7e08af3b16b912",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0893",
@@ -65881,7 +66369,15 @@
       "bytes": 127058,
       "sha256": "cdfc78d1307830aaad629f81745873b339b26ecdcd14107754992a5e483a257a",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0894-f510f3103ae9fa33.png",
+        "format": "png",
+        "sha256": "f510f3103ae9fa33ba5b1831f1ae247c3683a028bc32e233034a53e5f3c1734c",
+        "bytes": 1085453,
+        "originalSha256": "cdfc78d1307830aaad629f81745873b339b26ecdcd14107754992a5e483a257a",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0895",
@@ -66038,7 +66534,15 @@
       "bytes": 8624,
       "sha256": "44ab6a58316100c39c868e65e1f242139cbd32d5004ad72773436839d0270156",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0896-d651cfb94a3c8d64.png",
+        "format": "png",
+        "sha256": "d651cfb94a3c8d64ddd23200ba90c0624236bfbd20684f6e5c50c50c36e63ab2",
+        "bytes": 151619,
+        "originalSha256": "44ab6a58316100c39c868e65e1f242139cbd32d5004ad72773436839d0270156",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0897",
@@ -66117,7 +66621,15 @@
       "bytes": 12990,
       "sha256": "aadb5550a13ab7f8cdd9bb3ee32cdf91453f0f7de42d23fbf4a1fcaf30ae51fe",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0897-449a6ab3b291d7ac.png",
+        "format": "png",
+        "sha256": "449a6ab3b291d7acbe89b8944be90b7d6c7e3916c5236498f432694444465cf5",
+        "bytes": 197965,
+        "originalSha256": "aadb5550a13ab7f8cdd9bb3ee32cdf91453f0f7de42d23fbf4a1fcaf30ae51fe",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0898",
@@ -66272,7 +66784,15 @@
       "bytes": 24932,
       "sha256": "7e312773e4a96612e526012792dddaeb29977b0baca8205a690d3959de8a6502",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0899-979d8981a6a40566.png",
+        "format": "png",
+        "sha256": "979d8981a6a4056623afcedd77868d02c3a863c3578b6d537e879775a370eea0",
+        "bytes": 299503,
+        "originalSha256": "7e312773e4a96612e526012792dddaeb29977b0baca8205a690d3959de8a6502",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0900",
@@ -66746,7 +67266,15 @@
       "bytes": 173945,
       "sha256": "1b90fab93ca173fd6688e7aaef479e3df0c1aff67755d01ab9513616123225eb",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0905-aeb6cf6c681b6cd2.png",
+        "format": "png",
+        "sha256": "aeb6cf6c681b6cd2db72a91e98861760ad65eaf092c15c14fd61446333494a15",
+        "bytes": 174743,
+        "originalSha256": "1b90fab93ca173fd6688e7aaef479e3df0c1aff67755d01ab9513616123225eb",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0906",
@@ -66825,7 +67353,15 @@
       "bytes": 102313,
       "sha256": "66c35e55642396917562be0ab5a0c3c5ae6f21d8f50ef817565f7c514904c0e5",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0906-a500d65381d03828.png",
+        "format": "png",
+        "sha256": "a500d65381d03828e80dae4dcf61b01cfb92ae4d14863b583d65c2f1e8d70cdd",
+        "bytes": 103984,
+        "originalSha256": "66c35e55642396917562be0ab5a0c3c5ae6f21d8f50ef817565f7c514904c0e5",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0907",
@@ -66904,7 +67440,15 @@
       "bytes": 249708,
       "sha256": "a861b73dfeba6bf611d2f5cdbae6f249c21056d6bfb61aeadc22e5c9d5843551",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0907-abbceb05a7ac5ad2.png",
+        "format": "png",
+        "sha256": "abbceb05a7ac5ad2ab269ef74a0d52ae256f158ae69e15d824b994baeab1f590",
+        "bytes": 250923,
+        "originalSha256": "a861b73dfeba6bf611d2f5cdbae6f249c21056d6bfb61aeadc22e5c9d5843551",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0908",
@@ -67070,7 +67614,15 @@
       "bytes": 265805,
       "sha256": "c1b52b21fcf7da775783534f61297f0289486d6d656e8dfb7dd1a6bd4f51f861",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0909-ad716bf8aa460197.png",
+        "format": "png",
+        "sha256": "ad716bf8aa4601974f25ecc08d89c7d6943a530d3916329b613a5133c98475cc",
+        "bytes": 270667,
+        "originalSha256": "c1b52b21fcf7da775783534f61297f0289486d6d656e8dfb7dd1a6bd4f51f861",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0910",
@@ -67147,7 +67699,15 @@
       "bytes": 280837,
       "sha256": "1ec28ac3b06975dd28256bf7212e2b405ff94fa0332abe07394eaa77622a1e0d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0910-13efdb2b01e0e452.png",
+        "format": "png",
+        "sha256": "13efdb2b01e0e452902bc974a9b1990a657739a39110730cb86f13933f6d0e57",
+        "bytes": 291467,
+        "originalSha256": "1ec28ac3b06975dd28256bf7212e2b405ff94fa0332abe07394eaa77622a1e0d",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0911",
@@ -67226,7 +67786,15 @@
       "bytes": 13710,
       "sha256": "d65aa59fc61d25676bcf18e42e6615b033ef2edb92343b70303a59a333e32e48",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0911-7f46599a6bde2e0b.png",
+        "format": "png",
+        "sha256": "7f46599a6bde2e0bffd85d247009f6d1459d7a254c6421a523323da2540e545e",
+        "bytes": 124390,
+        "originalSha256": "d65aa59fc61d25676bcf18e42e6615b033ef2edb92343b70303a59a333e32e48",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0912",
@@ -67566,7 +68134,15 @@
       "bytes": 19781,
       "sha256": "e3be09e60a360133c5c67e86fa52f01884e406b8a6b4ea431be53d4fb01a400c",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-dan/dot-naiwa-0915-024124a30e3200f5.png",
+        "format": "png",
+        "sha256": "024124a30e3200f580dc6e9dbf0a42d9cec4ab7be6f9d5c7a8b2e489399eee9d",
+        "bytes": 161917,
+        "originalSha256": "e3be09e60a360133c5c67e86fa52f01884e406b8a6b4ea431be53d4fb01a400c",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0916",
@@ -67819,7 +68395,15 @@
       "bytes": 215957,
       "sha256": "fe035849e2046ccfe4c930186ffcb25e528096a847f928fc383b1ad94e0bb1a2",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0918-f0ad856249b874a8.png",
+        "format": "png",
+        "sha256": "f0ad856249b874a8bc5ae5a9af2651d35718144a78f9c2512b9e72329439de32",
+        "bytes": 217924,
+        "originalSha256": "fe035849e2046ccfe4c930186ffcb25e528096a847f928fc383b1ad94e0bb1a2",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0919",
@@ -68240,7 +68824,15 @@
       "bytes": 54236,
       "sha256": "4605cc922a455b8fbae4f801cd4e4bf7735e7fc839c5196d6d328d6b774c226f",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/little-naiwa/dot-naiwa-0923-de3fab873145a6a4.png",
+        "format": "png",
+        "sha256": "de3fab873145a6a492d4f5e32535c171f2dc7880626878e915c3a228d1b78759",
+        "bytes": 103481,
+        "originalSha256": "4605cc922a455b8fbae4f801cd4e4bf7735e7fc839c5196d6d328d6b774c226f",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0924",
@@ -68406,7 +68998,15 @@
       "bytes": 10156,
       "sha256": "5a5aa89658569bfb17588c99400aa03109d7db15e036ebe1186e740a502d9487",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0925-2982be3e6d3020fd.png",
+        "format": "png",
+        "sha256": "2982be3e6d3020fd75b1b83e947296cf9a661ac79b4c4f94a3ba879810ab72d8",
+        "bytes": 175224,
+        "originalSha256": "5a5aa89658569bfb17588c99400aa03109d7db15e036ebe1186e740a502d9487",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0926",
@@ -68485,7 +69085,15 @@
       "bytes": 7184,
       "sha256": "6b67d0ea4c47cf62dbd9e8e014edd04822765336212fa5b5e6a9bced033a1374",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0926-3299b93a447b9529.png",
+        "format": "png",
+        "sha256": "3299b93a447b9529cf9b9fde30956f1c64391996c5e21e060b60fb7f3d297357",
+        "bytes": 119320,
+        "originalSha256": "6b67d0ea4c47cf62dbd9e8e014edd04822765336212fa5b5e6a9bced033a1374",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0927",
@@ -68564,7 +69172,15 @@
       "bytes": 259705,
       "sha256": "19a5a276813cba5156b7cd9dcb7bf546f3c2435419f63eb236fba8022565b868",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0927-ec572d1f474000e4.png",
+        "format": "png",
+        "sha256": "ec572d1f474000e41a63d62e0240682bced18742152c980c29e81475b98f7afd",
+        "bytes": 261310,
+        "originalSha256": "19a5a276813cba5156b7cd9dcb7bf546f3c2435419f63eb236fba8022565b868",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0928",
@@ -68902,7 +69518,15 @@
       "bytes": 22825,
       "sha256": "b83b5d5037fdf03a5757a697b023d9815aba1b8d101738b8781e6dc42234b50b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0931-fa1365ddbcf91b7f.png",
+        "format": "png",
+        "sha256": "fa1365ddbcf91b7f5cd7c82d12c9218346763bcda6caa7388f995e9cc990711d",
+        "bytes": 187246,
+        "originalSha256": "b83b5d5037fdf03a5757a697b023d9815aba1b8d101738b8781e6dc42234b50b",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0932",
@@ -68981,7 +69605,15 @@
       "bytes": 36150,
       "sha256": "015a3f8c13a3e7493e35824659100125613841361e78929740404461f50b9e90",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0932-f4ab76b5747d0559.png",
+        "format": "png",
+        "sha256": "f4ab76b5747d05590c47b5cd60e2b33d4475a0e481dc4e1be75e3fcc74aae5f4",
+        "bytes": 313780,
+        "originalSha256": "015a3f8c13a3e7493e35824659100125613841361e78929740404461f50b9e90",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0933",
@@ -69386,7 +70018,15 @@
       "bytes": 146633,
       "sha256": "8a880a5a89a3ff6c82c974d06476565da59c434e1d66e3d8ce994dac289f3709",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0937-57d5c9fdfd8b1539.png",
+        "format": "png",
+        "sha256": "57d5c9fdfd8b1539f7558feb1633497a3ea4973a52ee7678ef91b45338ef0e77",
+        "bytes": 147456,
+        "originalSha256": "8a880a5a89a3ff6c82c974d06476565da59c434e1d66e3d8ce994dac289f3709",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0938",
@@ -69639,7 +70279,15 @@
       "bytes": 189372,
       "sha256": "b6571aafc98c5e57a7bb2dca39e0df6ab47dd6f6359af6134ef0a5c4abc530bb",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0940-c6ec1dc1ab91623d.png",
+        "format": "png",
+        "sha256": "c6ec1dc1ab91623ddf149fc6733b064af661c1b44f5f754b9217bb5d7c025d8d",
+        "bytes": 191929,
+        "originalSha256": "b6571aafc98c5e57a7bb2dca39e0df6ab47dd6f6359af6134ef0a5c4abc530bb",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0941",
@@ -69718,7 +70366,15 @@
       "bytes": 179502,
       "sha256": "93f42b266dced1935c280e8bde508d441c9124b047836ddc4d489414c8dbdbe4",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0941-056f657355ea9ed6.png",
+        "format": "png",
+        "sha256": "056f657355ea9ed61ce1a5fd13fc0d3b97450909942eda181d085448a64df2ef",
+        "bytes": 180173,
+        "originalSha256": "93f42b266dced1935c280e8bde508d441c9124b047836ddc4d489414c8dbdbe4",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0942",
@@ -69960,7 +70616,15 @@
       "bytes": 31576,
       "sha256": "52b9ec79202d02e1b9715cfc36369c1d227a4fc6b4d2b70690e0b978c5b9150d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0944-e9bfcc68522f2b54.png",
+        "format": "png",
+        "sha256": "e9bfcc68522f2b54fa1db2bedd104e0890a38ec4f1d8f5eca4709fe793ad8883",
+        "bytes": 296200,
+        "originalSha256": "52b9ec79202d02e1b9715cfc36369c1d227a4fc6b4d2b70690e0b978c5b9150d",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0945",
@@ -70211,7 +70875,15 @@
       "bytes": 6248,
       "sha256": "13e2af330ed1d289a01c4c4f36a7376140d0675056b0ad5a5c094f17c035c552",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0947-7e0670c5db7e4f17.png",
+        "format": "png",
+        "sha256": "7e0670c5db7e4f1748eafe1257f4869a6749e510a54c39dc9568a1853de7d7de",
+        "bytes": 107097,
+        "originalSha256": "13e2af330ed1d289a01c4c4f36a7376140d0675056b0ad5a5c094f17c035c552",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0948",
@@ -70288,7 +70960,15 @@
       "bytes": 23832,
       "sha256": "ca489258d46305bb5a479b96b782fc4beb2a0386b874a3a7b2078869f2af86cb",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0948-3cbd6c4d1f082471.png",
+        "format": "png",
+        "sha256": "3cbd6c4d1f0824711e846eba65f7cae997ae5334d0265ee8af9717d16bb61132",
+        "bytes": 195181,
+        "originalSha256": "ca489258d46305bb5a479b96b782fc4beb2a0386b874a3a7b2078869f2af86cb",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0949",
@@ -70454,7 +71134,15 @@
       "bytes": 270760,
       "sha256": "250ebfeb1254dd61c8df77d00569fa858f333dd1dd702d2732b2d89e6c7206e9",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0950-6d662b52ac6ec7cc.png",
+        "format": "png",
+        "sha256": "6d662b52ac6ec7ccc6559fdc51cd72fd4f377a80bb51e52ac98945ef613b5880",
+        "bytes": 276640,
+        "originalSha256": "250ebfeb1254dd61c8df77d00569fa858f333dd1dd702d2732b2d89e6c7206e9",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0951",
@@ -70705,7 +71393,15 @@
       "bytes": 32334,
       "sha256": "455f6a472d7513aa8d33b4fab889d546a907a037dfc1ca255d113c83586ddb6e",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0953-18556ec0a88a6a82.png",
+        "format": "png",
+        "sha256": "18556ec0a88a6a825f3b3aba66e435e19b3ec98696d00d2d3be48b1f19fda413",
+        "bytes": 297943,
+        "originalSha256": "455f6a472d7513aa8d33b4fab889d546a907a037dfc1ca255d113c83586ddb6e",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0954",
@@ -70871,7 +71567,15 @@
       "bytes": 9706,
       "sha256": "a93878cee3f6d8d1c45dafbbdf9152acc22a79853297b5f061859a969210729e",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0955-05688607782b3969.png",
+        "format": "png",
+        "sha256": "05688607782b39694d0eb339e1e33e53b8212a7edfe3c0a65738e9651ce6fbef",
+        "bytes": 162600,
+        "originalSha256": "a93878cee3f6d8d1c45dafbbdf9152acc22a79853297b5f061859a969210729e",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0956",
@@ -71294,7 +71998,15 @@
       "bytes": 36446,
       "sha256": "cc93b0d3b5d06e50e669854fbc910c2006e1d02846e24fa6654132f07d5bf32a",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0960-ee2554197f69cde8.png",
+        "format": "png",
+        "sha256": "ee2554197f69cde84e171d31123b6d20759d625c11b30e56019a2810dbac59c3",
+        "bytes": 333039,
+        "originalSha256": "cc93b0d3b5d06e50e669854fbc910c2006e1d02846e24fa6654132f07d5bf32a",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0961",
@@ -71373,7 +72085,15 @@
       "bytes": 45098,
       "sha256": "837efa61b5f228e88810337bbab54feb505f1b037d758c0cbf63e37bab4112b6",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0961-7b3c68653a17ea27.png",
+        "format": "png",
+        "sha256": "7b3c68653a17ea27181dc320c99a39e3516ca382ee6f702aa8245c5a15f3a2bf",
+        "bytes": 82687,
+        "originalSha256": "837efa61b5f228e88810337bbab54feb505f1b037d758c0cbf63e37bab4112b6",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0962",
@@ -71626,7 +72346,15 @@
       "bytes": 12492,
       "sha256": "f5f07e8624266cf27e1ce39c96afe376ffc95b54da91477aab27f88b220f7519",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0964-ac44e74937e03615.png",
+        "format": "png",
+        "sha256": "ac44e74937e036159f5d1ebdeebdb4aa7fa3aac50ebec5d7cbd87a76d65f1cd6",
+        "bytes": 157259,
+        "originalSha256": "f5f07e8624266cf27e1ce39c96afe376ffc95b54da91477aab27f88b220f7519",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0965",
@@ -71877,7 +72605,15 @@
       "bytes": 23942,
       "sha256": "4ba47399c6dbf0bada534684ebfacce2e549f3c602f45bc12ebcbeb559dc95de",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0967-d733ab0c27f474c1.png",
+        "format": "png",
+        "sha256": "d733ab0c27f474c144ff6354ae0144877211805a0c09ffe1833a5349bec5c75b",
+        "bytes": 253898,
+        "originalSha256": "4ba47399c6dbf0bada534684ebfacce2e549f3c602f45bc12ebcbeb559dc95de",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0968",
@@ -72043,7 +72779,15 @@
       "bytes": 7230,
       "sha256": "cd8f68e68205deca617d08d229a92a6006fc7c708a74b82bff945736b29380c0",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0969-1ed61fa990531722.png",
+        "format": "png",
+        "sha256": "1ed61fa990531722a28684312eb9537741b7cf417d9e108597c2270ad7379b63",
+        "bytes": 123967,
+        "originalSha256": "cd8f68e68205deca617d08d229a92a6006fc7c708a74b82bff945736b29380c0",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0970",
@@ -72122,7 +72866,15 @@
       "bytes": 8246,
       "sha256": "9566e69dac78d94888baf61f0966cd7fc1af805fc16cec4dc81ed458106f075b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0970-b5559ae38792898b.png",
+        "format": "png",
+        "sha256": "b5559ae38792898b1b9afc9a8e5a4148f1de2a9a9b1cc4d5dd1303caba51eac5",
+        "bytes": 129238,
+        "originalSha256": "9566e69dac78d94888baf61f0966cd7fc1af805fc16cec4dc81ed458106f075b",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0971",
@@ -72288,7 +73040,15 @@
       "bytes": 21344,
       "sha256": "529fe3b7b284f9932d90e1d36b4a67ea6389b62cc359e1f14a7f6d7761298806",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0972-ad94ca483a052559.png",
+        "format": "png",
+        "sha256": "ad94ca483a052559860a2f65c4f653bab790e2649753c6ab36d21370ceef8ed3",
+        "bytes": 264485,
+        "originalSha256": "529fe3b7b284f9932d90e1d36b4a67ea6389b62cc359e1f14a7f6d7761298806",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0973",
@@ -72445,7 +73205,15 @@
       "bytes": 26512,
       "sha256": "11e574d2ef867f2352aaa7ab8f409c157d03c47d311e2c44ac711c3c4366abab",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0974-dda53bdf67bb9d24.png",
+        "format": "png",
+        "sha256": "dda53bdf67bb9d24c918758a9bbdaa9229d96fa80b7c2c27b829a4d9db256255",
+        "bytes": 282171,
+        "originalSha256": "11e574d2ef867f2352aaa7ab8f409c157d03c47d311e2c44ac711c3c4366abab",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0975",
@@ -72609,7 +73377,15 @@
       "bytes": 139052,
       "sha256": "76ee84e07ebef24a80ef3d88fb4ed09eed7fd7d8a72c6ab0e466cc2713c7cfc1",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0976-283efccd723b8651.png",
+        "format": "png",
+        "sha256": "283efccd723b86513c912b30e70cc708a757ea425857bcdda6683a9b714ab663",
+        "bytes": 140668,
+        "originalSha256": "76ee84e07ebef24a80ef3d88fb4ed09eed7fd7d8a72c6ab0e466cc2713c7cfc1",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0977",
@@ -72858,7 +73634,15 @@
       "bytes": 19604,
       "sha256": "f5d2bbb9789d63ddb48cec618a5781b65e21f61bcc951cf910b34446c9599c80",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0979-e1f9bc0ac54206f2.png",
+        "format": "png",
+        "sha256": "e1f9bc0ac54206f22bf729ca1328679fb89d21031feb1ac75ebdf1570a25122e",
+        "bytes": 184485,
+        "originalSha256": "f5d2bbb9789d63ddb48cec618a5781b65e21f61bcc951cf910b34446c9599c80",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0980",
@@ -73453,7 +74237,15 @@
       "bytes": 8604,
       "sha256": "8bf45bb76cc06ee8e73a0fb6eb63462372b4a04d6e4d9325868c51d95edd024d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0986-e4756cb118349a42.png",
+        "format": "png",
+        "sha256": "e4756cb118349a4243d9d563358d8f0ec572c5f84ad58f92abbf4a0cc19fdbdb",
+        "bytes": 122957,
+        "originalSha256": "8bf45bb76cc06ee8e73a0fb6eb63462372b4a04d6e4d9325868c51d95edd024d",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0987",
@@ -73530,7 +74322,15 @@
       "bytes": 7226,
       "sha256": "069faef22cd0d7869c84ba3acc3a826d5f55be7bdead4451945399661bede12f",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0987-7dc7a6e4b3640a1a.png",
+        "format": "png",
+        "sha256": "7dc7a6e4b3640a1ac48c39a4da735d6ca4ef8fa6871b25a2c3a685790feced46",
+        "bytes": 111539,
+        "originalSha256": "069faef22cd0d7869c84ba3acc3a826d5f55be7bdead4451945399661bede12f",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0988",
@@ -73609,7 +74409,15 @@
       "bytes": 16186,
       "sha256": "17e0c3b20202b6113d236c9d9ac2b14a8804a4170867e808beab9db83fc5b63b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0988-2d7c96fb58e72db0.png",
+        "format": "png",
+        "sha256": "2d7c96fb58e72db0955548cfa83e87738cc6aa358d6cf99fa086b693d9cb41a1",
+        "bytes": 172665,
+        "originalSha256": "17e0c3b20202b6113d236c9d9ac2b14a8804a4170867e808beab9db83fc5b63b",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0989",
@@ -73775,7 +74583,15 @@
       "bytes": 10238,
       "sha256": "3093a09211f28824ae3faa23d4eeac385908654561d57ca9eca8751c9317505b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0990-260cab7bc3bb192e.png",
+        "format": "png",
+        "sha256": "260cab7bc3bb192e919817745e9b95b7c1153dd23d6de15305cc6ef6827453aa",
+        "bytes": 118727,
+        "originalSha256": "3093a09211f28824ae3faa23d4eeac385908654561d57ca9eca8751c9317505b",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0991",
@@ -73852,7 +74668,15 @@
       "bytes": 11934,
       "sha256": "0d9e4960b6c7f112e0e175c46dff28e9a3756f644714e2ee3827af1dfe8bc61d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0991-a742a9ad9a4182ca.png",
+        "format": "png",
+        "sha256": "a742a9ad9a4182ca45ee6c13060602444926adf202e6761b2d42b11787539f99",
+        "bytes": 101797,
+        "originalSha256": "0d9e4960b6c7f112e0e175c46dff28e9a3756f644714e2ee3827af1dfe8bc61d",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0992",
@@ -73931,7 +74755,15 @@
       "bytes": 43189,
       "sha256": "476de6d4e259598d09d62bfc55b0195cca050f0964d1fbd6f11c0ceb4e75d9dc",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0992-44bf518ba26ba08f.png",
+        "format": "png",
+        "sha256": "44bf518ba26ba08f5ba35b46f0176bc5a65eec74d8d88ac3dd9389d89f05e0b1",
+        "bytes": 95751,
+        "originalSha256": "476de6d4e259598d09d62bfc55b0195cca050f0964d1fbd6f11c0ceb4e75d9dc",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0993",
@@ -74180,7 +75012,15 @@
       "bytes": 167012,
       "sha256": "044747087516e73b1bcfbfbf21c648fd46f27b481b10ee0a92cff163e3a001b6",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0995-aae7bcfd04823619.png",
+        "format": "png",
+        "sha256": "aae7bcfd04823619ae57a7858dbed6b4f1f53540cb2a41f2345ae07558962f10",
+        "bytes": 168243,
+        "originalSha256": "044747087516e73b1bcfbfbf21c648fd46f27b481b10ee0a92cff163e3a001b6",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0996",
@@ -74673,7 +75513,15 @@
       "bytes": 6788,
       "sha256": "5721d0e003ecd0cd60156c6f371911d6d2daa05d4d9e3fd9ad719f60c575fe6b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1001-61f2dbe1f077c08c.png",
+        "format": "png",
+        "sha256": "61f2dbe1f077c08c28097386668e3c674e954b4fca6cf1158e181658fba760f9",
+        "bytes": 122063,
+        "originalSha256": "5721d0e003ecd0cd60156c6f371911d6d2daa05d4d9e3fd9ad719f60c575fe6b",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1002",
@@ -74752,7 +75600,15 @@
       "bytes": 27540,
       "sha256": "14440764ce0c8c17f6b3ff7cbb2b79db627f5331c2090ab9670c75bcaa7534ec",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1002-d39d1562a3fb2035.png",
+        "format": "png",
+        "sha256": "d39d1562a3fb203560311a7456d9d013463f8aee410f427c35e4272018b52db6",
+        "bytes": 213132,
+        "originalSha256": "14440764ce0c8c17f6b3ff7cbb2b79db627f5331c2090ab9670c75bcaa7534ec",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1003",
@@ -74829,7 +75685,15 @@
       "bytes": 16452,
       "sha256": "31efbdde9708960b2fd0b6981f0bd346833d0e603da3cf1556f7d08c0f48aaff",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1003-ec9025a0b86bf858.png",
+        "format": "png",
+        "sha256": "ec9025a0b86bf8586835a806aabe06f58f5a190fe429951ec5bd6bf003949682",
+        "bytes": 147684,
+        "originalSha256": "31efbdde9708960b2fd0b6981f0bd346833d0e603da3cf1556f7d08c0f48aaff",
+        "method": "migan local MPS, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1004",
@@ -75157,7 +76021,15 @@
       "bytes": 880980,
       "sha256": "4a7162a4243310c17ad2cd66a1553abfcce9b838956ef6644bbdb438e35589ae",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1007-b43849fce25172f8.gif",
+        "format": "gif",
+        "sha256": "b43849fce25172f8d5049a55f7f878d3d11a4a80cb63df91d251f07fb1b1a292",
+        "bytes": 1033541,
+        "originalSha256": "4a7162a4243310c17ad2cd66a1553abfcce9b838956ef6644bbdb438e35589ae",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1008",
@@ -75236,7 +76108,15 @@
       "bytes": 493555,
       "sha256": "738d53c59e64896a3b058f6fcf5a2dc7b9b925b272dc015370d04e9c44da4825",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1008-8236435f552dfa1b.gif",
+        "format": "gif",
+        "sha256": "8236435f552dfa1b7982a9273cebdc7d4fbf6fb6c9ef0f1a6a4478453ee6f713",
+        "bytes": 578939,
+        "originalSha256": "738d53c59e64896a3b058f6fcf5a2dc7b9b925b272dc015370d04e9c44da4825",
+        "method": "migan local neural residual-prefix pass over complete clean sequence; lossless union-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1009",
@@ -75315,7 +76195,15 @@
       "bytes": 407378,
       "sha256": "0aa54c1ff037ed08215c6fe634908450e2ba2a9104e7e2da1474103fdf438ff1",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1009-7057731f65500d1e.gif",
+        "format": "gif",
+        "sha256": "7057731f65500d1e4eed3fb1ae2efaa8343bf81bbf1f4e8a1cbbbdecccb11737",
+        "bytes": 1093251,
+        "originalSha256": "0aa54c1ff037ed08215c6fe634908450e2ba2a9104e7e2da1474103fdf438ff1",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1010",
@@ -75394,7 +76282,23 @@
       "bytes": 585128,
       "sha256": "a45504f1a269fcf3e14d9bd07469951926c24085a8eea00a22f144d401d1af6f",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1010-9c65e1e51a38ef3b.png",
+        "format": "png",
+        "sha256": "9c65e1e51a38ef3b6d9fb0a62570c5f64b9534c7c56826542a89dc150f8c705f",
+        "bytes": 3238686,
+        "originalSha256": "a45504f1a269fcf3e14d9bd07469951926c24085a8eea00a22f144d401d1af6f",
+        "method": "matched-clean-original",
+        "notAnAdditionalOriginal": true,
+        "referenceSource": {
+          "url": "https://milkfrogbnb.fun/stickers/52.webm",
+          "sha256": "7be6b07bd7bd829f46503dedeadfec237f2829a3ee1ea900bbd1b2ce563f15b3",
+          "bytes": 232071,
+          "rights": "unknown",
+          "creator": null,
+          "note": "Each of the existing GIF frames has a visually matching clean-source frame. The clean-source WebM has a different frame rate; the separate APNG view keeps the existing GIF sequence and per-frame timing. It is not an unchanged WebM original or a new work. No interpolated or generated frames."
+        }
+      }
     },
     {
       "stableID": "dot-naiwa-1011",
@@ -75821,7 +76725,15 @@
       "bytes": 2332642,
       "sha256": "cd99a276bba0f1b44eff0f18664131cfd2adfa5366dc2c9d894d88304d19511c",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1015-6cd0fac0e4892cb1.gif",
+        "format": "gif",
+        "sha256": "6cd0fac0e4892cb194952f2bf8b8a0c8975bfce2c7865127739fa86b76968719",
+        "bytes": 2418906,
+        "originalSha256": "cd99a276bba0f1b44eff0f18664131cfd2adfa5366dc2c9d894d88304d19511c",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1016",
@@ -76331,7 +77243,15 @@
       "bytes": 616842,
       "sha256": "62f3249ca7e721e03ae6633b5adb523d44443c2eaf124531e2c7de0135da18c2",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1021-c5daa476e896a16b.gif",
+        "format": "gif",
+        "sha256": "c5daa476e896a16b4ee04921957af532065c793f9ea4de391193ce836315130c",
+        "bytes": 794856,
+        "originalSha256": "62f3249ca7e721e03ae6633b5adb523d44443c2eaf124531e2c7de0135da18c2",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1022",
@@ -76412,7 +77332,15 @@
       "bytes": 990442,
       "sha256": "19d3597b416744dd83d6cd900ea0dc3c412213c112d0dc6a915cf1149ad1c004",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1022-fb7b9a637ee82aa3.gif",
+        "format": "gif",
+        "sha256": "fb7b9a637ee82aa3e942b04292fd7d816068a246758fad5a51aa84b29af59542",
+        "bytes": 1585363,
+        "originalSha256": "19d3597b416744dd83d6cd900ea0dc3c412213c112d0dc6a915cf1149ad1c004",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1023",
@@ -76748,7 +77676,15 @@
       "bytes": 2668314,
       "sha256": "b1d5b5d8b18845c494b1906cc3b6628ec469db069bdb46029f0c98bbd044dd1b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1026-35c38c99b3c43dad.gif",
+        "format": "gif",
+        "sha256": "35c38c99b3c43dade057b22d83024a6ae4c924996dc1a437be12240092ac51e4",
+        "bytes": 3836260,
+        "originalSha256": "b1d5b5d8b18845c494b1906cc3b6628ec469db069bdb46029f0c98bbd044dd1b",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1027",
@@ -76914,7 +77850,15 @@
       "bytes": 2355363,
       "sha256": "c372feda29abdfd6979bb5b2d83c174003b3a90dc0d9c2c471c076bf0c9f954e",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1028-9c24cb3966c7fa28.gif",
+        "format": "gif",
+        "sha256": "9c24cb3966c7fa28d554ffad56878181d39cadbba72bbdd26376ea7ae44ef464",
+        "bytes": 2237574,
+        "originalSha256": "c372feda29abdfd6979bb5b2d83c174003b3a90dc0d9c2c471c076bf0c9f954e",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1029",
@@ -76993,7 +77937,15 @@
       "bytes": 2750985,
       "sha256": "978df9101e6f178c1a04ed0d52b15e4080ee5de0394304e50a87145ac1548029",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1029-a0db30b9b7b4326a.gif",
+        "format": "gif",
+        "sha256": "a0db30b9b7b4326aeb3fd079236cbe7629551f1754580e928508959b6db73965",
+        "bytes": 3987451,
+        "originalSha256": "978df9101e6f178c1a04ed0d52b15e4080ee5de0394304e50a87145ac1548029",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1030",
@@ -77072,7 +78024,15 @@
       "bytes": 3217775,
       "sha256": "2e72c78a742d56dc4952c73d1e3e83b53fab8b238afd1c727427badde4893615",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1030-39e2313f172e1dec.gif",
+        "format": "gif",
+        "sha256": "39e2313f172e1deca3db305d729b382db4f36980adcb64808cda037e8f1840de",
+        "bytes": 4617713,
+        "originalSha256": "2e72c78a742d56dc4952c73d1e3e83b53fab8b238afd1c727427badde4893615",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1031",
@@ -77151,7 +78111,15 @@
       "bytes": 224879,
       "sha256": "29b94fef83ddcc130f6823304661e587323d7251b0388a3343a20936bc6896dc",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1031-23e359b97fe9570a.gif",
+        "format": "gif",
+        "sha256": "23e359b97fe9570aeb070ffde91030e599571c60de61b6861d924b21536a0980",
+        "bytes": 374842,
+        "originalSha256": "29b94fef83ddcc130f6823304661e587323d7251b0388a3343a20936bc6896dc",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1032",
@@ -77402,7 +78370,15 @@
       "bytes": 1548053,
       "sha256": "c999a4f852f4fc14d7447dafd7b6077684397984556e2801717a3c8b7f41063b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1034-0058aff214466c8e.gif",
+        "format": "gif",
+        "sha256": "0058aff214466c8e041cc5f718245f2724c27f66d519b687bb8515de7bddea35",
+        "bytes": 2308300,
+        "originalSha256": "c999a4f852f4fc14d7447dafd7b6077684397984556e2801717a3c8b7f41063b",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1035",
@@ -77568,7 +78544,15 @@
       "bytes": 660485,
       "sha256": "0d080e759b3ba234d2f82be6c88170b3d581cc100ed7c804f8d0d125fdf75483",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1036-f1ea4c51cc4a1fb5.gif",
+        "format": "gif",
+        "sha256": "f1ea4c51cc4a1fb57ebd22d5adeb780d2fa666bfac0e848938638a6a77501c98",
+        "bytes": 1515832,
+        "originalSha256": "0d080e759b3ba234d2f82be6c88170b3d581cc100ed7c804f8d0d125fdf75483",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1037",
@@ -77902,7 +78886,15 @@
       "bytes": 1743753,
       "sha256": "6fc1b2d153fce544d2d0c12f1651563a6e57f23792beee27ad615d0e2a1f7ea1",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1040-c63d9ccd4f925704.gif",
+        "format": "gif",
+        "sha256": "c63d9ccd4f9257045ac9195eaea2d3d833f9acd800ccc3fec766d621d4d49918",
+        "bytes": 2019871,
+        "originalSha256": "6fc1b2d153fce544d2d0c12f1651563a6e57f23792beee27ad615d0e2a1f7ea1",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1041",
@@ -77979,7 +78971,15 @@
       "bytes": 1513052,
       "sha256": "31034cfaf19d293c80c7405cead8fcecf4fb9b4907f8fb9601262233c136f26a",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1041-ff5644fe7140cea0.gif",
+        "format": "gif",
+        "sha256": "ff5644fe7140cea0ac46e7c6d009607e6fe5c4d18dcacc5bd21aaac158bdc713",
+        "bytes": 2764995,
+        "originalSha256": "31034cfaf19d293c80c7405cead8fcecf4fb9b4907f8fb9601262233c136f26a",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1042",
@@ -78058,7 +79058,15 @@
       "bytes": 597867,
       "sha256": "16c0f79815ef843afc157499e9debe86c490ac808f2f6cbef57ac04d3f4f240f",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1042-3b1697f7523abb00.gif",
+        "format": "gif",
+        "sha256": "3b1697f7523abb00d3d1bf27ef618d5f1cba88218c90930c22bf7950348d5e11",
+        "bytes": 628662,
+        "originalSha256": "16c0f79815ef843afc157499e9debe86c490ac808f2f6cbef57ac04d3f4f240f",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1043",
@@ -78471,7 +79479,15 @@
       "bytes": 2346552,
       "sha256": "c4275325021df4afb53460847b2b83021ad4f5a0395566afdac78c698f5b3512",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1047-cf597dcf09b410c8.gif",
+        "format": "gif",
+        "sha256": "cf597dcf09b410c8311bf11f702b33521850a5132fe1f2fa9cc9d4173579ad8b",
+        "bytes": 2232566,
+        "originalSha256": "c4275325021df4afb53460847b2b83021ad4f5a0395566afdac78c698f5b3512",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1048",
@@ -78637,7 +79653,15 @@
       "bytes": 1658200,
       "sha256": "12cbbf0315191e4b5ccb6462b1d2633cee6ef18d63b65e1864115d7aebe811af",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1049-db78b21e29bd2a12.gif",
+        "format": "gif",
+        "sha256": "db78b21e29bd2a12e98d30ed39f565c5b986da08cdc8a603473627e52076aeff",
+        "bytes": 3027482,
+        "originalSha256": "12cbbf0315191e4b5ccb6462b1d2633cee6ef18d63b65e1864115d7aebe811af",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1050",
@@ -78801,7 +79825,15 @@
       "bytes": 690800,
       "sha256": "9738a744506cbb3164bc13a210a10de9c1b90afcabe0e4263b806112f675dd60",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1051-226c4231f728c200.gif",
+        "format": "gif",
+        "sha256": "226c4231f728c200509bfee0a115f11ae72cc599a59cc151f88386112bcbc816",
+        "bytes": 835492,
+        "originalSha256": "9738a744506cbb3164bc13a210a10de9c1b90afcabe0e4263b806112f675dd60",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1052",
@@ -79054,7 +80086,15 @@
       "bytes": 2332851,
       "sha256": "a6915d3be236d522bd3d27119ff3e013e2d481119e98924d8aea82cf4b05395e",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1054-573b429172cadf8c.gif",
+        "format": "gif",
+        "sha256": "573b429172cadf8c629a6ed4b836c16142501189a48839b6b8e646bcff8d1770",
+        "bytes": 3148647,
+        "originalSha256": "a6915d3be236d522bd3d27119ff3e013e2d481119e98924d8aea82cf4b05395e",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1055",
@@ -79309,7 +80349,15 @@
       "bytes": 752614,
       "sha256": "e9af1c4357e927e8409268fab0e93133900df1259c87ab9cba52edd0c8913d31",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1057-264a6633e0e1b6f6.gif",
+        "format": "gif",
+        "sha256": "264a6633e0e1b6f6616cf49d14b64045013a1c34500d36d3f4e58ab37772ae3a",
+        "bytes": 1027280,
+        "originalSha256": "e9af1c4357e927e8409268fab0e93133900df1259c87ab9cba52edd0c8913d31",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1058",
@@ -79562,7 +80610,15 @@
       "bytes": 1982734,
       "sha256": "887efab96a1a403a36a63266984bddc362f8e0ef28c7a515e17d2d89d137a9e4",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1060-1c0c795dcecd4e34.gif",
+        "format": "gif",
+        "sha256": "1c0c795dcecd4e34de8468592ee5d4410967f06f9300e10e03a5124925c84eed",
+        "bytes": 3578682,
+        "originalSha256": "887efab96a1a403a36a63266984bddc362f8e0ef28c7a515e17d2d89d137a9e4",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1061",
@@ -80311,7 +81367,15 @@
       "bytes": 1701516,
       "sha256": "29a9a5f470da5eb2e97d3eb0c03d282f1234f3295028dfc81b3c593a83cffce9",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/little-naiwa/dot-naiwa-1069-b5cce2dde57d2b35.gif",
+        "format": "gif",
+        "sha256": "b5cce2dde57d2b358d1298e46c02d46b4f4d4d4133b64fdc95f3cca07ca3b45c",
+        "bytes": 2533516,
+        "originalSha256": "29a9a5f470da5eb2e97d3eb0c03d282f1234f3295028dfc81b3c593a83cffce9",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1070",
@@ -80468,7 +81532,15 @@
       "bytes": 3359422,
       "sha256": "cbe75bb5c5ad9ca59a2aaccfff9a82b4bedcfbfd68bfe161c296b810a14b3aec",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1071-ac527a1585bedf0d.gif",
+        "format": "gif",
+        "sha256": "ac527a1585bedf0df66523abfcd96bcc0b248f04c0b75881ea664095ad327141",
+        "bytes": 3672073,
+        "originalSha256": "cbe75bb5c5ad9ca59a2aaccfff9a82b4bedcfbfd68bfe161c296b810a14b3aec",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1072",
@@ -80626,7 +81698,15 @@
       "bytes": 4404930,
       "sha256": "d4f3cca9695861f4cfc21085c7e186a04bb7021482ce25ed564d7e0b8a1cef30",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1073-6e268de4acd4106c.gif",
+        "format": "gif",
+        "sha256": "6e268de4acd4106c8f9a94427b8efe8a7ed944eead9b2f942d3da74f1064db70",
+        "bytes": 8036972,
+        "originalSha256": "d4f3cca9695861f4cfc21085c7e186a04bb7021482ce25ed564d7e0b8a1cef30",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1074",
@@ -80792,7 +81872,15 @@
       "bytes": 809763,
       "sha256": "1e8f5554703ba159bec979d2368827ee35928a1c015b607b4facba34c1098fb1",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1075-d45e8f77c12703d5.gif",
+        "format": "gif",
+        "sha256": "d45e8f77c12703d5cd259ae6331ec0f5b2325d73b071855028ac320f44490036",
+        "bytes": 2697034,
+        "originalSha256": "1e8f5554703ba159bec979d2368827ee35928a1c015b607b4facba34c1098fb1",
+        "method": "migan local neural residual-prefix pass over complete clean sequence; lossless union-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1076",
@@ -80958,7 +82046,15 @@
       "bytes": 267879,
       "sha256": "bcef947a9abc8bc78d7e18c57b6efe8f6f867adca0f245889303f45561048e5d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/unclassified/dot-naiwa-1077-ffa00464b7eee18d.gif",
+        "format": "gif",
+        "sha256": "ffa00464b7eee18d50ffb49fffcc818c9cc321a01f784e0e1c85732b2a0b0372",
+        "bytes": 1164460,
+        "originalSha256": "bcef947a9abc8bc78d7e18c57b6efe8f6f867adca0f245889303f45561048e5d",
+        "method": "migan local neural residual-prefix pass over complete clean sequence; lossless union-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1078",
@@ -81203,7 +82299,15 @@
       "bytes": 166874,
       "sha256": "6c02bb9877d6c0bd51be7917601a6560f2a97095784a3ea723e6a14ae4259cd5",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/unclassified/dot-naiwa-1080-75897e547ba01847.gif",
+        "format": "gif",
+        "sha256": "75897e547ba01847c00351add011828291bea34ce757fbb3d3fbfc27ae6852aa",
+        "bytes": 915191,
+        "originalSha256": "6c02bb9877d6c0bd51be7917601a6560f2a97095784a3ea723e6a14ae4259cd5",
+        "method": "migan local neural residual-prefix pass over complete clean sequence; lossless union-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1081",
@@ -81282,7 +82386,15 @@
       "bytes": 987750,
       "sha256": "213c7fb86f49ce192a41b50a30232bbf618b1ee21ea9573815dda654b9f6341d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-dan/dot-naiwa-1081-bea8b99fcf5f7270.gif",
+        "format": "gif",
+        "sha256": "bea8b99fcf5f727002be6bd8bf3c1687d5d5c8b7d32784143a7ae4395cb64658",
+        "bytes": 1972114,
+        "originalSha256": "213c7fb86f49ce192a41b50a30232bbf618b1ee21ea9573815dda654b9f6341d",
+        "method": "migan local neural residual-prefix pass over complete clean sequence; lossless union-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1082",
@@ -81359,7 +82471,15 @@
       "bytes": 7652,
       "sha256": "73e86e2a1dcd37f74bbf3cb354b08c67fb68fde7fd571349aca38e862359d755",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1082-ab234f8c4f66a28e.png",
+        "format": "png",
+        "sha256": "ab234f8c4f66a28e8e6072aef70033c9a4ca71a09ddbc3509ad29aac4d296675",
+        "bytes": 143916,
+        "originalSha256": "73e86e2a1dcd37f74bbf3cb354b08c67fb68fde7fd571349aca38e862359d755",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1083",
@@ -81699,7 +82819,15 @@
       "bytes": 6312,
       "sha256": "6ebab9d9d61516c4f573463e36ba8a5f008231297eb68e652415f288809a4481",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1086-b644b9dd039a3cc7.png",
+        "format": "png",
+        "sha256": "b644b9dd039a3cc74d2efb4bdf334e6a338829f87fdad93119f1d9c9a191629f",
+        "bytes": 105465,
+        "originalSha256": "6ebab9d9d61516c4f573463e36ba8a5f008231297eb68e652415f288809a4481",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1087",
@@ -81778,7 +82906,15 @@
       "bytes": 7268,
       "sha256": "fea92f0761e138d048f882c502303bb3cbdd060d0784f8e45de697e0519f157a",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1087-be53ec57e8461205.png",
+        "format": "png",
+        "sha256": "be53ec57e8461205431ad574be409122c94799834e10a5c5a7bdc96e7449db8e",
+        "bytes": 95621,
+        "originalSha256": "fea92f0761e138d048f882c502303bb3cbdd060d0784f8e45de697e0519f157a",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1088",
@@ -81944,7 +83080,15 @@
       "bytes": 19740,
       "sha256": "747a9ddc53a7d5ca38128d7c1fcdaca7e12bb7614fe4292c2d6f0fe5970c8e04",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1089-bf8fe53fad6978d5.png",
+        "format": "png",
+        "sha256": "bf8fe53fad6978d5a31d483f44142a10cff419d7f2a94687a99f85c4f4c5fb98",
+        "bytes": 273417,
+        "originalSha256": "747a9ddc53a7d5ca38128d7c1fcdaca7e12bb7614fe4292c2d6f0fe5970c8e04",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1090",
@@ -82108,7 +83252,15 @@
       "bytes": 16660,
       "sha256": "bdb16b6c7cd967be68ca5cc81b4f5de1a76ca2b5216d801007ed5eb2d0f45ade",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1091-21b27192edcb551b.png",
+        "format": "png",
+        "sha256": "21b27192edcb551b75fc173f9383af45658b46b75bcdf4aaf93e93454f811537",
+        "bytes": 218233,
+        "originalSha256": "bdb16b6c7cd967be68ca5cc81b4f5de1a76ca2b5216d801007ed5eb2d0f45ade",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1092",
@@ -82602,7 +83754,15 @@
       "bytes": 93448,
       "sha256": "a7e231cb7693f3fb371e914792943411ac8d59c15c6213b07c24b0046a5dc636",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1097-f4d44f69ed39b6bd.png",
+        "format": "png",
+        "sha256": "f4d44f69ed39b6bd95de443616f418d770855a3bca7ac35d4f797889c40eddda",
+        "bytes": 96041,
+        "originalSha256": "a7e231cb7693f3fb371e914792943411ac8d59c15c6213b07c24b0046a5dc636",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1098",
@@ -84086,7 +85246,15 @@
       "bytes": 11273,
       "sha256": "7d5f8823f9d3d5b413eff34b985fcd6bbfb34f4cfef1322ab17922a9e23e2a73",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1115-cc6515ecf8cd1608.png",
+        "format": "png",
+        "sha256": "cc6515ecf8cd16080159da6571d705d978d2c520a116ae56f729c91511e58b45",
+        "bytes": 98573,
+        "originalSha256": "7d5f8823f9d3d5b413eff34b985fcd6bbfb34f4cfef1322ab17922a9e23e2a73",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1116",
@@ -84165,7 +85333,15 @@
       "bytes": 75906,
       "sha256": "7cf0db92dc211626b59598948b2c903c69450d6d30b482436a6337b785b3e67b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1116-fbc522d9845eedc5.gif",
+        "format": "gif",
+        "sha256": "fbc522d9845eedc5771a63d45766c6e681699bbb6096e81b8c46bc4422780283",
+        "bytes": 108214,
+        "originalSha256": "7cf0db92dc211626b59598948b2c903c69450d6d30b482436a6337b785b3e67b",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1117",
@@ -84331,7 +85507,15 @@
       "bytes": 108137,
       "sha256": "8b4919784b152ff45931cbf8d2bb7d802f9c38c02972205a69253fcbe0d895d0",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1118-20ec961971fa1ce0.png",
+        "format": "png",
+        "sha256": "20ec961971fa1ce027426b54eef65970e913ad11088da18b526d5578efb376d8",
+        "bytes": 108438,
+        "originalSha256": "8b4919784b152ff45931cbf8d2bb7d802f9c38c02972205a69253fcbe0d895d0",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1119",
@@ -84497,7 +85681,15 @@
       "bytes": 2316819,
       "sha256": "61e337c165a1ce31e629b3c1436b2fc14719b40d50b35acf63f694bd94b61dce",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1120-1756b2596c883346.gif",
+        "format": "gif",
+        "sha256": "1756b2596c88334639a3d67878a105bc9759ecd6f5fd62262bb42393dd43bc09",
+        "bytes": 3627753,
+        "originalSha256": "61e337c165a1ce31e629b3c1436b2fc14719b40d50b35acf63f694bd94b61dce",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1121",
@@ -84829,7 +86021,15 @@
       "bytes": 4323611,
       "sha256": "2ff3fdb901967c39a761214f0df6894caddf4db75d655d188064998c080bb345",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-shu/dot-naiwa-1124-ef52a81290ce5799.gif",
+        "format": "gif",
+        "sha256": "ef52a81290ce579959a700aa3c5cf8b7ef915db4b6f57736175d28cf95575b5b",
+        "bytes": 6949631,
+        "originalSha256": "2ff3fdb901967c39a761214f0df6894caddf4db75d655d188064998c080bb345",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1125",
@@ -84995,7 +86195,15 @@
       "bytes": 1234232,
       "sha256": "2fa0d305cceeb2bf473479b7ad0cdc6bb63a76b4449b8f469b1061437b1d4fb2",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-shu/dot-naiwa-1126-d55c70e6ed5b07c0.gif",
+        "format": "gif",
+        "sha256": "d55c70e6ed5b07c009d17a22fc5b468d8705b3250f2ecc62e8fd792d49e44759",
+        "bytes": 2867675,
+        "originalSha256": "2fa0d305cceeb2bf473479b7ad0cdc6bb63a76b4449b8f469b1061437b1d4fb2",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1127",
@@ -85248,7 +86456,15 @@
       "bytes": 1202613,
       "sha256": "606dbeb3109c9e7c53c6a21298c8be0443ee5d72ff9fed866061907ecc131416",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-shu/dot-naiwa-1129-662754918982951f.gif",
+        "format": "gif",
+        "sha256": "662754918982951fa7e8f105051762d35913988c484584e304393953540a38e2",
+        "bytes": 1735389,
+        "originalSha256": "606dbeb3109c9e7c53c6a21298c8be0443ee5d72ff9fed866061907ecc131416",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1130",
@@ -86210,7 +87426,15 @@
       "bytes": 79990,
       "sha256": "06cbd87abd7233da9accc4fc0e72e2354b14839b2a56f836b18786c5efdd1c08",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-shu/dot-naiwa-1141-9db810ea8227ba87.png",
+        "format": "png",
+        "sha256": "9db810ea8227ba87279d6fd7fccc11149dd11716e1da6edec604a01c41012d97",
+        "bytes": 144021,
+        "originalSha256": "06cbd87abd7233da9accc4fc0e72e2354b14839b2a56f836b18786c5efdd1c08",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1142",
@@ -86454,7 +87678,15 @@
       "bytes": 20951,
       "sha256": "b53ea92b248dac87ad712687848c6c58dd4e858c47d31ccebf3de3e8ffb9697d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-shu/dot-naiwa-1144-05924e5667518b17.png",
+        "format": "png",
+        "sha256": "05924e5667518b1767f5a018a9a37d79fc2bb0cc8baaf373ab601b74b7e2f38d",
+        "bytes": 214846,
+        "originalSha256": "b53ea92b248dac87ad712687848c6c58dd4e858c47d31ccebf3de3e8ffb9697d",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1145",
@@ -88306,7 +89538,15 @@
       "bytes": 1465733,
       "sha256": "b291db909af729ee81bf105a571a3d8b1421717fae52a425771a2c2696d7bd65",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1169-e65be279e92372d6.gif",
+        "format": "gif",
+        "sha256": "e65be279e92372d66b9d09838792e4092c6a2e0052b3fafd33b1c8dd3fae9eb4",
+        "bytes": 1846792,
+        "originalSha256": "b291db909af729ee81bf105a571a3d8b1421717fae52a425771a2c2696d7bd65",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1170",
@@ -88385,7 +89625,15 @@
       "bytes": 915843,
       "sha256": "0c7a1f001f2c7610d2d965e9b42a3d1971b562171c2ed12c15380415ae27ac1f",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1170-d0ffcbe2e1748d2e.gif",
+        "format": "gif",
+        "sha256": "d0ffcbe2e1748d2eb1a54b44e4e3d4655776cf0467e9b311347341e3ef539045",
+        "bytes": 3768640,
+        "originalSha256": "0c7a1f001f2c7610d2d965e9b42a3d1971b562171c2ed12c15380415ae27ac1f",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1171",
@@ -88551,7 +89799,15 @@
       "bytes": 1513780,
       "sha256": "a18351ddc330266ba313a92bd88e10c5bcd17139cf89823de4dfa99a2647e23b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1172-d142d858970fdc8c.gif",
+        "format": "gif",
+        "sha256": "d142d858970fdc8c667fa89a9b8dc4e279e06c1b93690e6e91d67a7cd6e96318",
+        "bytes": 3270088,
+        "originalSha256": "a18351ddc330266ba313a92bd88e10c5bcd17139cf89823de4dfa99a2647e23b",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1173",
@@ -88717,7 +89973,15 @@
       "bytes": 742988,
       "sha256": "7456663bfb49bae7930b173efe5f7958182a85c07fe4353bc0234124409b55b2",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1174-79e582c0a0adac4b.gif",
+        "format": "gif",
+        "sha256": "79e582c0a0adac4b6ccacd50868e64cac5d8684ebaba4c3d20873175ec2e53d0",
+        "bytes": 772202,
+        "originalSha256": "7456663bfb49bae7930b173efe5f7958182a85c07fe4353bc0234124409b55b2",
+        "method": "migan local neural residual-prefix pass over complete clean sequence; lossless union-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1175",
@@ -88883,7 +90147,15 @@
       "bytes": 2878647,
       "sha256": "f7f60426aa45ed67fbc761da66452453d5625f0175e4170f061fa7eb21f41ecb",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1176-20992594604817d0.gif",
+        "format": "gif",
+        "sha256": "20992594604817d0d9f2828927ac432ca2efa6f7d18e099b12141f34ce25889b",
+        "bytes": 3438599,
+        "originalSha256": "f7f60426aa45ed67fbc761da66452453d5625f0175e4170f061fa7eb21f41ecb",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1177",
@@ -89128,7 +90400,15 @@
       "bytes": 14778,
       "sha256": "a11e8d5bbc9c0957e895074d71cfa004e0aff324a511c216e707499eb5b9dd4a",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1179-a0bd66dcc5947d0b.png",
+        "format": "png",
+        "sha256": "a0bd66dcc5947d0b7f548fe23e0ed2299262849767223f4d81e1a7ca8452012c",
+        "bytes": 190349,
+        "originalSha256": "a11e8d5bbc9c0957e895074d71cfa004e0aff324a511c216e707499eb5b9dd4a",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1180",
@@ -89294,7 +90574,15 @@
       "bytes": 341171,
       "sha256": "aaca9d2313f70344f28fcd77333ad97fecf66c334d4a13b34ebab7fc588e8124",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1181-e4a38926b86f97be.png",
+        "format": "png",
+        "sha256": "e4a38926b86f97be87b377731a5abb95e6372d06dd610643f95da7bf49fe72ff",
+        "bytes": 558651,
+        "originalSha256": "aaca9d2313f70344f28fcd77333ad97fecf66c334d4a13b34ebab7fc588e8124",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1182",
@@ -89373,7 +90661,15 @@
       "bytes": 49970,
       "sha256": "21eaf6270c4884ba58f317e5a7d5131ed0791238666b0d5790e189c58bb66d5b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1182-7b65238a4d58d1a5.png",
+        "format": "png",
+        "sha256": "7b65238a4d58d1a5fb64d7c941d99feb5ce4f0eb0a8621d934544413baaf3236",
+        "bytes": 402653,
+        "originalSha256": "21eaf6270c4884ba58f317e5a7d5131ed0791238666b0d5790e189c58bb66d5b",
+        "method": "migan local MPS, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1183",
@@ -89791,7 +91087,15 @@
       "bytes": 152496,
       "sha256": "104c434d697e86e0a54afa205c0ead9d059c5e8376322f61d5960a2931dac663",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1187-fec9b2e16d2fe90d.png",
+        "format": "png",
+        "sha256": "fec9b2e16d2fe90d93cc821d1bb3a3dc298a6ae60ae3ff5f0cce0a436b981806",
+        "bytes": 1374637,
+        "originalSha256": "104c434d697e86e0a54afa205c0ead9d059c5e8376322f61d5960a2931dac663",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1188",
@@ -89959,7 +91263,15 @@
       "bytes": 2695076,
       "sha256": "4432f266d95e1cc8e6e07ce2baad19f5e33b6db4d3ae697bc2de837d073bc098",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-cha/dot-naiwa-1189-174356c5563298c1.gif",
+        "format": "gif",
+        "sha256": "174356c5563298c1c0d7a374c5a16f66fe3591c8374d2f661c7a8cea85a58450",
+        "bytes": 3683390,
+        "originalSha256": "4432f266d95e1cc8e6e07ce2baad19f5e33b6db4d3ae697bc2de837d073bc098",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1190",
@@ -92295,7 +93607,15 @@
       "bytes": 7592,
       "sha256": "d30e6e46582660343061b7fe706704d223f27293df75fceb1802b0e6f6c89414",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1220-1bb038c8eeb05619.png",
+        "format": "png",
+        "sha256": "1bb038c8eeb056192c8ebf671f9a16fe9ee0dd0b6879d18296ccefee7908519c",
+        "bytes": 128769,
+        "originalSha256": "d30e6e46582660343061b7fe706704d223f27293df75fceb1802b0e6f6c89414",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1221",
@@ -92376,7 +93696,15 @@
       "bytes": 9150,
       "sha256": "7f429efce074b24a1bef7bbff5d633501b0dfa9cd7d59f196899eb9b0c745ea7",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1221-0c7f50c11ff8045e.png",
+        "format": "png",
+        "sha256": "0c7f50c11ff8045e227e8aecb03a88d00c293cdbf181a7e061b3dc3515a8547a",
+        "bytes": 160832,
+        "originalSha256": "7f429efce074b24a1bef7bbff5d633501b0dfa9cd7d59f196899eb9b0c745ea7",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1222",
@@ -92872,7 +94200,15 @@
       "bytes": 8226,
       "sha256": "55575fdbdec702eb80c2342b96f5878f8befa1dc9e804339f6a439a7998f710f",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1227-d74a0c8d038de7f0.png",
+        "format": "png",
+        "sha256": "d74a0c8d038de7f0cb3899381e40765aac09d238f700d58cc5f1993831428b0f",
+        "bytes": 147550,
+        "originalSha256": "55575fdbdec702eb80c2342b96f5878f8befa1dc9e804339f6a439a7998f710f",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1228",
@@ -93028,7 +94364,15 @@
       "bytes": 11432,
       "sha256": "8ca82977700e3404f5e7677abf008ed1b38905cd4a90a456128676e912d53215",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1229-4dd56e7b41de2402.png",
+        "format": "png",
+        "sha256": "4dd56e7b41de2402c36ae78795131123a67d40335d4cceddb9b783a8bbaaf332",
+        "bytes": 177530,
+        "originalSha256": "8ca82977700e3404f5e7677abf008ed1b38905cd4a90a456128676e912d53215",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1230",
@@ -93269,7 +94613,15 @@
       "bytes": 12712,
       "sha256": "f05278d253b24d1a3bec3d0f6c707f60769f097b5a1d6c17d8f9b1005b2edd1b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1232-5ecbd2864c9deb29.png",
+        "format": "png",
+        "sha256": "5ecbd2864c9deb2930f07fbd1c5c3751d45c2eeb611114406ba289cab13ff730",
+        "bytes": 177608,
+        "originalSha256": "f05278d253b24d1a3bec3d0f6c707f60769f097b5a1d6c17d8f9b1005b2edd1b",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1233",
@@ -93344,7 +94696,15 @@
       "bytes": 22060,
       "sha256": "f19bd892e5d45bca79f2eb52016316f142017cac31a57daba7bd9cee1af3864b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1233-df4ae913b30cfc21.png",
+        "format": "png",
+        "sha256": "df4ae913b30cfc216d45a3f35a2cb4a3f106acea6341357435af88419b75d509",
+        "bytes": 290712,
+        "originalSha256": "f19bd892e5d45bca79f2eb52016316f142017cac31a57daba7bd9cee1af3864b",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1234",
@@ -93419,7 +94779,15 @@
       "bytes": 7548,
       "sha256": "969182d66120ec13dbdc3a3f911954dbb82b83061210fe405295a6643b9a510d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1234-8ba44119bd5ca5ce.png",
+        "format": "png",
+        "sha256": "8ba44119bd5ca5ce4bc09ffe504b72c26562f783dbdd3d02e5ee9c846251d8e3",
+        "bytes": 118017,
+        "originalSha256": "969182d66120ec13dbdc3a3f911954dbb82b83061210fe405295a6643b9a510d",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1235",
@@ -102679,7 +104047,15 @@
       "bytes": 66690,
       "sha256": "9ef1906a5797fa98cb19b3087b1d717d8103a1946a414fc6a8476b7361cfa65d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1361-98ff0a85c17e0e07.png",
+        "format": "png",
+        "sha256": "98ff0a85c17e0e07fb64ec10d4b7427e9bfc8545310943f1957d9be82a758dc3",
+        "bytes": 1430148,
+        "originalSha256": "9ef1906a5797fa98cb19b3087b1d717d8103a1946a414fc6a8476b7361cfa65d",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1362",
@@ -103155,7 +104531,15 @@
       "bytes": 1374537,
       "sha256": "6a6cab0fc812ebb2936d4692f16026d43bca30f537867baa9a27f6b6ac7edbf4",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1367-e7587febb93287f8.png",
+        "format": "png",
+        "sha256": "e7587febb93287f8c0d7c9e2275ef422bf9495f7be7bc7c6401fc8c7bb4d51ee",
+        "bytes": 1408055,
+        "originalSha256": "6a6cab0fc812ebb2936d4692f16026d43bca30f537867baa9a27f6b6ac7edbf4",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1368",
@@ -103487,7 +104871,15 @@
       "bytes": 38206,
       "sha256": "a2a90382631122a17808d9bc283ab771861bbb6f3dfe2173044a24909bc04bc1",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1371-9a98dc0083fb69d9.png",
+        "format": "png",
+        "sha256": "9a98dc0083fb69d999ab2455203fbf48b8f0c22f03b43cd7a01d52c9411aa202",
+        "bytes": 595970,
+        "originalSha256": "a2a90382631122a17808d9bc283ab771861bbb6f3dfe2173044a24909bc04bc1",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1372",
@@ -104213,7 +105605,15 @@
       "bytes": 49710,
       "sha256": "0764089ac80a198294ba9087fd2544db343357850f9fc02e76f8ba5cce01b6c7",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1381-9190f9af01df88e1.png",
+        "format": "png",
+        "sha256": "9190f9af01df88e1b7435624110b907d46f0867bae06aee82bad95e2022b1521",
+        "bytes": 826893,
+        "originalSha256": "0764089ac80a198294ba9087fd2544db343357850f9fc02e76f8ba5cce01b6c7",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1382",
@@ -104553,7 +105953,15 @@
       "bytes": 109387,
       "sha256": "f68886a57e7757c119a3d5f2338c8a5eb4c2cf839b56b100648e1cbc7f66e590",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1385-3eff354cfcba7283.png",
+        "format": "png",
+        "sha256": "3eff354cfcba7283115fdcf27fc5638b6eea5186747300a626f3532321843c66",
+        "bytes": 1107831,
+        "originalSha256": "f68886a57e7757c119a3d5f2338c8a5eb4c2cf839b56b100648e1cbc7f66e590",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1386",
@@ -105624,7 +107032,15 @@
       "bytes": 87927,
       "sha256": "91ae3728bf42768e84ad64debf9b0b9f599d1033154f9ac0be7f1af0d9bdcf1f",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1400-61c4e4fbf1469da3.png",
+        "format": "png",
+        "sha256": "61c4e4fbf1469da339c76da8018c3f48172650d18cbc73152a5d79519a6d65cc",
+        "bytes": 640486,
+        "originalSha256": "91ae3728bf42768e84ad64debf9b0b9f599d1033154f9ac0be7f1af0d9bdcf1f",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1401",
@@ -106014,7 +107430,15 @@
       "bytes": 26803,
       "sha256": "410468527eb0b916cdcb8a38d5ef24ddabb43be6aa73d1e1e1b0b416bb9c474d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1405-d018fbad4068da8f.png",
+        "format": "png",
+        "sha256": "d018fbad4068da8f3eea4268750203c36f5fcdf3e4e0ee5f69ace950f67deef6",
+        "bytes": 235503,
+        "originalSha256": "410468527eb0b916cdcb8a38d5ef24ddabb43be6aa73d1e1e1b0b416bb9c474d",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1406",
@@ -106254,7 +107678,15 @@
       "bytes": 23580,
       "sha256": "ca3a345f9582268b6590e7f6f600bdcff7305595a5bf142a9ea7e7df72974ae7",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1408-6d0cde5a5c7f8ce0.png",
+        "format": "png",
+        "sha256": "6d0cde5a5c7f8ce0b4f321883eef02fc5f96756ab08396c1bf0547a26ffab62f",
+        "bytes": 289723,
+        "originalSha256": "ca3a345f9582268b6590e7f6f600bdcff7305595a5bf142a9ea7e7df72974ae7",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1409",
@@ -106333,7 +107765,15 @@
       "bytes": 1222420,
       "sha256": "31346c6857439bb3a0175b3dcb95958f37f8fb8c478fd5f579d80995fd98570e",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1409-6cf63708e32cafc1.gif",
+        "format": "gif",
+        "sha256": "6cf63708e32cafc1f06d06f6fbd732bf66e1d4307e7aa5d8932211b4b3eebf84",
+        "bytes": 3109202,
+        "originalSha256": "31346c6857439bb3a0175b3dcb95958f37f8fb8c478fd5f579d80995fd98570e",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1410",
@@ -106833,7 +108273,15 @@
       "bytes": 18908,
       "sha256": "f47bb46af86177414abe7b8f8800f0eef09cfa3d0015eee82e191690a50aa65c",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1415-6ec85b3b2115cc9c.png",
+        "format": "png",
+        "sha256": "6ec85b3b2115cc9cc9bb4836f70ebaf1032bf9bb680ef17eda9ff01c2dd837dd",
+        "bytes": 274663,
+        "originalSha256": "f47bb46af86177414abe7b8f8800f0eef09cfa3d0015eee82e191690a50aa65c",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1416",
@@ -107411,7 +108859,15 @@
       "bytes": 145635,
       "sha256": "c64aad7890129165424bcbab4dadee23409fd29fc38d6822a87f884673676a8d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1422-ddc89d91a70032c5.png",
+        "format": "png",
+        "sha256": "ddc89d91a70032c525272e8f46800dd20bcabc301e7bc80cf90b079d3d3b1a36",
+        "bytes": 146154,
+        "originalSha256": "c64aad7890129165424bcbab4dadee23409fd29fc38d6822a87f884673676a8d",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1423",
@@ -107488,7 +108944,15 @@
       "bytes": 70633,
       "sha256": "95a7cb2fe657837f0ed92b07b4a1158fc7b812714f32fab10cff5b31528305ef",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1423-0f0104e0afa813af.png",
+        "format": "png",
+        "sha256": "0f0104e0afa813afa243441921f3208cd171927331fd50966964e91a0fa8f6bc",
+        "bytes": 145668,
+        "originalSha256": "95a7cb2fe657837f0ed92b07b4a1158fc7b812714f32fab10cff5b31528305ef",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1424",
@@ -107648,7 +109112,15 @@
       "bytes": 11394,
       "sha256": "90926553ad3a7a2b17509a888734bd8550f52425c6df389347d3213c1726e22f",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/dou-nai/dot-naiwa-1425-28dd095600dd4d79.png",
+        "format": "png",
+        "sha256": "28dd095600dd4d79fc8900f65ffd6b4b1af1c60c0e3e07817c44a18d95264743",
+        "bytes": 148393,
+        "originalSha256": "90926553ad3a7a2b17509a888734bd8550f52425c6df389347d3213c1726e22f",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1426",
@@ -107812,7 +109284,15 @@
       "bytes": 18204,
       "sha256": "1ea96e0f38e7d4882f9d345d957b21a413b311150dbb71c72790578c4d386406",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1427-5c632177e863090f.png",
+        "format": "png",
+        "sha256": "5c632177e863090fa16a37b5b8f3bf2129f7ba8557c0aac276612dd432271f58",
+        "bytes": 251694,
+        "originalSha256": "1ea96e0f38e7d4882f9d345d957b21a413b311150dbb71c72790578c4d386406",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1428",
@@ -107972,7 +109452,15 @@
       "bytes": 16432,
       "sha256": "6d2a35457625197caa753e56967f56a9ba70d62f76779dd579cb07aa44fe53f4",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1429-c884ceb30966f3e7.png",
+        "format": "png",
+        "sha256": "c884ceb30966f3e7a92438659e26cbdd387449e2b18b2ac12bcbc1e7ed05fb94",
+        "bytes": 157668,
+        "originalSha256": "6d2a35457625197caa753e56967f56a9ba70d62f76779dd579cb07aa44fe53f4",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1430",
@@ -108049,7 +109537,15 @@
       "bytes": 124055,
       "sha256": "1fdc578f60ab7283f4b44b31257bed013d3e0055203f1e34985daf9313b6670d",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1430-e43bb5163f9459cf.png",
+        "format": "png",
+        "sha256": "e43bb5163f9459cf250617885586d4a0c90734aff7749ee034e511701f308ef4",
+        "bytes": 125261,
+        "originalSha256": "1fdc578f60ab7283f4b44b31257bed013d3e0055203f1e34985daf9313b6670d",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1431",
@@ -109137,7 +110633,15 @@
       "bytes": 1077680,
       "sha256": "46066855d6cea443baa5826e4ea0307af763a15422045b203e9c78caeb214281",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1443-bc8360b1fc1f4b15.gif",
+        "format": "gif",
+        "sha256": "bc8360b1fc1f4b152b71eb3d28a5fe8e0673aa0e801e80da28f148972ab45393",
+        "bytes": 3173649,
+        "originalSha256": "46066855d6cea443baa5826e4ea0307af763a15422045b203e9c78caeb214281",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1444",
@@ -109625,7 +111129,15 @@
       "bytes": 714156,
       "sha256": "8c5c8cc3e4004f0ea108b29574a950a60c50a5ad9540f2fcca5eb0bfcdef63ee",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1449-4b5ac7a42b9d2d36.gif",
+        "format": "gif",
+        "sha256": "4b5ac7a42b9d2d369d7c227fd260b1ed76916c7029282fe1518ff9035c75b8ee",
+        "bytes": 1501963,
+        "originalSha256": "8c5c8cc3e4004f0ea108b29574a950a60c50a5ad9540f2fcca5eb0bfcdef63ee",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1450",
@@ -109787,7 +111299,15 @@
       "bytes": 437799,
       "sha256": "838f333e58ca34b76d486e7063760e057ad73ab85b0cd7be5e2ba24d3e93f945",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1451-0fea0531146463e2.gif",
+        "format": "gif",
+        "sha256": "0fea0531146463e23fd86a08eea1e83196b83ea63bb89d1d0b8bceae1a98ec7c",
+        "bytes": 851970,
+        "originalSha256": "838f333e58ca34b76d486e7063760e057ad73ab85b0cd7be5e2ba24d3e93f945",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1452",
@@ -109953,7 +111473,15 @@
       "bytes": 1669169,
       "sha256": "f325cbdc7990ad956eef51a02708f0fb6dd55349e2dce75474a4ace186dd5a20",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1453-13f2ee09e06acc0a.gif",
+        "format": "gif",
+        "sha256": "13f2ee09e06acc0a428e55a1d590864fc854501792553ce22770614c5a5ee542",
+        "bytes": 3128187,
+        "originalSha256": "f325cbdc7990ad956eef51a02708f0fb6dd55349e2dce75474a4ace186dd5a20",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1454",
@@ -110030,7 +111558,15 @@
       "bytes": 937842,
       "sha256": "d07e84156ee2166cd7944da031dde9118190cf5443d84f014e23713a5dc157a2",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1454-8a1446024ef6176c.gif",
+        "format": "gif",
+        "sha256": "8a1446024ef6176c8a611f9d44c5e4bc60ddce44954eafc835281e327c596054",
+        "bytes": 1662014,
+        "originalSha256": "d07e84156ee2166cd7944da031dde9118190cf5443d84f014e23713a5dc157a2",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1455",
@@ -110185,7 +111721,15 @@
       "bytes": 742083,
       "sha256": "4ee91db905d7fa070f006273f95624e9816f9372ddecd04ae37ad9447bd926d5",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1456-9d94b8e50c8a8eef.gif",
+        "format": "gif",
+        "sha256": "9d94b8e50c8a8eef8565fdb4785f0c2bd362bd8f7f88b7fa051400d6d9d34a11",
+        "bytes": 1376627,
+        "originalSha256": "4ee91db905d7fa070f006273f95624e9816f9372ddecd04ae37ad9447bd926d5",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1457",
@@ -110347,7 +111891,15 @@
       "bytes": 2826824,
       "sha256": "44bc1c9faa4a4bb8d47e37e49e7b3c23592dadcdac824daaa2279cce8f5965c9",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1458-17cdb82b36ed3a7d.gif",
+        "format": "gif",
+        "sha256": "17cdb82b36ed3a7d9098faa2fd884893c0200d7deb825406e7065decc4bc628f",
+        "bytes": 4919883,
+        "originalSha256": "44bc1c9faa4a4bb8d47e37e49e7b3c23592dadcdac824daaa2279cce8f5965c9",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1459",
@@ -110424,7 +111976,15 @@
       "bytes": 648659,
       "sha256": "c744119327e32052a656089034b7d2c786a151055d8fcfd10e122f044af0e4c9",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1459-67a09a4f3ec15029.gif",
+        "format": "gif",
+        "sha256": "67a09a4f3ec15029ddb4d65f9a04304057833480c4537d48de4c1a74c1e83071",
+        "bytes": 1059095,
+        "originalSha256": "c744119327e32052a656089034b7d2c786a151055d8fcfd10e122f044af0e4c9",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1460",
@@ -110501,7 +112061,15 @@
       "bytes": 2756275,
       "sha256": "0242fe2a9e9fb75f117795ffab0e69bdfe8d009b642c411a6c4affe2b5905a46",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1460-bef2a4f3aa3229ce.gif",
+        "format": "gif",
+        "sha256": "bef2a4f3aa3229ce5385a2e00a1b1aa4d54306944812ca128569d29116d117e3",
+        "bytes": 3645494,
+        "originalSha256": "0242fe2a9e9fb75f117795ffab0e69bdfe8d009b642c411a6c4affe2b5905a46",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1461",
@@ -110654,7 +112222,15 @@
       "bytes": 2268371,
       "sha256": "2607973a9a8dc48fb24c0447e8f69ec0eb7d991ffdb4cfa124cec76702da531f",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1462-30cef8ed8ea45a32.gif",
+        "format": "gif",
+        "sha256": "30cef8ed8ea45a321fc52ed56772e32edfe0c8df82610cb0244b181f8720ef2c",
+        "bytes": 3437779,
+        "originalSha256": "2607973a9a8dc48fb24c0447e8f69ec0eb7d991ffdb4cfa124cec76702da531f",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1463",
@@ -110812,7 +112388,15 @@
       "bytes": 550793,
       "sha256": "2f7817c84ebce38f01bae51d157754c810275b97737d06afa2a3ae6e97ccb0bf",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1464-c95641e21d133dc4.gif",
+        "format": "gif",
+        "sha256": "c95641e21d133dc435ca81e13b6b837f454c3529f038ca3f5ab189940c6e9da4",
+        "bytes": 1178003,
+        "originalSha256": "2f7817c84ebce38f01bae51d157754c810275b97737d06afa2a3ae6e97ccb0bf",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1465",
@@ -110891,7 +112475,15 @@
       "bytes": 1260609,
       "sha256": "5c44ba4624e8d6789d199228e0936cbd91b5f7b53a6922eb779760d5008cd92a",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1465-03ef1bceebbe7072.gif",
+        "format": "gif",
+        "sha256": "03ef1bceebbe7072c0a465d06cd74158888a889329ad0ee3f4cb36081bc7aaaf",
+        "bytes": 1985853,
+        "originalSha256": "5c44ba4624e8d6789d199228e0936cbd91b5f7b53a6922eb779760d5008cd92a",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1466",
@@ -110970,7 +112562,15 @@
       "bytes": 6604,
       "sha256": "eff278c838a127e9a6a5bcf50879319081b8ed3874cc86de76b796333a5e3fe3",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1466-915025e74bb6d4be.png",
+        "format": "png",
+        "sha256": "915025e74bb6d4be2ea8315948f150683821867d40c12bd6b7c8266bbf1a7cbe",
+        "bytes": 77942,
+        "originalSha256": "eff278c838a127e9a6a5bcf50879319081b8ed3874cc86de76b796333a5e3fe3",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1467",
@@ -111125,7 +112725,15 @@
       "bytes": 340653,
       "sha256": "94bba6442083defe267aef6ab5f0c9d4cb8946a4bd90a9fe93af545f021083dd",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1468-340c8be1a2c4b531.gif",
+        "format": "gif",
+        "sha256": "340c8be1a2c4b531cc97f4b801bb6e6e31edd8f82de6f7017ec3ea1bc998224e",
+        "bytes": 488840,
+        "originalSha256": "94bba6442083defe267aef6ab5f0c9d4cb8946a4bd90a9fe93af545f021083dd",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1470",
@@ -111289,7 +112897,15 @@
       "bytes": 325706,
       "sha256": "092dd2842ca09d8ddb06bf4c736b9974b634d8385bb1b2a63eeb5e3a97b2c870",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1471-c3873436480908e3.gif",
+        "format": "gif",
+        "sha256": "c3873436480908e3673271e257fa9bc3a49edc946df5062ddb44006f2c0001d7",
+        "bytes": 772086,
+        "originalSha256": "092dd2842ca09d8ddb06bf4c736b9974b634d8385bb1b2a63eeb5e3a97b2c870",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1472",
@@ -113063,7 +114679,15 @@
       "bytes": 33776,
       "sha256": "0aae4ab60f01a0df0cf2e33c5c7584082f33f0473858727b02aedd7394971cc8",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1497-d1b0c3aa7a5350e4.png",
+        "format": "png",
+        "sha256": "d1b0c3aa7a5350e4c2647b67de6ee1574e1d14eb5819c4b0705044f03aad4b66",
+        "bytes": 685028,
+        "originalSha256": "0aae4ab60f01a0df0cf2e33c5c7584082f33f0473858727b02aedd7394971cc8",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1498",
@@ -114438,7 +116062,15 @@
       "bytes": 6638,
       "sha256": "e65aa90f7af1696e81259fab36981aaab384ad73f33bf166e02bdb3ca13f39b7",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1516-e8f6675dd0477164.png",
+        "format": "png",
+        "sha256": "e8f6675dd04771648bb860eeacb91a06ad8055914e2e061b5e56cf393f73a6f0",
+        "bytes": 101092,
+        "originalSha256": "e65aa90f7af1696e81259fab36981aaab384ad73f33bf166e02bdb3ca13f39b7",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1517",
@@ -114596,7 +116228,15 @@
       "bytes": 9468,
       "sha256": "a5b7f891321d44791bee941ef2cabfd9eff54aa98b807cfc1dc801fc722d89a0",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1518-1eaa229f961aa850.png",
+        "format": "png",
+        "sha256": "1eaa229f961aa850a8dade60f326ef181e338fbd0db9483b30da2ed7a653e075",
+        "bytes": 183841,
+        "originalSha256": "a5b7f891321d44791bee941ef2cabfd9eff54aa98b807cfc1dc801fc722d89a0",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1519",
@@ -117270,7 +118910,15 @@
       "bytes": 29746,
       "sha256": "0fc3a1cac38a7e123df47d2241813fd9732d8e598811f9740429988c4946cae3",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1556-52a5c59322e8e6f1.png",
+        "format": "png",
+        "sha256": "52a5c59322e8e6f11855e06e0af0bb40c25464945fa2dbab0943841011e75cf1",
+        "bytes": 619395,
+        "originalSha256": "0fc3a1cac38a7e123df47d2241813fd9732d8e598811f9740429988c4946cae3",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1557",
@@ -117591,7 +119239,15 @@
       "bytes": 8034,
       "sha256": "cd812ecc0abb50a06c3f7e39a8646046d20006b0189ed288dd2619409c6f57a7",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1560-06c3d77041ba8fc5.png",
+        "format": "png",
+        "sha256": "06c3d77041ba8fc57f3178e59e6f5535f3876252df9298002ef36f21d86efac8",
+        "bytes": 124586,
+        "originalSha256": "cd812ecc0abb50a06c3f7e39a8646046d20006b0189ed288dd2619409c6f57a7",
+        "method": "migan local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1561",
@@ -118007,7 +119663,15 @@
       "bytes": 15882,
       "sha256": "cae707be76d1209c3d0fd4ac02a054cb9f575fb8c82515288d1a8a2ec62228b4",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1565-074812894b004a2b.png",
+        "format": "png",
+        "sha256": "074812894b004a2bb81e8a68d95a6924f290ef745952dda4028a1c1b9e534f05",
+        "bytes": 238559,
+        "originalSha256": "cae707be76d1209c3d0fd4ac02a054cb9f575fb8c82515288d1a8a2ec62228b4",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1566",
@@ -118086,7 +119750,15 @@
       "bytes": 16864,
       "sha256": "af045061d9c4286e70a37aa37dadc4df2f0a044fe6b292bf444a6fdbdb153816",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1566-dbe4f6a20dab8f7b.png",
+        "format": "png",
+        "sha256": "dbe4f6a20dab8f7b80988325978b0e8fbefbfb3b34eb3246f8a0741c974a903e",
+        "bytes": 251853,
+        "originalSha256": "af045061d9c4286e70a37aa37dadc4df2f0a044fe6b292bf444a6fdbdb153816",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1567",
@@ -118511,7 +120183,15 @@
       "bytes": 20204,
       "sha256": "03c4e8348d9feafe98b004436366da475f3c29b340f375f3de9dc201ca2364da",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1571-733a83d00b28a25c.png",
+        "format": "png",
+        "sha256": "733a83d00b28a25cfb4735140956413fb6c72a5ddf4dc5e0f7e324dad11b1dee",
+        "bytes": 267984,
+        "originalSha256": "03c4e8348d9feafe98b004436366da475f3c29b340f375f3de9dc201ca2364da",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1572",
@@ -118755,7 +120435,15 @@
       "bytes": 9616,
       "sha256": "ce0367717ffd0b2fcffa88fc977fcc3a289f4df5b0aa1a52bb33fcf0ed230ce1",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/little-naiwa/dot-naiwa-1574-01f92d476ac0ebe9.png",
+        "format": "png",
+        "sha256": "01f92d476ac0ebe9cde4cda85fbc7e9f6fd9b6e2b6e31d854e44ad6e63f3e687",
+        "bytes": 130714,
+        "originalSha256": "ce0367717ffd0b2fcffa88fc977fcc3a289f4df5b0aa1a52bb33fcf0ed230ce1",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1575",
@@ -119249,7 +120937,15 @@
       "bytes": 238664,
       "sha256": "88bcc21675af12155e888f5a3713be1b925757733894f08ce85b05396e5883d8",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1580-d54e510ae106f509.gif",
+        "format": "gif",
+        "sha256": "d54e510ae106f5096362da8be42adf764f9eadf53708e0174c71ab4db52d2bd7",
+        "bytes": 876583,
+        "originalSha256": "88bcc21675af12155e888f5a3713be1b925757733894f08ce85b05396e5883d8",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1581",
@@ -148905,7 +150601,15 @@
       "bytes": 1145889,
       "sha256": "6db79a248eb8c2221ef2e86bb45fdacb16fe431804b20314a827e7b67275d5ad",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1972-fdb726af7e4bed2d.gif",
+        "format": "gif",
+        "sha256": "fdb726af7e4bed2d0272d2ab858249567a81763318811a3ea86d3f0e46204b87",
+        "bytes": 1946445,
+        "originalSha256": "6db79a248eb8c2221ef2e86bb45fdacb16fe431804b20314a827e7b67275d5ad",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1973",
@@ -149419,7 +151123,15 @@
       "bytes": 3106038,
       "sha256": "43ac3130dfcd48d6d9ddea0108ab1d39ab0586fb20d8a658ff3b4af3b7b25043",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1978-034b3c35dad8a0b4.gif",
+        "format": "gif",
+        "sha256": "034b3c35dad8a0b442c7d863cefd4fad64ce5c010dc760248c17a9531c316523",
+        "bytes": 6342956,
+        "originalSha256": "43ac3130dfcd48d6d9ddea0108ab1d39ab0586fb20d8a658ff3b4af3b7b25043",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1979",
@@ -149666,7 +151378,15 @@
       "bytes": 262319,
       "sha256": "6cd0b706e7363cb758543dba7e961336d3e0c26bf957109de49043e328b1776a",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1981-0f7099bbb48d463a.gif",
+        "format": "gif",
+        "sha256": "0f7099bbb48d463a8cdd1e2ed132cee64ab3e3c63ccefca7557a160e569df086",
+        "bytes": 1644254,
+        "originalSha256": "6cd0b706e7363cb758543dba7e961336d3e0c26bf957109de49043e328b1776a",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1982",
@@ -149745,7 +151465,15 @@
       "bytes": 2941574,
       "sha256": "71168cfd80dcb16260105b2bdcf72ad702a9e42d27ec70a6135d79d1dfcf039b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1982-d154ab6274e10ec0.gif",
+        "format": "gif",
+        "sha256": "d154ab6274e10ec0f6293c43ea0d36f9e6ff7efe3075c9e87dfd7849d4f952e8",
+        "bytes": 4397746,
+        "originalSha256": "71168cfd80dcb16260105b2bdcf72ad702a9e42d27ec70a6135d79d1dfcf039b",
+        "method": "migan local neural inpainting with denoised-context glyph masks; lossless outside-mask composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1983",
@@ -149904,7 +151632,15 @@
       "bytes": 282239,
       "sha256": "9c5cad9628741da9ebeab06b19dd6f8773344c2e29040fd2df6c5759316905b7",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1984-50ffff74aabb7da2.png",
+        "format": "png",
+        "sha256": "50ffff74aabb7da231b6a4e26663771ec28f801068d7ae7563909da60e7029f3",
+        "bytes": 290211,
+        "originalSha256": "9c5cad9628741da9ebeab06b19dd6f8773344c2e29040fd2df6c5759316905b7",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-1986",
@@ -160030,7 +161766,15 @@
       "bytes": 5145158,
       "sha256": "c7febb5b828093def36de689c899cd1765b6f2ddb56469182f7630613a90f5fc",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-2109-2eede5f1eefcd9a1.mp4",
+        "format": "mp4",
+        "sha256": "2eede5f1eefcd9a18c947745c6e901d421230aa3b2224c7a93e3d0ea264ddef5",
+        "bytes": 12431024,
+        "originalSha256": "c7febb5b828093def36de689c899cd1765b6f2ddb56469182f7630613a90f5fc",
+        "method": "Local MI-GAN corner-mask repair; separate H264 derivative with original AAC audio. Source original archived.",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-2110",
@@ -180175,7 +181919,15 @@
       "bytes": 20080,
       "sha256": "ba356bacd690e49635535aa39a85b54d15496d99345e13c7a8878e682354a2ca",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/gh-nailong-memes-ba356bacd690-436f9168cf1e15e6.png",
+        "format": "png",
+        "sha256": "436f9168cf1e15e65094f9d4461c8e3576a34387dcf7c335333682d9b27187b2",
+        "bytes": 146393,
+        "originalSha256": "ba356bacd690e49635535aa39a85b54d15496d99345e13c7a8878e682354a2ca",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "gh-nailong-memes-bbf3b79e8b18",
@@ -185059,7 +186811,15 @@
       "bytes": 84507,
       "sha256": "6c628054d8a59eac1eefab8b97d7506865397375f13d64a1bd6c16bc5579c896",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/unclassified/ghn-nailongnaiwa-6c628054d8a5-48286dfc8d6464e9.png",
+        "format": "png",
+        "sha256": "48286dfc8d6464e9e8fc4b4a6535e2b7dd51ec8678be3c03922883a67c3539d0",
+        "bytes": 425515,
+        "originalSha256": "6c628054d8a59eac1eefab8b97d7506865397375f13d64a1bd6c16bc5579c896",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "ghn-nailongnaiwa-6ca4e337775a",
@@ -198061,7 +199821,15 @@
       "bytes": 2842590,
       "sha256": "2bd9f95f311457241d0eb402724728017cd908ccebc0e7b24d7da57413e7f030",
       "collectedAt": "2026-10-31",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/nw42-da791cf1d331ca7e.gif",
+        "format": "gif",
+        "sha256": "da791cf1d331ca7e9ca8ea46026bc63820fb609f881d28bc5ae7847acf9ca403",
+        "bytes": 2841945,
+        "originalSha256": "2bd9f95f311457241d0eb402724728017cd908ccebc0e7b24d7da57413e7f030",
+        "method": "migan local MPS, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "nw43",
@@ -198509,7 +200277,15 @@
       "bytes": 1298498,
       "sha256": "035210675b751911ba5587481a9dad0af387c3020713f5627192d66b7ad2667a",
       "collectedAt": "2026-10-31",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/nw49-98f4dc12435d23d5.gif",
+        "format": "gif",
+        "sha256": "98f4dc12435d23d50bea9ff51bcaa5d648c59e590ed1e253b68973955cbf6484",
+        "bytes": 1513151,
+        "originalSha256": "035210675b751911ba5587481a9dad0af387c3020713f5627192d66b7ad2667a",
+        "method": "migan local MPS, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "nw50",
