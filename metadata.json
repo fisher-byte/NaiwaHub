@@ -13,7 +13,7 @@
     "reviewedSameWorkGroups": 10,
     "alternateOriginalFiles": 10,
     "independentWorks": 2606,
-    "restoredCopies": 344,
+    "restoredCopies": 346,
     "assets": 2617,
     "convertedPreviews": 1,
     "uniqueSHA256": 2617,
@@ -51557,7 +51557,15 @@
       "bytes": 34960,
       "sha256": "1a8e60537db263f8561357b6da0d79bd7d44e7dc218411a2075701c1681822cf",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0713-880cdea655c14203.png",
+        "format": "png",
+        "sha256": "880cdea655c14203813af10d194454ee2a42982dc14e96315c4e083d45c3109a",
+        "bytes": 165455,
+        "originalSha256": "1a8e60537db263f8561357b6da0d79bd7d44e7dc218411a2075701c1681822cf",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0714",
@@ -51773,7 +51781,15 @@
       "bytes": 79551,
       "sha256": "f76414ef38d1b623a28cd0e2dd48f5d42e2fac49689ff8b560ad8762ebe3353a",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-0716-ce756b2e26a66968.png",
+        "format": "png",
+        "sha256": "ce756b2e26a669682e8bda1e9c16461b11c31b11ed1ea25010146ec6e705949f",
+        "bytes": 738741,
+        "originalSha256": "f76414ef38d1b623a28cd0e2dd48f5d42e2fac49689ff8b560ad8762ebe3353a",
+        "method": "lama local CPU, reviewed region masks; lossless pixel composition",
+        "notAnAdditionalOriginal": true
+      }
     },
     {
       "stableID": "dot-naiwa-0717",
