@@ -9,18 +9,18 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "originalFiles": 2616,
+    "originalFiles": 2618,
     "reviewedSameWorkGroups": 10,
     "alternateOriginalFiles": 10,
-    "independentWorks": 2606,
+    "independentWorks": 2608,
     "restoredCopies": 579,
-    "assets": 2617,
+    "assets": 2619,
     "convertedPreviews": 1,
-    "uniqueSHA256": 2617,
-    "bytes": 1873378199,
+    "uniqueSHA256": 2619,
+    "bytes": 1873449057,
     "largestFileBytes": 12467365,
     "excludedCommunityOrRetired": 0,
-    "rightsUnknown": 2591,
+    "rightsUnknown": 2593,
     "missingPublicSourceURL": 52,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
@@ -174717,6 +174717,166 @@
       "bytes": 43391,
       "sha256": "03e2d5ec2c0bbc2bf612df7d38a1aaa9cc6f1ef82a6c317da90cc4d96fb4a8eb",
       "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "dot-naiwa-2265",
+      "slug": "dot-naiwa-2265",
+      "file": "originals/unclassified/dot-naiwa-2265.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Pink Naiwa piggyback with hearts",
+        "zh": "粉色奶蛙叠背吐舌与红心"
+      },
+      "description": {
+        "en": "Two pink Naiwa figures stack one on the other, both smiling with their tongues out. Two red hearts float beside them.",
+        "zh": "两只粉色奶蛙上下叠着，张嘴吐出舌头，旁边飘着两颗红心。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "pink",
+          "piggyback",
+          "tongue out",
+          "hearts"
+        ],
+        "zh": [
+          "奶蛙",
+          "粉色",
+          "叠背",
+          "吐舌",
+          "红心"
+        ]
+      },
+      "series": {
+        "id": "unclassified",
+        "label": {
+          "en": "Unclassified",
+          "zh": "待分类"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "http://wx1.sinaimg.cn/middle/007vzCW2gy1ifkqw7ktl2j30iw0jqait.jpg",
+        "https://www.sina.cn/news/detail/5325992692548036.html"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://www.sina.cn/news/detail/5325992692548036.html",
+        "sourceNotes": {
+          "en": "Public page and image accessibility does not establish original authorship or copyright permission. The original creator, production tools and image license remain unknown. Original bytes, framing and all visible content are retained.",
+          "zh": "公开页面与图片链接可访问不等于作者或版权许可已核实。原始作者、制作工具和图像许可未知；保留原字节、画幅与全部可见内容。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public page and image accessibility does not establish original authorship or copyright permission. The original creator, production tools and image license remain unknown. Original bytes, framing and all visible content are retained.",
+        "unknown",
+        "公开页面与图片链接可访问不等于作者或版权许可已核实。原始作者、制作工具和图像许可未知；保留原字节、画幅与全部可见内容。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 661,
+      "height": 690,
+      "frames": 1,
+      "bytes": 44220,
+      "sha256": "877da16c2340d15d8971b88d2eb6603e7f060e1c47ce5c7829b783887259e18e",
+      "collectedAt": "2026-11-02"
+    },
+    {
+      "stableID": "dot-naiwa-2266",
+      "slug": "dot-naiwa-2266",
+      "file": "originals/unclassified/dot-naiwa-2266.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Pink Naiwa with a small head and round body",
+        "zh": "粉色奶蛙的小脑袋与圆身体"
+      },
+      "description": {
+        "en": "A round pink Naiwa faces forward with a small inset head, green eyes and a tiny open mouth.",
+        "zh": "粉色奶蛙正对镜头，小小的头陷在圆滚滚的肩膀和身体之间，睁着绿眼睛。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "pink",
+          "round body",
+          "small head",
+          "green eyes"
+        ],
+        "zh": [
+          "奶蛙",
+          "粉色",
+          "圆身体",
+          "小脑袋",
+          "绿眼睛"
+        ]
+      },
+      "series": {
+        "id": "unclassified",
+        "label": {
+          "en": "Unclassified",
+          "zh": "待分类"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "http://wx3.sinaimg.cn/middle/007vzCW2gy1ifkqw888dmj30xa13u7ly.jpg",
+        "https://www.sina.cn/news/detail/5325992692548036.html"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-01",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://www.sina.cn/news/detail/5325992692548036.html",
+        "sourceNotes": {
+          "en": "Public page and image accessibility does not establish original authorship or copyright permission. The original creator, production tools and image license remain unknown. Original bytes, framing and all visible content are retained.",
+          "zh": "公开页面与图片链接可访问不等于作者或版权许可已核实。原始作者、制作工具和图像许可未知；保留原字节、画幅与全部可见内容。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public page and image accessibility does not establish original authorship or copyright permission. The original creator, production tools and image license remain unknown. Original bytes, framing and all visible content are retained.",
+        "unknown",
+        "公开页面与图片链接可访问不等于作者或版权许可已核实。原始作者、制作工具和图像许可未知；保留原字节、画幅与全部可见内容。 公开展示不等于开放许可，亦不证明上传者拥有角色或素材版权。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 576,
+      "height": 690,
+      "frames": 1,
+      "bytes": 26638,
+      "sha256": "297a2b0557d257c95ec523c1d0973c897f9278ac7afd14aee4166ac6be8fbffe",
+      "collectedAt": "2026-11-02"
     },
     {
       "stableID": "gh-index-18f0c084fc87",
