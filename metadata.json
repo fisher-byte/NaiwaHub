@@ -13,7 +13,7 @@
     "reviewedSameWorkGroups": 10,
     "alternateOriginalFiles": 10,
     "independentWorks": 2606,
-    "restoredCopies": 346,
+    "restoredCopies": 347,
     "assets": 2617,
     "convertedPreviews": 1,
     "uniqueSHA256": 2617,
@@ -76238,7 +76238,23 @@
       "bytes": 616321,
       "sha256": "f9e5705bd15dca4cc5a9e0eed24f1daaf49b78ea9f73955453a59515bd9e575b",
       "collectedAt": "2026-11-01",
-      "discoveryHidden": true
+      "restoredCopy": {
+        "file": "restored/nai-wa/dot-naiwa-1020-86933786933237af.png",
+        "format": "png",
+        "sha256": "86933786933237afbb1eca6cd88cbba5b64b636aa23d7d48a4df151bb1a8e918",
+        "bytes": 8873057,
+        "originalSha256": "f9e5705bd15dca4cc5a9e0eed24f1daaf49b78ea9f73955453a59515bd9e575b",
+        "method": "matched-clean-original",
+        "notAnAdditionalOriginal": true,
+        "referenceSource": {
+          "url": "https://milkfrogbnb.fun/stickers/11.webm",
+          "sha256": "85bf3f61577749624f822d7c42c31e26248bf5705165683c0a94e51be76a4746",
+          "bytes": 251542,
+          "rights": "unknown",
+          "creator": null,
+          "note": "Complete public WebM source, all 30 frames matched. Separate APNG preserves the GIF frame count, 100 ms durations and infinite loop. Publicly stored at 512×512; no claim of an original HD master or verified author."
+        }
+      }
     },
     {
       "stableID": "dot-naiwa-1021",

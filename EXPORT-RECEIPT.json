@@ -5,7 +5,7 @@
     "reviewedSameWorkGroups": 10,
     "alternateOriginalFiles": 10,
     "independentWorks": 2606,
-    "restoredCopies": 346,
+    "restoredCopies": 347,
     "assets": 2617,
     "convertedPreviews": 1,
     "uniqueSHA256": 2617,
@@ -20,7 +20,7 @@
   "inputHashes": {
     "data/library-en.json": "e4c107b1fd2c47dae784cdae708287b0e38e8303b80ef420d8a83e0fa1f0c25f",
     "data/library-manifest.json": "ac7c614fab9c2cb3a0728d9e1b6ab13a125e32844c3c1074a90c273e4fe4e0a8",
-    "data/library-previews.json": "d14a8106235253306d16d61b184c957d7ab2822f407bff363aa413fb572deb5a",
+    "data/library-previews.json": "c34c00de87956ab3ca0b22df1f3940c012b121bab6aa35a1903122f13d02c26f",
     "data/library-taxonomy.json": "84c259e3dc96d92bad3543b773f14ad4b421a058b9673e58f6b0e8f48f944b42",
     "data/library-work-groups.json": "3c5d2139cb35f9c681358aa42e7ab5a8c1ca967d3ec09685f063746b071b3ed4",
     "data/series.ts": "ac48f7face2550f7153d6932e83c95318927adf46b6f31e5f2253ea50d1a91cb",
@@ -688,6 +688,7 @@
     "public/media/naiwa/dot-naiwa-1016-clean-8c4717de41eb02eb-copy.gif": "8c4717de41eb02eb4a6423e47c18a96e81b16171b90d78c452e4535e83699381",
     "public/media/naiwa/dot-naiwa-1017-clean-1111481d73a4bc5e-copy.gif": "1111481d73a4bc5e7af6b482ea75eddc7ff8f659666ba4d800049ea49b342097",
     "public/media/naiwa/dot-naiwa-1019-clean-e3f72d3b63a88292-copy.gif": "e3f72d3b63a882922c205a6c4a3d16b68a05ff0f1543c1e4775fe4b0ee729dec",
+    "public/media/naiwa/dot-naiwa-1020-clean-86933786933237af-copy.png": "86933786933237afbb1eca6cd88cbba5b64b636aa23d7d48a4df151bb1a8e918",
     "public/media/naiwa/dot-naiwa-1023-clean-5caba54596e92492-copy.gif": "5caba54596e92492b82a39109042093573603352b5ba74cbc7f07ba62803eb99",
     "public/media/naiwa/dot-naiwa-1024-clean-bec72f27a4f4d3bf-copy.gif": "bec72f27a4f4d3bf5f2034603a8a79568ccb7f2422be89db53da4bc33d86aacf",
     "public/media/naiwa/dot-naiwa-1025-clean-d9cff595c2ccf064-copy.gif": "d9cff595c2ccf0649651914ebf123bc96393346aed0e9427904edd185accf793",
@@ -859,9 +860,9 @@
     "public/media/naiwa/ghn-nailongnaiwa-f76df285942f-clean-4b122f4bc736274b-copy.png": "4b122f4bc736274b49407392decf4b2f2f0e191935f65fb212f24ea917dd13e6",
     "public/media/naiwa/ghn-nailongnaiwa-f9f889bc6f6d-clean-26ae50c5f2ca925c-copy.png": "26ae50c5f2ca925c2bf7ad4177832291b3bd201da98a81b8394435a4fd4fb5eb"
   },
-  "payloadInventorySHA256": "9fdfb1071a4fe0275f912bdff67bd700b66fe2678654a53a9d9396d1f9098639",
-  "checksumFiles": 3412,
-  "payloadFiles": 3423,
+  "payloadInventorySHA256": "f3000cecbd507d2466a1718dd662fd2299b10ac3c84990b5896f4b3e2e8aaa4c",
+  "checksumFiles": 3413,
+  "payloadFiles": 3424,
   "privacyAudit": {
     "selection": "exact public-manifest media src allowlist plus reviewed license notices and generated public documents",
     "communityExcluded": true,
