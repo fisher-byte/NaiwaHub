@@ -9,18 +9,18 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "originalFiles": 2622,
+    "originalFiles": 2625,
     "reviewedSameWorkGroups": 10,
     "alternateOriginalFiles": 10,
-    "independentWorks": 2612,
+    "independentWorks": 2615,
     "restoredCopies": 579,
-    "assets": 2623,
+    "assets": 2626,
     "convertedPreviews": 1,
-    "uniqueSHA256": 2623,
-    "bytes": 1875244775,
+    "uniqueSHA256": 2626,
+    "bytes": 1884634208,
     "largestFileBytes": 12467365,
     "excludedCommunityOrRetired": 0,
-    "rightsUnknown": 2597,
+    "rightsUnknown": 2600,
     "missingPublicSourceURL": 52,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
@@ -180,6 +180,86 @@
       "frames": 70,
       "bytes": 69034,
       "sha256": "529b8aed5aef7afb2e208cd042f1fedb70b64d749ad19e0e63ba4e462cfd2523",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-feidudu-85dc1c5cedd3",
+      "slug": "dot-feidudu-85dc1c5cedd3",
+      "file": "originals/feidudu/dot-feidudu-85dc1c5cedd3.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Feidudu in Naiwa style: This is Nai Dudu",
+        "zh": "肥嘟嘟奶蛙风格：这是奶嘟嘟"
+      },
+      "description": {
+        "en": "A yellow figure with long ears and a tail sits against a white background, looking ahead with green eyes and resting its hands on its belly. The caption reads, “This is Nai Dudu.”",
+        "zh": "长耳朵和长尾巴的黄色角色坐在白色背景前，绿眼睛看向前方，双手搭在肚皮上。原配字为「这是奶嘟嘟」。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Feidudu",
+          "Meituan kangaroo",
+          "Nai Dudu",
+          "Naiwa style",
+          "This is Nai Dudu"
+        ],
+        "zh": [
+          "肥嘟嘟",
+          "美团袋鼠",
+          "奶嘟嘟",
+          "奶蛙风格",
+          "这是奶嘟嘟"
+        ]
+      },
+      "series": {
+        "id": "feidudu",
+        "label": {
+          "en": "Feidudu · Meituan kangaroo",
+          "zh": "肥嘟嘟 · 美团袋鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://feidudu.org/",
+        "https://feidudu.org/stickers/28_milk.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://feidudu.org/",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Original captions, credits and source bytes are retained.",
+          "zh": "公开来源不证明原作者或转载许可，原作者、AI状态和媒体权利未知；原配字、署名、来源标记和字节均保留。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Original captions, credits and source bytes are retained.",
+        "unknown",
+        "公开来源不证明原作者或转载许可，原作者、AI状态和媒体权利未知；原配字、署名、来源标记和字节均保留。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1229,
+      "height": 1280,
+      "frames": 1,
+      "bytes": 84651,
+      "sha256": "85dc1c5cedd368af3a62a8ecc74212bf35d40002b900284aa336216773442eb4",
       "collectedAt": "2026-11-04"
     },
     {
@@ -175033,6 +175113,168 @@
       "bytes": 26638,
       "sha256": "297a2b0557d257c95ec523c1d0973c897f9278ac7afd14aee4166ac6be8fbffe",
       "collectedAt": "2026-11-02"
+    },
+    {
+      "stableID": "dot-niu-lai-04da18d5d367",
+      "slug": "dot-niu-lai-04da18d5d367",
+      "file": "originals/niu-lai/dot-niu-lai-04da18d5d367.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Niu Lai, Naiwa and Feidudu take a riverside selfie",
+        "zh": "牛来、奶蛙与肥嘟嘟河边自拍"
+      },
+      "description": {
+        "en": "Beside a river at sunset, Niu Lai reaches out for a selfie, Feidudu winks with its tongue out in the middle, and Naiwa gestures on the right.",
+        "zh": "夕阳下的河边，牛来在画面左侧伸臂自拍，肥嘟嘟在中间吐舌眨眼，右侧的奶蛙比出手势。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Niu Lai",
+          "Naiwa",
+          "Feidudu",
+          "crossover",
+          "selfie",
+          "riverside"
+        ],
+        "zh": [
+          "牛来",
+          "奶蛙",
+          "肥嘟嘟",
+          "同框",
+          "自拍",
+          "河边"
+        ]
+      },
+      "series": {
+        "id": "niu-lai",
+        "label": {
+          "en": "Niu Lai",
+          "zh": "牛来"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://k.sinaimg.cn/n/sinakd20260908s/209/w640h369/20260908/8b6f-b56ff6488fe98c4e6dacf72e0b48f7dc.jpg/w700d1q75cms.jpg",
+        "https://t.cj.sina.com.cn/articles/view/5729156460/1557bfd6c020020adk"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://t.cj.sina.com.cn/articles/view/5729156460/1557bfd6c020020adk",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Original captions, credits and source bytes are retained. Visible attribution names Qili Xiang; the exact account and earliest creator are unverified.",
+          "zh": "公开来源不证明原作者或转载许可，原作者、AI状态和媒体权利未知；原配字、署名、来源标记和字节均保留。 原图可见七里翔署名，具体账号及最初作者未核实。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Original captions, credits and source bytes are retained. Visible attribution names Qili Xiang; the exact account and earliest creator are unverified.",
+        "unknown",
+        "公开来源不证明原作者或转载许可，原作者、AI状态和媒体权利未知；原配字、署名、来源标记和字节均保留。 原图可见七里翔署名，具体账号及最初作者未核实。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 640,
+      "height": 369,
+      "frames": 1,
+      "bytes": 161562,
+      "sha256": "04da18d5d367f57eb62c23c6dbfd8166840f8809c32da05589016d00cb928547",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-niu-lai-6d86cee981ec",
+      "slug": "dot-niu-lai-6d86cee981ec",
+      "file": "originals/niu-lai/dot-niu-lai-6d86cee981ec.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Niu Lai, Naiwa and Feidudu dance together",
+        "zh": "牛来、奶蛙与肥嘟嘟同框跳舞"
+      },
+      "description": {
+        "en": "Niu Lai stands between Feidudu and Naiwa as the three characters raise their hands, turn and kick through a dance together.",
+        "zh": "牛来站在中间，肥嘟嘟和奶蛙分列两旁，三个角色一起抬手、转身和踢腿跳舞。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Niu Lai",
+          "Naiwa",
+          "Feidudu",
+          "crossover",
+          "dance"
+        ],
+        "zh": [
+          "牛来",
+          "奶蛙",
+          "肥嘟嘟",
+          "同框",
+          "跳舞"
+        ]
+      },
+      "series": {
+        "id": "niu-lai",
+        "label": {
+          "en": "Niu Lai",
+          "zh": "牛来"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://f.sinaimg.cn/sinakd20260908s/642/w930h512/20260908/2a66-gif42e26dac064f92b00b42c75477a35e1b.gif",
+        "https://t.cj.sina.com.cn/articles/view/5729156460/1557bfd6c020020adk"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://t.cj.sina.com.cn/articles/view/5729156460/1557bfd6c020020adk",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Original captions, credits and source bytes are retained. The article and image credit Zhao Dao Zshiwu (赵导Zshiwu). A plausibly related video has an AI disclosure, but an exact video-to-GIF match has not been verified.",
+          "zh": "公开来源不证明原作者或转载许可，原作者、AI状态和媒体权利未知；原配字、署名、来源标记和字节均保留。 页面和画面署名赵导Zshiwu。相关视频有AI披露，但尚未核实与本GIF的逐文件对应。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Original captions, credits and source bytes are retained. The article and image credit Zhao Dao Zshiwu (赵导Zshiwu). A plausibly related video has an AI disclosure, but an exact video-to-GIF match has not been verified.",
+        "unknown",
+        "公开来源不证明原作者或转载许可，原作者、AI状态和媒体权利未知；原配字、署名、来源标记和字节均保留。 页面和画面署名赵导Zshiwu。相关视频有AI披露，但尚未核实与本GIF的逐文件对应。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 930,
+      "height": 512,
+      "frames": 117,
+      "bytes": 9143220,
+      "sha256": "6d86cee981ec518b2afa5531a31d8b1ff5c45eaac92d684c2973de4f2bccea30",
+      "collectedAt": "2026-11-04"
     },
     {
       "stableID": "dot-sina-73854b240202",
