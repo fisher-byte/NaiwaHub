@@ -9,23 +9,179 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "originalFiles": 2618,
+    "originalFiles": 2622,
     "reviewedSameWorkGroups": 10,
     "alternateOriginalFiles": 10,
-    "independentWorks": 2608,
+    "independentWorks": 2612,
     "restoredCopies": 579,
-    "assets": 2619,
+    "assets": 2623,
     "convertedPreviews": 1,
-    "uniqueSHA256": 2619,
-    "bytes": 1873449057,
+    "uniqueSHA256": 2623,
+    "bytes": 1875244775,
     "largestFileBytes": 12467365,
     "excludedCommunityOrRetired": 0,
-    "rightsUnknown": 2593,
+    "rightsUnknown": 2597,
     "missingPublicSourceURL": 52,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
   },
   "assets": [
+    {
+      "stableID": "dot-7tv-01m4k5rhk035s38ee0y92enb6a",
+      "slug": "dot-7tv-01m4k5rhk035s38ee0y92enb6a",
+      "file": "originals/nai-wa/dot-7tv-01m4k5rhk035s38ee0y92enb6a.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa cross-step kick dance",
+        "zh": "奶蛙交叉步踢腿舞"
+      },
+      "description": {
+        "en": "In a blue room, Naiwa opens its arms, crosses its legs and kicks through a dance before returning to a standing pose.",
+        "zh": "蓝色房间里，奶蛙伸展双臂，交叉双腿踢腿跳舞，最后回到站立姿势。"
+      },
+      "type": "gif",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "naiwa",
+          "dance",
+          "cross-step",
+          "kick"
+        ],
+        "zh": [
+          "奶蛙",
+          "舞蹈",
+          "交叉步",
+          "踢腿"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://7tv.app/emotes/01M4K5RHK035S38EE0Y92ENB6A",
+        "https://cdn.7tv.app/emote/01M4K5RHK035S38EE0Y92ENB6A/4x.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://7tv.app/emotes/01M4K5RHK035S38EE0Y92ENB6A",
+        "sourceNotes": {
+          "en": "The public source and uploader do not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Complete source animation bytes are preserved.",
+          "zh": "公开来源与上传者不证明原创归属或转载许可；原作者、AI状态与媒体权利未知，保留来源完整动画字节。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The public source and uploader do not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Complete source animation bytes are preserved.",
+        "unknown",
+        "公开来源与上传者不证明原创归属或转载许可；原作者、AI状态与媒体权利未知，保留来源完整动画字节。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 128,
+      "height": 128,
+      "frames": 134,
+      "bytes": 204102,
+      "sha256": "be4e9ea4df64ba636001587035eff4101b32ca0b80155bc8ec32e0dffe65106e",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-7tv-01m4z7gsm04vnwz4tz0jq7hpkh",
+      "slug": "dot-7tv-01m4z7gsm04vnwz4tz0jq7hpkh",
+      "file": "originals/nai-wa/dot-7tv-01m4z7gsm04vnwz4tz0jq7hpkh.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa claps and covers its mouth",
+        "zh": "奶蛙拍手后捂嘴"
+      },
+      "description": {
+        "en": "Seen from above on a tiled floor, Naiwa claps, raises its hands, covers its mouth and turns.",
+        "zh": "俯视画面里，奶蛙在瓷砖地面上拍手、抬起双手，再捂住嘴巴并转身。"
+      },
+      "type": "gif",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "naiwa",
+          "clapping",
+          "covering mouth",
+          "turning"
+        ],
+        "zh": [
+          "奶蛙",
+          "拍手",
+          "捂嘴",
+          "转身"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://7tv.app/emotes/01M4Z7GSM04VNWZ4TZ0JQ7HPKH",
+        "https://cdn.7tv.app/emote/01M4Z7GSM04VNWZ4TZ0JQ7HPKH/4x.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://7tv.app/emotes/01M4Z7GSM04VNWZ4TZ0JQ7HPKH",
+        "sourceNotes": {
+          "en": "The public source and uploader do not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Complete source animation bytes are preserved.",
+          "zh": "公开来源与上传者不证明原创归属或转载许可；原作者、AI状态与媒体权利未知，保留来源完整动画字节。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The public source and uploader do not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Complete source animation bytes are preserved.",
+        "unknown",
+        "公开来源与上传者不证明原创归属或转载许可；原作者、AI状态与媒体权利未知，保留来源完整动画字节。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 64,
+      "height": 128,
+      "frames": 70,
+      "bytes": 69034,
+      "sha256": "529b8aed5aef7afb2e208cd042f1fedb70b64d749ad19e0e63ba4e462cfd2523",
+      "collectedAt": "2026-11-04"
+    },
     {
       "stableID": "dot-naiwa-0001",
       "slug": "dot-naiwa-0001",
@@ -174877,6 +175033,164 @@
       "bytes": 26638,
       "sha256": "297a2b0557d257c95ec523c1d0973c897f9278ac7afd14aee4166ac6be8fbffe",
       "collectedAt": "2026-11-02"
+    },
+    {
+      "stableID": "dot-sina-73854b240202",
+      "slug": "dot-sina-73854b240202",
+      "file": "originals/unclassified/dot-sina-73854b240202.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Large-eared mouse turns and dances",
+        "zh": "大耳鼠转身跳舞"
+      },
+      "description": {
+        "en": "On a sunlit rug, a yellow mouse with large round ears turns around, jumps, opens its arms and dances.",
+        "zh": "阳光照在地毯上，黄色大耳鼠从背面转身、跳起，张开双臂后继续摆手跳舞。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "large-eared mouse",
+          "dancing",
+          "turning",
+          "rug",
+          "unclassified"
+        ],
+        "zh": [
+          "大耳鼠",
+          "跳舞",
+          "转身",
+          "地毯",
+          "待分类"
+        ]
+      },
+      "series": {
+        "id": "unclassified",
+        "label": {
+          "en": "Unclassified",
+          "zh": "待分类"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "http://wx1.sinaimg.cn/large/de80a5abgy1igzovbrgmpg208w08wnku.gif",
+        "https://www.sina.cn/news/detail/5341961183563931.html"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://www.sina.cn/news/detail/5341961183563931.html",
+        "sourceNotes": {
+          "en": "The public source and uploader do not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Complete source animation bytes are preserved.",
+          "zh": "公开来源与上传者不证明原创归属或转载许可；原作者、AI状态与媒体权利未知，保留来源完整动画字节。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The public source and uploader do not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Complete source animation bytes are preserved.",
+        "unknown",
+        "公开来源与上传者不证明原创归属或转载许可；原作者、AI状态与媒体权利未知，保留来源完整动画字节。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 320,
+      "height": 320,
+      "frames": 29,
+      "bytes": 883401,
+      "sha256": "73854b2402028645a9863ce16f88c46091ed8e175a62fa2ca2c4a435af3b4427",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-tj-e51f6453bcbe",
+      "slug": "dot-tj-e51f6453bcbe",
+      "file": "originals/nai-wa/dot-tj-e51f6453bcbe.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa fights an imaginary enemy",
+        "zh": "奶蛙与想象中的敌人战斗"
+      },
+      "description": {
+        "en": "Beside a sports field at night, Naiwa punches and dodges. The caption reads, “Fighting an imaginary enemy.”",
+        "zh": "夜晚的球场边，奶蛙连续出拳、闪躲，画面配字为「和想象中的敌人战斗」。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "naiwa",
+          "boxing",
+          "dodging",
+          "fighting an imaginary enemy"
+        ],
+        "zh": [
+          "奶蛙",
+          "打拳",
+          "闪躲",
+          "和想象中的敌人战斗"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://f.yourtj.de/file/img/2026/10/07/27585fd2-5b26-4c53-9003-00f29e2c1e75.gif",
+        "https://f.yourtj.de/p/post/540"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://f.yourtj.de/p/post/540",
+        "sourceNotes": {
+          "en": "The public source and uploader do not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Complete source animation bytes are preserved.",
+          "zh": "公开来源与上传者不证明原创归属或转载许可；原作者、AI状态与媒体权利未知，保留来源完整动画字节。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "The public source and uploader do not establish original authorship or a reuse license. Creator, AI status and media rights remain unknown. Complete source animation bytes are preserved.",
+        "unknown",
+        "公开来源与上传者不证明原创归属或转载许可；原作者、AI状态与媒体权利未知，保留来源完整动画字节。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 320,
+      "height": 240,
+      "frames": 61,
+      "bytes": 639181,
+      "sha256": "e51f6453bcbe9b287eab581fc94cedac55ac336bdbfc41a280db84b3cb0981b2",
+      "collectedAt": "2026-11-04"
     },
     {
       "stableID": "gh-index-18f0c084fc87",
