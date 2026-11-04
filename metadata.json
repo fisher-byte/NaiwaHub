@@ -9,18 +9,18 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "originalFiles": 2625,
+    "originalFiles": 2652,
     "reviewedSameWorkGroups": 10,
     "alternateOriginalFiles": 10,
-    "independentWorks": 2615,
+    "independentWorks": 2642,
     "restoredCopies": 579,
-    "assets": 2626,
+    "assets": 2653,
     "convertedPreviews": 1,
-    "uniqueSHA256": 2626,
-    "bytes": 1884634208,
+    "uniqueSHA256": 2653,
+    "bytes": 1910170285,
     "largestFileBytes": 12467365,
     "excludedCommunityOrRetired": 0,
-    "rightsUnknown": 2600,
+    "rightsUnknown": 2622,
     "missingPublicSourceURL": 52,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
@@ -183,6 +183,376 @@
       "collectedAt": "2026-11-04"
     },
     {
+      "stableID": "dot-feidudu-151a3099d44d",
+      "slug": "dot-feidudu-151a3099d44d",
+      "file": "originals/feidudu/dot-feidudu-151a3099d44d.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Feidudu, Naiwa and Niu Lai pose by the Shanghai night skyline",
+        "zh": "肥嘟嘟、奶蛙与牛来在上海夜景前合影"
+      },
+      "description": {
+        "en": "Niu Lai, Naiwa and Feidudu crowd together for a photo against Shanghai’s night skyline.",
+        "zh": "上海夜景前，牛来、奶蛙和肥嘟嘟挤在镜头前合影。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Feidudu",
+          "crossover"
+        ],
+        "zh": [
+          "肥嘟嘟",
+          "同框"
+        ]
+      },
+      "series": {
+        "id": "feidudu",
+        "label": {
+          "en": "Feidudu · Meituan kangaroo",
+          "zh": "肥嘟嘟 · 美团袋鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://fs.img4399.com/bbs/202609/9/2026002549244/eimNDVhpP0.1079x1439.png",
+        "https://www.4399.com/pcgame/topic/54096268.html"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://www.4399.com/pcgame/topic/54096268.html",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1079,
+      "height": 1439,
+      "frames": 1,
+      "bytes": 1499845,
+      "sha256": "151a3099d44d61951fbfebd8905c9998b0f07bfd24d502f59d537c64aa5df41e",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-feidudu-4d63755d09f6",
+      "slug": "dot-feidudu-4d63755d09f6",
+      "file": "originals/feidudu/dot-feidudu-4d63755d09f6.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Three Feidudu kangaroos sway and dance by the road",
+        "zh": "三只肥嘟嘟在路边摆动跳舞"
+      },
+      "description": {
+        "en": "Three Feidudu kangaroos raise their arms, turn and sway through a roadside dance.",
+        "zh": "三只肥嘟嘟站在路边，一起抬手、转身，左右摆动着跳舞。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Feidudu",
+          "dance"
+        ],
+        "zh": [
+          "肥嘟嘟",
+          "跳舞"
+        ]
+      },
+      "series": {
+        "id": "feidudu",
+        "label": {
+          "en": "Feidudu · Meituan kangaroo",
+          "zh": "肥嘟嘟 · 美团袋鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://fs.img4399.com/bbs/202609/9/2026002549241/CNfqvVB960.424x437.gif",
+        "https://www.4399.com/pcgame/topic/54096268.html"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://www.4399.com/pcgame/topic/54096268.html",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 424,
+      "height": 437,
+      "frames": 98,
+      "bytes": 7944388,
+      "sha256": "4d63755d09f6fa7570305ce3e83363e2b43492034a9c9daefbd0f631e552e736",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-feidudu-5460187e1632",
+      "slug": "dot-feidudu-5460187e1632",
+      "file": "originals/feidudu/dot-feidudu-5460187e1632.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Feidudu: You are seriously bold",
+        "zh": "肥嘟嘟：你胆子真的肥嘟嘟呀"
+      },
+      "description": {
+        "en": "A little Feidudu head peeks over a huge yellow belly. The caption reads, “You’re seriously bold.”",
+        "zh": "大大的黄色肚子上方探出一颗肥嘟嘟脑袋，原配字是「你胆子真的肥嘟嘟呀」。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Feidudu",
+          "you are seriously bold"
+        ],
+        "zh": [
+          "肥嘟嘟",
+          "你胆子真的肥嘟嘟呀"
+        ]
+      },
+      "series": {
+        "id": "feidudu",
+        "label": {
+          "en": "Feidudu · Meituan kangaroo",
+          "zh": "肥嘟嘟 · 美团袋鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://feidudu.org/",
+        "https://feidudu.org/stickers/42_huge.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://feidudu.org/",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 686,
+      "height": 630,
+      "frames": 1,
+      "bytes": 25514,
+      "sha256": "5460187e163298657a5a87c494b683b0583abccd94150c5712fdeb72055548f2",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-feidudu-6ff4cdcdb0a1",
+      "slug": "dot-feidudu-6ff4cdcdb0a1",
+      "file": "originals/feidudu/dot-feidudu-6ff4cdcdb0a1.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Feidudu solo hip-sway dance indoors",
+        "zh": "肥嘟嘟浅色室内扭胯独舞"
+      },
+      "description": {
+        "en": "Feidudu sways its hips, raises its legs and gestures alone in a pale indoor setting, its long ears bouncing with the movement.",
+        "zh": "肥嘟嘟独自在浅色室内扭胯、抬腿和摆手，长耳朵随着动作晃动。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Feidudu",
+          "solo dance"
+        ],
+        "zh": [
+          "肥嘟嘟",
+          "独舞"
+        ]
+      },
+      "series": {
+        "id": "feidudu",
+        "label": {
+          "en": "Feidudu · Meituan kangaroo",
+          "zh": "肥嘟嘟 · 美团袋鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://feidudu.org/",
+        "https://feidudu.org/feidudu-dance-2.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://feidudu.org/",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. Embedded AIGC metadata is present in the untouched source MP4; model and original creator remain unverified.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 原始MP4内含AIGC标记，原文件完整保留；模型和原作者尚未核实。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. Embedded AIGC metadata is present in the untouched source MP4; model and original creator remain unverified.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 原始MP4内含AIGC标记，原文件完整保留；模型和原作者尚未核实。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 480,
+      "height": 836,
+      "frames": 241,
+      "bytes": 663693,
+      "sha256": "6ff4cdcdb0a14a90c0db989fdc9081ffd7f9b6b326f1094e66cd691673fcef8c",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-feidudu-76042697b156",
+      "slug": "dot-feidudu-76042697b156",
+      "file": "originals/feidudu/dot-feidudu-76042697b156.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Feidudu solo tongue-out spin dance",
+        "zh": "肥嘟嘟吐舌转圈独舞"
+      },
+      "description": {
+        "en": "Feidudu dances alone against a blue coastal backdrop, spinning with its tongue out, lifting its legs and swinging its arms.",
+        "zh": "肥嘟嘟独自在蓝色海岸场景跳舞，吐着舌头转圈、抬腿和摆动手臂。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Feidudu",
+          "solo dance"
+        ],
+        "zh": [
+          "肥嘟嘟",
+          "独舞"
+        ]
+      },
+      "series": {
+        "id": "feidudu",
+        "label": {
+          "en": "Feidudu · Meituan kangaroo",
+          "zh": "肥嘟嘟 · 美团袋鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://feidudu.org/",
+        "https://feidudu.org/feidudu-dance.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://feidudu.org/",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 576,
+      "height": 688,
+      "frames": 456,
+      "bytes": 2135707,
+      "sha256": "76042697b15644f40cbf16612b757cd5e01f88a0a9e5b3683ebc635c6b1a3949",
+      "collectedAt": "2026-11-04"
+    },
+    {
       "stableID": "dot-feidudu-85dc1c5cedd3",
       "slug": "dot-feidudu-85dc1c5cedd3",
       "file": "originals/feidudu/dot-feidudu-85dc1c5cedd3.jpg",
@@ -260,6 +630,968 @@
       "frames": 1,
       "bytes": 84651,
       "sha256": "85dc1c5cedd368af3a62a8ecc74212bf35d40002b900284aa336216773442eb4",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-feidudu-a26f3f8880d2",
+      "slug": "dot-feidudu-a26f3f8880d2",
+      "file": "originals/feidudu/dot-feidudu-a26f3f8880d2.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Feidudu: Got it",
+        "zh": "肥嘟嘟：知豆了"
+      },
+      "description": {
+        "en": "Feidudu looks ahead with wide eyes. The caption is a playful spelling of “Got it.”",
+        "zh": "肥嘟嘟睁大眼睛看向前方，原配字是「知豆了」。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Feidudu",
+          "got it"
+        ],
+        "zh": [
+          "肥嘟嘟",
+          "知豆了"
+        ]
+      },
+      "series": {
+        "id": "feidudu",
+        "label": {
+          "en": "Feidudu · Meituan kangaroo",
+          "zh": "肥嘟嘟 · 美团袋鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://feidudu.org/",
+        "https://feidudu.org/stickers/43_know.jpg"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://feidudu.org/",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1157,
+      "height": 1129,
+      "frames": 1,
+      "bytes": 55334,
+      "sha256": "a26f3f8880d2c0077ca5ae0c88979db4fafa91eb772213d33d074bdde5ca12d9",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-feidudu-a941adb8a73d",
+      "slug": "dot-feidudu-a941adb8a73d",
+      "file": "originals/feidudu/dot-feidudu-a941adb8a73d.mp4",
+      "fileRole": "original",
+      "title": {
+        "en": "Feidudu solo ballet on grey",
+        "zh": "肥嘟嘟灰底芭蕾独舞"
+      },
+      "description": {
+        "en": "Feidudu rises onto its toes against a grey background, moving from a close-up of its legs to a full-body ballet turn.",
+        "zh": "肥嘟嘟在灰色背景前踮起脚尖，从双腿特写到完整身影，转身跳起芭蕾。"
+      },
+      "type": "video",
+      "format": "mp4",
+      "sourceDeclaredFormat": "mp4",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Feidudu",
+          "ballet"
+        ],
+        "zh": [
+          "肥嘟嘟",
+          "芭蕾"
+        ]
+      },
+      "series": {
+        "id": "feidudu",
+        "label": {
+          "en": "Feidudu · Meituan kangaroo",
+          "zh": "肥嘟嘟 · 美团袋鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://feidudu.org/",
+        "https://feidudu.org/feidudu-dance-3.mp4"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://feidudu.org/",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. Embedded AIGC metadata is present in the untouched source MP4; model and original creator remain unverified.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 原始MP4内含AIGC标记，原文件完整保留；模型和原作者尚未核实。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. Embedded AIGC metadata is present in the untouched source MP4; model and original creator remain unverified.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 原始MP4内含AIGC标记，原文件完整保留；模型和原作者尚未核实。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 480,
+      "height": 836,
+      "frames": 169,
+      "bytes": 518764,
+      "sha256": "a941adb8a73daeff1a978530fc20e87485ed7dd2ecf288b274fb3aa231beae62",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-feidudu-b126c8f24fc4",
+      "slug": "dot-feidudu-b126c8f24fc4",
+      "file": "originals/feidudu/dot-feidudu-b126c8f24fc4.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "A Feidudu-headed penguin sways in the snow",
+        "zh": "肥嘟嘟袋鼠头企鹅在雪地摇摆"
+      },
+      "description": {
+        "en": "A Feidudu kangaroo head on a penguin body sways, turns and flaps its wings in the snow.",
+        "zh": "肥嘟嘟的袋鼠脑袋配上企鹅身体，在雪地上摇晃、转身和扑动翅膀。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Feidudu",
+          "penguin"
+        ],
+        "zh": [
+          "肥嘟嘟",
+          "企鹅"
+        ]
+      },
+      "series": {
+        "id": "feidudu",
+        "label": {
+          "en": "Feidudu · Meituan kangaroo",
+          "zh": "肥嘟嘟 · 美团袋鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://fs.img4399.com/bbs/202609/9/2026002549235/Tpyhwr7X54.294x335.gif",
+        "https://www.4399.com/pcgame/topic/54096268.html"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://www.4399.com/pcgame/topic/54096268.html",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 294,
+      "height": 335,
+      "frames": 55,
+      "bytes": 597164,
+      "sha256": "b126c8f24fc4858334447fe4d3ce3b979302436d9d515c152fab351d7ee6d35c",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-feidudu-cfee406f7d16",
+      "slug": "dot-feidudu-cfee406f7d16",
+      "file": "originals/feidudu/dot-feidudu-cfee406f7d16.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Feidudu thinks: What does that mean?",
+        "zh": "肥嘟嘟托腮思考：何意味"
+      },
+      "description": {
+        "en": "Feidudu rests its chin on one hand beneath a question mark. The caption asks, “What does that mean?”",
+        "zh": "肥嘟嘟一手托腮，头顶冒出问号，下方配字「何意味」。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Feidudu",
+          "what does that mean"
+        ],
+        "zh": [
+          "肥嘟嘟",
+          "何意味"
+        ]
+      },
+      "series": {
+        "id": "feidudu",
+        "label": {
+          "en": "Feidudu · Meituan kangaroo",
+          "zh": "肥嘟嘟 · 美团袋鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://img.soogif.com/Ci3eruzofKFGSm2sCal6zdiGGApRSQB8.jpg",
+        "https://www.soogif.com/materialPage/usfIKUBVvJU"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://www.soogif.com/materialPage/usfIKUBVvJU",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. Source credit requested by SOOGIF: 动图来自SOOGIF. This is not a verified blanket reuse license. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 来源页面要求注明「动图来自SOOGIF」，此署名要求不等同于通用转载许可。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. Source credit requested by SOOGIF: 动图来自SOOGIF. This is not a verified blanket reuse license. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 来源页面要求注明「动图来自SOOGIF」，此署名要求不等同于通用转载许可。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 360,
+      "height": 360,
+      "frames": 1,
+      "bytes": 10562,
+      "sha256": "cfee406f7d16d24245b2f1fc0f8a318c4fb4b6fc4419ace7d0944a70d2bdc729",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-nai-wa-1b9f068f5118",
+      "slug": "dot-nai-wa-1b9f068f5118",
+      "file": "originals/nai-wa/dot-nai-wa-1b9f068f5118.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa on a golden crescent moon",
+        "zh": "奶蛙坐在金色弯月上"
+      },
+      "description": {
+        "en": "A pointed-hat Naiwa stands on a golden crescent moon with a smiling face.",
+        "zh": "戴尖顶帽的奶蛙站在金色弯月上，月亮也露出笑脸。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "moon"
+        ],
+        "zh": [
+          "奶蛙",
+          "月亮"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-moon.webp",
+        "https://raw.githubusercontent.com/YIxx20/spooky-stickers/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-moon.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-moon.webp",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 480,
+      "height": 480,
+      "frames": 1,
+      "bytes": 43726,
+      "sha256": "1b9f068f51186361058d79d0ace55b6e2ee0953984187fe7c34c0006571bab9c",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-nai-wa-3225a1c76f25",
+      "slug": "dot-nai-wa-3225a1c76f25",
+      "file": "originals/nai-wa/dot-nai-wa-3225a1c76f25.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in a cauldron",
+        "zh": "奶蛙坐在魔药锅里"
+      },
+      "description": {
+        "en": "A yellow Naiwa sits in a black cauldron, surrounded by sparkling dots.",
+        "zh": "黄色奶蛙坐在黑色魔药锅里，周围漂着亮晶晶的光点。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "Halloween"
+        ],
+        "zh": [
+          "奶蛙",
+          "万圣节"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-cauldron.webp",
+        "https://raw.githubusercontent.com/YIxx20/spooky-stickers/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-cauldron.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-cauldron.webp",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 480,
+      "height": 480,
+      "frames": 1,
+      "bytes": 18308,
+      "sha256": "3225a1c76f256b387043b046a0289ed9bcfe97f0b1780d7a93bf0b47d0236395",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-nai-wa-427f7618f25d",
+      "slug": "dot-nai-wa-427f7618f25d",
+      "file": "originals/nai-wa/dot-nai-wa-427f7618f25d.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Pink cat-eared Naiwa yawns by the pool",
+        "zh": "粉色猫耳奶蛙坐在泳池边打哈欠"
+      },
+      "description": {
+        "en": "A pink cat-eared Naiwa sits beside a pool, covers its mouth to yawn, then settles back into its pose.",
+        "zh": "粉色猫耳奶蛙坐在泳池边，抬手捂嘴、眯眼打哈欠，再回到原来的坐姿。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "yawning"
+        ],
+        "zh": [
+          "奶蛙",
+          "打哈欠"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/12paterium/The_Colletion/blob/783db503ccd296766001698ea2fa844d1557715e/%E8%A1%A8%E6%83%85/%E5%A5%B6%E5%A8%83%20%E9%A6%99%E8%92%B2.gif",
+        "https://raw.githubusercontent.com/12paterium/The_Colletion/783db503ccd296766001698ea2fa844d1557715e/%E8%A1%A8%E6%83%85/%E5%A5%B6%E5%A8%83%20%E9%A6%99%E8%92%B2.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/12paterium/The_Colletion/blob/783db503ccd296766001698ea2fa844d1557715e/%E8%A1%A8%E6%83%85/%E5%A5%B6%E5%A8%83%20%E9%A6%99%E8%92%B2.gif",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 320,
+      "height": 320,
+      "frames": 60,
+      "bytes": 3384293,
+      "sha256": "427f7618f25d72b4fa0721c8f8a69a50ac7738790c4f5877b7aed763a24bc9fd",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-nai-wa-59f1e61a01fc",
+      "slug": "dot-nai-wa-59f1e61a01fc",
+      "file": "originals/nai-wa/dot-nai-wa-59f1e61a01fc.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Peashooter spits a pea on the lawn",
+        "zh": "奶蛙豌豆射手坐在草地上吐豌豆"
+      },
+      "description": {
+        "en": "A green peashooter-style Naiwa sits on the grass and shoots peas from its tube-shaped mouth.",
+        "zh": "绿色豌豆射手造型的奶蛙坐在草地上，鼓起管状嘴巴吐出豌豆。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "peashooter"
+        ],
+        "zh": [
+          "奶蛙",
+          "豌豆射手"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/12paterium/The_Colletion/blob/783db503ccd296766001698ea2fa844d1557715e/%E8%A1%A8%E6%83%85/%E5%A5%B6%E5%A8%83%20%E8%B1%8C%E8%B1%86%E5%B0%84%E6%89%8B.gif",
+        "https://raw.githubusercontent.com/12paterium/The_Colletion/783db503ccd296766001698ea2fa844d1557715e/%E8%A1%A8%E6%83%85/%E5%A5%B6%E5%A8%83%20%E8%B1%8C%E8%B1%86%E5%B0%84%E6%89%8B.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/12paterium/The_Colletion/blob/783db503ccd296766001698ea2fa844d1557715e/%E8%A1%A8%E6%83%85/%E5%A5%B6%E5%A8%83%20%E8%B1%8C%E8%B1%86%E5%B0%84%E6%89%8B.gif",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 240,
+      "height": 240,
+      "frames": 33,
+      "bytes": 713574,
+      "sha256": "59f1e61a01fc0ba0a2fdb7a4fba4c96c12974fb71e7a5ab508548beda8cc89cd",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-nai-wa-70e7d8ac4d7e",
+      "slug": "dot-nai-wa-70e7d8ac4d7e",
+      "file": "originals/nai-wa/dot-nai-wa-70e7d8ac4d7e.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in a devil costume",
+        "zh": "奶蛙恶魔装扮"
+      },
+      "description": {
+        "en": "A yellow Naiwa wears red devil horns and little wings, holding a candy bucket.",
+        "zh": "黄色奶蛙戴着红色恶魔角和小翅膀，抱着糖果桶。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "devil"
+        ],
+        "zh": [
+          "奶蛙",
+          "恶魔"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-devil.webp",
+        "https://raw.githubusercontent.com/YIxx20/spooky-stickers/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-devil.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-devil.webp",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 540,
+      "height": 540,
+      "frames": 1,
+      "bytes": 22656,
+      "sha256": "70e7d8ac4d7ee02c8795e320c8159a8ce2dfc673571135526ce7b195eb2619e7",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-nai-wa-74ea73706912",
+      "slug": "dot-nai-wa-74ea73706912",
+      "file": "originals/nai-wa/dot-nai-wa-74ea73706912.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in a vampire cape",
+        "zh": "奶蛙吸血鬼斗篷"
+      },
+      "description": {
+        "en": "Naiwa wears a black-and-red vampire cape with little fangs showing.",
+        "zh": "奶蛙披着黑红色吸血鬼斗篷，露出小小的尖牙。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "vampire"
+        ],
+        "zh": [
+          "奶蛙",
+          "吸血鬼"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-vampire.webp",
+        "https://raw.githubusercontent.com/YIxx20/spooky-stickers/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-vampire.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-vampire.webp",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 540,
+      "height": 540,
+      "frames": 1,
+      "bytes": 22718,
+      "sha256": "74ea737069120fc61e7942c7da73dc77b3d93d6fa30d7f6fb626c02bf790328b",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-nai-wa-753304c1ea9d",
+      "slug": "dot-nai-wa-753304c1ea9d",
+      "file": "originals/nai-wa/dot-nai-wa-753304c1ea9d.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in a mummy costume",
+        "zh": "奶蛙木乃伊装扮"
+      },
+      "description": {
+        "en": "Naiwa stands wrapped in mummy bandages, with little ghosts floating nearby.",
+        "zh": "奶蛙裹着木乃伊绷带站着，身边飘着小幽灵。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "mummy"
+        ],
+        "zh": [
+          "奶蛙",
+          "木乃伊"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-mummy.webp",
+        "https://raw.githubusercontent.com/YIxx20/spooky-stickers/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-mummy.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-mummy.webp",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 540,
+      "height": 540,
+      "frames": 1,
+      "bytes": 25976,
+      "sha256": "753304c1ea9d95ac9e2f14b7e6623e18c5895ba535efa6fd68fde65265f50548",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-nai-wa-e5a39dfd5b5e",
+      "slug": "dot-nai-wa-e5a39dfd5b5e",
+      "file": "originals/nai-wa/dot-nai-wa-e5a39dfd5b5e.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa with a witch hat and pumpkin",
+        "zh": "奶蛙巫师帽与南瓜"
+      },
+      "description": {
+        "en": "Naiwa wears a purple witch hat and holds an orange jack-o’-lantern.",
+        "zh": "奶蛙戴着紫色巫师帽，抱着橙色南瓜灯。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "witch"
+        ],
+        "zh": [
+          "奶蛙",
+          "巫师"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-witch.webp",
+        "https://raw.githubusercontent.com/YIxx20/spooky-stickers/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-witch.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-witch.webp",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 540,
+      "height": 540,
+      "frames": 1,
+      "bytes": 22832,
+      "sha256": "e5a39dfd5b5e9e2ffb5f7ac34a25d6e87d282d5886f759298ccd8abb14cd2cd2",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-nai-wa-ea1c1d222d4d",
+      "slug": "dot-nai-wa-ea1c1d222d4d",
+      "file": "originals/nai-wa/dot-nai-wa-ea1c1d222d4d.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in a skeleton cloak",
+        "zh": "奶蛙骷髅斗篷"
+      },
+      "description": {
+        "en": "Naiwa wears a black skeleton cloak and holds a pumpkin candy bucket.",
+        "zh": "奶蛙披着画有骨架的黑色斗篷，手边提着南瓜糖桶。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "skeleton"
+        ],
+        "zh": [
+          "奶蛙",
+          "骷髅"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-skeleton.webp",
+        "https://raw.githubusercontent.com/YIxx20/spooky-stickers/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-skeleton.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/YIxx20/spooky-stickers/blob/03e7ea44121d9002f741d1987452f7215c297fe2/assets/src-skeleton.webp",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 540,
+      "height": 540,
+      "frames": 1,
+      "bytes": 27446,
+      "sha256": "ea1c1d222d4dbbbba29b832cbdea0adc6388ab4a9fd90144b4cba1745515d8cc",
       "collectedAt": "2026-11-04"
     },
     {
@@ -175197,6 +176529,306 @@
       "collectedAt": "2026-11-04"
     },
     {
+      "stableID": "dot-niu-lai-0d8ea2ac1f75",
+      "slug": "dot-niu-lai-0d8ea2ac1f75",
+      "file": "originals/niu-lai/dot-niu-lai-0d8ea2ac1f75.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Niu Lai shrugs while waiting",
+        "zh": "牛来摊手等待"
+      },
+      "description": {
+        "en": "Niu Lai spreads its hands while waiting for an answer, then lowers its arms.",
+        "zh": "牛来摊开双手等着回应，随后放下手臂。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Niu Lai",
+          "waiting"
+        ],
+        "zh": [
+          "牛来",
+          "等待"
+        ]
+      },
+      "series": {
+        "id": "niu-lai",
+        "label": {
+          "en": "Niu Lai",
+          "zh": "牛来"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://creativecommons.org/licenses/by/4.0/",
+        "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/LICENSE-ASSETS.md",
+        "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/waiting.gif",
+        "https://raw.githubusercontent.com/ztidal/codex-niulai-pet/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/waiting.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "CC-BY-4.0-original-contributions-only",
+        "license": "CC BY 4.0",
+        "attributionURL": "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/waiting.gif",
+        "sourceNotes": {
+          "en": "Asset credit: ztidal / codex-niulai-pet. CC BY 4.0 applies only to the repository’s original spritesheet and preview contributions. Third-party character, trademark and reference-image rights are excluded and remain unknown. The original GIF is unchanged; website posters and playback previews are resized or converted. Actual artist and AI status are unverified.",
+          "zh": "素材贡献署名：ztidal / codex-niulai-pet。CC BY 4.0仅适用于仓库原创的精灵图与预览素材部分，不涵盖第三方角色、商标、参考图等既有权利，这些权利仍未知。原GIF未改动；站内封面与播放预览为缩放或格式转换。实际美术作者与AI状态尚未核实。"
+        }
+      },
+      "rightsUnknown": false,
+      "sourceLicenseClaims": [
+        "Asset credit: ztidal / codex-niulai-pet. CC BY 4.0 applies only to the repository’s original spritesheet and preview contributions. Third-party character, trademark and reference-image rights are excluded and remain unknown. The original GIF is unchanged; website posters and playback previews are resized or converted. Actual artist and AI status are unverified.",
+        "CC BY 4.0",
+        "CC-BY-4.0-original-contributions-only",
+        "unknown",
+        "素材贡献署名：ztidal / codex-niulai-pet。CC BY 4.0仅适用于仓库原创的精灵图与预览素材部分，不涵盖第三方角色、商标、参考图等既有权利，这些权利仍未知。原GIF未改动；站内封面与播放预览为缩放或格式转换。实际美术作者与AI状态尚未核实。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 60285,
+      "sha256": "0d8ea2ac1f754fa0f7a35e797703ee416463d0b8462ad5b9f0ff6d1faabcc739",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-niu-lai-19d33bfe7b4c",
+      "slug": "dot-niu-lai-19d33bfe7b4c",
+      "file": "originals/niu-lai/dot-niu-lai-19d33bfe7b4c.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Niu Lai, Naiwa and Feidudu boy-band dance",
+        "zh": "牛来、奶蛙与肥嘟嘟男团跳舞"
+      },
+      "description": {
+        "en": "Niu Lai leads with Naiwa and Feidudu behind, swinging their arms and turning through a dance together.",
+        "zh": "牛来站在前方，奶蛙和肥嘟嘟跟在后面，三个角色一起摆臂、转身跳舞。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Niu Lai",
+          "crossover"
+        ],
+        "zh": [
+          "牛来",
+          "同框"
+        ]
+      },
+      "series": {
+        "id": "niu-lai",
+        "label": {
+          "en": "Niu Lai",
+          "zh": "牛来"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://mmbiz.qpic.cn/mmbiz_gif/cWR0CIQmaSbxXTNvaGF3cPG6rO85g6EVGFibvd5BA5gib6yicpxx5JQs6ure1pwcNeHEacGUVdNqhjS4OYmqVnyfdniadjHqJVMLoHAZ3rJkFibg/640",
+        "https://www.uied.cn/posts/921772"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://www.uied.cn/posts/921772",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 470,
+      "height": 480,
+      "frames": 60,
+      "bytes": 4399747,
+      "sha256": "19d33bfe7b4c7753bd0602ed10cc7a5fe6f5ec5b563f2a9a822ddf669be19caa",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-niu-lai-5678934b1498",
+      "slug": "dot-niu-lai-5678934b1498",
+      "file": "originals/niu-lai/dot-niu-lai-5678934b1498.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Niu Lai rests its chin on one hand",
+        "zh": "牛来托腮思考"
+      },
+      "description": {
+        "en": "Niu Lai rests its chin on one hand and frowns in thought.",
+        "zh": "牛来托着下巴，皱起眉头思考。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Niu Lai",
+          "thinking"
+        ],
+        "zh": [
+          "牛来",
+          "思考"
+        ]
+      },
+      "series": {
+        "id": "niu-lai",
+        "label": {
+          "en": "Niu Lai",
+          "zh": "牛来"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://niulai.co/",
+        "https://niulai.co/imgs/assets/niulai_19.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://niulai.co/",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 300,
+      "height": 300,
+      "frames": 1,
+      "bytes": 10766,
+      "sha256": "5678934b1498e34925c52c47936e6a96dca3931a5fee635a9d3be67367a68709",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-niu-lai-660313e1a109",
+      "slug": "dot-niu-lai-660313e1a109",
+      "file": "originals/niu-lai/dot-niu-lai-660313e1a109.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Niu Lai gives a sidelong look",
+        "zh": "牛来侧目"
+      },
+      "description": {
+        "en": "Niu Lai tilts its head and looks sideways through half-open eyes.",
+        "zh": "牛来歪着头，用半睁的眼睛朝旁边看。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Niu Lai",
+          "side-eye"
+        ],
+        "zh": [
+          "牛来",
+          "侧目"
+        ]
+      },
+      "series": {
+        "id": "niu-lai",
+        "label": {
+          "en": "Niu Lai",
+          "zh": "牛来"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://niulai.co/",
+        "https://niulai.co/imgs/assets/niulai_01.webp"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://niulai.co/",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 300,
+      "height": 300,
+      "frames": 1,
+      "bytes": 9952,
+      "sha256": "660313e1a10922ce088e722c876b6da4bc022e3f1d91e313c3860b7163355079",
+      "collectedAt": "2026-11-04"
+    },
+    {
       "stableID": "dot-niu-lai-6d86cee981ec",
       "slug": "dot-niu-lai-6d86cee981ec",
       "file": "originals/niu-lai/dot-niu-lai-6d86cee981ec.gif",
@@ -175274,6 +176906,318 @@
       "frames": 117,
       "bytes": 9143220,
       "sha256": "6d86cee981ec518b2afa5531a31d8b1ff5c45eaac92d684c2973de4f2bccea30",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-niu-lai-7f528fce6532",
+      "slug": "dot-niu-lai-7f528fce6532",
+      "file": "originals/niu-lai/dot-niu-lai-7f528fce6532.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Niu Lai slumps and sits down",
+        "zh": "牛来垂头坐下"
+      },
+      "description": {
+        "en": "Niu Lai folds its arms, lowers its head to sit down, then stands back up.",
+        "zh": "牛来抱着手臂，垂头坐下，再站回原处。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "sad",
+        "en": "Sad",
+        "zh": "难过"
+      },
+      "tags": {
+        "en": [
+          "Niu Lai",
+          "head down"
+        ],
+        "zh": [
+          "牛来",
+          "垂头"
+        ]
+      },
+      "series": {
+        "id": "niu-lai",
+        "label": {
+          "en": "Niu Lai",
+          "zh": "牛来"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://creativecommons.org/licenses/by/4.0/",
+        "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/LICENSE-ASSETS.md",
+        "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/failed.gif",
+        "https://raw.githubusercontent.com/ztidal/codex-niulai-pet/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/failed.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "CC-BY-4.0-original-contributions-only",
+        "license": "CC BY 4.0",
+        "attributionURL": "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/failed.gif",
+        "sourceNotes": {
+          "en": "Asset credit: ztidal / codex-niulai-pet. CC BY 4.0 applies only to the repository’s original spritesheet and preview contributions. Third-party character, trademark and reference-image rights are excluded and remain unknown. The original GIF is unchanged; website posters and playback previews are resized or converted. Actual artist and AI status are unverified.",
+          "zh": "素材贡献署名：ztidal / codex-niulai-pet。CC BY 4.0仅适用于仓库原创的精灵图与预览素材部分，不涵盖第三方角色、商标、参考图等既有权利，这些权利仍未知。原GIF未改动；站内封面与播放预览为缩放或格式转换。实际美术作者与AI状态尚未核实。"
+        }
+      },
+      "rightsUnknown": false,
+      "sourceLicenseClaims": [
+        "Asset credit: ztidal / codex-niulai-pet. CC BY 4.0 applies only to the repository’s original spritesheet and preview contributions. Third-party character, trademark and reference-image rights are excluded and remain unknown. The original GIF is unchanged; website posters and playback previews are resized or converted. Actual artist and AI status are unverified.",
+        "CC BY 4.0",
+        "CC-BY-4.0-original-contributions-only",
+        "unknown",
+        "素材贡献署名：ztidal / codex-niulai-pet。CC BY 4.0仅适用于仓库原创的精灵图与预览素材部分，不涵盖第三方角色、商标、参考图等既有权利，这些权利仍未知。原GIF未改动；站内封面与播放预览为缩放或格式转换。实际美术作者与AI状态尚未核实。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 8,
+      "bytes": 92079,
+      "sha256": "7f528fce65320199a45bd648ea7238102f6ed340c9f7fe0e6357f1baaa89ad4a",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-niu-lai-c9d1f0790d93",
+      "slug": "dot-niu-lai-c9d1f0790d93",
+      "file": "originals/niu-lai/dot-niu-lai-c9d1f0790d93.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Niu Lai idles and calls “Mama”",
+        "zh": "牛来发呆喊“妈妈”"
+      },
+      "description": {
+        "en": "Niu Lai stands idly as a speech bubble reading “Mom” briefly appears.",
+        "zh": "牛来站着发呆，旁边短暂出现写着「妈妈」的气泡。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Niu Lai",
+          "mom"
+        ],
+        "zh": [
+          "牛来",
+          "妈妈"
+        ]
+      },
+      "series": {
+        "id": "niu-lai",
+        "label": {
+          "en": "Niu Lai",
+          "zh": "牛来"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://creativecommons.org/licenses/by/4.0/",
+        "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/LICENSE-ASSETS.md",
+        "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/idle.gif",
+        "https://raw.githubusercontent.com/ztidal/codex-niulai-pet/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/idle.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "CC-BY-4.0-original-contributions-only",
+        "license": "CC BY 4.0",
+        "attributionURL": "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/idle.gif",
+        "sourceNotes": {
+          "en": "Asset credit: ztidal / codex-niulai-pet. CC BY 4.0 applies only to the repository’s original spritesheet and preview contributions. Third-party character, trademark and reference-image rights are excluded and remain unknown. The original GIF is unchanged; website posters and playback previews are resized or converted. Actual artist and AI status are unverified.",
+          "zh": "素材贡献署名：ztidal / codex-niulai-pet。CC BY 4.0仅适用于仓库原创的精灵图与预览素材部分，不涵盖第三方角色、商标、参考图等既有权利，这些权利仍未知。原GIF未改动；站内封面与播放预览为缩放或格式转换。实际美术作者与AI状态尚未核实。"
+        }
+      },
+      "rightsUnknown": false,
+      "sourceLicenseClaims": [
+        "Asset credit: ztidal / codex-niulai-pet. CC BY 4.0 applies only to the repository’s original spritesheet and preview contributions. Third-party character, trademark and reference-image rights are excluded and remain unknown. The original GIF is unchanged; website posters and playback previews are resized or converted. Actual artist and AI status are unverified.",
+        "CC BY 4.0",
+        "CC-BY-4.0-original-contributions-only",
+        "unknown",
+        "素材贡献署名：ztidal / codex-niulai-pet。CC BY 4.0仅适用于仓库原创的精灵图与预览素材部分，不涵盖第三方角色、商标、参考图等既有权利，这些权利仍未知。原GIF未改动；站内封面与播放预览为缩放或格式转换。实际美术作者与AI状态尚未核实。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 6,
+      "bytes": 63456,
+      "sha256": "c9d1f0790d9361c079075bc436394079656d58936bfb3ab4ac99ae21849e875d",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-niu-lai-db381c21b756",
+      "slug": "dot-niu-lai-db381c21b756",
+      "file": "originals/niu-lai/dot-niu-lai-db381c21b756.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Niu Lai jumps",
+        "zh": "牛来跳起来"
+      },
+      "description": {
+        "en": "Niu Lai bends its legs, opens its arms and jumps before landing again.",
+        "zh": "牛来弯腿蓄力，张开双臂跳起，再落回地面。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Niu Lai",
+          "jumping"
+        ],
+        "zh": [
+          "牛来",
+          "跳跃"
+        ]
+      },
+      "series": {
+        "id": "niu-lai",
+        "label": {
+          "en": "Niu Lai",
+          "zh": "牛来"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://creativecommons.org/licenses/by/4.0/",
+        "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/LICENSE-ASSETS.md",
+        "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/jumping.gif",
+        "https://raw.githubusercontent.com/ztidal/codex-niulai-pet/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/jumping.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "CC-BY-4.0-original-contributions-only",
+        "license": "CC BY 4.0",
+        "attributionURL": "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/jumping.gif",
+        "sourceNotes": {
+          "en": "Asset credit: ztidal / codex-niulai-pet. CC BY 4.0 applies only to the repository’s original spritesheet and preview contributions. Third-party character, trademark and reference-image rights are excluded and remain unknown. The original GIF is unchanged; website posters and playback previews are resized or converted. Actual artist and AI status are unverified.",
+          "zh": "素材贡献署名：ztidal / codex-niulai-pet。CC BY 4.0仅适用于仓库原创的精灵图与预览素材部分，不涵盖第三方角色、商标、参考图等既有权利，这些权利仍未知。原GIF未改动；站内封面与播放预览为缩放或格式转换。实际美术作者与AI状态尚未核实。"
+        }
+      },
+      "rightsUnknown": false,
+      "sourceLicenseClaims": [
+        "Asset credit: ztidal / codex-niulai-pet. CC BY 4.0 applies only to the repository’s original spritesheet and preview contributions. Third-party character, trademark and reference-image rights are excluded and remain unknown. The original GIF is unchanged; website posters and playback previews are resized or converted. Actual artist and AI status are unverified.",
+        "CC BY 4.0",
+        "CC-BY-4.0-original-contributions-only",
+        "unknown",
+        "素材贡献署名：ztidal / codex-niulai-pet。CC BY 4.0仅适用于仓库原创的精灵图与预览素材部分，不涵盖第三方角色、商标、参考图等既有权利，这些权利仍未知。原GIF未改动；站内封面与播放预览为缩放或格式转换。实际美术作者与AI状态尚未核实。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 5,
+      "bytes": 58958,
+      "sha256": "db381c21b756d31799616539c0140110938bb3a8af4482af8a4cb1e0421a0e69",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-niu-lai-eb84b2615dd0",
+      "slug": "dot-niu-lai-eb84b2615dd0",
+      "file": "originals/niu-lai/dot-niu-lai-eb84b2615dd0.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Niu Lai waves",
+        "zh": "牛来挥手"
+      },
+      "description": {
+        "en": "Niu Lai raises a hand and waves hello.",
+        "zh": "牛来抬起一只手挥动，向前方打招呼。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Niu Lai",
+          "waving"
+        ],
+        "zh": [
+          "牛来",
+          "挥手"
+        ]
+      },
+      "series": {
+        "id": "niu-lai",
+        "label": {
+          "en": "Niu Lai",
+          "zh": "牛来"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://creativecommons.org/licenses/by/4.0/",
+        "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/LICENSE-ASSETS.md",
+        "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/waving.gif",
+        "https://raw.githubusercontent.com/ztidal/codex-niulai-pet/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/waving.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "CC-BY-4.0-original-contributions-only",
+        "license": "CC BY 4.0",
+        "attributionURL": "https://github.com/ztidal/codex-niulai-pet/blob/a5d4aecdffd410d23d10279f03a21809d4d49060/preview/waving.gif",
+        "sourceNotes": {
+          "en": "Asset credit: ztidal / codex-niulai-pet. CC BY 4.0 applies only to the repository’s original spritesheet and preview contributions. Third-party character, trademark and reference-image rights are excluded and remain unknown. The original GIF is unchanged; website posters and playback previews are resized or converted. Actual artist and AI status are unverified.",
+          "zh": "素材贡献署名：ztidal / codex-niulai-pet。CC BY 4.0仅适用于仓库原创的精灵图与预览素材部分，不涵盖第三方角色、商标、参考图等既有权利，这些权利仍未知。原GIF未改动；站内封面与播放预览为缩放或格式转换。实际美术作者与AI状态尚未核实。"
+        }
+      },
+      "rightsUnknown": false,
+      "sourceLicenseClaims": [
+        "Asset credit: ztidal / codex-niulai-pet. CC BY 4.0 applies only to the repository’s original spritesheet and preview contributions. Third-party character, trademark and reference-image rights are excluded and remain unknown. The original GIF is unchanged; website posters and playback previews are resized or converted. Actual artist and AI status are unverified.",
+        "CC BY 4.0",
+        "CC-BY-4.0-original-contributions-only",
+        "unknown",
+        "素材贡献署名：ztidal / codex-niulai-pet。CC BY 4.0仅适用于仓库原创的精灵图与预览素材部分，不涵盖第三方角色、商标、参考图等既有权利，这些权利仍未知。原GIF未改动；站内封面与播放预览为缩放或格式转换。实际美术作者与AI状态尚未核实。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 192,
+      "height": 208,
+      "frames": 4,
+      "bytes": 43114,
+      "sha256": "eb84b2615dd03e8f026639e8471a7faf26afc5b689ad8016ef9a2a8608e13d94",
       "collectedAt": "2026-11-04"
     },
     {
@@ -175432,6 +177376,80 @@
       "frames": 61,
       "bytes": 639181,
       "sha256": "e51f6453bcbe9b287eab581fc94cedac55ac336bdbfc41a280db84b3cb0981b2",
+      "collectedAt": "2026-11-04"
+    },
+    {
+      "stableID": "dot-unclassified-8c678183910b",
+      "slug": "dot-unclassified-8c678183910b",
+      "file": "originals/unclassified/dot-unclassified-8c678183910b.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Yellow character slips in the rain and gets back up",
+        "zh": "黄色角色雨中滑倒后爬起"
+      },
+      "description": {
+        "en": "A yellow character runs across a wet road, slips, then pushes itself up and gets back on its feet.",
+        "zh": "雨中的黄色角色跑过湿滑路面，滑倒后撑起身子，再慢慢站起来。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "yellow character",
+          "rain"
+        ],
+        "zh": [
+          "黄色角色",
+          "下雨"
+        ]
+      },
+      "series": {
+        "id": "unclassified",
+        "label": {
+          "en": "Unclassified",
+          "zh": "待分类"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/fufubot-dev/pohai/blob/e9f8173a91b9e6ada7d7b157bb94d3d5996463c6/pohai/bnailong-3447049424-40.gif",
+        "https://raw.githubusercontent.com/fufubot-dev/pohai/e9f8173a91b9e6ada7d7b157bb94d3d5996463c6/pohai/bnailong-3447049424-40.gif"
+      ],
+      "sourceLabels": [
+        "dot"
+      ],
+      "collectionBatch": "dot-2026-11-04",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/fufubot-dev/pohai/blob/e9f8173a91b9e6ada7d7b157bb94d3d5996463c6/pohai/bnailong-3447049424-40.gif",
+        "sourceNotes": {
+          "en": "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. Exact character identity is unverified; source keywords refer to both Naiwa and Nailong. AI status is unknown.",
+          "zh": "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 来源关键词同时指向奶蛙与奶龙，确切角色身份未核实，暂列待分类。 AI制作状态未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [
+        "Public hosting does not establish original authorship or a reuse license. Creator and media rights remain unverified. Original captions, visible credits and complete source bytes are retained. Exact character identity is unverified; source keywords refer to both Naiwa and Nailong. AI status is unknown.",
+        "unknown",
+        "公开来源不证明原作者或转载许可；原作者与素材权利尚未核实，原配字、可见署名和完整来源字节均保留。 来源关键词同时指向奶蛙与奶龙，确切角色身份未核实，暂列待分类。 AI制作状态未知。"
+      ],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 300,
+      "height": 452,
+      "frames": 36,
+      "bytes": 3065220,
+      "sha256": "8c678183910b35409081de048bbc5618c77572d95d110b4d7ed584068d1667be",
       "collectedAt": "2026-11-04"
     },
     {
