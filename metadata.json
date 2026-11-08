@@ -9,19 +9,19 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "originalFiles": 2679,
+    "originalFiles": 2692,
     "reviewedSameWorkGroups": 10,
     "alternateOriginalFiles": 10,
-    "independentWorks": 2669,
+    "independentWorks": 2682,
     "restoredCopies": 579,
-    "assets": 2680,
+    "assets": 2693,
     "convertedPreviews": 1,
-    "uniqueSHA256": 2680,
-    "bytes": 1946832420,
+    "uniqueSHA256": 2693,
+    "bytes": 1954573172,
     "largestFileBytes": 15060791,
     "excludedCommunityOrRetired": 0,
-    "approvedCommunityAssets": 27,
-    "rightsUnknown": 2649,
+    "approvedCommunityAssets": 40,
+    "rightsUnknown": 2662,
     "missingPublicSourceURL": 79,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
@@ -245,6 +245,79 @@
       "collectedAt": "2026-11-07"
     },
     {
+      "stableID": "community-naiwa-0ef2823703c2",
+      "slug": "community-naiwa-0ef2823703c2",
+      "file": "originals/nai-wa/community-naiwa-0ef2823703c2.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "This is me behind the screen",
+        "zh": "屏幕后面的我可是这样的"
+      },
+      "description": {
+        "en": "Naiwa looks calmly ahead under a Chinese caption about the person behind the screen.",
+        "zh": "奶蛙平静地看着前方，配字提醒对方看看屏幕后面的自己。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "behind the screen",
+          "caption meme",
+          "online argument"
+        ],
+        "zh": [
+          "奶蛙",
+          "屏幕后面",
+          "文字表情",
+          "恶语相向"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/11130890418"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/11130890418"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-0ef2823703c2"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1010,
+      "height": 1094,
+      "frames": 1,
+      "bytes": 292565,
+      "sha256": "0ef2823703c2cd6643c496cbc41582fc2979e41917bdb49ca4408825746200e4",
+      "collectedAt": "2026-11-08"
+    },
+    {
       "stableID": "community-naiwa-167ee907b8d0",
       "slug": "community-naiwa-167ee907b8d0",
       "file": "originals/nai-wa/community-naiwa-167ee907b8d0.jpg",
@@ -318,6 +391,152 @@
       "collectedAt": "2026-11-07"
     },
     {
+      "stableID": "community-naiwa-1ac7bb54ae25",
+      "slug": "community-naiwa-1ac7bb54ae25",
+      "file": "originals/nai-wa/community-naiwa-1ac7bb54ae25.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa sways and kicks up a leg",
+        "zh": "奶蛙扭腰抬腿跳舞"
+      },
+      "description": {
+        "en": "Naiwa sways, swings its arms and lifts a leg while dancing indoors.",
+        "zh": "奶蛙在室内扭腰、摆臂，抬起一条腿继续跳舞。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "dance",
+          "sway",
+          "leg lift"
+        ],
+        "zh": [
+          "奶蛙",
+          "跳舞",
+          "扭腰",
+          "抬腿"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/10985707223"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/10985707223"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-1ac7bb54ae25"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 144,
+      "height": 257,
+      "frames": 225,
+      "bytes": 3053841,
+      "sha256": "1ac7bb54ae2537b46ff9aa4f292dff637d0ab08ebcdc0c770ebe66d22259a2e8",
+      "collectedAt": "2026-11-08"
+    },
+    {
+      "stableID": "community-naiwa-24a2390fb3fa",
+      "slug": "community-naiwa-24a2390fb3fa",
+      "file": "originals/nai-wa/community-naiwa-24a2390fb3fa.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa dances in a pleated skirt",
+        "zh": "奶蛙穿百褶裙跳舞"
+      },
+      "description": {
+        "en": "Naiwa dances and swings its arms in a white shirt, bow tie and pleated skirt.",
+        "zh": "奶蛙穿白衬衫、蝴蝶结和百褶裙，笑着摆臂跳舞。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "dance",
+          "pleated skirt",
+          "bow tie"
+        ],
+        "zh": [
+          "奶蛙",
+          "跳舞",
+          "百褶裙",
+          "蝴蝶结"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/11173650355"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/11173650355"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-24a2390fb3fa"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 240,
+      "height": 240,
+      "frames": 101,
+      "bytes": 1143432,
+      "sha256": "24a2390fb3faf7cd989b3a8959758358dd688c5199d211031eb25c57ea7be284",
+      "collectedAt": "2026-11-08"
+    },
+    {
       "stableID": "community-naiwa-263ba5ac85ee",
       "slug": "community-naiwa-263ba5ac85ee",
       "file": "originals/nai-wa/community-naiwa-263ba5ac85ee.gif",
@@ -387,6 +606,152 @@
       "bytes": 1471846,
       "sha256": "263ba5ac85ee1a16712426ce1260dbd02253a50f0a271a9291a5c545f021ea08",
       "collectedAt": "2026-11-07"
+    },
+    {
+      "stableID": "community-naiwa-35d32cd3537b",
+      "slug": "community-naiwa-35d32cd3537b",
+      "file": "originals/nai-wa/community-naiwa-35d32cd3537b.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa takes a drink by the pond",
+        "zh": "奶蛙坐在池边喝饮料"
+      },
+      "description": {
+        "en": "Naiwa sits beside the water holding a drink, with greenery behind it.",
+        "zh": "奶蛙坐在水边，双手拿着饮料，旁边是草木。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "drink",
+          "pond",
+          "relax"
+        ],
+        "zh": [
+          "奶蛙",
+          "饮料",
+          "池边",
+          "休息"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/11169972195"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/11169972195"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-35d32cd3537b"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 542,
+      "height": 542,
+      "frames": 1,
+      "bytes": 155933,
+      "sha256": "35d32cd3537b3e8c4e399802829ec8f802bea90254547903b33b62596777d6b7",
+      "collectedAt": "2026-11-08"
+    },
+    {
+      "stableID": "community-naiwa-4817138a061a",
+      "slug": "community-naiwa-4817138a061a",
+      "file": "originals/nai-wa/community-naiwa-4817138a061a.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa gestures from the shadows",
+        "zh": "奶蛙在暗处伸手示意"
+      },
+      "description": {
+        "en": "Naiwa holds out one hand against a black background, with warm light across its face and belly.",
+        "zh": "奶蛙站在黑色背景前，伸出一只手，脸和肚子被金色光照亮。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "hand gesture",
+          "shadows",
+          "golden light"
+        ],
+        "zh": [
+          "奶蛙",
+          "伸手",
+          "暗处",
+          "金光"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/11130890418"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/11130890418"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-4817138a061a"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 960,
+      "height": 640,
+      "frames": 1,
+      "bytes": 33332,
+      "sha256": "4817138a061ae1dc15d30487a7ab46830254a156b6c1adff0df39827650e22b2",
+      "collectedAt": "2026-11-08"
     },
     {
       "stableID": "community-naiwa-536751f0815c",
@@ -600,6 +965,81 @@
       "bytes": 5177726,
       "sha256": "5d09e96a3f0c7725af98417aa71c0eb979318454c79b7e48dc2f3fe1f72b906a",
       "collectedAt": "2026-11-07"
+    },
+    {
+      "stableID": "community-naiwa-6187ce1cc317",
+      "slug": "community-naiwa-6187ce1cc317",
+      "file": "originals/nai-wa/community-naiwa-6187ce1cc317.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa powers up in the boxing ring",
+        "zh": "奶蛙在擂台蓄力出拳"
+      },
+      "description": {
+        "en": "Golden rings swirl around Naiwa in a boxing ring before it raises its fists.",
+        "zh": "奶蛙站在擂台上，身边绕起金色光圈，随后摆出出拳姿势。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "boxing ring",
+          "boxing",
+          "power up",
+          "golden glow"
+        ],
+        "zh": [
+          "奶蛙",
+          "擂台",
+          "拳击",
+          "蓄力",
+          "金光"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/11133752950"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/11133752950"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-6187ce1cc317"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 240,
+      "height": 244,
+      "frames": 66,
+      "bytes": 1000189,
+      "sha256": "6187ce1cc3178234efed95e55d3dfaf55e82e65d5aabf39ca82b436097e5d32c",
+      "collectedAt": "2026-11-08"
     },
     {
       "stableID": "community-naiwa-6540b323d4d9",
@@ -1314,6 +1754,79 @@
       "collectedAt": "2026-11-07"
     },
     {
+      "stableID": "community-naiwa-9fbdbea41579",
+      "slug": "community-naiwa-9fbdbea41579",
+      "file": "originals/nai-wa/community-naiwa-9fbdbea41579.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa cradles its belly: your little NaiLong",
+        "zh": "奶蛙捧肚子：我怀了你的小奶龙"
+      },
+      "description": {
+        "en": "Naiwa cradles its belly beside the Chinese caption, “I am carrying your little NaiLong.”",
+        "zh": "奶蛙双手捧着肚子，配字“我怀了你的小奶龙”。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "belly",
+          "caption meme",
+          "little NaiLong"
+        ],
+        "zh": [
+          "奶蛙",
+          "捧肚子",
+          "文字表情",
+          "我怀了你的小奶龙"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/11162839637"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/11162839637"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-9fbdbea41579"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 585,
+      "height": 543,
+      "frames": 1,
+      "bytes": 34762,
+      "sha256": "9fbdbea41579ff4eb7138cb165b4d4ad24e0e2c44afe5b2398837ae823a3620b",
+      "collectedAt": "2026-11-08"
+    },
+    {
       "stableID": "community-naiwa-a8bdb233f6d7",
       "slug": "community-naiwa-a8bdb233f6d7",
       "file": "originals/nai-wa/community-naiwa-a8bdb233f6d7.jpg",
@@ -1529,6 +2042,81 @@
       "collectedAt": "2026-11-07"
     },
     {
+      "stableID": "community-naiwa-bb0ca08968a0",
+      "slug": "community-naiwa-bb0ca08968a0",
+      "file": "originals/nai-wa/community-naiwa-bb0ca08968a0.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa sticks out its tongue with double peace signs",
+        "zh": "奶蛙吐舌比双V"
+      },
+      "description": {
+        "en": "Naiwa makes peace signs above its head with both hands and sticks out its tongue.",
+        "zh": "奶蛙举起双手在头顶比V，张嘴吐出舌头。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "tongue out",
+          "peace signs",
+          "double V",
+          "playful"
+        ],
+        "zh": [
+          "奶蛙",
+          "吐舌",
+          "比耶",
+          "双V",
+          "调皮"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/11171455604"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/11171455604"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-bb0ca08968a0"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 288,
+      "height": 275,
+      "frames": 1,
+      "bytes": 7479,
+      "sha256": "bb0ca08968a009b0bd0b291d31507cf49be486737a68d63a3df60667b1a89448",
+      "collectedAt": "2026-11-08"
+    },
+    {
       "stableID": "community-naiwa-bf41b1dcc4a3",
       "slug": "community-naiwa-bf41b1dcc4a3",
       "file": "originals/nai-wa/community-naiwa-bf41b1dcc4a3.jpg",
@@ -1598,6 +2186,225 @@
       "bytes": 54154,
       "sha256": "bf41b1dcc4a3be65dce5f358f50f3b26c630247a00078bc60e1fb5730dd59c22",
       "collectedAt": "2026-11-07"
+    },
+    {
+      "stableID": "community-naiwa-c0aa15719cad",
+      "slug": "community-naiwa-c0aa15719cad",
+      "file": "originals/nai-wa/community-naiwa-c0aa15719cad.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa has starry eyes for a burger",
+        "zh": "奶蛙两眼放光盯着汉堡"
+      },
+      "description": {
+        "en": "Naiwa looks at a burger with stars sparkling in its eyes.",
+        "zh": "奶蛙看着汉堡，两只眼睛闪着星光。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "burger",
+          "starry eyes",
+          "excited"
+        ],
+        "zh": [
+          "奶蛙",
+          "汉堡",
+          "星星眼",
+          "期待"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/11173650355"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/11173650355"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-c0aa15719cad"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 155,
+      "height": 155,
+      "frames": 2,
+      "bytes": 26035,
+      "sha256": "c0aa15719cad96166355b5bb3ed21145853867332f81e08d228e43591af75a3c",
+      "collectedAt": "2026-11-08"
+    },
+    {
+      "stableID": "community-naiwa-c169fb12170f",
+      "slug": "community-naiwa-c169fb12170f",
+      "file": "originals/nai-wa/community-naiwa-c169fb12170f.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Calling the Naiwa family",
+        "zh": "呼叫奶家人"
+      },
+      "description": {
+        "en": "Naiwa holds a telephone receiver to its ear above the caption, “Calling the Naiwa family!”",
+        "zh": "奶蛙一手拿着电话听筒贴在耳边，配字“呼叫奶家人！”"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "telephone",
+          "receiver",
+          "calling the family"
+        ],
+        "zh": [
+          "奶蛙",
+          "电话",
+          "听筒",
+          "呼叫奶家人"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/11172470852"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/11172470852"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-c169fb12170f"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 240,
+      "height": 234,
+      "frames": 1,
+      "bytes": 5528,
+      "sha256": "c169fb12170f7d06c70882fe2d2a0cb357160bb60673208f849e72d8b940987b",
+      "collectedAt": "2026-11-08"
+    },
+    {
+      "stableID": "community-naiwa-d2ad7862e431",
+      "slug": "community-naiwa-d2ad7862e431",
+      "file": "originals/nai-wa/community-naiwa-d2ad7862e431.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa does a low dance squat",
+        "zh": "奶蛙蹲低身子扭动"
+      },
+      "description": {
+        "en": "Naiwa spreads its feet, squats low and sways around in a room.",
+        "zh": "奶蛙两脚分开蹲低身子，在房间里反复扭动。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "dance",
+          "squat",
+          "sway"
+        ],
+        "zh": [
+          "奶蛙",
+          "跳舞",
+          "蹲下",
+          "扭动"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/10985707223"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/10985707223"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-d2ad7862e431"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 238,
+      "height": 426,
+      "frames": 226,
+      "bytes": 1955491,
+      "sha256": "d2ad7862e43166ec5976373eae3099ecd58fbf002d44ff821b0d30b4799a2360",
+      "collectedAt": "2026-11-08"
     },
     {
       "stableID": "community-naiwa-dc7de351d62d",
@@ -1880,6 +2687,152 @@
       "bytes": 2950539,
       "sha256": "edee544c7981a1cbd6c1edc080dd0b0bec96ae0c3fb5155288d820545a738a18",
       "collectedAt": "2026-11-07"
+    },
+    {
+      "stableID": "community-naiwa-efc390e3d12a",
+      "slug": "community-naiwa-efc390e3d12a",
+      "file": "originals/nai-wa/community-naiwa-efc390e3d12a.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa holds a folding phone",
+        "zh": "奶蛙捧着折叠屏手机"
+      },
+      "description": {
+        "en": "Naiwa holds an open folding phone in both hands and looks down at its screen.",
+        "zh": "奶蛙双手捧着打开的折叠屏手机，低头看着屏幕。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "phone",
+          "folding phone",
+          "screen"
+        ],
+        "zh": [
+          "奶蛙",
+          "手机",
+          "折叠屏",
+          "看手机"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/11173650355"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/11173650355"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-efc390e3d12a"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 155,
+      "height": 149,
+      "frames": 2,
+      "bytes": 23698,
+      "sha256": "efc390e3d12a2e5a4327d1f6e96a67d28de2b63c9a5e1e8d2fb7edaaee3806d2",
+      "collectedAt": "2026-11-08"
+    },
+    {
+      "stableID": "community-naiwa-f1937089a3e5",
+      "slug": "community-naiwa-f1937089a3e5",
+      "file": "originals/nai-wa/community-naiwa-f1937089a3e5.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa glares with folded arms",
+        "zh": "奶蛙抱胸瞪眼"
+      },
+      "description": {
+        "en": "Naiwa folds its arms and glares ahead with lowered eyebrows.",
+        "zh": "奶蛙抱起双臂，皱着眉头向前瞪眼。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "angry",
+        "en": "Angry",
+        "zh": "生气"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "folded arms",
+          "glare",
+          "angry"
+        ],
+        "zh": [
+          "奶蛙",
+          "抱胸",
+          "瞪眼",
+          "生气"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://tieba.baidu.com/p/10985707223"
+      ],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "tieba-2026-11-08",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://tieba.baidu.com/p/10985707223"
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-naiwa-f1937089a3e5"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 296,
+      "height": 376,
+      "frames": 1,
+      "bytes": 8467,
+      "sha256": "f1937089a3e5f0d2eb014ac2aa0823d9614128abb7bfb6620e1071d083c2f49e",
+      "collectedAt": "2026-11-08"
     },
     {
       "stableID": "community-naiwa-f3725cedb12b",
