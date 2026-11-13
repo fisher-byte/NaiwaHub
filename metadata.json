@@ -9,20 +9,20 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "originalFiles": 2693,
+    "originalFiles": 2694,
     "reviewedSameWorkGroups": 10,
     "alternateOriginalFiles": 10,
-    "independentWorks": 2683,
+    "independentWorks": 2684,
     "restoredCopies": 579,
-    "assets": 2694,
+    "assets": 2695,
     "convertedPreviews": 1,
-    "uniqueSHA256": 2694,
-    "bytes": 1954616147,
+    "uniqueSHA256": 2695,
+    "bytes": 1956835636,
     "largestFileBytes": 15060791,
     "excludedCommunityOrRetired": 0,
-    "approvedCommunityAssets": 41,
-    "rightsUnknown": 2663,
-    "missingPublicSourceURL": 80,
+    "approvedCommunityAssets": 42,
+    "rightsUnknown": 2664,
+    "missingPublicSourceURL": 81,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
   },
@@ -160,6 +160,67 @@
       "bytes": 42975,
       "sha256": "4c5eb6cf847807b79e9f9ee504e54b34c5368c8656bc163a864a7087fabbecac",
       "collectedAt": "2026-11-08"
+    },
+    {
+      "stableID": "community-c14ada14-80d1-49ee-b0ef-52f3cb6a87b3",
+      "slug": "community-c14ada14-80d1-49ee-b0ef-52f3cb6a87b3",
+      "file": "originals/nai-wa/community-c14ada14-80d1-49ee-b0ef-52f3cb6a87b3.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naixiong",
+        "zh": "奶熊"
+      },
+      "description": {
+        "en": "Naixiong",
+        "zh": "奶熊"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [],
+        "zh": []
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [],
+      "sourceLabels": [
+        "community"
+      ],
+      "collectionBatch": "community",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": null
+      },
+      "rightsUnknown": true,
+      "archivePublication": {
+        "status": "published",
+        "url": "https://naiwahub.com/memes/community-c14ada14-80d1-49ee-b0ef-52f3cb6a87b3"
+      },
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1536,
+      "height": 1536,
+      "frames": 1,
+      "bytes": 2219489,
+      "sha256": "d594c12279eaf013282184a74c8dff2ad87be6246cd68ccafcf5e7c81b209775",
+      "collectedAt": "2026-11-11"
     },
     {
       "stableID": "community-f56a96f2-eef7-4565-96ec-07bd1f1572ff",
