@@ -9,19 +9,19 @@
     "zh": "保留第三方权利，不授予统一媒体许可。"
   },
   "counts": {
-    "originalFiles": 2694,
+    "originalFiles": 2743,
     "reviewedSameWorkGroups": 10,
     "alternateOriginalFiles": 10,
-    "independentWorks": 2684,
+    "independentWorks": 2733,
     "restoredCopies": 579,
-    "assets": 2695,
+    "assets": 2744,
     "convertedPreviews": 1,
-    "uniqueSHA256": 2695,
-    "bytes": 1956835636,
+    "uniqueSHA256": 2744,
+    "bytes": 1982337193,
     "largestFileBytes": 15060791,
-    "excludedCommunityOrRetired": 0,
+    "excludedCommunityOrRetired": 17,
     "approvedCommunityAssets": 42,
-    "rightsUnknown": 2664,
+    "rightsUnknown": 2708,
     "missingPublicSourceURL": 81,
     "missingCompanionNotices": 82,
     "sourceFormatMismatches": 0
@@ -13782,8 +13782,8 @@
       "file": "originals/nai-shi/dot-naiwa-0132.jpg",
       "fileRole": "original",
       "title": {
-        "en": "Naiwa surprise (tap to see)",
-        "zh": "奶屎（点我看看）"
+        "en": "The Naiwa poo",
+        "zh": "奶蛙屎"
       },
       "description": {
         "en": "Naiwa surprise (tap to see). From the alternate look collection.",
@@ -18894,7 +18894,7 @@
       "fileRole": "original",
       "title": {
         "en": "Pose · waving",
-        "zh": "姿态 · 挥手"
+        "zh": "奶问"
       },
       "description": {
         "en": "Pose · waving. From the alternate look collection.",
@@ -46920,7 +46920,7 @@
       "fileRole": "original",
       "title": {
         "en": "Naiwa makes an intricate hand sign",
-        "zh": "奶蛙结复杂手势"
+        "zh": "奶手"
       },
       "description": {
         "en": "Naiwa holds both hands prominently in front of its face and belly, with fingers pointing in different directions.",
@@ -118492,8 +118492,8 @@
       "file": "originals/nai-wa/dot-naiwa-1484.webp",
       "fileRole": "original",
       "title": {
-        "en": "Naiwa in a scarf on an overcast grassland",
-        "zh": "奶蛙阴云草原围巾肖像"
+        "en": "Never see me again",
+        "zh": "豆，你会想蛙吗"
       },
       "description": {
         "en": "Naiwa wears messy black hair, a black coat and dark scarf before a grassland stone wall under storm clouds; a human-shaped figure in a dark-red dress is seen from behind in the distance.",
@@ -202989,6 +202989,3574 @@
       "bytes": 34926,
       "sha256": "ff2aea671cc08ff2ca9475514dbaaec2d2d5f0cd1bb60d4436be3317fa75f14d",
       "collectedAt": "2026-11-01"
+    },
+    {
+      "stableID": "github-naiwa-088350fc4470",
+      "slug": "github-naiwa-088350fc4470",
+      "file": "originals/nai-wa/github-naiwa-088350fc4470.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Leaps Over the Li-Ning Wordmark",
+        "zh": "奶蛙跃过李宁字标"
+      },
+      "description": {
+        "en": "Naiwa stretches into two arcs above a red Li-Ning wordmark.",
+        "zh": "奶蛙拉长成两条弧线，在红色字标上方掠过。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "Li-Ning",
+          "arc",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "李宁",
+          "弧线",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0257.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0257.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 141922,
+      "sha256": "088350fc4470da12957a2410cfa69afdbc5ee2000f2cfa75704a3f2571cdf8a0",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-0ebbcee0e3e5",
+      "slug": "github-naiwa-0ebbcee0e3e5",
+      "file": "originals/nai-wa/github-naiwa-0ebbcee0e3e5.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Sits with Palms Together",
+        "zh": "奶蛙合十静坐"
+      },
+      "description": {
+        "en": "Naiwa sits with its palms together in front of several statues.",
+        "zh": "奶蛙双手合十，背景是几尊雕像。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "meditation",
+          "palms together",
+          "statues",
+          "fan art"
+        ],
+        "zh": [
+          "奶蛙",
+          "静坐",
+          "合十",
+          "雕像",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/bwz2026/NaiLoong/blob/71cb818943d0c6b958ce118c0d9197002b47b601/assets/memes/naiwa%20%282%29.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/bwz2026/NaiLoong/blob/71cb818943d0c6b958ce118c0d9197002b47b601/assets/memes/naiwa%20%282%29.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 154072,
+      "sha256": "0ebbcee0e3e5686f2e4f36ade5616015f5e0475af8371151b354d25828624770",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-0f5e9727d833",
+      "slug": "github-naiwa-0f5e9727d833",
+      "file": "originals/nai-wa/github-naiwa-0f5e9727d833.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Gives a Thumbs-Up",
+        "zh": "奶蛙竖大拇指点赞"
+      },
+      "description": {
+        "en": "Naiwa holds a thumbs-up close to the camera.",
+        "zh": "奶蛙把大拇指伸到镜头前。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "thumbs up",
+          "approval"
+        ],
+        "zh": [
+          "奶蛙",
+          "点赞",
+          "大拇指",
+          "赞同"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/fdf22af63ff88e4d3ae6c7532721e6970a0b1579/assets/memes/naiwa_0233.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/fdf22af63ff88e4d3ae6c7532721e6970a0b1579/assets/memes/naiwa_0233.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 420,
+      "height": 387,
+      "frames": 1,
+      "bytes": 12269,
+      "sha256": "0f5e9727d833e9bb33bf7ef0d6c0af6a1b9d36f67fb9818d7ad2b29f2375bb21",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-1098b95c5f1d",
+      "slug": "github-naiwa-1098b95c5f1d",
+      "file": "originals/nai-wa/github-naiwa-1098b95c5f1d.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Praying Naiwa with a Flower Crown",
+        "zh": "戴花冠的祈祷奶蛙"
+      },
+      "description": {
+        "en": "A Naiwa-shaped statue closes its eyes and clasps its hands beneath a flower crown and veil.",
+        "zh": "一尊奶蛙造型的雕像闭眼合掌，戴花冠和垂落的头纱。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "prayer",
+          "statue",
+          "flower crown",
+          "fan art"
+        ],
+        "zh": [
+          "奶蛙",
+          "祈祷",
+          "雕像",
+          "花冠",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/bwz2026/NaiLoong/blob/71cb818943d0c6b958ce118c0d9197002b47b601/assets/memes/naiwa%20%283%29.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/bwz2026/NaiLoong/blob/71cb818943d0c6b958ce118c0d9197002b47b601/assets/memes/naiwa%20%283%29.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 132686,
+      "sha256": "1098b95c5f1df476e37426d9740e2c7eb529bf5341ab4a168a91dc8152783e17",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-14e2c6ea1742",
+      "slug": "github-naiwa-14e2c6ea1742",
+      "file": "originals/nai-shu/github-naiwa-14e2c6ea1742.png",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiShu Waves Hello",
+        "zh": "奶鼠挥手打招呼"
+      },
+      "description": {
+        "en": "Round-eared NaiShu raises one hand in a wave, with a thin tail visible behind it.",
+        "zh": "圆耳奶鼠抬起一只手挥了挥，身后露出细长尾巴。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "NaiShu",
+          "waving",
+          "hello"
+        ],
+        "zh": [
+          "奶鼠",
+          "挥手",
+          "打招呼"
+        ]
+      },
+      "series": {
+        "id": "nai-shu",
+        "label": {
+          "en": "NaiShu",
+          "zh": "奶鼠"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0262.png"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0262.png",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 1,
+      "bytes": 124199,
+      "sha256": "14e2c6ea1742a6476469b88072fa7a74e4dc8f728d0896fbd6449048dc3c4503",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-25aa6c3a9eff",
+      "slug": "github-naiwa-25aa6c3a9eff",
+      "file": "originals/nai-gou/github-naiwa-25aa6c3a9eff.png",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiGou Grins and Laughs",
+        "zh": "奶狗咧嘴大笑"
+      },
+      "description": {
+        "en": "NaiGou laughs with floppy brown ears and a curled-up tail.",
+        "zh": "垂着棕色耳朵的奶狗张着嘴笑，尾巴向上翘。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "NaiGou",
+          "laugh",
+          "floppy ears"
+        ],
+        "zh": [
+          "奶狗",
+          "大笑",
+          "垂耳"
+        ]
+      },
+      "series": {
+        "id": "nai-gou",
+        "label": {
+          "en": "NaiGou",
+          "zh": "奶狗"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0261.png"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0261.png",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 512,
+      "height": 512,
+      "frames": 1,
+      "bytes": 182565,
+      "sha256": "25aa6c3a9eff6ca1176ecde302f88414deef47080f311324747277ca0e9aaac2",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-2ab3d412000e",
+      "slug": "github-naiwa-2ab3d412000e",
+      "file": "originals/nai-wa/github-naiwa-2ab3d412000e.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Double-Humped Naiwa Camel",
+        "zh": "长着双峰的奶驼"
+      },
+      "description": {
+        "en": "Naiwa stands against a white background with two camel humps and four slender legs.",
+        "zh": "奶蛙长出两座驼峰和四条细腿，站在白色背景前。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "camel",
+          "two humps",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "奶驼",
+          "骆驼",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0252.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0252.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 896,
+      "height": 890,
+      "frames": 1,
+      "bytes": 145583,
+      "sha256": "2ab3d412000e28b39cd29374ab10c1a72f022ebf376f0c625bce85ed05bf3435",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-2c9aa02a2c4e",
+      "slug": "github-naiwa-2c9aa02a2c4e",
+      "file": "originals/nai-wa/github-naiwa-2c9aa02a2c4e.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in a Red Scarf",
+        "zh": "奶蛙戴红围巾"
+      },
+      "description": {
+        "en": "Naiwa wears a red scarf in front of a pale circular backdrop.",
+        "zh": "奶蛙围着红色围巾，站在浅色圆形背景前。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "scarf",
+          "winter",
+          "avatar"
+        ],
+        "zh": [
+          "奶蛙",
+          "围巾",
+          "冬天",
+          "头像"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0267.png"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0267.png",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1536,
+      "height": 1536,
+      "frames": 1,
+      "bytes": 2015317,
+      "sha256": "2c9aa02a2c4ea0c1219cafd85cae22b9d986039d80f8d139aa2605330d1db103",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-320c351afb8e",
+      "slug": "github-naiwa-320c351afb8e",
+      "file": "originals/nai-wa/github-naiwa-320c351afb8e.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Two Naiwa Sit Back to Back",
+        "zh": "两只奶蛙背靠背"
+      },
+      "description": {
+        "en": "Two Naiwa sit back to back against a white background in a parody of a two-person logo.",
+        "zh": "两只奶蛙在白底上背靠背坐着，模仿双人标志的构图。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "twins",
+          "back to back",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "双子",
+          "背靠背",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0253.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0253.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 898,
+      "frames": 1,
+      "bytes": 193838,
+      "sha256": "320c351afb8e4c4458574c4655067f0eaa16ea8705e76fbb6352741b4f5a2e55",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-353792b482f2",
+      "slug": "github-naiwa-353792b482f2",
+      "file": "originals/nai-wa/github-naiwa-353792b482f2.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in the Three Stripes",
+        "zh": "阿迪达蛙的三道杠"
+      },
+      "description": {
+        "en": "Naiwa stretches upward beside two yellow bars to make a three-stripe design.",
+        "zh": "奶蛙伸长身体，和两道黄色条纹一起拼成三道杠。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "Adidas",
+          "three stripes",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "阿迪达斯",
+          "三道杠",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0249.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0249.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1084,
+      "height": 1064,
+      "frames": 1,
+      "bytes": 123021,
+      "sha256": "353792b482f2be5180b73c8e66406d59c6947112b3e9cba95e7e98598a95b341",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-368b50e55b66",
+      "slug": "github-naiwa-368b50e55b66",
+      "file": "originals/nai-wa/github-naiwa-368b50e55b66.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Makes a Crossed-Arc Logo",
+        "zh": "奶蛙变身交叉弧线标志"
+      },
+      "description": {
+        "en": "Naiwa forms two crossing yellow arcs in a sports logo parody.",
+        "zh": "奶蛙变成两组相交的黄色弧线，模仿运动品牌标志。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "Under Armour",
+          "arcs",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "安德玛",
+          "弧线",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0247.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0247.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 764,
+      "height": 772,
+      "frames": 1,
+      "bytes": 100077,
+      "sha256": "368b50e55b664b4e9763fd31709c819b0f38e062af02dfaa2085c7e8833ccf06",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-3ac424326b90",
+      "slug": "github-naiwa-3ac424326b90",
+      "file": "originals/nai-wa/github-naiwa-3ac424326b90.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Angel Statue",
+        "zh": "奶蛙天使雕像"
+      },
+      "description": {
+        "en": "A winged Naiwa statue bows its head against a background of trees.",
+        "zh": "长着羽翼的奶蛙雕像在树丛边低着头。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "wings",
+          "angel",
+          "statue",
+          "fan art"
+        ],
+        "zh": [
+          "奶蛙",
+          "翅膀",
+          "天使",
+          "雕像",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/bwz2026/NaiLoong/blob/71cb818943d0c6b958ce118c0d9197002b47b601/assets/memes/naiwa%20%285%29.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/bwz2026/NaiLoong/blob/71cb818943d0c6b958ce118c0d9197002b47b601/assets/memes/naiwa%20%285%29.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 70536,
+      "sha256": "3ac424326b901e40874d5bfccba278aa004771065c1d50f9762ec81fc667f976",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-3e60cc644b71",
+      "slug": "github-naiwa-3e60cc644b71",
+      "file": "originals/nai-wa/github-naiwa-3e60cc644b71.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in a Trefoil Design",
+        "zh": "奶蛙钻进三叶草图案"
+      },
+      "description": {
+        "en": "Naiwa stretches out its arms inside a yellow trefoil design.",
+        "zh": "奶蛙张开双手坐在黄色三叶草图案里。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "trefoil",
+          "Adidas",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "三叶草",
+          "阿迪达斯",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0260.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0260.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1256,
+      "height": 1212,
+      "frames": 1,
+      "bytes": 222216,
+      "sha256": "3e60cc644b71e7f2c32fb9e3d98fc24eb3e980e1d5bd34f4083a38b2688a1007",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-40b9432fb180",
+      "slug": "github-naiwa-40b9432fb180",
+      "file": "originals/nai-wa/github-naiwa-40b9432fb180.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Makes a Warrior Logo",
+        "zh": "奶蛙摆成回力标志"
+      },
+      "description": {
+        "en": "Naiwa stretches into an upswept shape beside the Warrior wordmark.",
+        "zh": "奶蛙横着拉成两端翘起的图形，旁边写着「回力」。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "Warrior",
+          "stretch",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "回力",
+          "拉长",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0255.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0255.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 133014,
+      "sha256": "40b9432fb1805e69ad3b23321ce1a405b423b1db5e6d5f833b3f18f2b6544794",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-471cd3a8f4c4",
+      "slug": "github-naiwa-471cd3a8f4c4",
+      "file": "originals/nai-wa/github-naiwa-471cd3a8f4c4.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Blond Naiwa Fan Illustration",
+        "zh": "金发奶蛙拟人画"
+      },
+      "description": {
+        "en": "A blond figure in yellow raises a gloved finger to her lips in a light line drawing.",
+        "zh": "浅色线稿画着一位披黄衣、戴手套的金发角色，手指放在嘴边。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "humanized",
+          "blond",
+          "line art",
+          "fan art"
+        ],
+        "zh": [
+          "奶蛙",
+          "拟人",
+          "金发",
+          "线稿",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0196.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0196.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1258,
+      "height": 1258,
+      "frames": 1,
+      "bytes": 87591,
+      "sha256": "471cd3a8f4c4e84e78d95cba5defd85fd49184660254e06315ff0602d9f644a0",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-55ab02b74d86",
+      "slug": "github-naiwa-55ab02b74d86",
+      "file": "originals/nai-wa/github-naiwa-55ab02b74d86.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Poses in a Black Tank Top",
+        "zh": "奶蛙穿黑背心耍酷"
+      },
+      "description": {
+        "en": "Naiwa stands in a black tank top with a sweep of black hair.",
+        "zh": "奶蛙留着黑色刘海，穿一件黑背心站着。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "tank top",
+          "bangs",
+          "posing"
+        ],
+        "zh": [
+          "奶蛙",
+          "黑背心",
+          "刘海",
+          "耍酷"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/fdf22af63ff88e4d3ae6c7532721e6970a0b1579/assets/memes/naiwa_0232.png"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/fdf22af63ff88e4d3ae6c7532721e6970a0b1579/assets/memes/naiwa_0232.png",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1536,
+      "height": 1536,
+      "frames": 1,
+      "bytes": 1476407,
+      "sha256": "55ab02b74d86a00240131c3d5c780fd682e4443da0c62d21ba22815b0b7a7a30",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-5741e88eaf49",
+      "slug": "github-naiwa-5741e88eaf49",
+      "file": "originals/nai-wa/github-naiwa-5741e88eaf49.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Makes a Handstand Heart",
+        "zh": "奶蛙倒立比心"
+      },
+      "description": {
+        "en": "Naiwa stretches a leg while doing a handstand, with a pink heart by its toes.",
+        "zh": "奶蛙倒立伸腿，脚尖旁边浮着一颗粉红爱心。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "handstand",
+          "heart",
+          "love"
+        ],
+        "zh": [
+          "奶蛙",
+          "倒立",
+          "比心",
+          "爱心"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/fdf22af63ff88e4d3ae6c7532721e6970a0b1579/assets/memes/naiwa_0231.webp"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/fdf22af63ff88e4d3ae6c7532721e6970a0b1579/assets/memes/naiwa_0231.webp",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1320,
+      "height": 1172,
+      "frames": 1,
+      "bytes": 52040,
+      "sha256": "5741e88eaf49f74fd5ba3784321ca1add24c49bf09a1c9ceebf897b660472552",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-6440bfbc4755",
+      "slug": "github-naiwa-6440bfbc4755",
+      "file": "originals/nai-wa/github-naiwa-6440bfbc4755.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiLi Sits in the Tree",
+        "zh": "奶莉坐在树枝上"
+      },
+      "description": {
+        "en": "A blond figure sits on a branch with her legs dangling among sunlit leaves.",
+        "zh": "金发角色坐在树枝上，两腿垂在阳光照进来的绿叶间。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "NaiLi",
+          "tree",
+          "humanized",
+          "fan art"
+        ],
+        "zh": [
+          "奶蛙",
+          "奶莉",
+          "树枝",
+          "拟人",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0198.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0198.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1390,
+      "frames": 1,
+      "bytes": 250043,
+      "sha256": "6440bfbc475585392e742e897f1c95e03d3e5f8ff5b5f2ed90bc05a577277995",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-673220f0f6fc",
+      "slug": "github-naiwa-673220f0f6fc",
+      "file": "originals/nai-wa/github-naiwa-673220f0f6fc.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Hugs Two Chat Bubbles",
+        "zh": "奶蛙抱着聊天气泡"
+      },
+      "description": {
+        "en": "Naiwa leans over two white chat bubbles on a green rounded square.",
+        "zh": "奶蛙靠在两个白色聊天气泡上，背景是绿色圆角方形。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "chat",
+          "bubbles",
+          "WeChat",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "聊天",
+          "气泡",
+          "微信",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0266.png"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0266.png",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1254,
+      "height": 1254,
+      "frames": 1,
+      "bytes": 1409949,
+      "sha256": "673220f0f6fc1e8dda91e6a8cc024f6822013027451d88db8e352d4ca4b200cc",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-674d3ec334d0",
+      "slug": "github-naiwa-674d3ec334d0",
+      "file": "originals/nai-wa/github-naiwa-674d3ec334d0.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Stretches into an ERKE Logo",
+        "zh": "奶蛙拉成鸿星尔克标志"
+      },
+      "description": {
+        "en": "Naiwa stretches sideways above the word ERKE in a logo parody.",
+        "zh": "奶蛙横向拉长成狭长黄色图形，下方写着 ERKE。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "ERKE",
+          "stretch",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "鸿星尔克",
+          "拉长",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0250.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0250.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 838,
+      "height": 854,
+      "frames": 1,
+      "bytes": 76602,
+      "sha256": "674d3ec334d0c6acc3c5cc87c7e2d93a73ffc28a6e127b8a52e24b5eacb424a2",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-6bab887e8599",
+      "slug": "github-naiwa-6bab887e8599",
+      "file": "originals/nai-wa/github-naiwa-6bab887e8599.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Leaps with a Basketball",
+        "zh": "飞人奶蛙举球跳起"
+      },
+      "description": {
+        "en": "Naiwa leaps with its legs wide and holds a basketball overhead.",
+        "zh": "奶蛙跳起来双腿分开，一只手把球举过头顶。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "basketball",
+          "jump",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "篮球",
+          "运动",
+          "飞人",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0254.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0254.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1064,
+      "frames": 1,
+      "bytes": 122746,
+      "sha256": "6bab887e8599320b4a27b5efac1cbf41caa77617460f86255af1d4db5d3d64c3",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-7225e647bf97",
+      "slug": "github-naiwa-7225e647bf97",
+      "file": "originals/nai-wa/github-naiwa-7225e647bf97.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Curves into an ANTA Logo",
+        "zh": "奶蛙变成安踏弧线"
+      },
+      "description": {
+        "en": "Round-eyed Naiwa curves into a forked yellow arc above a black wordmark.",
+        "zh": "圆眼奶蛙变成一条黄色分叉弧线，下方是黑色字标。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "ANTA",
+          "arc",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "安踏",
+          "弧线",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0259.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0259.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1058,
+      "frames": 1,
+      "bytes": 119679,
+      "sha256": "7225e647bf979435d23fa33283c010ef98cc669cb842957fbb9cc98004ef849c",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-73e4ac1adbc9",
+      "slug": "github-naiwa-73e4ac1adbc9",
+      "file": "originals/nai-wa/github-naiwa-73e4ac1adbc9.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in Overlord Mode",
+        "zh": "奶蛙霸者模式"
+      },
+      "description": {
+        "en": "Naiwa folds its arms in silver armor.",
+        "zh": "穿银色盔甲的奶蛙抱着手臂。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "armor"
+        ],
+        "zh": [
+          "奶蛙",
+          "盔甲"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/Nailong-Studio/NaiWa-Wallpaper/blob/ebfa08985edda8dd6b54ebdc2119d99ea868354d/emotes/%E5%A5%B6%E8%9B%99-%E8%A1%A8%E6%83%85-%E9%9C%B8%E8%80%85%E6%A8%A1%E5%BC%8F.webp"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-wencue-2026-11-21",
+      "creator": "JularDepick / WencueCryforme",
+      "rights": {
+        "status": "licensed",
+        "license": "MIT for the documented fan artwork",
+        "attributionURL": "https://github.com/Nailong-Studio/NaiWa-Wallpaper/blob/ebfa08985edda8dd6b54ebdc2119d99ea868354d/emotes/%E5%A5%B6%E8%9B%99-%E8%A1%A8%E6%83%85-%E9%9C%B8%E8%80%85%E6%A8%A1%E5%BC%8F.webp",
+        "sourceNotes": {
+          "en": "Fan artwork from NaiWa Universe. The copyright notice names JularDepick. The asset archive documents this version as MIT.",
+          "zh": "奶蛙宇宙二创，版权声明署名 JularDepick。素材仓库逐件登记此版本并注明 MIT。"
+        }
+      },
+      "rightsUnknown": false,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1084,
+      "frames": 1,
+      "bytes": 108490,
+      "sha256": "73e4ac1adbc9bc9add7a2b48eebb217c0af6dee845b967977faf3a4d981903ca",
+      "collectedAt": "2026-11-21"
+    },
+    {
+      "stableID": "github-naiwa-77f25359e433",
+      "slug": "github-naiwa-77f25359e433",
+      "file": "originals/nai-wa/github-naiwa-77f25359e433.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Format Factory",
+        "zh": "奶蛙格式工厂"
+      },
+      "description": {
+        "en": "Naiwa holds up two file-format icons in front of a yellow ring.",
+        "zh": "奶蛙举起两个文件格式图标，身后是一道黄色圆环。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "file format",
+          "format factory",
+          "ring"
+        ],
+        "zh": [
+          "奶蛙",
+          "文件",
+          "格式工厂",
+          "圆环"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0264.png"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0264.png",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1824,
+      "height": 2144,
+      "frames": 1,
+      "bytes": 3343663,
+      "sha256": "77f25359e433e27716892f5dd9858ea349bfb2a59cf7afa441fd8ccd0a388533",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-7c58894aebf8",
+      "slug": "github-naiwa-7c58894aebf8",
+      "file": "originals/nai-ji/github-naiwa-7c58894aebf8.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Bread-Shaped NaiJi",
+        "zh": "面包造型的奶鸡"
+      },
+      "description": {
+        "en": "NaiJi takes the shape of a shiny golden bread roll with eyes peeking from one end.",
+        "zh": "奶鸡变成一个发亮的金黄色面包卷，从卷口露出眼睛。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "NaiJi",
+          "bread roll",
+          "transformation"
+        ],
+        "zh": [
+          "奶鸡",
+          "面包",
+          "变形"
+        ]
+      },
+      "series": {
+        "id": "nai-ji",
+        "label": {
+          "en": "NaiJi",
+          "zh": "奶鸡"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/ab974a47c2a5e731a22ff9f5a7f23f60e62c3fd9/assets/memes/naiwa_0036.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/ab974a47c2a5e731a22ff9f5a7f23f60e62c3fd9/assets/memes/naiwa_0036.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1110,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 56499,
+      "sha256": "7c58894aebf8e999287eafabadb6c23b2daefbbedc7ed015af990c0956b09d59",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-7f5fedf2bf4c",
+      "slug": "github-naiwa-7f5fedf2bf4c",
+      "file": "originals/nai-wa/github-naiwa-7f5fedf2bf4c.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Tentacled Naiwa",
+        "zh": "克苏鲁触手奶蛙"
+      },
+      "description": {
+        "en": "Yellow tentacles tipped with Naiwa faces rise inside a blue-green cavern.",
+        "zh": "蓝绿色洞穴里伸出几条顶端长着奶蛙脸的黄色触手。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "Cthulhu",
+          "tentacles",
+          "cavern",
+          "fan art"
+        ],
+        "zh": [
+          "奶蛙",
+          "克苏鲁",
+          "触手",
+          "洞穴",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/fdf22af63ff88e4d3ae6c7532721e6970a0b1579/assets/memes/naiwa_0236.png"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/fdf22af63ff88e4d3ae6c7532721e6970a0b1579/assets/memes/naiwa_0236.png",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1260,
+      "height": 1260,
+      "frames": 1,
+      "bytes": 2253593,
+      "sha256": "7f5fedf2bf4c26e33660573d6a7783009b4e96b9c121dbc60e14e816412c83f3",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-803c3f01fceb",
+      "slug": "github-naiwa-803c3f01fceb",
+      "file": "originals/nai-dan/github-naiwa-803c3f01fceb.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan Gets Cross With Hands on Hips",
+        "zh": "生气叉腰的奶蛋"
+      },
+      "description": {
+        "en": "NaiDan frowns with its little hands on its hips.",
+        "zh": "奶蛋皱着眉，举起小手叉在圆滚滚的身子两侧。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "angry",
+        "en": "Angry",
+        "zh": "生气"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "frowning",
+          "hands on hips"
+        ],
+        "zh": [
+          "奶蛋",
+          "生气",
+          "叉腰"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0136.gif"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0136.gif",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 155,
+      "height": 154,
+      "frames": 57,
+      "bytes": 372033,
+      "sha256": "803c3f01fceb90f67d77749b90d0f807a14aaa85520b185f21edb95ad37d22cd",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-807b8ebb8d08",
+      "slug": "github-naiwa-807b8ebb8d08",
+      "file": "originals/nai-wa/github-naiwa-807b8ebb8d08.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Bends into a Swoosh",
+        "zh": "奶蛙弯成一道勾"
+      },
+      "description": {
+        "en": "Naiwa bends into a long swoosh with a thin pointed tip.",
+        "zh": "奶蛙把身体弯成长长的一道弧，一端细细翘起。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "Nike",
+          "swoosh",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "耐克",
+          "勾形",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0256.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0256.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1066,
+      "height": 1030,
+      "frames": 1,
+      "bytes": 92556,
+      "sha256": "807b8ebb8d086df9946949d12da9cb505a5f049271159801e65ce7c95441c8bc",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-88cd94c0d6bd",
+      "slug": "github-naiwa-88cd94c0d6bd",
+      "file": "originals/nai-wa/github-naiwa-88cd94c0d6bd.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Listens to Some Heavenly Music",
+        "zh": "奶蛙听取一些仙乐"
+      },
+      "description": {
+        "en": "Naiwa wears wired earbuds and holds up a phone playing music.",
+        "zh": "奶蛙戴着有线耳机，拿着显示音乐播放界面的手机。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "headphones",
+          "music",
+          "phone",
+          "heavenly music"
+        ],
+        "zh": [
+          "奶蛙",
+          "耳机",
+          "音乐",
+          "手机",
+          "听取一些仙乐"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/fdf22af63ff88e4d3ae6c7532721e6970a0b1579/assets/memes/naiwa_0234.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/fdf22af63ff88e4d3ae6c7532721e6970a0b1579/assets/memes/naiwa_0234.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 2107,
+      "height": 1900,
+      "frames": 1,
+      "bytes": 1680834,
+      "sha256": "88cd94c0d6bd390463d0ec910b48daf978cf314e7da744d40234dd414ae808d3",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-8d4cb28836d2",
+      "slug": "github-naiwa-8d4cb28836d2",
+      "file": "originals/nai-wa/github-naiwa-8d4cb28836d2.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in Anxious Mode",
+        "zh": "奶蛙蕉绿模式"
+      },
+      "description": {
+        "en": "Green Naiwa stares ahead with its mouth held tight.",
+        "zh": "绿色奶蛙抿着嘴，直直地望向前方。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "green"
+        ],
+        "zh": [
+          "奶蛙",
+          "蕉绿"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/Nailong-Studio/NaiWa-Wallpaper/blob/ebfa08985edda8dd6b54ebdc2119d99ea868354d/emotes/%E5%A5%B6%E8%9B%99-%E8%A1%A8%E6%83%85-%E8%95%89%E7%BB%BF%E6%A8%A1%E5%BC%8F.webp"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-wencue-2026-11-21",
+      "creator": "JularDepick / WencueCryforme",
+      "rights": {
+        "status": "licensed",
+        "license": "MIT for the documented fan artwork",
+        "attributionURL": "https://github.com/Nailong-Studio/NaiWa-Wallpaper/blob/ebfa08985edda8dd6b54ebdc2119d99ea868354d/emotes/%E5%A5%B6%E8%9B%99-%E8%A1%A8%E6%83%85-%E8%95%89%E7%BB%BF%E6%A8%A1%E5%BC%8F.webp",
+        "sourceNotes": {
+          "en": "Fan artwork from NaiWa Universe. The copyright notice names JularDepick. The asset archive documents this version as MIT.",
+          "zh": "奶蛙宇宙二创，版权声明署名 JularDepick。素材仓库逐件登记此版本并注明 MIT。"
+        }
+      },
+      "rightsUnknown": false,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 2047,
+      "height": 2047,
+      "frames": 1,
+      "bytes": 167578,
+      "sha256": "8d4cb28836d2a648aa04b959fac0abc002b02857f561155c433bf7c9ccf9ba17",
+      "collectedAt": "2026-11-21"
+    },
+    {
+      "stableID": "github-naiwa-94c629a16e16",
+      "slug": "github-naiwa-94c629a16e16",
+      "file": "originals/nai-wa/github-naiwa-94c629a16e16.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in Angel Mode",
+        "zh": "奶蛙天使模式"
+      },
+      "description": {
+        "en": "A white Naiwa poses with wings and a gold halo.",
+        "zh": "白色奶蛙头顶金色光环，背后张开翅膀。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "halo"
+        ],
+        "zh": [
+          "奶蛙",
+          "光环"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/Nailong-Studio/NaiWa-Wallpaper/blob/ebfa08985edda8dd6b54ebdc2119d99ea868354d/emotes/%E5%A5%B6%E8%9B%99-%E8%A1%A8%E6%83%85-%E5%A4%A9%E4%BD%BF%E6%A8%A1%E5%BC%8F.webp"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-wencue-2026-11-21",
+      "creator": "JularDepick / WencueCryforme",
+      "rights": {
+        "status": "licensed",
+        "license": "MIT for the documented fan artwork",
+        "attributionURL": "https://github.com/Nailong-Studio/NaiWa-Wallpaper/blob/ebfa08985edda8dd6b54ebdc2119d99ea868354d/emotes/%E5%A5%B6%E8%9B%99-%E8%A1%A8%E6%83%85-%E5%A4%A9%E4%BD%BF%E6%A8%A1%E5%BC%8F.webp",
+        "sourceNotes": {
+          "en": "Fan artwork from NaiWa Universe. The copyright notice names JularDepick. The asset archive documents this version as MIT.",
+          "zh": "奶蛙宇宙二创，版权声明署名 JularDepick。素材仓库逐件登记此版本并注明 MIT。"
+        }
+      },
+      "rightsUnknown": false,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1078,
+      "frames": 1,
+      "bytes": 55242,
+      "sha256": "94c629a16e1629c53862c751d03033ec515a9c29e0cd43202ed16f96179559cb",
+      "collectedAt": "2026-11-21"
+    },
+    {
+      "stableID": "github-naiwa-a20ecc766906",
+      "slug": "github-naiwa-a20ecc766906",
+      "file": "originals/nai-wa/github-naiwa-a20ecc766906.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Cartoon Naiwa with Big Eyes",
+        "zh": "卡通大眼睛奶蛙"
+      },
+      "description": {
+        "en": "A red-haired cartoon figure with a round pale belly stands in a teal shirt.",
+        "zh": "红发卡通角色带着浅色圆肚皮，穿蓝绿色上衣站着。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "humanized",
+          "cartoon",
+          "red hair"
+        ],
+        "zh": [
+          "奶蛙",
+          "拟人",
+          "卡通",
+          "红发"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0173.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0173.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1272,
+      "height": 1696,
+      "frames": 1,
+      "bytes": 109983,
+      "sha256": "a20ecc766906d13ee86b8613312a93cafbd51d9bc0410967593bbcb65b060137",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-a22425b8fa32",
+      "slug": "github-naiwa-a22425b8fa32",
+      "file": "originals/nai-dan/github-naiwa-a22425b8fa32.png",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan Stands Still",
+        "zh": "奶蛋呆呆站立"
+      },
+      "description": {
+        "en": "Round NaiDan looks quietly at the camera with green eyes.",
+        "zh": "圆圆的奶蛋睁着绿眼睛，安静地看着镜头。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "blank stare",
+          "standing"
+        ],
+        "zh": [
+          "奶蛋",
+          "发呆",
+          "站立"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/ab974a47c2a5e731a22ff9f5a7f23f60e62c3fd9/assets/memes/naiwa_0040.png"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/ab974a47c2a5e731a22ff9f5a7f23f60e62c3fd9/assets/memes/naiwa_0040.png",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1179,
+      "height": 1152,
+      "frames": 1,
+      "bytes": 606206,
+      "sha256": "a22425b8fa3267440c12efb1218f6eeb1c66598fc0a38858e3a5495e4384e481",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-ac4b3f207b9c",
+      "slug": "github-naiwa-ac4b3f207b9c",
+      "file": "originals/nai-wa/github-naiwa-ac4b3f207b9c.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in Calm Mode",
+        "zh": "奶蛙平静模式"
+      },
+      "description": {
+        "en": "Blue Naiwa stands side-on with a calm expression.",
+        "zh": "蓝色奶蛙侧身站着，眼神平静。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "blue"
+        ],
+        "zh": [
+          "奶蛙",
+          "蓝色"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/Nailong-Studio/NaiWa-Wallpaper/blob/ebfa08985edda8dd6b54ebdc2119d99ea868354d/emotes/%E5%A5%B6%E8%9B%99-%E8%A1%A8%E6%83%85-%E5%B9%B3%E9%9D%99%E6%A8%A1%E5%BC%8F.webp"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-wencue-2026-11-21",
+      "creator": "JularDepick / WencueCryforme",
+      "rights": {
+        "status": "licensed",
+        "license": "MIT for the documented fan artwork",
+        "attributionURL": "https://github.com/Nailong-Studio/NaiWa-Wallpaper/blob/ebfa08985edda8dd6b54ebdc2119d99ea868354d/emotes/%E5%A5%B6%E8%9B%99-%E8%A1%A8%E6%83%85-%E5%B9%B3%E9%9D%99%E6%A8%A1%E5%BC%8F.webp",
+        "sourceNotes": {
+          "en": "Fan artwork from NaiWa Universe. The copyright notice names JularDepick. The asset archive documents this version as MIT.",
+          "zh": "奶蛙宇宙二创，版权声明署名 JularDepick。素材仓库逐件登记此版本并注明 MIT。"
+        }
+      },
+      "rightsUnknown": false,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1075,
+      "height": 1075,
+      "frames": 1,
+      "bytes": 50346,
+      "sha256": "ac4b3f207b9c1a6fe2ecf89c80b6df9302b586c652c68b11024aaa1de9d0da20",
+      "collectedAt": "2026-11-21"
+    },
+    {
+      "stableID": "github-naiwa-b00ee882d7b1",
+      "slug": "github-naiwa-b00ee882d7b1",
+      "file": "originals/little-naiwa/github-naiwa-b00ee882d7b1.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Frog-Hat Naiwa Among Stacks of Money",
+        "zh": "青蛙帽奶蛙坐在钱堆前"
+      },
+      "description": {
+        "en": "Little Naiwa wears a green frog hat surrounded by bundles of banknotes.",
+        "zh": "小奶蛙戴绿色青蛙帽，身旁堆着成捆钞票。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Little Naiwa",
+          "frog hat",
+          "money",
+          "getting rich"
+        ],
+        "zh": [
+          "小奶蛙",
+          "青蛙帽",
+          "钱堆",
+          "发财"
+        ]
+      },
+      "series": {
+        "id": "little-naiwa",
+        "label": {
+          "en": "Little Naiwa",
+          "zh": "小奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a5e2172b2a1637b0ead67ecbb96efa11b7d43f58/assets/memes/naiwa_0218.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a5e2172b2a1637b0ead67ecbb96efa11b7d43f58/assets/memes/naiwa_0218.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1093,
+      "height": 1079,
+      "frames": 1,
+      "bytes": 180888,
+      "sha256": "b00ee882d7b15702cafbee279693ad7e87218fd55caf82ffe1464f4c3d479d65",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-b10e16ba6923",
+      "slug": "github-naiwa-b10e16ba6923",
+      "file": "originals/nai-ji/github-naiwa-b10e16ba6923.png",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiJi Stands Tall",
+        "zh": "奶鸡站立"
+      },
+      "description": {
+        "en": "Golden NaiJi stands with a red comb and a fan of tail feathers.",
+        "zh": "金黄色的奶鸡有红鸡冠，翘着长尾羽。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "NaiJi",
+          "chicken",
+          "red comb",
+          "tail feathers"
+        ],
+        "zh": [
+          "奶鸡",
+          "红冠",
+          "尾羽"
+        ]
+      },
+      "series": {
+        "id": "nai-ji",
+        "label": {
+          "en": "NaiJi",
+          "zh": "奶鸡"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0246.png"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0246.png",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 850,
+      "height": 871,
+      "frames": 1,
+      "bytes": 228935,
+      "sha256": "b10e16ba6923809a8f620cebd82a79187e6e1bf0d9c9b1d8a68e4278f93599ee",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-c13f8635f17d",
+      "slug": "github-naiwa-c13f8635f17d",
+      "file": "originals/nai-wa/github-naiwa-c13f8635f17d.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Dances in Sunglasses",
+        "zh": "墨镜奶蛙登台跳舞"
+      },
+      "description": {
+        "en": "Naiwa performs in sunglasses amid stage lights and sparkles.",
+        "zh": "戴墨镜的奶蛙在闪光灯和星光下表演。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "happy",
+        "en": "Happy",
+        "zh": "开心"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "sunglasses",
+          "stage",
+          "dancing"
+        ],
+        "zh": [
+          "奶蛙",
+          "墨镜",
+          "舞台",
+          "跳舞",
+          "迈克尔奶克蛙"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0240.gif"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0240.gif",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 240,
+      "height": 240,
+      "frames": 65,
+      "bytes": 868471,
+      "sha256": "c13f8635f17d53c301f34df8689c14c6c5313b054079fd2e3393b038677fc31f",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-c92f434efd67",
+      "slug": "github-naiwa-c92f434efd67",
+      "file": "originals/nai-wa/github-naiwa-c92f434efd67.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Bows Its Head in Sorrow",
+        "zh": "奶蛙垂头皱眉"
+      },
+      "description": {
+        "en": "Naiwa lowers its head and closes its eyes under a dark robe and a gold-trimmed veil.",
+        "zh": "奶蛙低头闭眼，披着深色罩袍和金边头巾。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "sad",
+        "en": "Sad",
+        "zh": "难过"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "sorrow",
+          "closed eyes",
+          "veil",
+          "fan art"
+        ],
+        "zh": [
+          "奶蛙",
+          "皱眉",
+          "闭眼",
+          "罩袍",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/bwz2026/NaiLoong/blob/71cb818943d0c6b958ce118c0d9197002b47b601/assets/memes/naiwa%20%281%29.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/bwz2026/NaiLoong/blob/71cb818943d0c6b958ce118c0d9197002b47b601/assets/memes/naiwa%20%281%29.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 108380,
+      "sha256": "c92f434efd673bcb41d647bc55129b1c71b449f5590b21c8e2787dc229a091c3",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-d2a806e6f5c3",
+      "slug": "github-naiwa-d2a806e6f5c3",
+      "file": "originals/nai-wa/github-naiwa-d2a806e6f5c3.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Cat-Eared Naiwa Maid Fan Art",
+        "zh": "奶系猫耳女仆造型"
+      },
+      "description": {
+        "en": "A golden cat-eared figure in a dark maid outfit stands against a black background with bright edges.",
+        "zh": "黑色背景上有金黄色猫耳造型和深色女仆裙，装饰着明亮的边缘。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "humanized",
+          "cat ears",
+          "maid outfit",
+          "fan art"
+        ],
+        "zh": [
+          "奶蛙",
+          "拟人",
+          "猫耳",
+          "女仆装",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0195.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0195.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 960,
+      "height": 1440,
+      "frames": 1,
+      "bytes": 134533,
+      "sha256": "d2a806e6f5c3b2505278106f64aec8fa28b49f92ccb4b848c78eceea584a1b66",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-d4b096b4b34d",
+      "slug": "github-naiwa-d4b096b4b34d",
+      "file": "originals/nai-wa/github-naiwa-d4b096b4b34d.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Makes an X-Shaped Logo",
+        "zh": "奶蛙摆成特步标志"
+      },
+      "description": {
+        "en": "Naiwa forms a yellow X next to the Xtep wordmark.",
+        "zh": "奶蛙把身体摆成黄色交叉造型，旁边有「特步」字样。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "Xtep",
+          "sports",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "特步",
+          "运动",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0248.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0248.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1084,
+      "height": 1068,
+      "frames": 1,
+      "bytes": 118701,
+      "sha256": "d4b096b4b34dc15e36fec8d48c3467e35988f957d6a2201c52c016012791995d",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-d60a550a0582",
+      "slug": "github-naiwa-d60a550a0582",
+      "file": "originals/nai-dan/github-naiwa-d60a550a0582.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiDan Waddles Along",
+        "zh": "奶蛋摇摇晃晃走路"
+      },
+      "description": {
+        "en": "Little NaiDan wobbles gently as it waddles forward.",
+        "zh": "小奶蛋微微晃动，一步一步往前挪。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "cute",
+        "en": "Cute",
+        "zh": "可爱"
+      },
+      "tags": {
+        "en": [
+          "NaiDan",
+          "walking",
+          "waddling"
+        ],
+        "zh": [
+          "奶蛋",
+          "走路",
+          "摇晃"
+        ]
+      },
+      "series": {
+        "id": "nai-dan",
+        "label": {
+          "en": "NaiDan",
+          "zh": "奶蛋"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0245.gif"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0245.gif",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 276,
+      "height": 240,
+      "frames": 27,
+      "bytes": 428226,
+      "sha256": "d60a550a05825b83cb0054f9c720df528137a3a7e88cfd5dd2dc55c38f7bacdc",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-da15405ee9bb",
+      "slug": "github-naiwa-da15405ee9bb",
+      "file": "originals/nai-wa/github-naiwa-da15405ee9bb.png",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Steam Logo Parody",
+        "zh": "奶蛙版蒸汽平台图标"
+      },
+      "description": {
+        "en": "Naiwa peeks out of a golden disc-and-linkage logo design.",
+        "zh": "奶蛙从金黄色圆盘和连杆组成的图案里露出脸。"
+      },
+      "type": "image",
+      "format": "png",
+      "sourceDeclaredFormat": "png",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "Steam",
+          "disc",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "Steam",
+          "圆盘",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0265.png"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0265.png",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 2048,
+      "height": 2048,
+      "frames": 1,
+      "bytes": 3458619,
+      "sha256": "da15405ee9bb9dcdfff74095ff33ff7060d7855f6e3bac8fd05aa7178de9f4cb",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-dc283eafc187",
+      "slug": "github-naiwa-dc283eafc187",
+      "file": "originals/nai-wa/github-naiwa-dc283eafc187.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in a Golden Halo",
+        "zh": "蓝底金光里的奶蛙"
+      },
+      "description": {
+        "en": "Naiwa appears in a golden glow at the center of a dark blue star field.",
+        "zh": "深蓝星空中央有一团金色光芒，光晕中浮现奶蛙。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "golden halo",
+          "stars",
+          "fan art"
+        ],
+        "zh": [
+          "奶蛙",
+          "金光",
+          "星空",
+          "圣灵",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/bwz2026/NaiLoong/blob/71cb818943d0c6b958ce118c0d9197002b47b601/assets/memes/naiwa%20%284%29.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/bwz2026/NaiLoong/blob/71cb818943d0c6b958ce118c0d9197002b47b601/assets/memes/naiwa%20%284%29.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 966,
+      "height": 966,
+      "frames": 1,
+      "bytes": 103406,
+      "sha256": "dc283eafc18748fcd503f1b9d2df318e1597c523aec0f34a1c19bf182f7afd43",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-dcdcad4dbf2e",
+      "slug": "github-naiwa-dcdcad4dbf2e",
+      "file": "originals/nai-wa/github-naiwa-dcdcad4dbf2e.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "NaiLi Looks Back",
+        "zh": "奶莉回眸"
+      },
+      "description": {
+        "en": "A blond figure turns to look back beside green and pink lettering.",
+        "zh": "金发角色侧身回头，旁边有绿色和粉色配字。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "chill",
+        "en": "Chill",
+        "zh": "放松"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "NaiLi",
+          "looking back",
+          "humanized",
+          "fan art"
+        ],
+        "zh": [
+          "奶蛙",
+          "奶莉",
+          "回眸",
+          "拟人",
+          "艺术二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0197.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/a7b1122cbccbb16e5f47e3f49742cad3d59bd161/assets/memes/naiwa_0197.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1157,
+      "height": 792,
+      "frames": 1,
+      "bytes": 92865,
+      "sha256": "dcdcad4dbf2ec3802dfd525b4013c4df7a6b2d8a9ede7d97c559f578d6c5b633",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-e3f1f1c001ea",
+      "slug": "github-naiwa-e3f1f1c001ea",
+      "file": "originals/nai-wa/github-naiwa-e3f1f1c001ea.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Leaps Like a Puma",
+        "zh": "奶蛙模仿美洲狮飞扑"
+      },
+      "description": {
+        "en": "Naiwa grows a feline tail and springs forward with all four legs extended.",
+        "zh": "奶蛙长出猫尾，伸直四肢向前扑。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "Puma",
+          "leap",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "彪马",
+          "飞扑",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0251.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0251.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1080,
+      "height": 1080,
+      "frames": 1,
+      "bytes": 125085,
+      "sha256": "e3f1f1c001ea78ffb542698a8cf3de9a9b89affaf97e34bbc7dd08c7c1dd426c",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-ed060809a760",
+      "slug": "github-naiwa-ed060809a760",
+      "file": "originals/nai-wa/github-naiwa-ed060809a760.webp",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa in Flamboyant Mode",
+        "zh": "奶蛙妖娆模式"
+      },
+      "description": {
+        "en": "Pink Naiwa tilts its head and poses with one hand raised.",
+        "zh": "粉色奶蛙一只手放在头侧，歪头摆姿势。"
+      },
+      "type": "image",
+      "format": "webp",
+      "sourceDeclaredFormat": "webp",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "pink"
+        ],
+        "zh": [
+          "奶蛙",
+          "粉色"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/Nailong-Studio/NaiWa-Wallpaper/blob/ebfa08985edda8dd6b54ebdc2119d99ea868354d/emotes/%E5%A5%B6%E8%9B%99-%E8%A1%A8%E6%83%85-%E5%A6%96%E5%A8%86%E6%A8%A1%E5%BC%8F.webp"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-wencue-2026-11-21",
+      "creator": "JularDepick / WencueCryforme",
+      "rights": {
+        "status": "licensed",
+        "license": "MIT for the documented fan artwork",
+        "attributionURL": "https://github.com/Nailong-Studio/NaiWa-Wallpaper/blob/ebfa08985edda8dd6b54ebdc2119d99ea868354d/emotes/%E5%A5%B6%E8%9B%99-%E8%A1%A8%E6%83%85-%E5%A6%96%E5%A8%86%E6%A8%A1%E5%BC%8F.webp",
+        "sourceNotes": {
+          "en": "Fan artwork from NaiWa Universe. The copyright notice names JularDepick. The asset archive documents this version as MIT.",
+          "zh": "奶蛙宇宙二创，版权声明署名 JularDepick。素材仓库逐件登记此版本并注明 MIT。"
+        }
+      },
+      "rightsUnknown": false,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 2047,
+      "height": 2047,
+      "frames": 1,
+      "bytes": 122854,
+      "sha256": "ed060809a760d508dc14b972f78843aea954f8c82039a19b759afd29faaddc0a",
+      "collectedAt": "2026-11-21"
+    },
+    {
+      "stableID": "github-naiwa-ef0955a7ad1a",
+      "slug": "github-naiwa-ef0955a7ad1a",
+      "file": "originals/nai-wa/github-naiwa-ef0955a7ad1a.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Activates Final Fusion",
+        "zh": "奶蛙切换最终融合"
+      },
+      "description": {
+        "en": "Naiwa puts on red, black and gold mecha armor under a caption reading Final Fusion.",
+        "zh": "奶蛙换上红黑金相间的机甲，图中写着「切换最终融合」。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "mecha",
+          "transformation",
+          "final fusion"
+        ],
+        "zh": [
+          "奶蛙",
+          "机甲",
+          "变身",
+          "切换最终融合"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/fdf22af63ff88e4d3ae6c7532721e6970a0b1579/assets/memes/naiwa_0235.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/fdf22af63ff88e4d3ae6c7532721e6970a0b1579/assets/memes/naiwa_0235.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 1952,
+      "height": 2272,
+      "frames": 1,
+      "bytes": 1655381,
+      "sha256": "ef0955a7ad1a0e242b96e07efc529c6e7fc0a6fbfb949a8ac02a383564744069",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-f1d0a2f59214",
+      "slug": "github-naiwa-f1d0a2f59214",
+      "file": "originals/nai-wa/github-naiwa-f1d0a2f59214.gif",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Gets a Pat on the Head by a Wall",
+        "zh": "奶蛙贴墙被拍头"
+      },
+      "description": {
+        "en": "Naiwa sticks out its tongue by a wall before a hand pats its head.",
+        "zh": "奶蛙靠着墙张嘴吐舌，随后有一只手拍到它头上。"
+      },
+      "type": "gif",
+      "format": "gif",
+      "sourceDeclaredFormat": "gif",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "tongue out",
+          "head pat",
+          "wall"
+        ],
+        "zh": [
+          "奶蛙",
+          "吐舌",
+          "拍头",
+          "贴墙"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0242.gif"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0242.gif",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 240,
+      "height": 240,
+      "frames": 78,
+      "bytes": 1467845,
+      "sha256": "f1d0a2f59214b88f90454021ad6345a56c7f706d3322e0f88f286696b8581e3e",
+      "collectedAt": "2026-11-18"
+    },
+    {
+      "stableID": "github-naiwa-f7b447de8d73",
+      "slug": "github-naiwa-f7b447de8d73",
+      "file": "originals/nai-wa/github-naiwa-f7b447de8d73.jpg",
+      "fileRole": "original",
+      "title": {
+        "en": "Naiwa Poses Like a Fossil",
+        "zh": "奶蛙摆成化石造型"
+      },
+      "description": {
+        "en": "Naiwa spreads its limbs around a body patterned like the ribs of a fossil.",
+        "zh": "奶蛙摊开四肢，躯干露出肋骨般的条纹。"
+      },
+      "type": "image",
+      "format": "jpg",
+      "sourceDeclaredFormat": "jpg",
+      "sourceFormatMismatch": false,
+      "mood": {
+        "id": "silly",
+        "en": "Silly",
+        "zh": "发疯"
+      },
+      "tags": {
+        "en": [
+          "Naiwa",
+          "Arc'teryx",
+          "fossil",
+          "logo parody"
+        ],
+        "zh": [
+          "奶蛙",
+          "始祖鸟",
+          "化石",
+          "标志二创"
+        ]
+      },
+      "series": {
+        "id": "nai-wa",
+        "label": {
+          "en": "Naiwa",
+          "zh": "奶蛙"
+        }
+      },
+      "storyline": [],
+      "sourceURLs": [
+        "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0258.jpg"
+      ],
+      "sourceLabels": [
+        "github"
+      ],
+      "collectionBatch": "github-nai-hub-2026-11-18",
+      "creator": null,
+      "rights": {
+        "status": "unknown",
+        "license": null,
+        "attributionURL": "https://github.com/musemantic/NaiLoong/blob/8d6b2febb30a7ffe9e9ea67bc42760a72dff4f1e/assets/memes/naiwa_0258.jpg",
+        "sourceNotes": {
+          "en": "The source repository permits use of its bundled images with attribution. The original creator remains unverified.",
+          "zh": "来源仓库说明可以在注明出处的情况下使用仓库自带图片。原作者保留为未知。"
+        }
+      },
+      "rightsUnknown": true,
+      "sourceLicenseClaims": [],
+      "missingCompanionNotice": false,
+      "isDerivative": false,
+      "watermarkPolicy": "preserved-byte-for-byte",
+      "width": 944,
+      "height": 944,
+      "frames": 1,
+      "bytes": 163973,
+      "sha256": "f7b447de8d734c5a43a0bf29db54752b045393123add409845c38367b3e8911c",
+      "collectedAt": "2026-11-18"
     },
     {
       "stableID": "nw01",
